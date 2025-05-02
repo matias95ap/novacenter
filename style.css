@@ -1,84 +1,40 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #00a0cd, #292b4a);
+  text-align: center;
 }
 
-
-.open-sans-<uniquifier> {
-    font-family: "Open Sans", sans-serif;
-    }
-
-html{
-    height: 100vh;
-    font-size: 14px;
-
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
 
-body{
-    background: linear-gradient(to right, #00a0cd, #292b4a);
-    height: 100%;
+.avatar {
+  width: 300px;
+  height: 200px;
+  border-radius: 0%;
 }
 
-.container{
-    height: 100%;
-    max-width: 550px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 20px;
-    color: #fff;
+h1 {
+  margin: 15px 0;
 }
 
-a{
-    text-decoration: none;
-    color: #fff;
-
+.links a {
+  display: block;
+  background: #00a0cd;
+  color: white;
+  text-decoration: none;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  transition: background 0.3s;
 }
 
-.degrade1{
-    background: linear-gradient(to right, #e62633, #8e201c);
-}
-
-header{
-    text-align: center;
-    margin-bottom: 40px;
-}
-
-header img{
-    max-width: 200px;
-    margin-bottom: 20px;
-}
-
-header h1{
-    font-size: 2em;
-    margin-bottom: 10px;
-    color: #292b4a;
-    font-weight: 300;
-}
-
-section.boton-link{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-a.link button{
-    width: 100%;
-    padding: 10px 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border: none;
-    border-radius: 30px;
-    font-size: 1.2em;
-    cursor: pointer;
-    color: #fff;
-    transition: .2s;
-}
-a.link i{
-    font-size: 1.5em;
-}
-a.link button:hover{
-    transform: scale(1.05);
+.links a:hover {
+  background: #292b4a;
 }
