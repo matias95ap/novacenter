@@ -15,14 +15,14 @@ body {
 }
 
 .avatar {
-  width: 290px;
-  height: 174px;
-  border-radius: 0%;
-  object-fit: cover;
+  width: 600px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 h2 {
-  margin: 0px 0;
+  margin-top: 0px 0;
 }
 
 .links a {
