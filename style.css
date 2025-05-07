@@ -43,8 +43,8 @@ body {
 .links a {
   display: inline-block;
   width: 80%;
-  max-width: 300px auto;
-  padding: 12px 40px;
+  max-width: 300px;
+  padding: 12px 10%;
   text-align: center;
   text-decoration: none;
   font-weight: bold;
