@@ -1,0 +1,121 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: linear-gradient(to right, #00a0cd, #292b4a);
+}
+
+.container {
+  max-width: 400px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.logo {
+  width: 80%;
+  max-width: 320px;
+  padding: 12px 30px;
+  height: auto;
+  margin: 8px auto 15px auto;
+  display: block;
+  object-fit: contain;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.03);
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.links a {
+  display: inline-block;
+  width: 80%;
+  max-width: 300px;
+  padding: 12px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  color: white;
+  background-color: #00a0cd;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.links a:hover {
+  transform: scale(1.02);
+  filter: brightness(1.1);
+}
+
+.mayorista {
+  background: gray;
+}
+
+.social-icons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.circle {
+  margin: 0 1.5%;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+  transition: transform 0.3s;
+}
+
+.circle:hover {
+  transform: scale(1.1);
+}
+
+.instagram {
+  background-color: #00a0cd;
+}
+
+.tiktok {
+  background-color: #00a0cd;
+}
+
+.facebook-profile {
+  background-color: #00a0cd;
+}
+
+.facebook-page {
+  background-color: #00a0cd;
+}
+
+.follow-text, .handle {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #555;
+}
+
+.handle {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  margin-top: 8px;
+  color: #00a0cd;
+  font-size: 18px;
+}
