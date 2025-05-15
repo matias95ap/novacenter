@@ -1,0 +1,195 @@
+
+body {
+  margin: 0;
+  display: flex;
+  font-family: "Segoe UI", sans-serif;
+  background: #f2f4f8;
+}
+/*Barra Lateral*/
+#sidebar {
+  width: 250px;
+  min-width: 250px;
+  background-color: #1a1a1a;
+  color: white;
+  height: 100vh;
+  padding: 10px;
+  box-sizing: border-box;
+  position: fixed; /* ✅ Fija el menú al costado */
+  top: 0;
+  left: 0;
+  overflow-y: auto; /* ✅ Permite scroll si el contenido del menú es largo */
+}
+#menu {
+  display: flex;
+  flex-direction: column;
+}
+#ver-todos {
+  background-color: #0077cc;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+/* Menu Categoria y flecha */
+.menu-completo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #444; /* ✅ borde inferior */
+  width: 102%; /* ✅ Esto asegura que el borde se extienda completamente */
+  box-sizing: border-box;
+}
+
+/* Menu Categoría */
+.menu-categoria {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 8px;
+  display: block;
+  transition: background 0.2s ease;
+}
+.menu-categoria:hover {
+  background-color: #333;
+  border-radius: 4px;
+} /* Lateral Categoría */
+
+/* Lateral Subcategoría */
+.menu-subcategoria {
+  font-size: 14px;
+  color: #e0e0e0;
+  display: block;
+  transition: background 0.2s ease;
+}
+.menu-subcategoria:hover {
+  background-color: #2a2a2a;
+  border-radius: 4px;
+} /* Lateral Subcategoría */
+#menu-categorias {
+  list-style: none;
+  padding-left: 0;
+}
+#menu-categorias > li {
+  cursor: pointer;
+}
+#menu-categorias a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.submenu {
+  margin-left: 0px;
+  display: none;
+}
+.active .submenu {
+  display: block;
+}
+
+
+
+main {
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: 250px;
+}
+h2 {
+  color: #0077cc;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+h3 {
+  margin-top: 10px;
+  color: #444;
+}
+
+.productos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 15px;
+  margin-top: 10px;
+}
+.producto {
+  margin-top: 0;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+.producto:hover {
+  transform: scale(1.02);
+}
+.producto img {
+  padding: -10px -10px -10px;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.producto h4 {
+  font-size: 16px;
+  margin: 0px 0 0px;
+}
+.producto p {
+  margin: 2px 0;
+  font-size: 14px;
+}
+.stock, .producto p, .producto h4 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.sin-stock {
+  opacity: 0.3;
+}
+.boton-comprar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  padding: 6px 10px;
+  background-color: #25D366;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+@media (max-width: 400px) {
+  #sidebar {
+    width: 60px;       /* Menú más estrecho */
+    min-width: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+
+  main {
+    margin-left: 60px; /* Ajusta margen para que no quede debajo del menú */
+    padding: 10px;
+  }
+
+  #ver-todos {
+    font-size: 0;      /* Oculta texto si es botón pequeño */
+    height: 40px;
+    overflow: hidden;
+  }
+
+  #menu-categorias a {
+    font-size: 0;      /* Oculta texto para solo mostrar íconos o puntos */
+    position: relative;
+  }
+
+  #menu-categorias a::before {
+    content: "•";      /* Puntos como íconos en menú reducido */
+    font-size: 24px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+  }
+}
