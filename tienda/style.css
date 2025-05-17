@@ -8,7 +8,13 @@
   --sub: #2a2a2a;
   --menu: #333;
 }
-
+a:focus, 
+button:focus {
+  outline: none;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
+}
 body {
   margin: 0;
   display: flex;
