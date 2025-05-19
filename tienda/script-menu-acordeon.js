@@ -1,3 +1,5 @@
+/* -------   script.js (modificado con pushState)   -------- */
+
 fetch("productos.json")
   .then(res => res.json())
   .then(data => {
@@ -5,68 +7,68 @@ fetch("productos.json")
     const contenedor = document.getElementById("contenedor-productos");
     const verTodosBtn = document.getElementById("ver-todos");
 
+    /* ---------- agrupar categorías / subcategorías ---------- */
     const categorias = {};
     data.forEach(p => {
-      const [cat, sub = "VARIOS"] = p.categoria.split(" > ");
+      const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
       if (!categorias[cat]) categorias[cat] = {};
       if (!categorias[cat][sub]) categorias[cat][sub] = [];
       categorias[cat][sub].push(p);
     });
 
+    /* ---------- helper para capitalizar ---------- */
     function capitalizarTitulo(str) {
-      const minusculas = ["y", "o","de", "para","en","con"];
-      const mayusculas = ["hdmi","vga","rca","gb","rgb","led","otg","ps2","pc","sata","sd", "usb"];
-    
+      const minusculas = ["y", "a", "o", "de", "para", "en", "con"];
+      const mayusculas = ["hdmi","vga","rca","gb","rgb","led","otg","ps2","pc","sata","sd","usb"];
+
       return str
         .toLowerCase()
         .split(" ")
-        .map(palabra => {
-          if (mayusculas.includes(palabra)) return palabra.toUpperCase();
-          if (minusculas.includes(palabra)) return palabra;
-          return palabra.charAt(0).toUpperCase() + palabra.slice(1);
+        .map(pal => {
+          if (mayusculas.includes(pal)) return pal.toUpperCase();
+          if (minusculas.includes(pal)) return pal;
+          return pal.charAt(0).toUpperCase() + pal.slice(1);
         })
         .join(" ");
     }
-    
 
+    /* ---------- construir menú lateral ---------- */
     for (const cat in categorias) {
       const li = document.createElement("li");
-
-      // Contenedor de categoría con íconos y acción
-      const categoriaHeader = document.createElement("div");
-      categoriaHeader.className = "menu-completo";
-
+      const header = document.createElement("div");
+      header.className = "menu-completo";
+      
+      /* enlace categoría */
       const aCat = document.createElement("a");
       aCat.className = "menu-categoria";
       aCat.textContent = capitalizarTitulo(cat);
       aCat.href = "#";
       aCat.addEventListener("click", e => {
         e.preventDefault();
-        mostrarCategoria(cat);
+        navegarCategoria(cat);
         // ✅ Cierra el menú en móviles
         if (window.innerWidth <= 600) {
-        document.getElementById("sidebar").classList.add("oculto");
-        window.scrollTo({ top: 0, behavior: "smooth" }); // ✅ vuelve ▶ arriba
+          document.getElementById("sidebar").classList.add("oculto");
+          window.scrollTo({ top: 0, behavior: "smooth" }); // ✅ vuelve ▶ arriba
         }
       });
-
-      const toggleBtn = document.createElement("button");
-      toggleBtn.textContent = "⬇️"; // flecha derecha
-      toggleBtn.style.background = "none";
-      toggleBtn.style.border = "none";
-      toggleBtn.style.color = "white";
-      toggleBtn.style.cursor = "pointer";
-      toggleBtn.addEventListener("click", e => {
+      
+      /* botón plegable */
+      const toggle = document.createElement("button");
+      toggle.className = "botonflecha";
+      toggle.textContent = "⬇️";
+      toggle.style.cssText = "background:none;border:none;color:white;cursor:pointer";
+      toggle.addEventListener("click", e => {
         e.stopPropagation();
         li.classList.toggle("active");
-        toggleBtn.textContent = li.classList.contains("active") ? "⬆️" : "⬇️";
-      })
-      toggleBtn.className = "botonflecha";
+        toggle.textContent = li.classList.contains("active") ? "⬆️" : "⬇️";
+      });
 
-      categoriaHeader.appendChild(aCat);
-      categoriaHeader.appendChild(toggleBtn);
-      li.appendChild(categoriaHeader);
-
+      header.appendChild(aCat);
+      header.appendChild(toggle);
+      li.appendChild(header);
+      
+      /* subcategorías */
       const subUl = document.createElement("ul");
       subUl.className = "submenu";
 
@@ -78,8 +80,7 @@ fetch("productos.json")
         subA.href = "#";
         subA.addEventListener("click", e => {
           e.preventDefault();
-          mostrarProductos(cat, sub);
-
+          navegarSubcategoria(cat, sub);
           // ✅ Cierra el menú en móviles
           if (window.innerWidth <= 600) {
             document.getElementById("sidebar").classList.add("oculto");
@@ -94,16 +95,36 @@ fetch("productos.json")
       menu.appendChild(li);
     }
 
+    /* ---------- botón “Ver todos” ---------- */
     verTodosBtn.addEventListener("click", () => {
+      history.pushState({}, "", location.pathname);
       renderizarTodos();
       if (window.innerWidth <= 600) {
         document.getElementById("sidebar").classList.add("oculto");
       }
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
-    
-    renderizarTodos(); // 👈 este se debería ejecutar al cargar
+    renderizarTodos();
 
+    /* ---------- funciones de navegación ---------- */
+    function navegarCategoria(cat) {
+      history.pushState({ cat }, "", `?cat=${encodeURIComponent(cat)}`);
+      mostrarCategoria(cat);
+    }
+
+    function navegarSubcategoria(cat, sub) {
+      history.pushState({ cat, sub }, "", `?cat=${encodeURIComponent(cat)}&sub=${encodeURIComponent(sub)}`);
+      mostrarProductos(cat, sub);
+    }
+
+    function navegarProducto(codigo) {
+      history.pushState({ producto: codigo }, "", `?producto=${encodeURIComponent(codigo)}`);
+      mostrarProducto(codigo);
+    }
+    window.navegarProducto = navegarProducto;
+
+
+    /* ---------- funciones de render ---------- */
     function renderizarTodos() {
       contenedor.innerHTML = "";
       for (const cat in categorias) {
@@ -145,7 +166,7 @@ fetch("productos.json")
     function mostrarProductos(cat, sub) {
       contenedor.innerHTML = "";
       const h2 = document.createElement("h2");
-      h2.textContent = cat + " > " + sub;
+      h2.textContent = `${cat} > ${sub}`;
       contenedor.appendChild(h2);
 
       const grid = document.createElement("div");
@@ -153,37 +174,113 @@ fetch("productos.json")
       categorias[cat][sub].forEach(p => grid.appendChild(crearCard(p)));
       contenedor.appendChild(grid);
     }
-    
+
+    function mostrarProducto(codigo) {
+      const producto = Object.values(categorias)
+        .flatMap(subs => Object.values(subs).flat())
+        .find(p => p.CODIGO === codigo);
+
+      if (!producto) return;
+
+      contenedor.innerHTML = "";
+
+      const div = document.createElement("div");
+      div.className = "producto-detalle";
+
+      const imagen = producto.CODIGO && producto.CODIGO.trim()
+        ? `img/${producto.CODIGO}.jpg`
+        : "img/placeholder.jpg";
+
+      div.innerHTML = `
+        <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
+        <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
+             onerror="this.src='img/placeholder.jpg'" style="max-width:300px">
+        <p>Precio: $${parseInt(producto["P.VENTA"]).toLocaleString("es-AR")}</p>
+        <p>${parseInt(producto.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</p>
+        <button onclick="history.back()">⬅ Volver</button>
+      `;
+
+      contenedor.appendChild(div);
+    }
+
+    /* ---------- tarjeta de producto ---------- */
     function crearCard(p) {
       const card = document.createElement("div");
       card.className = "producto";
-      if (parseInt(p.stock) === 0) card.classList.add("sin-stock");
+      if (parseInt(p.STOCK) === 0) card.classList.add("sin-stock");
 
-      const imagenRuta = p.imagen && p.imagen.trim() !== "" 
-      ? `img/${p.imagen}.jpg` 
-      : "img/placeholder.jpg";
+      const imagen = p.CODIGO && p.CODIGO.trim()
+        ? `img/${p.CODIGO}.jpg`
+        : "img/placeholder.jpg";
 
-      
-      const mensaje = `Hola, quiero comprar el producto: ${capitalizarTitulo(p.nombre)}`;
-      const linkWhatsapp = "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
+      const mensaje =
+        `Hola, quiero comprar el producto: ${capitalizarTitulo(p.DETALLE)}\n` +
+        `https://novacenter.ar/?producto=${p.CODIGO}`;
+      const linkWp =
+        "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
 
       card.innerHTML = `
-        <img src="${imagenRuta}" alt="${p.nombre}" onerror="this.src='img/placeholder.jpg'">
-        <h4 class="titulo-producto">${capitalizarTitulo(p.nombre)}</h4>
+        <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
+          <img src="${imagen}" alt="${capitalizarTitulo(p.DETALLE)}"
+               onerror="this.src='img/placeholder.jpg'">
+          <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
+        </a>
         <p class="stock">
-          <span class="stock-left">${parseInt(p.stock) > 0 ? "✅ En stock" : "❌ Sin stock"}</span>
-          <span class="precio">$${parseInt(p.precio).toLocaleString("es-AR")}</span>
+          <span class="stock-left">${parseInt(p.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</span>
+          <span class="precio">$${parseInt(p.P.VENTA).toLocaleString('es-AR')}</span>
         </p>
-        <a class="boton-comprar" href="${linkWhatsapp}" target="_blank">
-          Consultar<i class="fab fa-whatsapp"></i>
+        <a class="boton-comprar" href="${linkWp}" target="_blank">
+          Consultar <i class="fab fa-whatsapp"></i>
         </a>
       `;
       return card;
     }
 
-    // Botón hamburguesa para móvil
-    document.getElementById("toggle-menu").addEventListener("click", () => {
-      const sidebar = document.getElementById("sidebar");
-      sidebar.classList.toggle("oculto");
+    /* ---------- restaurar scroll ---------- */
+    const posGuardada = sessionStorage.getItem("scrollPos");
+    if (posGuardada) {
+      window.scrollTo(0, parseInt(posGuardada));
+      sessionStorage.removeItem("scrollPos");
+    }
+
+    /* ---------- botón hamburguesa ---------- */
+    document.getElementById("toggle-menu")
+      .addEventListener("click", () =>
+        document.getElementById("sidebar").classList.toggle("oculto"));
+
+    /* ---------- detección de navegación con el botón atrás ---------- */
+    window.addEventListener("popstate", () => {
+      const params = new URLSearchParams(location.search);
+      const cat = params.get("cat");
+      const sub = params.get("sub");
+      const producto = params.get("producto");
+
+      if (producto) {
+        mostrarProducto(producto);
+      } else if (cat && sub) {
+        mostrarProductos(cat, sub);
+      } else if (cat) {
+        mostrarCategoria(cat);
+      } else {
+        renderizarTodos();
+      }
     });
+
+    /* ---------- carga inicial según la URL ---------- */
+    const params = new URLSearchParams(location.search);
+    const cat = params.get("cat");
+    const sub = params.get("sub");
+    const producto = params.get("producto");
+
+    if (producto) {
+      mostrarProducto(producto);
+    } else if (cat && sub) {
+      mostrarProductos(cat, sub);
+    } else if (cat) {
+      mostrarCategoria(cat);
+    } else {
+      renderizarTodos();
+    }
   });
+
+/* -------   fin script.js modificado   -------- */
