@@ -294,6 +294,9 @@ fetch("productos.json")
         renderizarTodos();
       }
     });
+    if (window.innerWidth <= 600) {
+    document.getElementById("sidebar").classList.add("oculto");
+    }
 
     /* ---------- carga inicial según la URL ---------- */
     const params = new URLSearchParams(location.search);
