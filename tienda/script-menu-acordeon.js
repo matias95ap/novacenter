@@ -223,7 +223,7 @@ fetch("productos.json")
           Toca aqui para Consultar <i class="fab fa-whatsapp"></i>
         </a>
         <div class="boton-accion">
-          <button class="boton-atras" onclick="history.back()"><i class="fa-solid fa-caret-left"></i>Volver</button>
+          <button class="boton-atras" onclick="volverProducto()"><i class="fa-solid fa-caret-left"></i>Volver</button>
           <button class="boton-compartir" onclick="compartirProducto('${producto.DETALLE}',
           '${producto.CODIGO}')">Compartir<i class="fa-solid fa-share-nodes"></i></button>
         </div>
@@ -264,6 +264,37 @@ fetch("productos.json")
       `;
       return card;
     }
+    
+    /* ---------- Sidebar y Topbar ---------- */
+    if (window.innerWidth <= 600) {
+      document.getElementById("sidebar").classList.add("oculto");
+    }
+    function controlarSidebar() {
+      const sidebar = document.getElementById("sidebar");
+      const topbarMovil = document.getElementById("topbar-movil");
+    
+      // Si topbar está oculto (modo escritorio), mostrar sidebar
+      const topbarVisible = window.getComputedStyle(topbarMovil).display !== "none";
+    
+      if (!topbarVisible) {
+        sidebar.classList.remove("oculto");
+      }
+    }
+    
+    window.addEventListener("resize", controlarSidebar);
+    window.addEventListener("load", controlarSidebar); // también al cargar
+    
+    /* ---------- boton Volver atras o Todos ---------- */
+    window.volverProducto = function () {
+      if (window.history.length > 1) {
+        history.back();
+      } else {
+        history.replaceState({}, "", location.pathname);
+        renderizarTodos();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    };
+    
 
     /* ---------- restaurar scroll ---------- */
     const posGuardada = sessionStorage.getItem("scrollPos");
