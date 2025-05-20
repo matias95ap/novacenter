@@ -205,9 +205,10 @@ h3 {
   color:var(--verde);
   font-weight: bolder;
 }
-.boton-comprar {
+.boton-comprar, .boton-comprar2 {
   display: flex;
   justify-content: center;
+  max-width: 500px;
   margin-top: 8px;
   padding: 3px;
   background-color: var(--verde);
@@ -218,8 +219,45 @@ h3 {
   font-size: 18px;
   align-items: normal;
 }
-.boton-comprar i{
+.boton-comprar i, .boton-comprar2 i{
   font-size: 1.5rem;
+  padding-left: 10px;
+}
+/* producto Individual */
+.producto-detalle img {
+  max-width:100%;
+  width: 500px;
+  height: auto;
+  margin-top: 20px;
+}
+.boton-accion {
+  display: flex;
+  justify-content: left;
+  gap: 8px; /* espacio entre los botones */
+  flex-wrap: nowrap; /* si se achica la pantalla, que pasen uno debajo del otro */
+  margin-top: 10px;
+}
+.boton-atras, .boton-compartir {
+  text-align: center;
+  font-size: 18px;
+  color: #ccc;
+  border: 2px solid #25D366;
+  border-radius: 10px;
+  background-color: var(--menu);
+  padding: 3px;
+  width: 100%;
+  max-width: 250px;
+  cursor: pointer;
+}
+.boton-atras i, .boton-compartir i{
+  display: inline;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+.boton-atras i{
+  padding-right: 10px;
+}
+.boton-compartir i{
   padding-left: 10px;
 }
 /* Oculta el menú con una animación lateral */
