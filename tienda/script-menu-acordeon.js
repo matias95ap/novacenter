@@ -174,6 +174,21 @@ fetch("productos.json")
       categorias[cat][sub].forEach(p => grid.appendChild(crearCard(p)));
       contenedor.appendChild(grid);
     }
+    
+    window.compartirProducto = function (detalle, codigo) {
+      const url = `https://novacenter.ar/tienda/?producto=${codigo}`;
+      const titulo = capitalizarTitulo(detalle);
+      if (navigator.share) {
+        navigator.share({
+          title: titulo,
+          text: `Producto de la tienda online NovaCenter: ${titulo}`,
+          url: url,
+        })
+        .catch(err => console.error("Error al compartir:", err));
+      } else {
+        alert("Tu navegador no permite compartir desde aquí.");
+      }
+    };
 
     function mostrarProducto(codigo) {
       const producto = Object.values(categorias)
@@ -186,19 +201,33 @@ fetch("productos.json")
 
       const div = document.createElement("div");
       div.className = "producto-detalle";
+      if (parseInt(producto.STOCK) === 0) div.classList.add("sin-stock");
 
       const imagen = producto.CODIGO && producto.CODIGO.trim()
         ? `img/${producto.CODIGO}.jpg`
         : "img/placeholder.jpg";
 
+      const mensaje2 =
+        `Hola, quiero comprar el producto: ${capitalizarTitulo(producto.DETALLE)}\n` +
+        `https://novacenter.ar/tienda/?producto=${producto.CODIGO}`;
+      const linkWp2 =
+        "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
+
       div.innerHTML = `
         <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
         <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
-             onerror="this.src='img/placeholder.jpg'" style="max-width:300px">
-        <p>Precio: $${parseInt(producto["P.VENTA"]).toLocaleString("es-AR")}</p>
+             onerror="this.src='img/placeholder.jpg'">
+        <p class="precio">Precio: $${parseInt(producto.P.VENTA).toLocaleString("es-AR")}</p>
         <p>${parseInt(producto.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</p>
-        <button onclick="history.back()">⬅ Volver</button>
-      `;
+        <a class="boton-comprar2" href="${linkWp2}" target="_blank">
+          Toca aqui para Consultar <i class="fab fa-whatsapp"></i>
+        </a>
+        <div class="boton-accion">
+          <button class="boton-atras" onclick="history.back()"><i class="fa-solid fa-caret-left"></i>Volver</button>
+          <button class="boton-compartir" onclick="compartirProducto('${producto.DETALLE}',
+          '${producto.CODIGO}')">Compartir<i class="fa-solid fa-share-nodes"></i></button>
+        </div>
+        `;
 
       contenedor.appendChild(div);
     }
@@ -215,7 +244,7 @@ fetch("productos.json")
 
       const mensaje =
         `Hola, quiero comprar el producto: ${capitalizarTitulo(p.DETALLE)}\n` +
-        `https://novacenter.ar/?producto=${p.CODIGO}`;
+        `https://novacenter.ar/tienda/?producto=${p.CODIGO}`;
       const linkWp =
         "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
 
