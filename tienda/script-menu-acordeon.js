@@ -32,6 +32,12 @@ fetch("productos.json")
         .join(" ");
     }
 
+    function ordenarPorStock(arr) {
+      return arr.slice().sort((a, b) => {
+        return parseInt(b.STOCK) > 0 ? 1 : -1;
+      });
+    }
+
     /* ---------- construir menú lateral ---------- */
     for (const cat in categorias) {
       const li = document.createElement("li");
@@ -139,7 +145,7 @@ fetch("productos.json")
 
           const grid = document.createElement("div");
           grid.className = "productos-grid";
-          categorias[cat][sub].forEach(p => grid.appendChild(crearCard(p)));
+          ordenarPorStock(categorias[cat][sub]).forEach(p => grid.appendChild(crearCard(p)));
           contenedor.appendChild(grid);
         }
       }
@@ -158,7 +164,7 @@ fetch("productos.json")
 
         const grid = document.createElement("div");
         grid.className = "productos-grid";
-        categorias[cat][sub].forEach(p => grid.appendChild(crearCard(p)));
+        ordenarPorStock(categorias[cat][sub]).forEach(p => grid.appendChild(crearCard(p)));
         contenedor.appendChild(grid);
       }
     }
@@ -171,7 +177,7 @@ fetch("productos.json")
 
       const grid = document.createElement("div");
       grid.className = "productos-grid";
-      categorias[cat][sub].forEach(p => grid.appendChild(crearCard(p)));
+      ordenarPorStock(categorias[cat][sub]).forEach(p => grid.appendChild(crearCard(p)));
       contenedor.appendChild(grid);
     }
     
