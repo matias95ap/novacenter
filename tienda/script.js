@@ -97,38 +97,56 @@ Promise.all([
         contenedor.appendChild(noResult);
         return;
       }
-
-      // Aplicar filtro de stock y ordenamiento a los resultados de búsqueda
-      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productos);
-
-      let currentCategory = "";
-      let currentSubcategory = "";
-      let currentGrid = null;
-
-      productosParaMostrar.forEach(p => {
+    
+      const criterioOrdenamiento = ordenarSelect?.value || "";
+    
+      // Agrupar resultados por categoría > subcategoría
+      const resultadosAgrupados = {};
+    
+      productos.forEach(p => {
         const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
-
-        // Lógica de agrupación por categoría y subcategoría para búsqueda
-        if (cat !== currentCategory) {
-          const h2 = document.createElement("h2");
-          h2.textContent = capitalizarTitulo(cat);
-          contenedor.appendChild(h2);
-          currentCategory = cat;
-          currentSubcategory = ""; // Reset subcategory when category changes
-        }
-
-        if (sub !== currentSubcategory) {
+        if (!resultadosAgrupados[cat]) resultadosAgrupados[cat] = {};
+        if (!resultadosAgrupados[cat][sub]) resultadosAgrupados[cat][sub] = [];
+        resultadosAgrupados[cat][sub].push(p);
+      });
+    
+      for (const cat in resultadosAgrupados) {
+        const h2 = document.createElement("h2");
+        h2.textContent = capitalizarTitulo(cat);
+        contenedor.appendChild(h2);
+    
+        for (const sub in resultadosAgrupados[cat]) {
+          let lista = resultadosAgrupados[cat][sub];
+    
+          // Filtro de stock activo
+          if (filtroStock && filtroStock.checked) {
+            lista = lista.filter(p => parseInt(p.STOCK) > 0);
+          }
+    
+          // Ordenamiento (por criterio o stock por defecto)
+          if (!criterioOrdenamiento || criterioOrdenamiento === "default") {
+            const conStock = lista.filter(p => parseInt(p.STOCK) > 0);
+            const sinStock = lista.filter(p => parseInt(p.STOCK) === 0);
+            lista = [...conStock, ...sinStock];
+          } else {
+            lista = ordenarProductos(lista, criterioOrdenamiento);
+          }
+    
           const h3 = document.createElement("h3");
           h3.textContent = capitalizarTitulo(sub);
           contenedor.appendChild(h3);
-          currentSubcategory = sub;
-          currentGrid = document.createElement("div");
-          currentGrid.className = "productos-grid";
-          contenedor.appendChild(currentGrid);
+    
+          const grid = document.createElement("div");
+          grid.className = "productos-grid";
+          contenedor.appendChild(grid);
+    
+          lista.forEach(p => {
+            grid.appendChild(crearCard(p));
+          });
         }
-        currentGrid.appendChild(crearCard(p));
-      });
+      }
     }
+    
 
 
     /* ---------- renderizar todos los productos agrupados por familia ---------- */
