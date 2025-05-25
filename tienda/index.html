@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -10,9 +9,23 @@
 </head>
 <body>
   <div id="topbar-movil">
+    <div class="topbar-izquierda">
+      <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>
+    </div>
     <h1>Categorías</h1>
     <button id="toggle-menu" class="menu-toggle"><i class="fas fa-bars"></i></button>
   </div>
+  <section id="busqueda-filtros">
+    <input type="text" id="input-buscar" placeholder="Buscar producto..." />
+    <label><input type="checkbox" id="filtro-stock"> Solo en stock</label>
+    <select id="ordenar-select">
+      <option value="">Ordenar por Stock</option>
+      <option value="precio-asc">Precio: Menor a Mayor</option>
+      <option value="precio-desc">Precio: Mayor a Menor</option>
+      <option value="nombre-asc">Nombre: A-Z</option>
+      <option value="nombre-desc">Nombre: Z-A</option>
+    </select>
+  </section>
   <aside id="sidebar">
     <h1>Categorías</h1>
     <nav id="menu">
@@ -22,6 +35,6 @@
     </nav>
   </aside>
   <main id="contenedor-productos"></main>
-  <script src="script-menu-acordeon.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
