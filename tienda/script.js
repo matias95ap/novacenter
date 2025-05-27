@@ -16,6 +16,17 @@ Promise.all([
     const filtros = document.getElementById("busqueda-filtros");
     const toggleFiltros = document.getElementById("toggle-filtros");
 
+    const subcategoriasExcluidasMayorista = [
+      "CELULAR Y COMPUTACION > MODULOS DISPLAY"
+      // podés agregar más
+    ];
+
+    const filtrosEspeciales = {
+      "@rafacel": ["CELULAR Y COMPUTACION > MODULOS DISPLAY"]
+      // podés agregar más claves con sus subcategorías válidas
+    };
+
+
     /* ---------- agrupar categorías / subcategorías ---------- */
     const categorias = {};
     data.forEach(p => {
@@ -77,19 +88,49 @@ Promise.all([
 
     /* ---------- buscar productos por término (detalle o código) ---------- */
     function buscarProductos(termino) {
+      const terminoLimpio = termino.toLowerCase().trim();
+
+      const esMayorista = terminoLimpio.includes("@mayorista");
+      const claveEspecial = Object.keys(filtrosEspeciales).find(k => terminoLimpio.includes(k));
+      const subcategoriasFiltradas = claveEspecial ? filtrosEspeciales[claveEspecial] : null;
+      const aplicaFiltroMayorista = esMayorista || claveEspecial; // ambos aplican reglas de mayorista
+
+      const terminoBusqueda = terminoLimpio
+        .replace("@mayorista", "")
+        .replace(claveEspecial || "", "")
+        .trim();
+
       const resultados = Object.values(categorias)
-        .flatMap(subs => Object.values(subs).flat())
+        .flatMap(subs => Object.entries(subs).flatMap(([sub, productos]) =>
+          productos.map(p => ({ ...p, SUB: sub }))
+        ))
         .filter(p => {
           const detalle = p.DETALLE.toLowerCase();
           const codigo = p.CODIGO.toLowerCase();
-          return detalle.includes(termino) || codigo.includes(termino);
+          const coincideTexto = detalle.includes(terminoBusqueda) || codigo.includes(terminoBusqueda);
+          const familia = `${p.FAMILIA}`;
+
+          if (!coincideTexto) return false;
+
+          if (aplicaFiltroMayorista) {
+            const pmayor = parseFloat(p.P.MAYOR || 0);
+            const pcosto = parseFloat(p.P.COSTO || 0);
+            if (pmayor <= 0 || pmayor <= pcosto) return false;
+          }
+
+          if (esMayorista && subcategoriasExcluidasMayorista.includes(familia)) return false;
+
+          if (claveEspecial && !subcategoriasFiltradas.includes(familia)) return false;
+
+          return true;
         });
 
-      mostrarResultadoBusqueda(resultados);
+      mostrarResultadoBusqueda(resultados, aplicaFiltroMayorista);
     }
 
+
     /* ---------- mostrar resultados de búsqueda ---------- */
-    function mostrarResultadoBusqueda(productos) {
+    function mostrarResultadoBusqueda(productos, mayorista = false) {
       contenedor.innerHTML = "";
       if (productos.length === 0) {
         const noResult = document.createElement("p");
@@ -97,32 +138,32 @@ Promise.all([
         contenedor.appendChild(noResult);
         return;
       }
-    
+
       const criterioOrdenamiento = ordenarSelect?.value || "";
-    
+
       // Agrupar resultados por categoría > subcategoría
       const resultadosAgrupados = {};
-    
+
       productos.forEach(p => {
         const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
         if (!resultadosAgrupados[cat]) resultadosAgrupados[cat] = {};
         if (!resultadosAgrupados[cat][sub]) resultadosAgrupados[cat][sub] = [];
         resultadosAgrupados[cat][sub].push(p);
       });
-    
+
       for (const cat in resultadosAgrupados) {
         const h2 = document.createElement("h2");
         h2.textContent = capitalizarTitulo(cat);
         contenedor.appendChild(h2);
-    
+
         for (const sub in resultadosAgrupados[cat]) {
           let lista = resultadosAgrupados[cat][sub];
-    
+
           // Filtro de stock activo
           if (filtroStock && filtroStock.checked) {
             lista = lista.filter(p => parseInt(p.STOCK) > 0);
           }
-    
+
           // Ordenamiento (por criterio o stock por defecto)
           if (!criterioOrdenamiento || criterioOrdenamiento === "default") {
             const conStock = lista.filter(p => parseInt(p.STOCK) > 0);
@@ -131,22 +172,22 @@ Promise.all([
           } else {
             lista = ordenarProductos(lista, criterioOrdenamiento);
           }
-    
+
           const h3 = document.createElement("h3");
           h3.textContent = capitalizarTitulo(sub);
           contenedor.appendChild(h3);
-    
+
           const grid = document.createElement("div");
           grid.className = "productos-grid";
           contenedor.appendChild(grid);
-    
+
           lista.forEach(p => {
-            grid.appendChild(crearCard(p));
+            grid.appendChild(crearCard(p, mayorista));
           });
         }
       }
     }
-    
+
 
 
     /* ---------- renderizar todos los productos agrupados por familia ---------- */
@@ -303,7 +344,7 @@ Promise.all([
     }
 
     /* ---------- tarjeta de producto ---------- */
-    function crearCard(p) {
+    function crearCard(p, mayorista = false) {
       const card = document.createElement("div");
       card.className = "producto";
       card.dataset.codigo = p.CODIGO;
@@ -313,11 +354,12 @@ Promise.all([
         ? `img/${p.CODIGO}.jpg`
         : "img/placeholder.jpg";
 
-      const mensaje =
-        `Hola, quiero comprar el producto: ${capitalizarTitulo(p.DETALLE)}\n` +
-        `https://novacenter.ar/tienda/?producto=${p.CODIGO}`;
-      const linkWp =
-        "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
+      const precioMostrar = mayorista
+        ? parseFloat(p.P.MAYOR || 0)
+        : parseFloat(p.P.VENTA || 0);
+
+      const mensaje = `Hola, quiero comprar el producto: ${capitalizarTitulo(p.DETALLE)}\nhttps://novacenter.ar/tienda/?producto=${p.CODIGO}`;
+      const linkWp = "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
 
       card.innerHTML = `
         <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
@@ -327,7 +369,7 @@ Promise.all([
         </a>
         <p class="stock">
           <span class="stock-left">${parseInt(p.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</span>
-          <span class="precio">$${parseInt(p.P.VENTA).toLocaleString('es-AR')}</span>
+          <span class="precio">$${precioMostrar.toLocaleString('es-AR')}</span>
         </p>
         <a class="boton-comprar" href="${linkWp}" target="_blank">
           Consultar <i class="fab fa-whatsapp"></i>
@@ -335,6 +377,7 @@ Promise.all([
       `;
       return card;
     }
+
     /* ---------- compartir producto ---------- */
     window.compartirProducto = function (detalle, codigo) {
       const url = `https://novacenter.ar/tienda/?producto=${codigo}`;
@@ -458,30 +501,44 @@ Promise.all([
 
 
     /* ---------- autocomplete: buscar al tipear (con gestión de URL) ---------- */
+    let urlAntesDeBusqueda = null;
+
     if (inputBuscar) {
       inputBuscar.addEventListener("input", e => {
-        const termino = e.target.value.toLowerCase();
-        if (termino.length >= 2) {
-          // Si la URL actual NO es una URL de búsqueda, guarda la URL actual antes de la búsqueda.
+        const termino = e.target.value.toLowerCase().trim();
+
+        const contieneClave = termino.includes("@mayorista") ||
+          Object.keys(filtrosEspeciales).some(k => termino.includes(k));
+
+        const esBusquedaValida = (termino.length >= 2 || contieneClave);
+
+        // ⚠️ Nueva línea: no hacer nada con 1 solo carácter sin clave
+        if (termino.length === 1 && !contieneClave) return;
+
+        if (esBusquedaValida) {
           if (!location.search.startsWith("?buscar=")) {
             urlAntesDeBusqueda = location.href;
           }
-          // Reemplaza la URL actual con el término de búsqueda.
           history.replaceState({ buscar: termino }, "", `?buscar=${encodeURIComponent(termino)}`);
           buscarProductos(termino);
         } else {
-          // Si el término es muy corto o vacío
           if (location.search.startsWith("?buscar=")) {
-            // Si estamos en una URL de búsqueda, volvemos atrás.
-            history.back(); // Esto nos lleva a la URL antes de la ?buscar=
-            // La función popstate (manejarNavegacionURL) manejará la renderización correcta al hacer history.back()
+            if (urlAntesDeBusqueda) {
+              history.pushState({}, "", urlAntesDeBusqueda);
+              manejarNavegacionURL();
+              urlAntesDeBusqueda = null;
+            } else {
+              history.replaceState({}, "", location.pathname);
+              renderizarTodos();
+            }
           } else {
-            // En este caso, si ya no hay búsqueda, mostramos todos por defecto.
             renderizarTodos();
           }
         }
       });
     }
+
+
 
     /* ---------- filtro de stock ---------- */
     if (filtroStock) {
