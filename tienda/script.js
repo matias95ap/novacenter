@@ -22,8 +22,13 @@ Promise.all([
     ];
 
     const filtrosEspeciales = {
-      "@rafacel": ["CELULAR Y COMPUTACION > MODULOS DISPLAY"]
-      // podés agregar más claves con sus subcategorías válidas
+      "@rafacel": { incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
+      ] },
+      "@kioscogriselda": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] },
+      "@gri17": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] }
     };
 
 
@@ -92,7 +97,9 @@ Promise.all([
 
       const esMayorista = terminoLimpio.includes("@mayorista");
       const claveEspecial = Object.keys(filtrosEspeciales).find(k => terminoLimpio.includes(k));
-      const subcategoriasFiltradas = claveEspecial ? filtrosEspeciales[claveEspecial] : null;
+      const filtroConfig = claveEspecial ? filtrosEspeciales[claveEspecial] : null;
+      const subcategoriasIncluir = filtroConfig?.incluir || null;
+      const subcategoriasExcluir = filtroConfig?.excluir || null;
       const aplicaFiltroMayorista = esMayorista || claveEspecial; // ambos aplican reglas de mayorista
 
       const terminoBusqueda = terminoLimpio
@@ -120,7 +127,8 @@ Promise.all([
 
           if (esMayorista && subcategoriasExcluidasMayorista.includes(familia)) return false;
 
-          if (claveEspecial && !subcategoriasFiltradas.includes(familia)) return false;
+          if (subcategoriasIncluir && !subcategoriasIncluir.includes(familia)) return false;
+          if (subcategoriasExcluir && subcategoriasExcluir.includes(familia)) return false;
 
           return true;
         });
