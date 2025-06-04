@@ -28,7 +28,7 @@ Promise.all([
       "@turcoh": { incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
       ] },
-      "@celsop",
+      "@celsop": {},
       "@kioscogriselda": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] },
       "@gri17": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
