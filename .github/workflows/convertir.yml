@@ -5,6 +5,9 @@ on:
     paths:
       - 'tienda/productos.xlsx'
 
+  schedule:
+    - cron: '0 22 * * *'  # Todos los días a las 22:00 UTC (19:00 en Argentina)
+
 jobs:
   convertir:
     runs-on: ubuntu-latest
@@ -13,7 +16,7 @@ jobs:
       - name: Clonar repositorio COMPLETO
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Necesario para pull --rebase
+          fetch-depth: 0  # Necesario para rebase correcto
 
       - name: Instalar Python y dependencias
         uses: actions/setup-python@v4
@@ -30,7 +33,9 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git pull --rebase origin main || true
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git
+          git fetch origin main
+          git rebase origin/main || true
           git add tienda/productos.json
           git diff --cached --quiet && echo "Sin cambios" || git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git HEAD:main
+          git push origin HEAD:main
