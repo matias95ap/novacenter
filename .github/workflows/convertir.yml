@@ -1,0 +1,33 @@
+name: Convertir Excel a JSON
+
+on:
+  push:
+    paths:
+      - productos.xlsx
+
+jobs:
+  convertir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar Python y dependencias
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerías necesarias
+        run: pip install pandas openpyxl
+
+      - name: Ejecutar script de conversión
+        run: python convertir_xlsx_a_json.py
+
+      - name: Confirmar y pushear cambios
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add productos.json
+          git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
+          git push
