@@ -157,7 +157,7 @@
             "MAYOR": "3500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4063,7 +4063,7 @@
             "MAYOR": "4600.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
