@@ -32,5 +32,5 @@ jobs:
           git config --global user.email "action@github.com"
           git pull --rebase origin main || true
           git add tienda/productos.json
-          git commit -m "🔄 Actualizar productos.json desde productos.xlsx" || echo "Sin cambios"
+          git diff --cached --quiet && echo "Sin cambios" || git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git HEAD:main
