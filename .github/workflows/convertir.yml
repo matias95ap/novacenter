@@ -29,5 +29,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add tienda/productos.json
-          git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
-          git push
+          git commit -m "🔄 Actualizar productos.json desde productos.xlsx" || echo "Sin cambios"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/matias95ap/novacenter.git HEAD:main
