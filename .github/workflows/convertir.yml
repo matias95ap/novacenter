@@ -13,7 +13,7 @@ jobs:
       - name: Clonar repositorio COMPLETO
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Necesario para permitir git pull --rebase
+          fetch-depth: 0  # Necesario para pull --rebase
 
       - name: Instalar Python y dependencias
         uses: actions/setup-python@v4
@@ -30,8 +30,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/matias95ap/novacenter.git
           git pull --rebase origin main || true
           git add tienda/productos.json
           git commit -m "🔄 Actualizar productos.json desde productos.xlsx" || echo "Sin cambios"
-          git push origin HEAD:main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git HEAD:main
