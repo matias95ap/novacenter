@@ -3,7 +3,7 @@ name: Convertir Excel a JSON
 on:
   push:
     paths:
-      - productos.xlsx
+      - 'novacenter/tienda/productos.xlsx'
 
 jobs:
   convertir:
@@ -22,12 +22,12 @@ jobs:
         run: pip install pandas openpyxl
 
       - name: Ejecutar script de conversión
-        run: python convertir_xlsx_a_json.py
+        run: python novacenter/tienda/convertir_xlsx_a_json.py
 
       - name: Confirmar y pushear cambios
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add productos.json
+          git add novacenter/tienda/productos.json
           git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
           git push
