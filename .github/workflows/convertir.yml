@@ -6,17 +6,24 @@ on:
       - 'tienda/productos.xlsx'
 
   schedule:
-    - cron: '0 22 * * *'  # Todos los días a las 22:00 UTC (19:00 en Argentina)
+    - cron: '0 22 * * *'  # Todos los días a las 22:00 UTC
 
 jobs:
   convertir:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar repositorio COMPLETO
+      - name: Clonar repositorio completo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Necesario para rebase correcto
+          fetch-depth: 0  # Necesario para rebase
+
+      - name: Configurar git para push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git
+          git pull --rebase origin main || true
 
       - name: Instalar Python y dependencias
         uses: actions/setup-python@v4
@@ -29,13 +36,8 @@ jobs:
       - name: Ejecutar script de conversión
         run: python tienda/convertir_xlsx_a_json.py
 
-      - name: Confirmar y pushear cambios
+      - name: Commitear y pushear si hubo cambios
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/matias95ap/novacenter.git
-          git fetch origin main
-          git rebase origin/main || true
           git add tienda/productos.json
           git diff --cached --quiet && echo "Sin cambios" || git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
           git push origin HEAD:main
