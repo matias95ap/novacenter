@@ -4518,6 +4518,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "LICOR6703",
+        "DETALLE": "CORTA UÑAS",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "1200.0",
+            "VENTA": "2000.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CORTADORFV",
         "DETALLE": "CORTADOR DE FRUTAS Y VERD RECARGABLE",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
@@ -4622,24 +4640,6 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "LICOR6703",
-        "DETALLE": "Corta Uña",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "1200.0",
-            "VENTA": "2000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8712,24 +8712,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6927799689633",
-        "DETALLE": "PILA DL2032 CR2032 5004LC",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "2032",
-        "P": {
-            "COSTO": "500.0",
-            "VENTA": "2000.0",
-            "LISTA2": "500.0",
-            "LISTA3": "500.0",
-            "MAYOR": "500.0"
-        },
-        "IVA": "21",
-        "STOCK": "24.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "PILA18650",
         "DETALLE": "PILA RECARGABLE 18650",
         "FAMILIA": "LIBRERÍA Y VARIOS",
@@ -8779,7 +8761,7 @@
             "MAYOR": "380.0"
         },
         "IVA": "21",
-        "STOCK": "13.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8797,7 +8779,7 @@
             "MAYOR": "380.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8815,7 +8797,7 @@
             "MAYOR": "110.0"
         },
         "IVA": "21",
-        "STOCK": "49.0",
+        "STOCK": "40.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8833,7 +8815,7 @@
             "MAYOR": "300.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8851,7 +8833,7 @@
             "MAYOR": "110.0"
         },
         "IVA": "21",
-        "STOCK": "16.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8869,7 +8851,97 @@
             "MAYOR": "300.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "0.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799683761",
+        "DETALLE": "PILAS AG1/LR621H/364A",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60.0",
+            "VENTA": "1500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "39.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799681101",
+        "DETALLE": "PILAS AG10/LR1130H/389A",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60.0",
+            "VENTA": "1500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "29.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799681132",
+        "DETALLE": "PILAS AG13/LR44H/357A",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60.0",
+            "VENTA": "1500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "25.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799683785",
+        "DETALLE": "PILAS AG3/LR41H/392A",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60.0",
+            "VENTA": "1500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "29.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799681040",
+        "DETALLE": "PILAS AG4/LR626H/377A",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60.0",
+            "VENTA": "1500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8881,7 +8953,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "200.0",
-            "VENTA": "800.0",
+            "VENTA": "2500.0",
             "LISTA2": "200.0",
             "LISTA3": "200.0",
             "MAYOR": "200.0"
@@ -8895,17 +8967,35 @@
         "CODIGO": "6927799689626",
         "DETALLE": "PILAS CR2025 3V",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "E-MAX",
+        "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
-            "COSTO": "200.0",
-            "VENTA": "800.0",
-            "LISTA2": "200.0",
-            "LISTA3": "200.0",
-            "MAYOR": "200.0"
+            "COSTO": "430.0",
+            "VENTA": "2500.0",
+            "LISTA2": "0.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "15.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6927799689633",
+        "DETALLE": "PILAS CR2032 3V",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "E-MAX",
+        "MARCA": "2032",
+        "P": {
+            "COSTO": "500.0",
+            "VENTA": "2500.0",
+            "LISTA2": "500.0",
+            "LISTA3": "500.0",
+            "MAYOR": "500.0"
+        },
+        "IVA": "21",
+        "STOCK": "16.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9212,114 +9302,6 @@
         },
         "IVA": "21",
         "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "LIPIL7463",
-        "DETALLE": "Pila 2025",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "430.0",
-            "VENTA": "2000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "3.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6927799681101",
-        "DETALLE": "Pilas LR1130H/389A",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "60.0",
-            "VENTA": "600.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "29.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6927799681033",
-        "DETALLE": "Pilas LR41H/392A",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "60.0",
-            "VENTA": "600.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "29.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6927799681132",
-        "DETALLE": "Pilas LR44H/357A",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "60.0",
-            "VENTA": "600.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "25.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6927799681019",
-        "DETALLE": "Pilas LR621H/364A",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "60.0",
-            "VENTA": "600.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "40.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6927799681040",
-        "DETALLE": "Pilas LR626H/377A",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "60.0",
-            "VENTA": "600.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
