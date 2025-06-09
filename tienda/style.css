@@ -53,7 +53,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-#ver-todos {
+#ver-todos, #ver-nuevos {
   margin: 0;
   background-color: var(--menu);
   color: var(--celeste);
@@ -63,6 +63,10 @@ body {
   font-weight: bold;
   border: 2px solid var(--celeste);
   border-radius: 10px;
+}
+
+#ver-nuevos {
+  margin-top: 10px;
 }
 .borde-extra {
   margin-top: 10px;
@@ -301,6 +305,34 @@ h3 {
 }
 .boton-compartir i{
   padding-left: 10px;
+}
+.insignia-nuevo {
+  position: absolute;
+  top: 18px;
+  left: -6px;
+  width: 90px !important;
+  height: 90px !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain;
+  z-index: 10;
+  pointer-events: none;
+}
+.insignia-nuevo-detalle {
+  position: absolute;
+  top: 72px;
+  left: 271px;
+  width: 150px !important;
+  height: 150px !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.producto {
+  position: relative;
 }
 /* Oculta el menú con una animación lateral */
 #sidebar.oculto {
