@@ -2,11 +2,13 @@
 
 Promise.all([
   fetch("productos.json").then(res => res.json()),
-  fetch("excluidos.json").then(res => res.json())
+  fetch("excluidos.json").then(res => res.json()),
+  fetch("nuevos.json").then(res => res.json())
 ])
-  .then(([data, codigosExcluidos]) => {
+  .then(([data, codigosExcluidos, codigosNuevos]) => {
     // Filtrar productos excluidos por CODIGO
     data = data.filter(p => !codigosExcluidos.includes(p.CODIGO));
+    const productosNuevos = data.filter(p => codigosNuevos.includes(p.CODIGO));
     const menu = document.getElementById("menu-categorias");
     const contenedor = document.getElementById("contenedor-productos");
     const verTodosBtn = document.getElementById("ver-todos");
@@ -22,19 +24,29 @@ Promise.all([
     ];
 
     const filtrosEspeciales = {
-      "@rafacel": { incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
-      ] },
-      "@turcoh": { incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
-      ] },
+      "@rafacel": {
+        incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+          "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
+        ]
+      },
+      "@turcoh": {
+        incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+          "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
+        ]
+      },
       "@celsop": {},
-      "@kioscogriselda": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] },
-      "@gri17": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] },
-      "@borala": { excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"] }
+      "@kioscogriselda": {
+        excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+          "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"]
+      },
+      "@gri17": {
+        excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+          "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"]
+      },
+      "@borala": {
+        excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
+          "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"]
+      }
     };
 
 
@@ -337,8 +349,11 @@ Promise.all([
         `https://novacenter.ar/tienda/?producto=${producto.CODIGO}`;
       const linkWp2 =
         "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
+      
+      const esNuevo = codigosNuevos.includes(producto.CODIGO);
 
       div.innerHTML = `
+      ${esNuevo ? `<img src="img/nuevo.png" alt="Nuevo" class="insignia-nuevo-detalle">` : ""}
           <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
           <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
                onerror="this.src='img/placeholder.jpg'">
@@ -358,7 +373,8 @@ Promise.all([
     }
 
     /* ---------- tarjeta de producto ---------- */
-    function crearCard(p, mayorista = false) {
+    function crearCard(p, mayorista = false, esNuevo = false) {
+      esNuevo = esNuevo || codigosNuevos.includes(p.CODIGO);
       const card = document.createElement("div");
       card.className = "producto";
       card.dataset.codigo = p.CODIGO;
@@ -389,6 +405,13 @@ Promise.all([
           Consultar <i class="fab fa-whatsapp"></i>
         </a>
       `;
+      if (esNuevo) {
+        const insignia = document.createElement("img");
+        insignia.src = "img/nuevo.png"; // imagen de insignia
+        insignia.alt = "Nuevo";
+        insignia.className = "insignia-nuevo";
+        card.querySelector("a").prepend(insignia); // arriba de la imagen
+      }
       return card;
     }
 
@@ -486,6 +509,30 @@ Promise.all([
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
     renderizarTodos();
+
+    /* ---------- botón “Nuevos Ingresos” ---------- */
+    const verNuevosBtn = document.getElementById("ver-nuevos");
+    verNuevosBtn.addEventListener("click", () => {
+      history.pushState({}, "", "?nuevos=1");
+      mostrarNuevos();
+      if (window.innerWidth <= 600) {
+        document.getElementById("sidebar").classList.add("oculto");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    });  
+
+    document.querySelector("#menu").insertBefore(verNuevosBtn, document.querySelector(".borde-extra"));
+
+    function mostrarNuevos() {
+      contenedor.innerHTML = "<h2>🆕 Nuevos Ingresos</h2>";
+      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productosNuevos);
+      const grid = document.createElement("div");
+      grid.className = "productos-grid";
+      contenedor.appendChild(grid);
+      productosParaMostrar.forEach(p => {
+        grid.appendChild(crearCard(p, false, true)); // nuevo = true
+      });
+    }
 
     /* ---------- funciones de navegación ---------- */
     function navegarCategoria(cat) {
@@ -617,15 +664,19 @@ Promise.all([
 
     /* ---------- Función unificada para manejar la navegación por URL ---------- */
     function manejarNavegacionURL() {
-      if (filtros) filtros.classList.remove("visible"); // ✅ Oculta panel al navegar con historial
-      if (inputBuscar) inputBuscar.value = ""; // 🔹 limpia buscador al navegar por historial
+      if (filtros) filtros.classList.remove("visible");
+      if (inputBuscar) inputBuscar.value = "";
+
       const params = new URLSearchParams(location.search);
       const cat = params.get("cat");
       const sub = params.get("sub");
       const producto = params.get("producto");
-      const q = params.get("buscar"); // ¡Importante! Asegúrate de incluir también el parámetro 'q' para la búsqueda
+      const q = params.get("buscar");
+      const verNuevos = params.get("nuevos");
 
-      if (q) {
+      if (verNuevos === "1") {
+        mostrarNuevos(); // 👈 esta función la definiste antes
+      } else if (q) {
         if (inputBuscar) inputBuscar.value = q;
         buscarProductos(q.toLowerCase());
       } else if (producto) {
@@ -638,6 +689,7 @@ Promise.all([
         renderizarTodos();
       }
     }
+
 
     // Escucha el evento popstate para manejar la navegación del historial
     window.addEventListener("popstate", manejarNavegacionURL);
