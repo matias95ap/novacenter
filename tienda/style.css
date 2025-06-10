@@ -419,7 +419,7 @@ h3 {
   #sidebar h1 {
     display: none;
   }
-  #ver-todos {
+  #ver-todos #ver-nuevos {
     font-size: 25px;
   }
   .menu-categoria {
