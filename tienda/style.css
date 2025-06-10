@@ -204,6 +204,28 @@ h3 {
   object-fit: cover;
   border-radius: 10px;
 }
+.insignia-nuevo {
+  position: absolute;
+  top: 9px;
+  left: -5px;
+  width: 100px!important;
+  height: 59px!important;
+  object-fit: contain;
+  z-index: 10;
+  pointer-events: none;
+}
+.insignia-nuevo-detalle {
+  position: absolute;
+  top: 72px;
+  left: 282px;
+  width: 150px !important;
+  height: 150px !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain;
+  z-index: 10;
+  pointer-events: none;
+}
 .link-producto {
   text-decoration: none;
   color: var(--fondomenu);
@@ -306,30 +328,6 @@ h3 {
 .boton-compartir i{
   padding-left: 10px;
 }
-.insignia-nuevo {
-  position: absolute;
-  top: 18px;
-  left: -6px;
-  width: 90px !important;
-  height: 90px !important;
-  max-width: none !important;
-  max-height: none !important;
-  object-fit: contain;
-  z-index: 10;
-  pointer-events: none;
-}
-.insignia-nuevo-detalle {
-  position: absolute;
-  top: 72px;
-  left: 271px;
-  width: 150px !important;
-  height: 150px !important;
-  max-width: none !important;
-  max-height: none !important;
-  object-fit: contain;
-  z-index: 10;
-  pointer-events: none;
-}
 
 .producto {
   position: relative;
@@ -419,7 +417,7 @@ h3 {
   #sidebar h1 {
     display: none;
   }
-  #ver-todos, #ver-nuevos {
+  #ver-todos,  #ver-nuevos {
     font-size: 25px;
   }
   .menu-categoria {
@@ -453,6 +451,15 @@ h3 {
     padding: -10px -10px -10px;
     width: 100%;
     height: 36.67vw;
+  }
+  .insignia-nuevo {
+    top: 12px;
+    width: 70px!important;
+    height: 40px!important;
+  }
+  .insignia-nuevo-detalle {
+    top: 110px;
+   left: -2.8px;
   }
   main {
     margin-top: 60px;
