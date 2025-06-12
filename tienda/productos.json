@@ -619,7 +619,7 @@
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
-            "VENTA": "18000.0",
+            "VENTA": "17999.0",
             "LISTA2": "5265.0",
             "LISTA3": "5265.0",
             "MAYOR": "5265.0"
@@ -637,7 +637,7 @@
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
-            "VENTA": "18000.0",
+            "VENTA": "17999.0",
             "LISTA2": "5265.0",
             "LISTA3": "5265.0",
             "MAYOR": "5265.0"
@@ -655,7 +655,7 @@
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
-            "VENTA": "18000.0",
+            "VENTA": "17999.0",
             "LISTA2": "5265.0",
             "LISTA3": "5265.0",
             "MAYOR": "5265.0"
@@ -680,6 +680,24 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "763571865415",
+        "DETALLE": "AURICULAR BT F9",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "F9",
+        "P": {
+            "COSTO": "3908.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3908.0",
+            "LISTA3": "3908.0",
+            "MAYOR": "3908.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -738,14 +756,14 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "EC100225",
-        "DETALLE": "AURICULAR BT NEWEST M39",
+        "CODIGO": "EC100314",
+        "DETALLE": "AURICULAR BT NEWEST M38",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "NEWEST",
         "P": {
             "COSTO": "5733.0",
-            "VENTA": "27800.0",
+            "VENTA": "29000.0",
             "LISTA2": "5733.0",
             "LISTA3": "5733.0",
             "MAYOR": "5733.0"
@@ -756,14 +774,14 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "EC100314",
+        "CODIGO": "EC100225",
         "DETALLE": "AURICULAR BT NEWEST M39",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "NEWEST",
         "P": {
             "COSTO": "5733.0",
-            "VENTA": "25000.0",
+            "VENTA": "32000.0",
             "LISTA2": "5733.0",
             "LISTA3": "5733.0",
             "MAYOR": "5733.0"
@@ -775,7 +793,7 @@
     },
     {
         "CODIGO": "6952024616184",
-        "DETALLE": "AURICULAR BT P9 PRO MAX",
+        "DETALLE": "AURICULAR BT P9 PRO MAX ROSA",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "TECNO IMPORTACION",
         "MARCA": "nan",
@@ -787,25 +805,7 @@
             "MAYOR": "9900.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "723540563643",
-        "DETALLE": "AURICULAR BT TIME",
-        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "TIME",
-        "P": {
-            "COSTO": "6915.0",
-            "VENTA": "18000.0",
-            "LISTA2": "6915.0",
-            "LISTA3": "6915.0",
-            "MAYOR": "6915.0"
-        },
-        "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -817,13 +817,31 @@
         "MARCA": "TIME",
         "P": {
             "COSTO": "5910.0",
-            "VENTA": "24000.0",
+            "VENTA": "26000.0",
             "LISTA2": "5910.0",
             "LISTA3": "5910.0",
             "MAYOR": "5910.0"
         },
         "IVA": "21",
         "STOCK": "4.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "723540563643",
+        "DETALLE": "AURICULAR BT TIME | COSULTAR COLORES DISPONIBLES",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "TIME",
+        "P": {
+            "COSTO": "6915.0",
+            "VENTA": "22000.0",
+            "LISTA2": "6915.0",
+            "LISTA3": "6915.0",
+            "MAYOR": "6915.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -913,7 +931,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "35.0",
+        "STOCK": "34.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1328,24 +1346,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "763571865415",
-        "DETALLE": "AURICULARES BT F9",
-        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "F9",
-        "P": {
-            "COSTO": "3908.0",
-            "VENTA": "12000.0",
-            "LISTA2": "3908.0",
-            "LISTA3": "3908.0",
-            "MAYOR": "3908.0"
-        },
-        "IVA": "21",
-        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8437,7 +8437,7 @@
             "MAYOR": "3924.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10003,7 +10003,7 @@
             "MAYOR": "11300.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
