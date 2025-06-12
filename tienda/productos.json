@@ -414,6 +414,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135011946",
+        "DETALLE": "ARICULAR BT AITECH ROSA  AIR 99",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5265.0",
+            "VENTA": "18000.0",
+            "LISTA2": "5265.0",
+            "LISTA3": "5265.0",
+            "MAYOR": "5265.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "7799135011014",
         "DETALLE": "ARO LED 26 CM BLACO CALIDO",
         "FAMILIA": "ILUMINACIÓN",
@@ -558,6 +576,96 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135011458",
+        "DETALLE": "AURICULAR BT AITECH AIR 18",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5850.0",
+            "VENTA": "28000.0",
+            "LISTA2": "5850.0",
+            "LISTA3": "5850.0",
+            "MAYOR": "5850.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135011908",
+        "DETALLE": "AURICULAR BT AITECH BLANCO AIR 85",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5733.0",
+            "VENTA": "23000.0",
+            "LISTA2": "5733.0",
+            "LISTA3": "5733.0",
+            "MAYOR": "5733.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135011960",
+        "DETALLE": "AURICULAR BT AITECH BLANCO AIR 99",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5265.0",
+            "VENTA": "18000.0",
+            "LISTA2": "5265.0",
+            "LISTA3": "5265.0",
+            "MAYOR": "5265.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135011977",
+        "DETALLE": "AURICULAR BT AITECH NEGRO AIR 99",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5265.0",
+            "VENTA": "18000.0",
+            "LISTA2": "5265.0",
+            "LISTA3": "5265.0",
+            "MAYOR": "5265.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135011953",
+        "DETALLE": "AURICULAR BT AITECH VERDE AIR 99",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5265.0",
+            "VENTA": "18000.0",
+            "LISTA2": "5265.0",
+            "LISTA3": "5265.0",
+            "MAYOR": "5265.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BT1",
         "DETALLE": "AURICULAR BT DEPORTIVO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
@@ -608,6 +716,60 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "EC100222",
+        "DETALLE": "AURICULAR BT NEWEST M10",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NEWEST",
+        "P": {
+            "COSTO": "3861.0",
+            "VENTA": "15000.0",
+            "LISTA2": "3861.0",
+            "LISTA3": "3861.0",
+            "MAYOR": "3861.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "EC100225",
+        "DETALLE": "AURICULAR BT NEWEST M39",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NEWEST",
+        "P": {
+            "COSTO": "5733.0",
+            "VENTA": "27800.0",
+            "LISTA2": "5733.0",
+            "LISTA3": "5733.0",
+            "MAYOR": "5733.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "EC100314",
+        "DETALLE": "AURICULAR BT NEWEST M39",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NEWEST",
+        "P": {
+            "COSTO": "5733.0",
+            "VENTA": "25000.0",
+            "LISTA2": "5733.0",
+            "LISTA3": "5733.0",
+            "MAYOR": "5733.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1195,13 +1357,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4000.0",
-            "VENTA": "6500.0",
+            "VENTA": "7500.0",
             "LISTA2": "4000.0",
             "LISTA3": "4000.0",
             "MAYOR": "4000.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2659,7 +2821,7 @@
             "MAYOR": "1115.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2785,7 +2947,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4441,7 +4603,7 @@
             "MAYOR": "12500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4477,7 +4639,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4819,7 +4981,7 @@
             "MAYOR": "12500.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6241,7 +6403,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8833,7 +8995,7 @@
             "MAYOR": "300.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9823,7 +9985,7 @@
             "MAYOR": "10500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
