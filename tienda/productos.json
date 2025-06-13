@@ -2137,7 +2137,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4495,7 +4495,7 @@
             "MAYOR": "2700.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "-1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7717,7 +7717,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9013,7 +9013,7 @@
             "MAYOR": "110.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
