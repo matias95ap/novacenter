@@ -829,7 +829,7 @@
     },
     {
         "CODIGO": "723540563643",
-        "DETALLE": "AURICULAR BT TIME | COSULTAR COLORES DISPONIBLES",
+        "DETALLE": "AURICULAR BT TIME | CONSULTAR COLORES DISPONIBLES",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "TIME",
@@ -1435,7 +1435,7 @@
             "MAYOR": "13800.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3307,7 +3307,7 @@
             "MAYOR": "4962.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6367,7 +6367,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6673,7 +6673,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7717,7 +7717,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8041,7 +8041,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8563,7 +8563,7 @@
             "MAYOR": "3864.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
