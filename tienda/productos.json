@@ -85,7 +85,7 @@
             "MAYOR": "1100.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2551,7 +2551,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3091,7 +3091,7 @@
             "MAYOR": "704.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5089,7 +5089,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5161,7 +5161,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5191,7 +5191,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "5124.0",
-            "VENTA": "10000.0",
+            "VENTA": "18000.0",
             "LISTA2": "5124.0",
             "LISTA3": "5124.0",
             "MAYOR": "5124.0"
@@ -5449,7 +5449,7 @@
             "MAYOR": "12500.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6889,7 +6889,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6925,7 +6925,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7753,7 +7753,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8581,7 +8581,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9031,7 +9031,7 @@
             "MAYOR": "27136.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9265,7 +9265,7 @@
             "MAYOR": "6000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10350,7 +10350,7 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "RELOJ SMART",
+        "CODIGO": "RELOJSMART",
         "DETALLE": "RELOJ SMARTWATCH ULTRA 9 BIG C/7 MALLA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
         "PROVEEDOR": "IMPOTEKNO",
