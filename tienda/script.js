@@ -29,6 +29,10 @@ Promise.all([
           "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
         ]
       },
+      "@mod": {
+        incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY"
+        ]
+      },
       "@turcoh": {
         incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
           "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
