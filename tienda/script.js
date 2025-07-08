@@ -29,10 +29,6 @@ Promise.all([
           "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
         ]
       },
-      "@mod": {
-        incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY"
-        ]
-      },
       "@turcoh": {
         incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
           "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"
@@ -353,7 +349,7 @@ Promise.all([
         `https://novacenter.ar/tienda/?producto=${producto.CODIGO}`;
       const linkWp2 =
         "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
-      
+
       const esNuevo = codigosNuevos.includes(producto.CODIGO);
 
       div.innerHTML = `
@@ -523,7 +519,7 @@ Promise.all([
         document.getElementById("sidebar").classList.add("oculto");
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
-    });  
+    });
 
     document.querySelector("#menu").insertBefore(verNuevosBtn, document.querySelector(".borde-extra"));
 
