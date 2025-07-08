@@ -2,13 +2,12 @@
 
 Promise.all([
   fetch("productos.json").then(res => res.json()),
-  fetch("excluidos.json").then(res => res.json()),
-  fetch("nuevos.json").then(res => res.json())
+  fetch("excluidos.json").then(res => res.json())
 ])
-  .then(([data, codigosExcluidos, codigosNuevos]) => {
+  .then(([data, codigosExcluidos]) => {
     // Filtrar productos excluidos por CODIGO
     data = data.filter(p => !codigosExcluidos.includes(p.CODIGO));
-    const productosNuevos = data.filter(p => codigosNuevos.includes(p.CODIGO));
+    const productosNuevos = data.filter(p => p.MARCA === "NUEVO");
     const menu = document.getElementById("menu-categorias");
     const contenedor = document.getElementById("contenedor-productos");
     const verTodosBtn = document.getElementById("ver-todos");
@@ -73,6 +72,14 @@ Promise.all([
           return pal.charAt(0).toUpperCase() + pal.slice(1);
         })
         .join(" ");
+    }
+
+    /* ----función de liquidación----*/
+    function esProductoLiquidacion(p) {
+      const lista2 = parseFloat(p.P.LISTA2);
+      const costo = parseFloat(p.P.COSTO);
+      const venta = parseFloat(p.P.VENTA);
+      return lista2 > costo && lista2 < venta;
     }
     /* ---------- ordenar productos por criterio ---------- */
     function ordenarProductos(lista, criterio) {
@@ -251,7 +258,10 @@ Promise.all([
           contenedor.appendChild(grid);
 
           productos.forEach(p => {
-            grid.appendChild(crearCard(p));
+            const modo = p.MARCA === "NUEVO"
+              ? "nuevo"
+              : esProductoLiquidacion(p) ? "liquidacion" : "normal";
+            grid.appendChild(crearCard(p, false, modo));
           });
         }
       }
@@ -300,7 +310,10 @@ Promise.all([
         contenedor.appendChild(grid);
 
         productos.forEach(p => {
-          grid.appendChild(crearCard(p));
+          const modo = p.MARCA === "NUEVO"
+            ? "nuevo"
+            : esProductoLiquidacion(p) ? "liquidacion" : "normal";
+          grid.appendChild(crearCard(p, false, modo));
         });
       }
     }
@@ -321,7 +334,10 @@ Promise.all([
       contenedor.appendChild(grid);
 
       productosParaMostrar.forEach(p => {
-        grid.appendChild(crearCard(p));
+        const modo = p.MARCA === "NUEVO"
+          ? "nuevo"
+          : esProductoLiquidacion(p) ? "liquidacion" : "normal";
+        grid.appendChild(crearCard(p, false, modo));
       });
     }
 
@@ -350,10 +366,12 @@ Promise.all([
       const linkWp2 =
         "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
 
-      const esNuevo = codigosNuevos.includes(producto.CODIGO);
+      const esNuevo = producto.MARCA === "NUEVO" && parseInt(producto.STOCK) > 0;
+      const esLiquidacion = esProductoLiquidacion(producto) && parseInt(producto.STOCK) > 0;        
 
       div.innerHTML = `
-      ${esNuevo ? `<img src="img/nuevo.png" alt="Nuevo" class="insignia-nuevo-detalle">` : ""}
+      ${esLiquidacion ? `<div class="insignia-detalle liquidacion">💸 Liquidación</div>` : ""}
+      ${esNuevo ? `<div class="insignia-detalle nuevo">🆕 Nuevo</div>` : ""}
           <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
           <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
                onerror="this.src='img/placeholder.jpg'">
@@ -373,47 +391,76 @@ Promise.all([
     }
 
     /* ---------- tarjeta de producto ---------- */
-    function crearCard(p, mayorista = false, esNuevo = false) {
-      esNuevo = esNuevo || codigosNuevos.includes(p.CODIGO);
+    function crearCard(p, mayorista = false) {
+      const esNuevo = p.MARCA === "NUEVO";
+      const esLiquidacion = esProductoLiquidacion(p);    
       const card = document.createElement("div");
       card.className = "producto";
       card.dataset.codigo = p.CODIGO;
+
       if (parseInt(p.STOCK) === 0) card.classList.add("sin-stock");
 
       const imagen = p.CODIGO && p.CODIGO.trim()
         ? `img/${p.CODIGO}.jpg`
         : "img/placeholder.jpg";
 
-      const precioMostrar = mayorista
-        ? parseFloat(p.P.MAYOR || 0)
-        : parseFloat(p.P.VENTA || 0);
+      const precioVenta = parseFloat(p.P.VENTA);
+      const precioMayorista = parseFloat(p.P.MAYOR || 0);
+      const precioMostrar = mayorista ? precioMayorista : precioVenta;
 
-      const mensaje = `Hola, quiero comprar el producto: ${capitalizarTitulo(p.DETALLE)}\nhttps://novacenter.ar/tienda/?producto=${p.CODIGO}`;
+      const mensaje = `Hola, quiero consultar por el producto: ${capitalizarTitulo(p.DETALLE)}\nhttps://novacenter.ar/tienda/?producto=${p.CODIGO}`;
       const linkWp = "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
+
+      let insignia = "";
+      if (parseInt(p.STOCK) > 0) {
+        if (esLiquidacion) {
+          insignia += `<div class="insignia-texto liquidacion">💸 Liquidación</div>`;
+        }
+        if (esNuevo) {
+          insignia += `<div class="insignia-texto nuevo">🆕 Nuevo</div>`;
+        }
+      } 
+      let precioHTML = `
+        <span class="precio">$${precioMostrar.toLocaleString('es-AR')}</span>
+      `;
+
+      let extraHTML = "";
+
+      if (esLiquidacion && parseInt(p.STOCK) > 0) {
+        const precioLista2 = parseFloat(p.P.LISTA2);
+        const descuento = Math.round(((precioVenta - precioLista2) / precioVenta) * 100);
+      
+        precioHTML = `
+          <span class="precio"><s>$${precioVenta.toLocaleString('es-AR')}</s></span>
+        `;
+        extraHTML = `
+          <div class="liquidacion-precio">
+            <span class="descuento">💸 ${descuento}% OFF</span>
+            <span class="precio-final">$${precioLista2.toLocaleString('es-AR')}</span>
+          </div>
+        `;
+      }
 
       card.innerHTML = `
         <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
+          ${insignia}
           <img src="${imagen}" alt="${capitalizarTitulo(p.DETALLE)}"
                onerror="this.src='img/placeholder.jpg'">
           <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
         </a>
         <p class="stock">
           <span class="stock-left">${parseInt(p.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</span>
-          <span class="precio">$${precioMostrar.toLocaleString('es-AR')}</span>
+          ${precioHTML}
         </p>
+        ${extraHTML}
         <a class="boton-comprar" href="${linkWp}" target="_blank">
           Consultar <i class="fab fa-whatsapp"></i>
         </a>
       `;
-      if (esNuevo) {
-        const insignia = document.createElement("img");
-        insignia.src = "img/nuevo.png"; // imagen de insignia
-        insignia.alt = "Nuevo";
-        insignia.className = "insignia-nuevo";
-        card.querySelector("a").prepend(insignia); // arriba de la imagen
-      }
+
       return card;
     }
+
 
     /* ---------- compartir producto ---------- */
     window.compartirProducto = function (detalle, codigo) {
@@ -525,12 +572,49 @@ Promise.all([
 
     function mostrarNuevos() {
       contenedor.innerHTML = "<h2>🆕 Nuevos Ingresos</h2>";
-      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productosNuevos);
+      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(
+        productosNuevos.filter(p => parseInt(p.STOCK) > 0)
+      );
       const grid = document.createElement("div");
       grid.className = "productos-grid";
       contenedor.appendChild(grid);
       productosParaMostrar.forEach(p => {
         grid.appendChild(crearCard(p, false, true)); // nuevo = true
+      });
+    }
+    /* ---------- botón “Liquidación” ---------- */
+    const verLiquidacionBtn = document.createElement("button");
+    verLiquidacionBtn.id = "ver-liquidacion";
+    verLiquidacionBtn.textContent = "💸 Liquidación";
+    verLiquidacionBtn.addEventListener("click", () => {
+      history.pushState({}, "", "?liquidacion=1");
+      mostrarLiquidacion();
+      if (window.innerWidth <= 600) {
+        document.getElementById("sidebar").classList.add("oculto");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    });
+    document.querySelector("#menu").insertBefore(verLiquidacionBtn, document.querySelector(".borde-extra"));
+
+    function mostrarLiquidacion() {
+      contenedor.innerHTML = "<h2>💸 Liquidación</h2>";
+      const productosLiquidacion = data.filter(p => {
+        const precioLista3 = parseFloat(p.P.LISTA2);
+        const precioCosto = parseFloat(p.P.COSTO);
+        const precioVenta = parseFloat(p.P.VENTA);
+        return (
+          parseInt(p.STOCK) > 0 &&
+          precioLista3 > precioCosto &&
+          precioLista3 < precioVenta
+        );
+      });
+      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productosLiquidacion);
+      const grid = document.createElement("div");
+      grid.className = "productos-grid";
+      contenedor.appendChild(grid);
+
+      productosParaMostrar.forEach(p => {
+        grid.appendChild(crearCard(p, false, "liquidacion"));
       });
     }
 
