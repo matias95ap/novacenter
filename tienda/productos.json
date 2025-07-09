@@ -1165,7 +1165,7 @@
             "MAYOR": "3905.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1808,7 +1808,7 @@
         "P": {
             "COSTO": "7995.0",
             "VENTA": "24000.0",
-            "LISTA2": "24000.0",
+            "LISTA2": "16000.0",
             "LISTA3": "15000.0",
             "MAYOR": "15000.0"
         },
@@ -4825,10 +4825,10 @@
     },
     {
         "CODIGO": "MULTICONSOLA",
-        "DETALLE": "CONSOLA GAME STICK PRO 4K +20 MIL JUEGOS ",
+        "DETALLE": "CONSOLA GAME STICK PRO 4K +20 MIL JUEGOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "29500.0",
             "VENTA": "65000.0",
@@ -5101,8 +5101,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4500.0",
-            "VENTA": "8500.0",
-            "LISTA2": "0.0",
+            "VENTA": "13000.0",
+            "LISTA2": "6500.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
@@ -5155,8 +5155,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "5200.0",
-            "VENTA": "10000.0",
-            "LISTA2": "5200.0",
+            "VENTA": "15000.0",
+            "LISTA2": "7500.0",
             "LISTA3": "5200.0",
             "MAYOR": "5200.0"
         },
@@ -5278,11 +5278,11 @@
         "DETALLE": "DEPILADOR FACIAL",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
         "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "2850.0",
             "VENTA": "10000.0",
-            "LISTA2": "2850.0",
+            "LISTA2": "6000.0",
             "LISTA3": "2850.0",
             "MAYOR": "2850.0"
         },
@@ -5443,8 +5443,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "12500.0",
-            "VENTA": "22500.0",
-            "LISTA2": "12500.0",
+            "VENTA": "38000.0",
+            "LISTA2": "22000.0",
             "LISTA3": "12500.0",
             "MAYOR": "12500.0"
         },
@@ -6882,14 +6882,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8260.0",
+            "COSTO": "9187.0",
             "VENTA": "35000.0",
-            "LISTA2": "8260.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "9187.0",
+            "LISTA3": "9187.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7152,14 +7152,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10023.0",
+            "COSTO": "9555.0",
             "VENTA": "35000.0",
-            "LISTA2": "10023.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "9555.0",
+            "LISTA3": "9555.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7314,14 +7314,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "11115.0",
+            "COSTO": "9555.0",
             "VENTA": "35000.0",
-            "LISTA2": "11115.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "9555.0",
+            "LISTA3": "9555.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7762,16 +7762,16 @@
         "DETALLE": "MOD SAMS A03 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "13409",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13409.0",
+            "COSTO": "11270.0",
             "VENTA": "42000.0",
-            "LISTA2": "13409.0",
-            "LISTA3": "25000.0",
+            "LISTA2": "11270.0",
+            "LISTA3": "21011.8",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7818,14 +7818,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "9945.0",
+            "COSTO": "8085.0",
             "VENTA": "35000.0",
-            "LISTA2": "9945.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "8085.0",
+            "LISTA3": "8085.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8556,14 +8556,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "14756.0",
+            "COSTO": "12150.0",
             "VENTA": "42000.0",
-            "LISTA2": "14756.0",
-            "LISTA3": "26000.0",
-            "MAYOR": "25000.0"
+            "LISTA2": "12150.0",
+            "LISTA3": "12150.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8574,14 +8574,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "13455.0",
+            "COSTO": "12250.0",
             "VENTA": "45000.0",
-            "LISTA2": "13455.0",
-            "LISTA3": "23000.0",
+            "LISTA2": "12250.0",
+            "LISTA3": "12250.0",
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9079,8 +9079,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "3864.0",
-            "VENTA": "10000.0",
-            "LISTA2": "3864.0",
+            "VENTA": "14000.0",
+            "LISTA2": "10000.0",
             "LISTA3": "3864.0",
             "MAYOR": "3864.0"
         },
