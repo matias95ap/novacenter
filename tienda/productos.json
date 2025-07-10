@@ -487,14 +487,14 @@
     },
     {
         "CODIGO": "7912103301500",
-        "DETALLE": "ARO LED 45 CM RGB",
+        "DETALLE": "ARO LED 45 CM RGB + TRIPODE",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
         "P": {
             "COSTO": "30972.0",
-            "VENTA": "75000.0",
-            "LISTA2": "30972.0",
+            "VENTA": "85720.0",
+            "LISTA2": "60000.0",
             "LISTA3": "35172.0",
             "MAYOR": "30972.0"
         },
@@ -1147,7 +1147,7 @@
             "MAYOR": "3905.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1746,6 +1746,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "BATMOTBT60",
+        "DETALLE": "BATERIA MOTO BT60 V360",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "673.0",
+            "VENTA": "15000.0",
+            "LISTA2": "673.0",
+            "LISTA3": "673.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BATMOTG6PL",
         "DETALLE": "BATERIA MOTO G6 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
@@ -1814,6 +1832,24 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATNOKBL5J",
+        "DETALLE": "BATERIA NOKIA BL 5J",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NOKIA",
+        "P": {
+            "COSTO": "805.0",
+            "VENTA": "12000.0",
+            "LISTA2": "805.0",
+            "LISTA3": "805.0",
+            "MAYOR": "6000.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2443,7 +2479,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2785,7 +2821,7 @@
             "MAYOR": "2896.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3235,7 +3271,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7159,7 +7195,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
