@@ -499,7 +499,7 @@
             "MAYOR": "30972.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -805,7 +805,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1129,7 +1129,7 @@
             "MAYOR": "3905.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1165,7 +1165,7 @@
             "MAYOR": "3905.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3024,24 +3024,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "7798145003392",
-        "DETALLE": "CABLE USB DINAX V8 BOLSITA",
-        "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "DINAX",
-        "MARCA": "DINAX",
-        "P": {
-            "COSTO": "800.0",
-            "VENTA": "2300.0",
-            "LISTA2": "800.0",
-            "LISTA3": "800.0",
-            "MAYOR": "800.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "USB03",
         "DETALLE": "CABLE USB DINAX V8 EN TUBO",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
@@ -3289,7 +3271,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "43.0",
+        "STOCK": "42.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3361,7 +3343,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "16.0",
+        "STOCK": "17.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3559,7 +3541,7 @@
             "MAYOR": "19446.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3901,7 +3883,7 @@
             "MAYOR": "4870.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "2.0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
     },
@@ -3919,7 +3901,7 @@
             "MAYOR": "4210.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
     },
@@ -4603,7 +4585,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4873,7 +4855,7 @@
             "MAYOR": "29500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4999,7 +4981,7 @@
             "MAYOR": "2700.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6565,7 +6547,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6889,7 +6871,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6954,14 +6936,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9204.0",
+            "COSTO": "10920.0",
             "VENTA": "35000.0",
-            "LISTA2": "9204.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "10920.0",
+            "LISTA3": "10920.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7224,14 +7206,14 @@
         "PROVEEDOR": "SILEO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "13871.0",
+            "COSTO": "13000.0",
             "VENTA": "40000.0",
-            "LISTA2": "13871.0",
-            "LISTA3": "26000.0",
+            "LISTA2": "13000.0",
+            "LISTA3": "24367.2",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7291,7 +7273,7 @@
     },
     {
         "CODIGO": "MODMOTG13",
-        "DETALLE": "MOD MOTO G13/G23/34/G53",
+        "DETALLE": "MOD MOTO G13/G23/G34/G53",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
@@ -7753,7 +7735,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7782,11 +7764,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "8892.0",
+            "COSTO": "9750.0",
             "VENTA": "35000.0",
-            "LISTA2": "8892.0",
-            "LISTA3": "8892.0",
-            "MAYOR": "20000.0"
+            "LISTA2": "9750.0",
+            "LISTA3": "9750.0",
+            "MAYOR": "9000.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
@@ -8268,14 +8250,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8769.0",
+            "COSTO": "9620.0",
             "VENTA": "35000.0",
-            "LISTA2": "8769.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "9620.0",
+            "LISTA3": "9620.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8286,14 +8268,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "14760.0",
-            "VENTA": "45000.0",
-            "LISTA2": "14760.0",
-            "LISTA3": "26000.0",
-            "MAYOR": "26000.0"
+            "COSTO": "12350.0",
+            "VENTA": "42000.0",
+            "LISTA2": "12350.0",
+            "LISTA3": "12350.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9157,7 +9139,7 @@
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9427,7 +9409,7 @@
             "MAYOR": "260.5"
         },
         "IVA": "21",
-        "STOCK": "12.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11593,13 +11575,13 @@
     },
     {
         "CODIGO": "700306601221",
-        "DETALLE": "TECLADO AITECH USB AI K11",
+        "DETALLE": "TECLADO NETMAK",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "SILEO",
+        "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4012.0",
-            "VENTA": "15000.0",
+            "VENTA": "12500.0",
             "LISTA2": "4012.0",
             "LISTA3": "4012.0",
             "MAYOR": "4012.0"
@@ -12019,7 +12001,7 @@
             "MAYOR": "608.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12037,7 +12019,7 @@
             "MAYOR": "5.8"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
