@@ -1792,10 +1792,10 @@
             "VENTA": "24000.0",
             "LISTA2": "24000.0",
             "LISTA3": "14000.0",
-            "MAYOR": "14000.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2191,7 +2191,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3793,7 +3793,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4981,7 +4981,7 @@
             "MAYOR": "2700.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7285,7 +7285,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9900,6 +9900,330 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAE13",
+        "DETALLE": "PLACA DE CARGA MOTO E13",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE20",
+        "DETALLE": "PLACA DE CARGA MOTO E20",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2600.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2600.0",
+            "LISTA3": "2600.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE22",
+        "DETALLE": "PLACA DE CARGA MOTO E22",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2600.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2600.0",
+            "LISTA3": "2600.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE32",
+        "DETALLE": "PLACA DE CARGA MOTO E32",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2400.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2400.0",
+            "LISTA3": "2400.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE40",
+        "DETALLE": "PLACA DE CARGA MOTO E40",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE6PLAY",
+        "DETALLE": "PLACA DE CARGA MOTO E6 PLAY",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2300.0",
+            "VENTA": "18000.0",
+            "LISTA2": "2300.0",
+            "LISTA3": "2300.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE6I",
+        "DETALLE": "PLACA DE CARGA MOTO E6I",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "18000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE6S",
+        "DETALLE": "PLACA DE CARGA MOTO E6S",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "1700.0",
+            "VENTA": "18000.0",
+            "LISTA2": "1700.0",
+            "LISTA3": "1700.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE7",
+        "DETALLE": "PLACA DE CARGA MOTO E7",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2600.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2600.0",
+            "LISTA3": "2600.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE7PLUS",
+        "DETALLE": "PLACA DE CARGA MOTO E7 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "1800.0",
+            "VENTA": "22000.0",
+            "LISTA2": "1800.0",
+            "LISTA3": "1800.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE7POW",
+        "DETALLE": "PLACA DE CARGA MOTO E7 POWER",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2600.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2600.0",
+            "LISTA3": "2600.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG13",
+        "DETALLE": "PLACA DE CARGA MOTO G13",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG20",
+        "DETALLE": "PLACA DE CARGA MOTO G20",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG23",
+        "DETALLE": "PLACA DE CARGA MOTO G23",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG8",
+        "DETALLE": "PLACA DE CARGA MOTO G8",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG8PLUS",
+        "DETALLE": "PLACA DE CARGA MOTO G8 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2900.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2900.0",
+            "LISTA3": "2900.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAONE",
+        "DETALLE": "PLACA DE CARGA MOTO ONE",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAONEV",
+        "DETALLE": "PLACA DE CARGA MOTO ONE VISION",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAA01CR",
         "DETALLE": "PLACA DE CARGA SAMS A01 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -11101,7 +11425,7 @@
             "MAYOR": "26300.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
