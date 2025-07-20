@@ -3350,7 +3350,7 @@
     {
         "CODIGO": "723540563759",
         "DETALLE": "CABLE USB V8 TIME 3.1A",
-        "FAMILIA": "CABLES Y ADAPTADORES",
+        "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "TIME",
         "P": {
@@ -3613,7 +3613,7 @@
             "MAYOR": "2223.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3631,7 +3631,7 @@
             "MAYOR": "2223.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5342,6 +5342,24 @@
         },
         "IVA": "21",
         "STOCK": "10.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6963325960128",
+        "DETALLE": "DEPILADORA DE DAMA RECARGABLE",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "5380.0",
+            "VENTA": "18000.0",
+            "LISTA2": "15000.0",
+            "LISTA3": "5380.0",
+            "MAYOR": "5380.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10710,6 +10728,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "DALINGPLAN",
+        "DETALLE": "PLANCHITA DE PELO DALING 5241 220°C",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "18931.0",
+            "VENTA": "45000.0",
+            "LISTA2": "18931.0",
+            "LISTA3": "18931.0",
+            "MAYOR": "18931.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "PLANCHAHYT",
         "DETALLE": "PLANCHITA DE PELO HYTOSHY BRONCE",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
@@ -10766,7 +10802,7 @@
     {
         "CODIGO": "EC100210",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ASTRONAUTA",
-        "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "NUEVO",
         "P": {
