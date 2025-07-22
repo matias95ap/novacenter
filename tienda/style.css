@@ -53,7 +53,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-#ver-todos, #ver-nuevos, #ver-liquidacion {
+#ver-todos, #ver-nuevos, #ver-liquidacion, #ver-dia-nino {
   margin: 0;
   background-color: var(--menu);
   color: var(--celeste);
@@ -66,6 +66,9 @@ body {
 }
 
 #ver-nuevos, #ver-liquidacion {
+  margin-top: 10px;
+}
+#ver-liquidacion, #ver-dia-nino{
   margin-top: 10px;
 }
 .borde-extra {
@@ -172,7 +175,7 @@ h2 {
   color: var(--celeste);
   border-bottom: 2px solid #ccc;
   padding-bottom: 8px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 h3 {
   margin-top: 8px;
@@ -184,7 +187,7 @@ h3 {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 15px;
-  margin-top: 12px; /* se ve cuando no hay subcat*/
+  margin-top: 15px; /* se ve cuando no hay subcat*/
 }
 .producto {
   margin-bottom: auto;
@@ -204,24 +207,37 @@ h3 {
   object-fit: cover;
   border-radius: 10px;
 }
+.insignias-arriba {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: -1.2em 0em 0em;
+}
+.insignias-abajo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.2em;
+  margin: -1.9em 0 0.4em;
+}
 .insignia-texto {
-  position: absolute;
-  top: 2.7%;
-  left: 5.%;
-  padding: 0.3em 0.6em;
+  background-color: gray; /* se sobreescribe por cada clase */
+  padding: 0.2em 0.6em;
   font-size: 0.75em;
   border-radius: 0.5em;
-  pointer-events: none;
   color: white;
+  white-space: nowrap;
+  font-weight: bold;
+  text-align: center;
+}
+.insignia-texto.especial {
+  background-color: #e84393;
 }
 .insignia-texto.liquidacion {
   background-color: #d12e2d;
 }
 .insignia-texto.nuevo {
   background-color: var(--celeste);
-}
-.producto .insignia-texto.liquidacion + .insignia-texto.nuevo {
-  transform: translateY(116%);
 }
 
 .link-producto {
@@ -456,18 +472,18 @@ h3 {
   #sidebar h1 {
     display: none;
   }
-  #ver-todos,  #ver-nuevos, #ver-liquidacion {
-    font-size: 25px;
+  #ver-todos,  #ver-nuevos, #ver-liquidacion, #ver-dia-nino {
+    font-size: 20px;
   }
   .menu-categoria {
-    font-size: 25px;
+    font-size: 20px;
   }
   .botonflecha {
     font-size: 30px;
   }
   .menu-subcategoria {
     margin: 10px;
-    font-size: 20px;
+    font-size: 15px;
   }
   .submenu {
     font-size: 20px;
@@ -500,7 +516,7 @@ h3 {
   }
   
   main {
-    margin-top: 60px;
+    margin-top: 50px;
     margin-right: 5px;
     margin-left: 5px;
     padding: 0px;

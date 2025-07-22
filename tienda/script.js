@@ -367,7 +367,7 @@ Promise.all([
         "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
 
       const esNuevo = producto.MARCA === "NUEVO" && parseInt(producto.STOCK) > 0;
-      const esLiquidacion = esProductoLiquidacion(producto) && parseInt(producto.STOCK) > 0;        
+      const esLiquidacion = esProductoLiquidacion(producto) && parseInt(producto.STOCK) > 0;
 
       div.innerHTML = `
       ${esLiquidacion ? `<div class="insignia-detalle liquidacion">💸 Liquidación</div>` : ""}
@@ -393,7 +393,7 @@ Promise.all([
     /* ---------- tarjeta de producto ---------- */
     function crearCard(p, mayorista = false) {
       const esNuevo = p.MARCA === "NUEVO";
-      const esLiquidacion = esProductoLiquidacion(p);    
+      const esLiquidacion = esProductoLiquidacion(p);
       const card = document.createElement("div");
       card.className = "producto";
       card.dataset.codigo = p.CODIGO;
@@ -410,16 +410,35 @@ Promise.all([
 
       const mensaje = `Hola, quiero consultar por el producto: ${capitalizarTitulo(p.DETALLE)}\nhttps://novacenter.ar/tienda/?producto=${p.CODIGO}`;
       const linkWp = "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje);
-
       let insignia = "";
+
+      let insigniaArriba = "";
+      let insigniaAbajo = "";
+
       if (parseInt(p.STOCK) > 0) {
-        if (esLiquidacion) {
-          insignia += `<div class="insignia-texto liquidacion">💸 Liquidación</div>`;
+        // Insignia arriba de la imagen
+        if (p["STOCK IDEAL"] === "30") {
+          insigniaArriba = `
+      <div class="insignias-arriba">
+        <div class="insignia-texto especial">🎁 Día del Niño</div>
+      </div>`;
         }
+
+        // Insignias debajo de la imagen
+        const insignias = [];
         if (esNuevo) {
-          insignia += `<div class="insignia-texto nuevo">🆕 Nuevo</div>`;
+          insignias.push(`<div class="insignia-texto nuevo">🆕 Nuevo</div>`);
         }
-      } 
+        
+
+        if (insignias.length > 0) {
+          insigniaAbajo = `
+      <div class="insignias-abajo">
+        ${insignias.join("")}
+      </div>`;
+        }
+      }
+
       let precioHTML = `
         <span class="precio">$${precioMostrar.toLocaleString('es-AR')}</span>
       `;
@@ -429,7 +448,7 @@ Promise.all([
       if (esLiquidacion && parseInt(p.STOCK) > 0) {
         const precioLista2 = parseFloat(p.P.LISTA2);
         const descuento = Math.round(((precioVenta - precioLista2) / precioVenta) * 100);
-      
+
         precioHTML = `
           <span class="precio"><s>$${precioVenta.toLocaleString('es-AR')}</s></span>
         `;
@@ -443,9 +462,10 @@ Promise.all([
 
       card.innerHTML = `
         <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
-          ${insignia}
+          ${insigniaArriba}
           <img src="${imagen}" alt="${capitalizarTitulo(p.DETALLE)}"
                onerror="this.src='img/placeholder.jpg'">
+          ${insigniaAbajo}
           <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
         </a>
         <p class="stock">
@@ -617,7 +637,33 @@ Promise.all([
         grid.appendChild(crearCard(p, false, "liquidacion"));
       });
     }
+    /* ---------- botón “Día del Niño” ---------- */
+    const verDiaNinoBtn = document.createElement("button");
+    verDiaNinoBtn.id = "ver-dia-nino";
+    verDiaNinoBtn.textContent = "🎁 Día del Niño";
+    verDiaNinoBtn.addEventListener("click", () => {
+      history.pushState({}, "", "?dianino=1");
+      mostrarDiaDelNino();
+      if (window.innerWidth <= 600) {
+        document.getElementById("sidebar").classList.add("oculto");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    });
+    document.querySelector("#menu").insertBefore(verDiaNinoBtn, document.querySelector(".borde-extra"));
 
+    function mostrarDiaDelNino() {
+      contenedor.innerHTML = "<h2>🎁 Día del Niño</h2>";
+      const productosDiaNino = data.filter(p =>
+        p["STOCK IDEAL"] === "30" && parseInt(p.STOCK) > 0
+      );
+      const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productosDiaNino);
+      const grid = document.createElement("div");
+      grid.className = "productos-grid";
+      contenedor.appendChild(grid);
+      productosParaMostrar.forEach(p => {
+        grid.appendChild(crearCard(p));
+      });
+    }
     /* ---------- funciones de navegación ---------- */
     function navegarCategoria(cat) {
       if (filtros) filtros.classList.remove("visible");
@@ -757,6 +803,8 @@ Promise.all([
       const producto = params.get("producto");
       const q = params.get("buscar");
       const verNuevos = params.get("nuevos");
+      const verDiaNino = params.get("dianino");
+      const verLiquidacion = params.get("liquidacion");
 
       if (verNuevos === "1") {
         mostrarNuevos(); // 👈 esta función la definiste antes
@@ -771,6 +819,10 @@ Promise.all([
         mostrarCategoria(cat);
       } else {
         renderizarTodos();
+      } if (verDiaNino === "1") {
+        mostrarDiaDelNino();
+      } else if (verLiquidacion === "1") {
+        mostrarLiquidacion();
       }
     }
 
