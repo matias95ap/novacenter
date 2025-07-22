@@ -283,7 +283,7 @@
             "MAYOR": "6900.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -512,14 +512,14 @@
         "P": {
             "COSTO": "2300.0",
             "VENTA": "5000.0",
-            "LISTA2": "0.0",
+            "LISTA2": "3500.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
         "IVA": "21",
         "STOCK": "15.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "ASPIAUTO",
@@ -562,18 +562,18 @@
         "DETALLE": "AURICULAR BT ACSON AC700",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
-        "MARCA": "ACSON",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "13800.0",
             "VENTA": "32000.0",
-            "LISTA2": "13800.0",
+            "LISTA2": "26000.0",
             "LISTA3": "13800.0",
             "MAYOR": "13800.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011458",
@@ -591,7 +591,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011908",
@@ -609,7 +609,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011960",
@@ -627,7 +627,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011977",
@@ -645,7 +645,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011953",
@@ -663,7 +663,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "BT1",
@@ -688,7 +688,7 @@
         "DETALLE": "AURICULAR BT E6S PRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3849.0",
             "VENTA": "12000.0",
@@ -699,7 +699,7 @@
         "IVA": "21",
         "STOCK": "5.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "763571865415",
@@ -715,7 +715,7 @@
             "MAYOR": "3908.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -735,7 +735,7 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "EC100145",
@@ -745,7 +745,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "6726.0",
-            "VENTA": "16000.0",
+            "VENTA": "18000.0",
             "LISTA2": "6726.0",
             "LISTA3": "7300.0",
             "MAYOR": "6726.0"
@@ -753,50 +753,50 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AURI12BLAN",
         "DETALLE": "AURICULAR BT I12 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
-            "LISTA2": "3299.0",
+            "LISTA2": "10000.0",
             "LISTA3": "3299.0",
             "MAYOR": "3299.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AURI12CELE",
         "DETALLE": "AURICULAR BT I12 CELESTE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
-            "LISTA2": "3299.0",
+            "LISTA2": "10000.0",
             "LISTA3": "3299.0",
             "MAYOR": "3299.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AURI12NEGR",
         "DETALLE": "AURICULAR BT I12 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
@@ -807,14 +807,14 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AURI12ROSA",
         "DETALLE": "AURICULAR BT I12 ROSA",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
@@ -825,14 +825,14 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AURI12VERD",
         "DETALLE": "AURICULAR BT I12 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
@@ -843,7 +843,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540564541",
@@ -897,7 +897,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "EC100314",
@@ -915,7 +915,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "EC100225",
@@ -933,14 +933,14 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "P47AZUL",
         "DETALLE": "AURICULAR BT P47 AZUL",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -951,32 +951,32 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "P47BLANCO",
         "DETALLE": "AURICULAR BT P47 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
-            "LISTA2": "3505.0",
+            "LISTA2": "9000.0",
             "LISTA3": "3505.0",
             "MAYOR": "3505.0"
         },
         "IVA": "21",
         "STOCK": "5.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "P47ROJO",
         "DETALLE": "AURICULAR BT P47 ROJO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -987,14 +987,14 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "P47VERDE",
         "DETALLE": "AURICULAR BT P47 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -1005,7 +1005,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6952024616184",
@@ -1016,14 +1016,14 @@
         "P": {
             "COSTO": "9900.0",
             "VENTA": "20000.0",
-            "LISTA2": "9900.0",
+            "LISTA2": "15000.0",
             "LISTA3": "9900.0",
             "MAYOR": "9900.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540563919",
@@ -1041,7 +1041,7 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540563643",
@@ -1059,7 +1059,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "9678142435861",
@@ -1095,7 +1095,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "ULTRAPODNE",
@@ -1113,7 +1113,7 @@
         "IVA": "21",
         "STOCK": "0.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "9678142474129",
@@ -1131,7 +1131,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "ULTRBLANCO",
@@ -1149,7 +1149,7 @@
         "IVA": "21",
         "STOCK": "0.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "9678142473313",
@@ -1167,7 +1167,7 @@
         "IVA": "21",
         "STOCK": "0.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "ULTRVERDE",
@@ -1185,14 +1185,14 @@
         "IVA": "21",
         "STOCK": "0.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "WIREM41",
         "DETALLE": "AURICULAR BT WIRELESS M41",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "5799.0",
             "VENTA": "25000.0",
@@ -1203,7 +1203,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540565319",
@@ -1221,7 +1221,7 @@
         "IVA": "21",
         "STOCK": "34.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "701575363032",
@@ -1257,7 +1257,7 @@
         "IVA": "21",
         "STOCK": "6.0",
         "STOCK MIN": "3",
-        "STOCK IDEAL": "5"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6821684654921",
@@ -1275,7 +1275,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305541800080",
@@ -1293,7 +1293,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305241540118",
@@ -1311,7 +1311,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305241540101",
@@ -1329,7 +1329,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305241540125",
@@ -1347,7 +1347,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305541800011",
@@ -1365,7 +1365,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "305541800028",
@@ -1383,7 +1383,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7798137707109",
@@ -1394,14 +1394,14 @@
         "P": {
             "COSTO": "4000.0",
             "VENTA": "7500.0",
-            "LISTA2": "4000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "4000.0",
             "MAYOR": "4000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6958864541020",
@@ -1419,7 +1419,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7795874225149",
@@ -1502,14 +1502,14 @@
         "P": {
             "COSTO": "500.0",
             "VENTA": "2500.0",
-            "LISTA2": "500.0",
+            "LISTA2": "2000.0",
             "LISTA3": "500.0",
             "MAYOR": "500.0"
         },
         "IVA": "21",
         "STOCK": "10.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "8786150384215",
@@ -1581,7 +1581,7 @@
         "IVA": "21",
         "STOCK": "19.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6954515820391",
@@ -3240,24 +3240,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "7798383571325",
-        "DETALLE": "CABLE USB SOUL V8",
-        "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "SILEO",
-        "MARCA": "SOUL",
-        "P": {
-            "COSTO": "1186.0",
-            "VENTA": "3200.0",
-            "LISTA2": "1186.0",
-            "LISTA3": "1186.0",
-            "MAYOR": "1186.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "723540565166",
         "DETALLE": "CABLE USB TIME V8 BOLSITA",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
@@ -3453,7 +3435,7 @@
         "IVA": "21",
         "STOCK": "6.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "HOCAF8238",
@@ -3514,7 +3496,7 @@
         "DETALLE": "CAMARA CON IMPRESORA TERMICA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "21184.0",
             "VENTA": "45000.0",
@@ -3525,14 +3507,14 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "CAMROSA",
         "DETALLE": "CAMARA CON IMPRESORA TERMICA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "21184.0",
             "VENTA": "45000.0",
@@ -3543,7 +3525,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540563704",
@@ -3597,7 +3579,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135002890",
@@ -3615,25 +3597,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "7799135002890",
-        "DETALLE": "CAMARA WEBCAM AITECH CON SOPORTE",
-        "FAMILIA": "CELULAR Y COMPUTACION",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "AITECH",
-        "P": {
-            "COSTO": "2223.0",
-            "VENTA": "9500.0",
-            "LISTA2": "2223.0",
-            "LISTA3": "2223.0",
-            "MAYOR": "2223.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "CANDCHICO",
@@ -3901,7 +3865,7 @@
             "MAYOR": "4870.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
     },
@@ -3922,24 +3886,6 @@
         "STOCK": "1.0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
-    },
-    {
-        "CODIGO": "6953156263086",
-        "DETALLE": "CARGADOR AUTO IBEK CABEZAL",
-        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "IBEK",
-        "P": {
-            "COSTO": "2500.0",
-            "VENTA": "5000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "CARG3",
@@ -4154,24 +4100,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "7795234531194",
-        "DETALLE": "CARGADOR IBEK TIPO C 5.1A",
-        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "IBEK",
-        "P": {
-            "COSTO": "3200.0",
-            "VENTA": "6000.0",
-            "LISTA2": "3200.0",
-            "LISTA3": "3200.0",
-            "MAYOR": "3200.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4857,7 +4785,7 @@
         "IVA": "21",
         "STOCK": "5.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "MULTICONSOLA2",
@@ -4903,8 +4831,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "19500.0",
-            "VENTA": "35000.0",
-            "LISTA2": "19500.0",
+            "VENTA": "40000.0",
+            "LISTA2": "32000.0",
             "LISTA3": "19500.0",
             "MAYOR": "19500.0"
         },
@@ -5017,7 +4945,7 @@
             "MAYOR": "2700.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5595,7 +5523,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "ILFOC4695",
@@ -5815,21 +5743,21 @@
     },
     {
         "CODIGO": "JUGAT5397",
-        "DETALLE": "GATILLO PARA CELULAR DINAX",
+        "DETALLE": "GATILLO PALANCA JOYSTICK PARA CELULAR",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
             "COSTO": "900.0",
-            "VENTA": "2500.0",
-            "LISTA2": "0.0",
+            "VENTA": "5000.0",
+            "LISTA2": "3000.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "1911251636216",
@@ -5918,24 +5846,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "729208240086",
-        "DETALLE": "JOYSTICK GAMEPAD COOLER",
-        "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "SUONO",
-        "P": {
-            "COSTO": "2400.0",
-            "VENTA": "8500.0",
-            "LISTA2": "2400.0",
-            "LISTA3": "2400.0",
-            "MAYOR": "2400.0"
-        },
-        "IVA": "21",
-        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6326,14 +6236,14 @@
         "P": {
             "COSTO": "1200.0",
             "VENTA": "5000.0",
-            "LISTA2": "1200.0",
+            "LISTA2": "4000.0",
             "LISTA3": "1200.0",
             "MAYOR": "1200.0"
         },
         "IVA": "21",
         "STOCK": "6.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "BICILED02",
@@ -6343,7 +6253,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "1500.0",
-            "VENTA": "5000.0",
+            "VENTA": "6000.0",
             "LISTA2": "0.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
@@ -6351,7 +6261,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "LUZESTETIC2",
@@ -6686,14 +6596,14 @@
         "P": {
             "COSTO": "4976.0",
             "VENTA": "13500.0",
-            "LISTA2": "4976.0",
+            "LISTA2": "12000.0",
             "LISTA3": "4976.0",
             "MAYOR": "4976.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "MICROFONO",
@@ -6729,7 +6639,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "1234567890128",
@@ -6783,7 +6693,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6925749735966",
@@ -6842,20 +6752,20 @@
     {
         "CODIGO": "7798423540908",
         "DETALLE": "MINI IMPRESORA PORTATIL",
-        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "TECNO IMPORTACION",
         "MARCA": "nan",
         "P": {
             "COSTO": "13600.0",
-            "VENTA": "30000.0",
-            "LISTA2": "13600.0",
+            "VENTA": "35000.0",
+            "LISTA2": "28000.0",
             "LISTA3": "20600.0",
             "MAYOR": "13600.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "AIKB020599R",
@@ -6873,7 +6783,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "153500620",
@@ -6884,14 +6794,14 @@
         "P": {
             "COSTO": "5878.0",
             "VENTA": "12000.0",
-            "LISTA2": "5878.0",
+            "LISTA2": "8000.0",
             "LISTA3": "5878.0",
             "MAYOR": "5878.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "MINIVENTI",
@@ -7843,7 +7753,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8617,7 +8527,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8781,7 +8691,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "5433456789017",
@@ -8799,7 +8709,7 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "700306605557",
@@ -8817,7 +8727,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "OLLAELECT",
@@ -8871,7 +8781,43 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "JUPAL8072",
+        "DETALLE": "PALANCA JOYSTICK GAME PAD PARA CELULAR",
+        "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "1900.0",
+            "VENTA": "6000.0",
+            "LISTA2": "4000.0",
+            "LISTA3": "0.0",
+            "MAYOR": "0.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "729208240086",
+        "DETALLE": "PALANCA JOYSTICK GAMEPAD COOLER",
+        "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "SUONO",
+        "P": {
+            "COSTO": "2400.0",
+            "VENTA": "9000.0",
+            "LISTA2": "75000.0",
+            "LISTA3": "2400.0",
+            "MAYOR": "2400.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6930149999894",
@@ -8889,7 +8835,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7798137713162",
@@ -8907,7 +8853,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "4948872001458",
@@ -8917,15 +8863,15 @@
         "MARCA": "SONY",
         "P": {
             "COSTO": "6355.0",
-            "VENTA": "13999.0",
-            "LISTA2": "6355.0",
+            "VENTA": "18000.0",
+            "LISTA2": "14000.0",
             "LISTA3": "6355.0",
             "MAYOR": "6355.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "711719990048",
@@ -8935,8 +8881,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "8600.0",
-            "VENTA": "16900.0",
-            "LISTA2": "8600.0",
+            "VENTA": "24000.0",
+            "LISTA2": "16900.0",
             "LISTA3": "8600.0",
             "MAYOR": "8600.0"
         },
@@ -8961,7 +8907,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6459751458519",
@@ -9166,7 +9112,7 @@
         "DETALLE": "PARLANTE BT MINI COLORES",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "3864.0",
             "VENTA": "14000.0",
@@ -9177,7 +9123,7 @@
         "IVA": "21",
         "STOCK": "6.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "PARLANTE02",
@@ -10849,7 +10795,7 @@
             "MAYOR": "900.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10868,24 +10814,6 @@
         },
         "IVA": "21",
         "STOCK": "9.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "JUPAL8072",
-        "DETALLE": "Palanca GamePad para Celular",
-        "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "1900.0",
-            "VENTA": "4750.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11103,61 +11031,43 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011984",
         "DETALLE": "RELOJ SMART WATCH AITECH SW2800",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "AITECH",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "8058.0",
             "VENTA": "20000.0",
-            "LISTA2": "8058.0",
+            "LISTA2": "16000.0",
             "LISTA3": "8058.0",
             "MAYOR": "8058.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "RLJ1",
-        "DETALLE": "RELOJ SMART WATCH MACARON",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "MACARON",
-        "P": {
-            "COSTO": "4500.0",
-            "VENTA": "8500.0",
-            "LISTA2": "4500.0",
-            "LISTA3": "4500.0",
-            "MAYOR": "4500.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7799135011861",
         "DETALLE": "RELOJ SMARTWATCH AITECH SW90",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "AITECH",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "8176.0",
             "VENTA": "24000.0",
-            "LISTA2": "8176.0",
+            "LISTA2": "18000.0",
             "LISTA3": "8176.0",
             "MAYOR": "8176.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "RELOJSMART",
@@ -11488,7 +11398,7 @@
         "DETALLE": "SET DE TECLADO Y MOUSE INALAMBRICO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "10795.0",
             "VENTA": "25000.0",
@@ -11499,7 +11409,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "763571815083",
@@ -11607,7 +11517,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "SOPORTEANI",
@@ -11805,7 +11715,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7798145005969",
@@ -12003,7 +11913,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "REPARACION",
@@ -12039,7 +11949,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "700306601221",
@@ -12057,7 +11967,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "TERMOMETRO",
@@ -12102,11 +12012,11 @@
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
-            "COSTO": "2500.0",
-            "VENTA": "5000.0",
-            "LISTA2": "2500.0",
-            "LISTA3": "2500.0",
-            "MAYOR": "2500.0"
+            "COSTO": "2239.0",
+            "VENTA": "6000.0",
+            "LISTA2": "3500.0",
+            "LISTA3": "2239.0",
+            "MAYOR": "2239.0"
         },
         "IVA": "21",
         "STOCK": "10.0",
@@ -12165,7 +12075,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "7795234526572",
@@ -12183,7 +12093,7 @@
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "LED5050",
@@ -12201,7 +12111,7 @@
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "NEON5050",
@@ -12212,14 +12122,14 @@
         "P": {
             "COSTO": "16700.0",
             "VENTA": "32000.0",
-            "LISTA2": "16700.0",
+            "LISTA2": "28000.0",
             "LISTA3": "16700.0",
             "MAYOR": "16700.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "TORNOELECT",
@@ -12499,7 +12409,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "773.0",
-            "VENTA": "3500.0",
+            "VENTA": "5000.0",
             "LISTA2": "773.0",
             "LISTA3": "773.0",
             "MAYOR": "773.0"
@@ -12625,15 +12535,15 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "3934.0",
-            "VENTA": "10000.0",
-            "LISTA2": "3934.0",
+            "VENTA": "12000.0",
+            "LISTA2": "9000.0",
             "LISTA3": "3934.0",
             "MAYOR": "3934.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "VELADORASTRO",
@@ -12651,7 +12561,7 @@
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "6973295330296",
@@ -12739,7 +12649,7 @@
             "MAYOR": "6467.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
