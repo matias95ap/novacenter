@@ -697,7 +697,7 @@
             "MAYOR": "3849.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1019,6 +1019,42 @@
             "LISTA2": "15000.0",
             "LISTA3": "9900.0",
             "MAYOR": "9900.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "EC100301N",
+        "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 NEGRO",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "11614.0",
+            "VENTA": "35000.0",
+            "LISTA2": "29000.0",
+            "LISTA3": "11614.0",
+            "MAYOR": "11614.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "EC100301C",
+        "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 VERDE",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "11614.0",
+            "VENTA": "35000.0",
+            "LISTA2": "29000.0",
+            "LISTA3": "11614.0",
+            "MAYOR": "11614.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
@@ -2587,7 +2623,7 @@
             "MAYOR": "2200.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2605,7 +2641,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "25.0",
+        "STOCK": "24.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3253,7 +3289,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3271,7 +3307,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "82.0",
+        "STOCK": "81.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3721,7 +3757,7 @@
             "MAYOR": "4962.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4801,7 +4837,7 @@
             "MAYOR": "25615.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -6822,6 +6858,78 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODALC1VP",
+        "DETALLE": "MOD ALCATEL 1V PLUS 5007/TCL L7/L9S",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "ALCATEL",
+        "P": {
+            "COSTO": "16120.0",
+            "VENTA": "45000.0",
+            "LISTA2": "16120.0",
+            "LISTA3": "28000.0",
+            "MAYOR": "26000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODLGK10CM",
+        "DETALLE": "MOD LG K10 K430AR V01/V02 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "LG",
+        "P": {
+            "COSTO": "3132.0",
+            "VENTA": "35000.0",
+            "LISTA2": "3132.0",
+            "LISTA3": "3132.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODLGK22CM",
+        "DETALLE": "MOD LG K22 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "LG",
+        "P": {
+            "COSTO": "13702.0",
+            "VENTA": "45000.0",
+            "LISTA2": "13702.0",
+            "LISTA3": "13702.0",
+            "MAYOR": "24000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODLGK42",
+        "DETALLE": "MOD LG K42/K52/K62/K420/K520/LMK520",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "LG",
+        "P": {
+            "COSTO": "14094.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14094.0",
+            "LISTA3": "14094.0",
+            "MAYOR": "25000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTC",
         "DETALLE": "MOD MOTO C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -6882,14 +6990,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9187.0",
+            "COSTO": "12136.0",
             "VENTA": "35000.0",
-            "LISTA2": "9187.0",
-            "LISTA3": "9187.0",
+            "LISTA2": "12136.0",
+            "LISTA3": "12136.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7159,7 +7267,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7213,7 +7321,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7224,14 +7332,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "14457.0",
+            "COSTO": "13050.0",
             "VENTA": "45000.0",
-            "LISTA2": "14457.0",
-            "LISTA3": "25000.0",
+            "LISTA2": "13050.0",
+            "LISTA3": "22567.4",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7260,14 +7368,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11115.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11115.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12000.0",
+            "VENTA": "38000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "21592.8",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7717,7 +7825,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7753,7 +7861,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7897,7 +8005,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7934,6 +8042,24 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA06CM",
+        "DETALLE": "MOD SAMS A06 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "16965.0",
+            "VENTA": "52000.0",
+            "LISTA2": "16965.0",
+            "LISTA3": "16965.0",
+            "MAYOR": "29000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8636,24 +8762,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "MODALC1VP",
-        "DETALLE": "MODULO ALCATEL 1V PLUS 5007/TCL L7/L9S",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "ALCATEL",
-        "P": {
-            "COSTO": "16120.0",
-            "VENTA": "45000.0",
-            "LISTA2": "16120.0",
-            "LISTA3": "28000.0",
-            "MAYOR": "26000.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9904,7 +10012,7 @@
         "DETALLE": "PIZARRA LCD 12 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "2736.0",
             "VENTA": "7000.0",
@@ -9913,16 +10021,16 @@
             "MAYOR": "2736.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "PIZARRA85",
         "DETALLE": "PIZARRA LCD 8.5 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "1185.0",
             "VENTA": "4000.0",
@@ -9933,7 +10041,7 @@
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
+        "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "CARGAE13",
@@ -10327,7 +10435,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10399,7 +10507,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10764,8 +10872,44 @@
         "STOCK IDEAL": "30"
     },
     {
+        "CODIGO": "POPIT",
+        "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS LLAVERO VARIOS",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "1900.0",
+            "VENTA": "6000.0",
+            "LISTA2": "3500.0",
+            "LISTA3": "1900.0",
+            "MAYOR": "1900.0"
+        },
+        "IVA": "21",
+        "STOCK": "6.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
         "CODIGO": "EC100209",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS OSITO",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "3900.0",
+            "VENTA": "18000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "3900.0",
+            "MAYOR": "3900.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "EC100212",
+        "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "NUEVO",
@@ -11047,7 +11191,7 @@
             "MAYOR": "8058.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -11209,7 +11353,7 @@
             "MAYOR": "1389.4"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11287,7 +11431,7 @@
     },
     {
         "CODIGO": "ORYXSECADOR",
-        "DETALLE": "SECADOR DE PELO ORYX MODERNO",
+        "DETALLE": "SECADOR DE PELO ORYX",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "ORYX",
@@ -11497,7 +11641,7 @@
             "MAYOR": "600.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
