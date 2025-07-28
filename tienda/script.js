@@ -357,8 +357,8 @@ Promise.all([
       if (parseInt(producto.STOCK) === 0) div.classList.add("sin-stock");
 
       const imagen = producto.CODIGO && producto.CODIGO.trim()
-        ? `img/${producto.CODIGO}.jpg`
-        : "img/placeholder.jpg";
+        ? `img/${producto.CODIGO}.webp`
+        : "img/placeholder.webp";
 
       const mensaje2 =
         `Hola, quiero comprar el producto: ${capitalizarTitulo(producto.DETALLE)}\n` +
@@ -374,7 +374,7 @@ Promise.all([
       ${esNuevo ? `<div class="insignia-detalle nuevo">🆕 Nuevo</div>` : ""}
           <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
           <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
-               onerror="this.src='img/placeholder.jpg'">
+               onerror="this.src='img/placeholder.webp'">
           <p class="precio">Precio: $${parseInt(producto.P.VENTA).toLocaleString("es-AR")}</p>
           <p>${parseInt(producto.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</p>
           <a class="boton-comprar2" href="${linkWp2}" target="_blank">
@@ -401,8 +401,8 @@ Promise.all([
       if (parseInt(p.STOCK) === 0) card.classList.add("sin-stock");
 
       const imagen = p.CODIGO && p.CODIGO.trim()
-        ? `img/${p.CODIGO}.jpg`
-        : "img/placeholder.jpg";
+        ? `img/${p.CODIGO}.webp`
+        : "img/placeholder.webp";
 
       const precioVenta = parseFloat(p.P.VENTA);
       const precioMayorista = parseFloat(p.P.MAYOR || 0);
@@ -464,7 +464,7 @@ Promise.all([
         <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
           ${insigniaArriba}
           <img src="${imagen}" alt="${capitalizarTitulo(p.DETALLE)}"
-               onerror="this.src='img/placeholder.jpg'">
+               onerror="this.src='img/placeholder.webp'">
           ${insigniaAbajo}
           <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
         </a>
