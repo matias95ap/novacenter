@@ -50,8 +50,20 @@ body {
   font-weight: bold;
   border-radius: 8px;
   color: white;
-  background-color: #00a0cd;
+  background-color: #00BFFF;
   transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.links a.dia {
+  background-color: #e84393;
+}
+
+.links a.mayorista {
+  background-color: #d12e2d;
+}
+
+.links a.what {
+  background-color:#25D366;
 }
 
 .links a:hover {
@@ -59,9 +71,6 @@ body {
   filter: brightness(1.1);
 }
 
-.mayorista {
-  background: gray;
-}
 
 .social-icons {
   margin-top: 10px;
@@ -90,19 +99,19 @@ body {
 }
 
 .instagram {
-  background-color: #00a0cd;
+  background-color: #00BFFF;
 }
 
 .tiktok {
-  background-color: #00a0cd;
+  background-color: #00BFFF;
 }
 
 .facebook-profile {
-  background-color: #00a0cd;
+  background-color: #00BFFF;
 }
 
 .facebook-page {
-  background-color: #00a0cd;
+  background-color: #00BFFF;
 }
 
 .follow-text, .handle {
@@ -116,6 +125,6 @@ body {
   justify-content: center;
   text-decoration: none;
   margin-top: 8px;
-  color: #00a0cd;
+  color:#00BFFF;
   font-size: 18px;
 }
