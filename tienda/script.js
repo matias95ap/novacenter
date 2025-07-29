@@ -343,15 +343,30 @@ Promise.all([
 
     /* ---------- mostrar detalle de producto ---------- */
 
-    function mostrarProducto(codigo) {
+    function mostrarProducto(codigo, mayorista = false, modo = "normal", diaDelNino = false) {
       const producto = Object.values(categorias)
         .flatMap(subs => Object.values(subs).flat())
         .find(p => p.CODIGO === codigo);
 
       if (!producto) return;
 
-      contenedor.innerHTML = "";
+      if (modo === "normal") {
+        if (producto.MARCA === "NUEVO") modo = "nuevo";
+        else if (esProductoLiquidacion(producto)) modo = "liquidacion";
+      }
 
+      const esNuevo = (modo === "nuevo" || producto.MARCA === "NUEVO") && parseInt(producto.STOCK) > 0;
+      const esLiquidacion = (modo === "liquidacion" || esProductoLiquidacion(producto)) && parseInt(producto.STOCK) > 0;
+      const esDiaDelNino = producto["STOCK IDEAL"] === "30" && parseInt(producto.STOCK) > 0;
+
+      const precioVenta = parseFloat(producto.P.VENTA);
+      const precioLista2 = parseFloat(producto.P.LISTA2);
+      const precioFinal = esLiquidacion ? precioLista2 : precioVenta;
+      const descuento = esLiquidacion
+        ? Math.round(((precioVenta - precioLista2) / precioVenta) * 100)
+        : 0;
+
+      contenedor.innerHTML = "";
       const div = document.createElement("div");
       div.className = "producto-detalle";
       if (parseInt(producto.STOCK) === 0) div.classList.add("sin-stock");
@@ -360,32 +375,48 @@ Promise.all([
         ? `img/${producto.CODIGO}.webp`
         : "img/placeholder.webp";
 
-      const mensaje2 =
-        `Hola, quiero comprar el producto: ${capitalizarTitulo(producto.DETALLE)}\n` +
-        `https://novacenter.ar/tienda/?producto=${producto.CODIGO}`;
-      const linkWp2 =
-        "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
+      const mensaje2 = `Hola, quiero consultar por el producto: ${capitalizarTitulo(producto.DETALLE)}\nhttps://novacenter.ar/tienda/?producto=${producto.CODIGO}`;
+      const linkWp2 = "https://wa.me/5493772582822?text=" + encodeURIComponent(mensaje2);
 
-      const esNuevo = producto.MARCA === "NUEVO" && parseInt(producto.STOCK) > 0;
-      const esLiquidacion = esProductoLiquidacion(producto) && parseInt(producto.STOCK) > 0;
+      let precioHTML = `
+        <p class="precio">Precio: $${precioFinal.toLocaleString("es-AR")}</p>
+      `;
 
-      div.innerHTML = `
-      ${esLiquidacion ? `<div class="insignia-detalle liquidacion">💸 Liquidación</div>` : ""}
-      ${esNuevo ? `<div class="insignia-detalle nuevo">🆕 Nuevo</div>` : ""}
-          <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
-          <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}"
-               onerror="this.src='img/placeholder.webp'">
-          <p class="precio">Precio: $${parseInt(producto.P.VENTA).toLocaleString("es-AR")}</p>
-          <p>${parseInt(producto.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</p>
-          <a class="boton-comprar2" href="${linkWp2}" target="_blank">
-            Toca aqui para Consultar <i class="fab fa-whatsapp"></i>
-          </a>
-          <div class="boton-accion">
-            <button class="boton-atras" onclick="volverProducto()"><i class="fa-solid fa-caret-left"></i>Volver</button>
-            <button class="boton-compartir" onclick="compartirProducto('${producto.DETALLE}',
-            '${producto.CODIGO}')">Compartir<i class="fa-solid fa-share-nodes"></i></button>
+      let extraHTML = "";
+
+      if (esLiquidacion) {
+        precioHTML = `
+          <span> Antes:</span>
+          <span class="precio"><s>$${precioVenta.toLocaleString("es-AR")}</s></span>
+        `;
+        extraHTML = `
+          <div class="liquidacion-precio-detalle">
+            <span class="precio-final">Ahora: $${precioFinal.toLocaleString("es-AR")}</span>
+            <span class="descuento">--->💸 ${descuento}% OFF</span>
           </div>
-          `;
+        `;
+      }
+      div.innerHTML = `
+        <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
+        <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}" onerror="this.src='img/placeholder.webp'">
+        <div class="precio-detalle">
+          ${precioHTML}
+          ${extraHTML}
+        </div>
+        <div class="stock-e-insignias">
+         <span class="stock-texto">${parseInt(producto.STOCK) > 0 ? "✅ En stock" : "❌ Agotado"}</span>
+         ${esDiaDelNino ? `<div class="insignia-detalle especial">🎁 Día del Niño</div>` : ""}
+         ${esLiquidacion ? `<div class="insignia-detalle liquidacion">💸 Liquidación</div>` : ""}
+         ${esNuevo ? `<div class="insignia-detalle nuevo">🆕 Nuevo</div>` : ""}
+        </div>
+        <a class="boton-comprar2" href="${linkWp2}" target="_blank">
+          Toca aqui para Consultar <i class="fab fa-whatsapp"></i>
+        </a>
+        <div class="boton-accion">
+          <button class="boton-atras" onclick="volverProducto()"><i class="fa-solid fa-caret-left"></i>Volver</button>
+          <button class="boton-compartir" onclick="compartirProducto('${producto.DETALLE}','${producto.CODIGO}')">Compartir<i class="fa-solid fa-share-nodes"></i></button>
+        </div>
+      `;
 
       contenedor.appendChild(div);
     }
@@ -429,7 +460,7 @@ Promise.all([
         if (esNuevo) {
           insignias.push(`<div class="insignia-texto nuevo">🆕 Nuevo</div>`);
         }
-        
+
 
         if (insignias.length > 0) {
           insigniaAbajo = `
@@ -469,7 +500,7 @@ Promise.all([
           <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
         </a>
         <p class="stock">
-          <span class="stock-left">${parseInt(p.STOCK) > 0 ? "✅ En stock" : "❌ Sin stock"}</span>
+          <span class="stock-left">${parseInt(p.STOCK) > 0 ? "✅ En stock" : "❌ Agotado"}</span>
           ${precioHTML}
         </p>
         ${extraHTML}

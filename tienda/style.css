@@ -363,30 +363,13 @@ h3 {
 .producto {
   position: relative;
 }
-.insignia-detalle {
-  position: absolute;
-  top: 82px;
-  left: 289px; /* igual al ancho del sidebar en desktop */
-  padding: 6px 10px;
-  font-size: 15px;
-  font-weight: bold;
-  border-radius: 10px;
-  color: white;
+.stock-e-insignias {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0;
 }
-
-.insignia-detalle.liquidacion {
-  background-color: #d12e2d;; /* rojo */
-}
-
-.insignia-detalle.nuevo {
-  background-color: var(--celeste); /* celeste */
-}
-
-/* 👉 Si están ambas, desplazar “Nuevo” hacia abajo */
-.producto-detalle .insignia-detalle.liquidacion + .insignia-detalle.nuevo {
-  transform: translateY(115%);
-}
-
 /* Oculta el menú con una animación lateral */
 #sidebar.oculto {
   transform: translateX(-100%);
