@@ -1255,7 +1255,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "34.0",
+        "STOCK": "33.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1742,24 +1742,6 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "SPRINT3EN1",
-        "DETALLE": "BARBEADORA SPRINT 3 EN 1",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "SPRINT",
-        "P": {
-            "COSTO": "13800.0",
-            "VENTA": "23000.0",
-            "LISTA2": "13800.0",
-            "LISTA3": "13800.0",
-            "MAYOR": "13800.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3307,7 +3289,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "81.0",
+        "STOCK": "78.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3361,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "17.0",
+        "STOCK": "16.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4825,7 +4807,7 @@
     },
     {
         "CODIGO": "MULTICONSOLA2",
-        "DETALLE": "CONSOLA GAME STICK 4K +10 MIL JUEGOS",
+        "DETALLE": "CONSOLA GAME STICK 4K +20 MIL JUEGOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
@@ -4837,7 +4819,7 @@
             "MAYOR": "25615.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -5022,24 +5004,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6957952210015",
-        "DETALLE": "CORTA PELO GM 1010",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "9000.0",
-            "VENTA": "19700.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "6957952239153",
         "DETALLE": "CORTA PELO INALAMBRICO",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
@@ -5076,24 +5040,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6955549314184",
-        "DETALLE": "CORTA PELO KEMEI 3 EN 1",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "12500.0",
-            "VENTA": "20000.0",
-            "LISTA2": "12500.0",
-            "LISTA3": "12500.0",
-            "MAYOR": "12500.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "6972831211938",
         "DETALLE": "CORTA PELO PROFESIONAL DALING 1193",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
@@ -5126,24 +5072,6 @@
         },
         "IVA": "21",
         "STOCK": "9.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6955549314252",
-        "DETALLE": "CORTA PELO RECARGABLE KEMEI 1425",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "7500.0",
-            "VENTA": "15000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6054,11 +5982,11 @@
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
-            "COSTO": "41000.0",
+            "COSTO": "34600.0",
             "VENTA": "75000.0",
-            "LISTA2": "41000.0",
-            "LISTA3": "41000.0",
-            "MAYOR": "41000.0"
+            "LISTA2": "60000.0",
+            "LISTA3": "34600.0",
+            "MAYOR": "34600.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
@@ -6721,13 +6649,49 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "10146.0",
-            "VENTA": "18000.0",
-            "LISTA2": "10146.0",
+            "VENTA": "22000.0",
+            "LISTA2": "16500.0",
             "LISTA3": "10146.0",
             "MAYOR": "10146.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "CAM121007",
+        "DETALLE": "MINI CAMARA INFATIL CON FUNDA CELESTE",
+        "FAMILIA": "JUEGOS Y JUGUETES",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "10007.0",
+            "VENTA": "28000.0",
+            "LISTA2": "22000.0",
+            "LISTA3": "10007.0",
+            "MAYOR": "10007.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "CAM121006",
+        "DETALLE": "MINI CAMARA INFATIL CON FUNDA ROSITA",
+        "FAMILIA": "JUEGOS Y JUGUETES",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "10007.0",
+            "VENTA": "28000.0",
+            "LISTA2": "22000.0",
+            "LISTA3": "10007.0",
+            "MAYOR": "10007.0"
+        },
+        "IVA": "21",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -8844,11 +8808,11 @@
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "ORYX",
         "P": {
-            "COSTO": "28173.0",
-            "VENTA": "57999.0",
-            "LISTA2": "28173.0",
-            "LISTA3": "28173.0",
-            "MAYOR": "28173.0"
+            "COSTO": "33000.0",
+            "VENTA": "67999.0",
+            "LISTA2": "33000.0",
+            "LISTA3": "33000.0",
+            "MAYOR": "33000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
@@ -9360,6 +9324,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "PELOTA",
+        "DETALLE": "PELOTA N5",
+        "FAMILIA": "JUEGOS Y JUGUETES",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "4500.0",
+            "VENTA": "9000.0",
+            "LISTA2": "4500.0",
+            "LISTA3": "4500.0",
+            "MAYOR": "4500.0"
+        },
+        "IVA": "21",
+        "STOCK": "9.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "740617309928",
         "DETALLE": "PENDRIVE 128 GB",
         "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
@@ -9637,7 +9619,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "110.0",
-            "VENTA": "400.0",
+            "VENTA": "500.0",
             "LISTA2": "110.0",
             "LISTA3": "110.0",
             "MAYOR": "110.0"
@@ -9673,7 +9655,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "110.0",
-            "VENTA": "400.0",
+            "VENTA": "500.0",
             "LISTA2": "110.0",
             "LISTA3": "110.0",
             "MAYOR": "110.0"
@@ -10009,32 +9991,50 @@
     },
     {
         "CODIGO": "PIZARRA12",
-        "DETALLE": "PIZARRA LCD 12 PLG",
+        "DETALLE": "PIZARRA MAGICA LCD 12 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
         "P": {
-            "COSTO": "2736.0",
-            "VENTA": "7000.0",
-            "LISTA2": "2736.0",
-            "LISTA3": "2736.0",
-            "MAYOR": "2736.0"
+            "COSTO": "2946.0",
+            "VENTA": "9000.0",
+            "LISTA2": "6000.0",
+            "LISTA3": "2946.0",
+            "MAYOR": "2946.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "6.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "PIZARRA16",
+        "DETALLE": "PIZARRA MAGICA LCD 16 PLG",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "4863.0",
+            "VENTA": "15000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "4863.0",
+            "MAYOR": "4863.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "PIZARRA85",
-        "DETALLE": "PIZARRA LCD 8.5 PLG",
+        "DETALLE": "PIZARRA MAGICA LCD 8.5 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "1185.0",
             "VENTA": "4000.0",
-            "LISTA2": "1185.0",
+            "LISTA2": "3800.0",
             "LISTA3": "1185.0",
             "MAYOR": "1185.0"
         },
@@ -10507,7 +10507,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10795,7 +10795,7 @@
             "MAYOR": "18931.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10868,6 +10868,60 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "FASTPUSH",
+        "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA LILA",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "2907.0",
+            "VENTA": "15000.0",
+            "LISTA2": "9000.0",
+            "LISTA3": "2907.0",
+            "MAYOR": "2907.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "SPMACHINE",
+        "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA ROSA",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "2907.0",
+            "VENTA": "15000.0",
+            "LISTA2": "9000.0",
+            "LISTA3": "2907.0",
+            "MAYOR": "2907.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "LONELYPET",
+        "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS GATITO CELESTE",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "2907.0",
+            "VENTA": "15000.0",
+            "LISTA2": "9000.0",
+            "LISTA3": "2907.0",
+            "MAYOR": "2907.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10958,24 +11012,6 @@
         },
         "IVA": "21",
         "STOCK": "9.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "JUPEL8084",
-        "DETALLE": "Pelota del Mundial",
-        "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "0.0",
-            "VENTA": "2000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11484,24 +11520,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "SECADORYX",
-        "DETALLE": "SECADOR PELO ORYX 1100W",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "11300.0",
-            "VENTA": "24000.0",
-            "LISTA2": "11300.0",
-            "LISTA3": "11300.0",
-            "MAYOR": "11300.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "6958210712401",
         "DETALLE": "SECADOR PELO PROFILE 1800W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
@@ -11551,7 +11569,7 @@
             "MAYOR": "10795.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12164,6 +12182,42 @@
         },
         "IVA": "21",
         "STOCK": "10.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "69855646885262",
+        "DETALLE": "TETRI MINI CONSOLA ASTRONAUTA CELESTE",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "2629.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5800.0",
+            "LISTA3": "2629.0",
+            "MAYOR": "2629.0"
+        },
+        "IVA": "21",
+        "STOCK": "7.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "6985564688526",
+        "DETALLE": "TETRI MINI CONSOLA CONEJITA ROSA",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "2629.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5800.0",
+            "LISTA3": "2629.0",
+            "MAYOR": "2629.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
