@@ -398,7 +398,7 @@ Promise.all([
       }
       div.innerHTML = `
         <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
-        <img src="${imagen}" alt="${capitalizarTitulo(producto.DETALLE)}" onerror="this.src='img/placeholder.webp'">
+        <img src="img/${producto.CODIGO}.webp" alt="${capitalizarTitulo(producto.DETALLE)}" data-codigo="${producto.CODIGO}" data-intento="0" onerror="cargarImagenAlternativa(this)">
         <div class="precio-detalle">
           ${precioHTML}
           ${extraHTML}
@@ -494,8 +494,11 @@ Promise.all([
       card.innerHTML = `
         <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
           ${insigniaArriba}
-          <img src="${imagen}" alt="${capitalizarTitulo(p.DETALLE)}"
-               onerror="this.src='img/placeholder.webp'">
+          <img src="img/${p.CODIGO}.webp"
+            alt="${capitalizarTitulo(p.DETALLE)}"
+            data-codigo="${p.CODIGO}"
+            data-intento="0"
+            onerror="cargarImagenAlternativa(this)">
           ${insigniaAbajo}
           <h4 class="titulo-producto">${capitalizarTitulo(p.DETALLE)}</h4>
         </a>
@@ -913,5 +916,20 @@ Promise.all([
     });
 
   });
+function cargarImagenAlternativa(img) {
+  const cod = img.dataset.codigo;
+  let intento = parseInt(img.dataset.intento || "0");
+  const extensiones = ['webp', 'jpg', 'png', 'placeholder.webp'];
+
+  intento++;
+  if (intento >= extensiones.length) return;
+
+  img.dataset.intento = intento;
+  img.onerror = () => cargarImagenAlternativa(img); // Reasigna el error handler
+  const ext = extensiones[intento];
+  img.src = ext === 'placeholder.webp' ? 'img/placeholder.webp' : `img/${cod}.${ext}`;
+
+}
+
 
 /* -------   fin script.js modificado   -------- */
