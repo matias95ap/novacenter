@@ -2515,7 +2515,7 @@
             "MAYOR": "1230.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7933,7 +7933,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8401,7 @@
             "MAYOR": "54000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
