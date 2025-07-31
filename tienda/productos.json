@@ -877,7 +877,7 @@
             "MAYOR": "3861.0"
         },
         "IVA": "21",
-        "STOCK": "14.0",
+        "STOCK": "13.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -3289,7 +3289,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "78.0",
+        "STOCK": "77.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4950,20 +4950,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6815477896711",
+        "CODIGO": "723540563940",
         "DETALLE": "CONTROL REMOTO UNIVERSAL RM0145",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "2700.0",
-            "VENTA": "6500.0",
-            "LISTA2": "2700.0",
-            "LISTA3": "2700.0",
-            "MAYOR": "2700.0"
+            "COSTO": "2262.0",
+            "VENTA": "7000.0",
+            "LISTA2": "2262.0",
+            "LISTA3": "2262.0",
+            "MAYOR": "2262.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5719,7 +5719,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9618,14 +9618,14 @@
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "110.0",
+            "COSTO": "112.0",
             "VENTA": "500.0",
-            "LISTA2": "110.0",
-            "LISTA3": "110.0",
-            "MAYOR": "110.0"
+            "LISTA2": "112.0",
+            "LISTA3": "112.0",
+            "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "40.0",
+        "STOCK": "156.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9654,14 +9654,14 @@
         "PROVEEDOR": "nan",
         "MARCA": "nan",
         "P": {
-            "COSTO": "110.0",
+            "COSTO": "112.0",
             "VENTA": "500.0",
-            "LISTA2": "110.0",
-            "LISTA3": "110.0",
-            "MAYOR": "110.0"
+            "LISTA2": "112.0",
+            "LISTA3": "112.0",
+            "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "40.0",
+        "STOCK": "113.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
