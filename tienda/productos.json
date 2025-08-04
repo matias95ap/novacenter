@@ -1903,7 +1903,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2875,7 +2875,7 @@
             "MAYOR": "1500.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3361,7 +3361,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "16.0",
+        "STOCK": "14.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3793,7 +3793,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4315,7 +4315,7 @@
             "MAYOR": "4472.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5305,7 +5305,7 @@
             "MAYOR": "563.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6877,7 +6877,7 @@
     },
     {
         "CODIGO": "MODLGK42",
-        "DETALLE": "MOD LG K42/K52/K62/K420/K520/LMK520",
+        "DETALLE": "MOD LG K42/K52/K52S/K62/K62 PLUS /K420/K520/LMK520",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "LG",
@@ -7668,6 +7668,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODNOK23",
+        "DETALLE": "MOD NOKIA 2.3",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "ELECTRO CELULAR",
+        "MARCA": "NOKIA",
+        "P": {
+            "COSTO": "15916.0",
+            "VENTA": "50000.0",
+            "LISTA2": "15916.0",
+            "LISTA3": "15916.0",
+            "MAYOR": "30000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODNOK24",
         "DETALLE": "MOD NOKIA 2.4",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7987,7 +8005,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8726,6 +8744,24 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODTS20C",
+        "DETALLE": "MOD TECNO SPARK 20/20C",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "ELECTRO CELULAR",
+        "MARCA": "TECNO SPARK",
+        "P": {
+            "COSTO": "15505.0",
+            "VENTA": "50000.0",
+            "LISTA2": "15505.0",
+            "LISTA3": "15505.0",
+            "MAYOR": "28000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9625,7 +9661,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "156.0",
+        "STOCK": "148.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11911,7 +11947,7 @@
             "MAYOR": "2900.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12181,7 +12217,7 @@
             "MAYOR": "2239.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12217,7 +12253,7 @@
             "MAYOR": "2629.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12901,7 +12937,7 @@
             "MAYOR": "2170.5"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
