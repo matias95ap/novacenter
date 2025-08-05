@@ -3289,7 +3289,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "77.0",
+        "STOCK": "76.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3829,7 +3829,7 @@
             "MAYOR": "2160.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
     },
@@ -6918,14 +6918,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12772.0",
-            "VENTA": "38000.0",
-            "LISTA2": "12772.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "COSTO": "10560.0",
+            "VENTA": "35000.0",
+            "LISTA2": "10560.0",
+            "LISTA3": "18189.6",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7222,16 +7222,16 @@
         "DETALLE": "MOD MOTO E7/E7 POWER/E7I/E7I POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "9555.0",
+            "COSTO": "10296.0",
             "VENTA": "35000.0",
-            "LISTA2": "9555.0",
-            "LISTA3": "9555.0",
+            "LISTA2": "10296.0",
+            "LISTA3": "10296.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7836,14 +7836,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "9750.0",
+            "COSTO": "8844.0",
             "VENTA": "35000.0",
-            "LISTA2": "9750.0",
-            "LISTA3": "9750.0",
-            "MAYOR": "9000.0"
+            "LISTA2": "8844.0",
+            "LISTA3": "8844.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7980,14 +7980,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12276.0",
+            "COSTO": "11484.0",
             "VENTA": "35000.0",
-            "LISTA2": "12276.0",
-            "LISTA3": "22000.0",
+            "LISTA2": "11484.0",
+            "LISTA3": "20580.5",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8415,11 +8415,11 @@
             "COSTO": "30012.0",
             "VENTA": "90000.0",
             "LISTA2": "30012.0",
-            "LISTA3": "54000.0",
-            "MAYOR": "54000.0"
+            "LISTA3": "30012.0",
+            "MAYOR": "52000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8628,14 +8628,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "14756.0",
+            "COSTO": "13200.0",
             "VENTA": "42000.0",
-            "LISTA2": "14756.0",
-            "LISTA3": "26000.0",
-            "MAYOR": "25000.0"
+            "LISTA2": "13200.0",
+            "LISTA3": "23258.4",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8650,7 +8650,7 @@
             "VENTA": "45000.0",
             "LISTA2": "13050.0",
             "LISTA3": "23000.0",
-            "MAYOR": "22000.0"
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
@@ -8671,7 +8671,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9067,7 +9067,7 @@
             "MAYOR": "12037.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10273,7 +10273,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10363,7 +10363,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12865,7 +12865,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "559.0",
+        "STOCK": "558.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
