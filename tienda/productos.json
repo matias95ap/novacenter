@@ -6786,6 +6786,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMOTE32CM",
+        "DETALLE": "MOD MOTO E32 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "13400.0",
+            "VENTA": "42000.0",
+            "LISTA2": "13400.0",
+            "LISTA3": "13400.0",
+            "MAYOR": "23000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTE40CM",
+        "DETALLE": "MOD MOTO E40 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "14740.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14740.0",
+            "LISTA3": "14740.0",
+            "MAYOR": "25000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODE40E30",
         "DETALLE": "MOD MOTO E40/E30",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7060,16 +7096,16 @@
         "DETALLE": "MOD MOTO G10/G20/G30",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "10578.0",
+            "COSTO": "9648.0",
             "VENTA": "35000.0",
-            "LISTA2": "10578.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "9648.0",
+            "LISTA3": "18241.5",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7458,14 +7494,32 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10062.0",
+            "COSTO": "10184.0",
             "VENTA": "35000.0",
-            "LISTA2": "10062.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "10184.0",
+            "LISTA3": "20242.7",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTONEH",
+        "DETALLE": "MOD MOTO ONE HYPER  (XT2027)",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "13132.0",
+            "VENTA": "40000.0",
+            "LISTA2": "13132.0",
+            "LISTA3": "13132.0",
+            "MAYOR": "22500.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7777,16 +7831,34 @@
     },
     {
         "CODIGO": "MOSAM04S",
-        "DETALLE": "MOD SAMS A04S",
+        "DETALLE": "MOD SAMS A04S /A13",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11484.0",
+            "COSTO": "11000.0",
             "VENTA": "35000.0",
-            "LISTA2": "11484.0",
-            "LISTA3": "20580.5",
+            "LISTA2": "11000.0",
+            "LISTA3": "19713.1",
             "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA04SCM",
+        "DETALLE": "MOD SAMS A04S C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "14740.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14740.0",
+            "LISTA3": "14740.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8604,20 +8676,38 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODREDMA10",
+        "DETALLE": "MOD XIAOMI REDMI 10C",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "XIAOMI",
+        "P": {
+            "COSTO": "12194.0",
+            "VENTA": "38000.0",
+            "LISTA2": "12194.0",
+            "LISTA3": "12194.0",
+            "MAYOR": "21000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREDM12C",
-        "DETALLE": "MOD XIAOMI REDMI 12C",
+        "DETALLE": "MOD XIAOMI REDMI 12C /10C /POCO C40 /C55",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12012.0",
-            "VENTA": "35000.0",
-            "LISTA2": "12012.0",
-            "LISTA3": "12012.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12500.0",
+            "VENTA": "36500.0",
+            "LISTA2": "12500.0",
+            "LISTA3": "12500.0",
+            "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8650,6 +8740,42 @@
             "VENTA": "45000.0",
             "LISTA2": "14575.0",
             "LISTA3": "14575.0",
+            "MAYOR": "25000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODREDM9A",
+        "DETALLE": "MOD XIAOMI REDMI 9A /9C / 9I /9AT /10A /POCO C3",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "WORLD CELL",
+        "MARCA": "XIAOMI",
+        "P": {
+            "COSTO": "12000.0",
+            "VENTA": "36000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "20500.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODREDMA3",
+        "DETALLE": "MOD XIAOMI REDMI A3 /A3X /POCO C61",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "XIAOMI",
+        "P": {
+            "COSTO": "14740.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14740.0",
+            "LISTA3": "14740.0",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
