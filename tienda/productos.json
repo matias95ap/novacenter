@@ -175,7 +175,7 @@
             "MAYOR": "600.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -769,7 +769,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -859,7 +859,7 @@
             "MAYOR": "3861.0"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -949,7 +949,7 @@
             "MAYOR": "3505.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1972,10 +1972,10 @@
             "VENTA": "24000.0",
             "LISTA2": "7096.0",
             "LISTA3": "7096.0",
-            "MAYOR": "7096.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2026,7 +2026,7 @@
             "VENTA": "24000.0",
             "LISTA2": "7196.0",
             "LISTA3": "7196.0",
-            "MAYOR": "7196.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -2335,7 +2335,7 @@
             "MAYOR": "346.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2569,7 +2569,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "24",
+        "STOCK": "23",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2677,7 +2677,7 @@
             "MAYOR": "487.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2821,7 +2821,7 @@
             "MAYOR": "1500.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3235,7 +3235,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "72",
+        "STOCK": "71",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3253,7 +3253,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3847,7 +3847,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5827,7 +5827,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6259,7 +6259,7 @@
             "MAYOR": "6350.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7218,6 +7218,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMOTG51",
+        "DETALLE": "MOD MOTO G51 /G60 /G60S /G40 FUSION",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "13464.0",
+            "VENTA": "42000.0",
+            "LISTA2": "13464.0",
+            "LISTA3": "13464.0",
+            "MAYOR": "23000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTG5S",
         "DETALLE": "MOD MOTO G5S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7429,7 +7447,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7654,16 +7672,16 @@
         "DETALLE": "MOD SAMS A03 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11500.0",
+            "COSTO": "7920.0",
             "VENTA": "35000.0",
-            "LISTA2": "11500.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "7920.0",
+            "LISTA3": "7920.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7836,14 +7854,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9796.0",
+            "COSTO": "8844.0",
             "VENTA": "35000.0",
-            "LISTA2": "9796.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "8844.0",
+            "LISTA3": "18055.9",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7854,14 +7872,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11850.0",
+            "COSTO": "12408.0",
             "VENTA": "42000.0",
-            "LISTA2": "11850.0",
-            "LISTA3": "24000.0",
+            "LISTA2": "12408.0",
+            "LISTA3": "25129.9",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7879,7 +7897,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7944,14 +7962,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "16362.0",
-            "VENTA": "50000.0",
-            "LISTA2": "16362.0",
-            "LISTA3": "28000.0",
-            "MAYOR": "27000.0"
+            "COSTO": "11880.0",
+            "VENTA": "36000.0",
+            "LISTA2": "11880.0",
+            "LISTA3": "20330.2",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8491,7 +8509,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8586,6 +8604,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODREDM12C",
+        "DETALLE": "MOD XIAOMI REDMI 12C",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "12012.0",
+            "VENTA": "35000.0",
+            "LISTA2": "12012.0",
+            "LISTA3": "12012.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREDM13C",
         "DETALLE": "MOD XIAOMI REDMI 13C ",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -8653,7 +8689,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -8671,7 +8707,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -8743,7 +8779,7 @@
             "MAYOR": "11500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9511,7 +9547,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "112.0",
-            "VENTA": "500.0",
+            "VENTA": "800.0",
             "LISTA2": "112.0",
             "LISTA3": "112.0",
             "MAYOR": "112.0"
@@ -9547,13 +9583,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "112.0",
-            "VENTA": "500.0",
+            "VENTA": "800.0",
             "LISTA2": "112.0",
             "LISTA3": "112.0",
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "108",
+        "STOCK": "106",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9895,7 +9931,7 @@
             "MAYOR": "2946.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10754,7 +10790,7 @@
         "P": {
             "COSTO": "3900.0",
             "VENTA": "18000.0",
-            "LISTA2": "12000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -10772,12 +10808,12 @@
         "P": {
             "COSTO": "2907.0",
             "VENTA": "15000.0",
-            "LISTA2": "9000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10790,7 +10826,7 @@
         "P": {
             "COSTO": "2907.0",
             "VENTA": "15000.0",
-            "LISTA2": "9000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
@@ -10808,7 +10844,7 @@
         "P": {
             "COSTO": "2907.0",
             "VENTA": "15000.0",
-            "LISTA2": "9000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
@@ -10826,7 +10862,7 @@
         "P": {
             "COSTO": "1900.0",
             "VENTA": "6000.0",
-            "LISTA2": "3500.0",
+            "LISTA2": "2800.0",
             "LISTA3": "1900.0",
             "MAYOR": "1900.0"
         },
@@ -10844,7 +10880,7 @@
         "P": {
             "COSTO": "3900.0",
             "VENTA": "18000.0",
-            "LISTA2": "12000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -10862,7 +10898,7 @@
         "P": {
             "COSTO": "3900.0",
             "VENTA": "18000.0",
-            "LISTA2": "12000.0",
+            "LISTA2": "6000.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -11137,7 +11173,7 @@
             "MAYOR": "8176.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12068,7 +12104,7 @@
         "P": {
             "COSTO": "2239.0",
             "VENTA": "6000.0",
-            "LISTA2": "3500.0",
+            "LISTA2": "3200.0",
             "LISTA3": "2239.0",
             "MAYOR": "2239.0"
         },
@@ -12086,7 +12122,7 @@
         "P": {
             "COSTO": "2629.0",
             "VENTA": "12000.0",
-            "LISTA2": "5800.0",
+            "LISTA2": "4500.0",
             "LISTA3": "2629.0",
             "MAYOR": "2629.0"
         },
@@ -12104,7 +12140,7 @@
         "P": {
             "COSTO": "2629.0",
             "VENTA": "12000.0",
-            "LISTA2": "5800.0",
+            "LISTA2": "4500.0",
             "LISTA3": "2629.0",
             "MAYOR": "2629.0"
         },
@@ -12199,7 +12235,7 @@
             "MAYOR": "6288.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
