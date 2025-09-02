@@ -103,7 +103,7 @@
             "MAYOR": "377.0"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "12",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -391,7 +391,7 @@
             "MAYOR": "3933.1"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -494,14 +494,14 @@
         "P": {
             "COSTO": "2300.0",
             "VENTA": "5000.0",
-            "LISTA2": "3500.0",
+            "LISTA2": "2300.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
         "IVA": "21",
         "STOCK": "15",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "ASPIAUTO",
@@ -544,18 +544,18 @@
         "DETALLE": "AURICULAR BT ACSON AC700",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
-        "MARCA": "NUEVO",
+        "MARCA": "ACSON",
         "P": {
             "COSTO": "13800.0",
             "VENTA": "32000.0",
-            "LISTA2": "26000.0",
+            "LISTA2": "13800.0",
             "LISTA3": "13800.0",
             "MAYOR": "13800.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7799135011458",
@@ -742,36 +742,36 @@
         "DETALLE": "AURICULAR BT I12 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "I12",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
-            "LISTA2": "10000.0",
+            "LISTA2": "3299.0",
             "LISTA3": "3299.0",
             "MAYOR": "3299.0"
         },
         "IVA": "21",
         "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "AURI12CELE",
         "DETALLE": "AURICULAR BT I12 CELESTE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "I12",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
-            "LISTA2": "10000.0",
+            "LISTA2": "3299.0",
             "LISTA3": "3299.0",
             "MAYOR": "3299.0"
         },
         "IVA": "21",
         "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "AURI12NEGR",
@@ -922,7 +922,7 @@
         "DETALLE": "AURICULAR BT P47 AZUL",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "P47",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -933,32 +933,32 @@
         "IVA": "21",
         "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "P47BLANCO",
         "DETALLE": "AURICULAR BT P47 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "P47",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
-            "LISTA2": "9000.0",
+            "LISTA2": "3505.0",
             "LISTA3": "3505.0",
             "MAYOR": "3505.0"
         },
         "IVA": "21",
         "STOCK": "4",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "P47ROJO",
         "DETALLE": "AURICULAR BT P47 ROJO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "P47",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -969,14 +969,14 @@
         "IVA": "21",
         "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "P47VERDE",
         "DETALLE": "AURICULAR BT P47 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "P47",
         "P": {
             "COSTO": "3505.0",
             "VENTA": "12000.0",
@@ -987,7 +987,7 @@
         "IVA": "21",
         "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "6952024616184",
@@ -1012,11 +1012,11 @@
         "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "AKZ",
         "P": {
             "COSTO": "11614.0",
             "VENTA": "35000.0",
-            "LISTA2": "29000.0",
+            "LISTA2": "11614.0",
             "LISTA3": "11614.0",
             "MAYOR": "11614.0"
         },
@@ -1030,11 +1030,11 @@
         "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "AKZ",
         "P": {
             "COSTO": "11614.0",
             "VENTA": "35000.0",
-            "LISTA2": "29000.0",
+            "LISTA2": "11614.0",
             "LISTA3": "11614.0",
             "MAYOR": "11614.0"
         },
@@ -1057,7 +1057,7 @@
             "MAYOR": "5910.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1520,7 +1520,7 @@
         "P": {
             "COSTO": "500.0",
             "VENTA": "2500.0",
-            "LISTA2": "2000.0",
+            "LISTA2": "500.0",
             "LISTA3": "500.0",
             "MAYOR": "500.0"
         },
@@ -2389,7 +2389,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "12",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3235,7 +3235,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "71",
+        "STOCK": "70",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3757,7 +3757,7 @@
             "MAYOR": "1382.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4261,7 +4261,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5498,7 +5498,7 @@
         "P": {
             "COSTO": "900.0",
             "VENTA": "5000.0",
-            "LISTA2": "3000.0",
+            "LISTA2": "900.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
@@ -5611,7 +5611,7 @@
             "MAYOR": "13799.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -5629,9 +5629,9 @@
             "MAYOR": "20670.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "HOKIT3035",
@@ -5980,18 +5980,18 @@
         "DETALLE": "LUZ LED BICICLETA X2",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "NUEVO",
+        "MARCA": "BICI",
         "P": {
             "COSTO": "1200.0",
             "VENTA": "5000.0",
-            "LISTA2": "4000.0",
+            "LISTA2": "1200.0",
             "LISTA3": "1200.0",
             "MAYOR": "1200.0"
         },
         "IVA": "21",
         "STOCK": "6",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "BICILED02",
@@ -6343,8 +6343,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4976.0",
-            "VENTA": "13500.0",
-            "LISTA2": "12000.0",
+            "VENTA": "15000.0",
+            "LISTA2": "4976.0",
             "LISTA3": "4976.0",
             "MAYOR": "4976.0"
         },
@@ -6434,7 +6434,7 @@
         "P": {
             "COSTO": "10146.0",
             "VENTA": "22000.0",
-            "LISTA2": "16500.0",
+            "LISTA2": "10146.0",
             "LISTA3": "10146.0",
             "MAYOR": "10146.0"
         },
@@ -6448,11 +6448,11 @@
         "DETALLE": "MINI CAMARA INFATIL CON FUNDA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "CAM",
         "P": {
             "COSTO": "10007.0",
             "VENTA": "28000.0",
-            "LISTA2": "22000.0",
+            "LISTA2": "10007.0",
             "LISTA3": "10007.0",
             "MAYOR": "10007.0"
         },
@@ -6466,11 +6466,11 @@
         "DETALLE": "MINI CAMARA INFATIL CON FUNDA ROSITA",
         "FAMILIA": "JUEGOS Y JUGUETES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "CAM",
         "P": {
             "COSTO": "10007.0",
             "VENTA": "28000.0",
-            "LISTA2": "22000.0",
+            "LISTA2": "10007.0",
             "LISTA3": "10007.0",
             "MAYOR": "10007.0"
         },
@@ -6541,8 +6541,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "13600.0",
-            "VENTA": "35000.0",
-            "LISTA2": "28000.0",
+            "VENTA": "32000.0",
+            "LISTA2": "13600.0",
             "LISTA3": "20600.0",
             "MAYOR": "13600.0"
         },
@@ -6655,7 +6655,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6781,7 +6781,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7213,7 +7213,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7699,7 +7699,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7789,7 +7789,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8095,7 +8095,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8110,10 +8110,10 @@
             "VENTA": "75000.0",
             "LISTA2": "24314.0",
             "LISTA3": "42000.0",
-            "MAYOR": "42000.0"
+            "MAYOR": "38000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8275,7 +8275,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8815,7 +8815,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -8918,7 +8918,7 @@
         "P": {
             "COSTO": "1900.0",
             "VENTA": "6000.0",
-            "LISTA2": "4000.0",
+            "LISTA2": "1900.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
@@ -8936,7 +8936,7 @@
         "P": {
             "COSTO": "2400.0",
             "VENTA": "9000.0",
-            "LISTA2": "75000.0",
+            "LISTA2": "2400.0",
             "LISTA3": "2400.0",
             "MAYOR": "2400.0"
         },
@@ -9007,8 +9007,8 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "8600.0",
-            "VENTA": "24000.0",
-            "LISTA2": "16900.0",
+            "VENTA": "18000.0",
+            "LISTA2": "8600.0",
             "LISTA3": "8600.0",
             "MAYOR": "8600.0"
         },
@@ -9076,11 +9076,11 @@
         "DETALLE": "PARLANTE 6.5 PULGADAS COLGANTE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "SPEAKER",
         "P": {
             "COSTO": "12037.0",
-            "VENTA": "36000.0",
-            "LISTA2": "28000.0",
+            "VENTA": "32000.0",
+            "LISTA2": "12037.0",
             "LISTA3": "12700.0",
             "MAYOR": "12037.0"
         },
@@ -9097,7 +9097,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "20000.0",
-            "VENTA": "32000.0",
+            "VENTA": "38000.0",
             "LISTA2": "20000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -9238,18 +9238,18 @@
         "DETALLE": "PARLANTE BT MINI COLORES",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "MINI",
         "P": {
             "COSTO": "3864.0",
-            "VENTA": "14000.0",
-            "LISTA2": "10000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3864.0",
             "LISTA3": "3864.0",
             "MAYOR": "3864.0"
         },
         "IVA": "21",
         "STOCK": "4",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "PARLANTE02",
@@ -9715,7 +9715,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "106",
+        "STOCK": "104",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10093,7 +10093,7 @@
             "MAYOR": "1185.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10912,11 +10912,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ASTRONAUTA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
-            "VENTA": "18000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3900.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -10930,11 +10930,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA LILA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
-            "VENTA": "15000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "2907.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
@@ -10948,11 +10948,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
-            "VENTA": "15000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "2907.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
@@ -10966,11 +10966,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS GATITO CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
-            "VENTA": "15000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "2907.0",
             "LISTA3": "2907.0",
             "MAYOR": "2907.0"
         },
@@ -10984,16 +10984,16 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS LLAVERO VARIOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "1900.0",
             "VENTA": "6000.0",
-            "LISTA2": "2800.0",
+            "LISTA2": "1900.0",
             "LISTA3": "1900.0",
             "MAYOR": "1900.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -11002,11 +11002,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS OSITO",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
-            "VENTA": "18000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3900.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -11020,11 +11020,11 @@
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
-            "VENTA": "18000.0",
-            "LISTA2": "6000.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3900.0",
             "LISTA3": "3900.0",
             "MAYOR": "3900.0"
         },
@@ -11066,6 +11066,24 @@
         },
         "IVA": "21",
         "STOCK": "9",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PRECINTO",
+        "DETALLE": "PRECINTO 3 X 15 MM",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "nan",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "15.0",
+            "VENTA": "100.0",
+            "LISTA2": "15.0",
+            "LISTA3": "15.0",
+            "MAYOR": "15.0"
+        },
+        "IVA": "21",
+        "STOCK": "200",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12230,7 +12248,7 @@
         "P": {
             "COSTO": "2239.0",
             "VENTA": "6000.0",
-            "LISTA2": "3200.0",
+            "LISTA2": "2239.0",
             "LISTA3": "2239.0",
             "MAYOR": "2239.0"
         },
@@ -12244,16 +12262,16 @@
         "DETALLE": "TETRI MINI CONSOLA ASTRONAUTA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "TETRI",
         "P": {
             "COSTO": "2629.0",
-            "VENTA": "12000.0",
-            "LISTA2": "4500.0",
+            "VENTA": "10000.0",
+            "LISTA2": "2629.0",
             "LISTA3": "2629.0",
             "MAYOR": "2629.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12262,11 +12280,11 @@
         "DETALLE": "TETRI MINI CONSOLA CONEJITA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "TETRI",
         "P": {
             "COSTO": "2629.0",
-            "VENTA": "12000.0",
-            "LISTA2": "4500.0",
+            "VENTA": "10000.0",
+            "LISTA2": "2629.0",
             "LISTA3": "2629.0",
             "MAYOR": "2629.0"
         },
@@ -12640,18 +12658,18 @@
         "DETALLE": "TRIPODE LUZ Y MICROFONO CELULAR",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "TRIPODE",
         "P": {
             "COSTO": "5384.0",
             "VENTA": "18000.0",
-            "LISTA2": "15000.0",
+            "LISTA2": "5384.0",
             "LISTA3": "5384.0",
             "MAYOR": "4.8"
         },
         "IVA": "21",
         "STOCK": "3",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "YT228",
@@ -12883,7 +12901,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "552",
+        "STOCK": "551",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
