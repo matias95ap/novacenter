@@ -1057,7 +1057,7 @@
             "MAYOR": "5910.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1309,7 +1309,7 @@
             "MAYOR": "3000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1561,7 +1561,7 @@
             "MAYOR": "1055.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1993,7 +1993,7 @@
             "MAYOR": "4530.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2862,6 +2862,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "USBALARGUE3",
+        "DETALLE": "CABLE USB ALARGUE 3 MTS",
+        "FAMILIA": "CABLES Y ADAPTADORES",
+        "PROVEEDOR": "nan",
+        "MARCA": "ML",
+        "P": {
+            "COSTO": "1500.0",
+            "VENTA": "4000.0",
+            "LISTA2": "1500.0",
+            "LISTA3": "1500.0",
+            "MAYOR": "1500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "RELOJ07",
         "DETALLE": "CABLE USB CARGA RELOJ",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
@@ -3001,7 +3019,7 @@
             "MAYOR": "1500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3235,7 +3253,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "70",
+        "STOCK": "69",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3307,7 +3325,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3541,7 +3559,7 @@
             "MAYOR": "2964.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -3559,7 +3577,7 @@
             "MAYOR": "2223.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -4747,7 +4765,7 @@
             "MAYOR": "2262.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5095,19 +5113,19 @@
     },
     {
         "CODIGO": "HODUC3848",
-        "DETALLE": "Ducha Lorenzetti",
+        "DETALLE": "DUCHA LORENZETTI",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
             "COSTO": "11880.0",
-            "VENTA": "15120.0",
-            "LISTA2": "0.0",
+            "VENTA": "20000.0",
+            "LISTA2": "11880.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5377,7 +5395,7 @@
             "MAYOR": "685.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6020,7 +6038,7 @@
         "P": {
             "COSTO": "41500.0",
             "VENTA": "120000.0",
-            "LISTA2": "41500.0",
+            "LISTA2": "85000.0",
             "LISTA3": "41500.0",
             "MAYOR": "41500.0"
         },
@@ -6031,14 +6049,14 @@
     },
     {
         "CODIGO": "LUZESTETIC1",
-        "DETALLE": "LUZ PARA ESTETICAS COMUN ",
+        "DETALLE": "LUZ PARA ESTETICAS COMUN",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "TIME",
         "P": {
             "COSTO": "33500.0",
             "VENTA": "90000.0",
-            "LISTA2": "33500.0",
+            "LISTA2": "65000.0",
             "LISTA3": "33500.0",
             "MAYOR": "33500.0"
         },
@@ -7087,7 +7105,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7663,7 +7681,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7699,7 +7717,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7843,7 +7861,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8551,7 +8569,7 @@
     },
     {
         "CODIGO": "MODTCL20Y",
-        "DETALLE": "MOD TCL 20Y/20E ALCATEL 3H 6025/5H",
+        "DETALLE": "MOD TCL 20Y/20E ALCATEL 3H 6025/5H /1S 2021",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
@@ -8563,7 +8581,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8779,7 +8797,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8833,7 +8851,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9034,24 +9052,6 @@
         "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
-    },
-    {
-        "CODIGO": "6459751458519",
-        "DETALLE": "PALO SELFIE",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "800.0",
-            "VENTA": "2000.0",
-            "LISTA2": "800.0",
-            "LISTA3": "800.0",
-            "MAYOR": "800.0"
-        },
-        "IVA": "21",
-        "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "PALOSELFIE",
@@ -10567,7 +10567,7 @@
     },
     {
         "CODIGO": "CARGAA144G",
-        "DETALLE": "PLACA DE CARGA SAMS A14 4G",
+        "DETALLE": "PLACA DE CARGA SAMS A14 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
@@ -11749,7 +11749,7 @@
             "MAYOR": "1450.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -11839,7 +11839,7 @@
             "MAYOR": "600.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13010,6 +13010,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7796941141133",
+        "DETALLE": "ZTE BLADE A35 64 GB - 6 RAM + ACCESORIOS",
+        "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
+        "PROVEEDOR": "PERSONAL",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "107999.0",
+            "VENTA": "280000.0",
+            "LISTA2": "190000.0",
+            "LISTA3": "107999.0",
+            "MAYOR": "107999.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     }
