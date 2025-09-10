@@ -1774,28 +1774,10 @@
             "VENTA": "15000.0",
             "LISTA2": "673.0",
             "LISTA3": "673.0",
-            "MAYOR": "8000.0"
+            "MAYOR": "6000.0"
         },
         "IVA": "21",
         "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "BATMOTG6PL",
-        "DETALLE": "BATERIA MOTO G6 PLUS",
-        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "5600.0",
-            "VENTA": "20000.0",
-            "LISTA2": "5600.0",
-            "LISTA3": "5600.0",
-            "MAYOR": "5600.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1810,7 +1792,7 @@
             "VENTA": "24000.0",
             "LISTA2": "6625.0",
             "LISTA3": "6625.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "12000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1832,6 +1814,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTG6PL",
+        "DETALLE": "BATERIA MOTO JT40 G6 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "5600.0",
+            "VENTA": "20000.0",
+            "LISTA2": "5600.0",
+            "LISTA3": "5600.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1918,7 +1918,7 @@
             "VENTA": "24000.0",
             "LISTA2": "8118.0",
             "LISTA3": "8118.0",
-            "MAYOR": "8118.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1936,7 +1936,7 @@
             "VENTA": "24000.0",
             "LISTA2": "6449.0",
             "LISTA3": "6449.0",
-            "MAYOR": "6449.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1954,7 +1954,7 @@
             "VENTA": "24000.0",
             "LISTA2": "7192.0",
             "LISTA3": "7192.0",
-            "MAYOR": "7192.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -1963,7 +1963,7 @@
     },
     {
         "CODIGO": "BATSAMA10",
-        "DETALLE": "BATERIA SAMS BEBA750ABUN A10/A7/M10",
+        "DETALLE": "BATERIA SAMS EB-BA750ABU N A10/A7/M10",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
         "PROVEEDOR": "EVOPHONE",
         "MARCA": "SAMSUNG",
@@ -1990,7 +1990,7 @@
             "VENTA": "15000.0",
             "LISTA2": "4530.0",
             "LISTA3": "4530.0",
-            "MAYOR": "4530.0"
+            "MAYOR": "8000.0"
         },
         "IVA": "21",
         "STOCK": "0",
@@ -2008,7 +2008,7 @@
             "VENTA": "24000.0",
             "LISTA2": "7183.0",
             "LISTA3": "7183.0",
-            "MAYOR": "7183.0"
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -2098,7 +2098,7 @@
             "VENTA": "15000.0",
             "LISTA2": "4735.5",
             "LISTA3": "4735.5",
-            "MAYOR": "4735.5"
+            "MAYOR": "8000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -2131,10 +2131,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "5412.0",
-            "VENTA": "15000.0",
+            "VENTA": "18000.0",
             "LISTA2": "5412.0",
             "LISTA3": "5412.0",
-            "MAYOR": "5412.0"
+            "MAYOR": "10000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -3548,7 +3548,7 @@
     {
         "CODIGO": "7799135002883",
         "DETALLE": "CAMARA WEBCAM AITECH",
-        "FAMILIA": "CELULAR Y COMPUTACION",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "AITECH",
         "P": {
@@ -3566,7 +3566,7 @@
     {
         "CODIGO": "7799135002890",
         "DETALLE": "CAMARA WEBCAM AITECH CON SOPORTE",
-        "FAMILIA": "CELULAR Y COMPUTACION",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "AITECH",
         "P": {
@@ -3872,7 +3872,7 @@
     {
         "CODIGO": "6933138617113",
         "DETALLE": "CARGADOR CABEZAL LDNIO 2 USB 12W",
-        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
         "PROVEEDOR": "E-MAX",
         "MARCA": "LDNIO",
         "P": {
@@ -3883,7 +3883,7 @@
             "MAYOR": "5000.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6583,7 +6583,7 @@
             "MAYOR": "6498.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -7165,7 +7165,7 @@
     },
     {
         "CODIGO": "MODMOTG13",
-        "DETALLE": "MOD MOTO G13/G23/G34/G53",
+        "DETALLE": "MOD MOTO G13/G23/G34/G53/G45 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
@@ -7177,7 +7177,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8059,7 +8059,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8239,7 +8239,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8851,7 +8851,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9356,24 +9356,6 @@
         },
         "IVA": "21",
         "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PELAPAPA",
-        "DETALLE": "PELA PAPA 3 EN 1",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > TODO PARA EL HOGAR",
-        "PROVEEDOR": "TECNO IMPORTACION",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "1200.0",
-            "VENTA": "2800.0",
-            "LISTA2": "1200.0",
-            "LISTA3": "1200.0",
-            "MAYOR": "1200.0"
-        },
-        "IVA": "21",
-        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10207,7 +10189,7 @@
     },
     {
         "CODIGO": "CARGAE6I",
-        "DETALLE": "PLACA DE CARGA MOTO E6I",
+        "DETALLE": "PLACA DE CARGA MOTO E6I / E6S",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "MOTOROLA",
@@ -10219,25 +10201,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "CARGAE6S",
-        "DETALLE": "PLACA DE CARGA MOTO E6S",
-        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
-        "PROVEEDOR": "IMPORTCELL",
-        "MARCA": "MOTOROLA",
-        "P": {
-            "COSTO": "1700.0",
-            "VENTA": "18000.0",
-            "LISTA2": "1700.0",
-            "LISTA3": "1700.0",
-            "MAYOR": "8000.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10813,7 +10777,7 @@
             "MAYOR": "5800.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12704,24 +12668,6 @@
         },
         "IVA": "21",
         "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "CETAB8604",
-        "DETALLE": "Tablet Oryx 1 GB ram 8 GB de almacenamiento",
-        "FAMILIA": "CELULAR Y COMPUTACION",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "38376.0",
-            "VENTA": "96000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
