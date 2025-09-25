@@ -622,8 +622,6 @@ Promise.all([
       }
     });
 
-    document.querySelector("#menu").insertBefore(verNuevosBtn, document.querySelector(".borde-extra"));
-
     function mostrarNuevos() {
       contenedor.innerHTML = "<h2>🆕 Nuevos Ingresos</h2>";
       const productosParaMostrar = obtenerProductosFiltradosYOrdenados(
@@ -637,9 +635,7 @@ Promise.all([
       });
     }
     /* ---------- botón “Liquidación” ---------- */
-    const verLiquidacionBtn = document.createElement("button");
-    verLiquidacionBtn.id = "ver-liquidacion";
-    verLiquidacionBtn.textContent = "💸 Liquidación";
+    const verLiquidacionBtn = document.getElementById("ver-liquidacion");
     verLiquidacionBtn.addEventListener("click", () => {
       history.pushState({}, "", "?liquidacion=1");
       mostrarLiquidacion();
@@ -648,7 +644,6 @@ Promise.all([
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
     });
-    document.querySelector("#menu").insertBefore(verLiquidacionBtn, document.querySelector(".borde-extra"));
 
     function mostrarLiquidacion() {
       contenedor.innerHTML = "<h2>💸 Liquidación</h2>";
@@ -672,9 +667,7 @@ Promise.all([
       });
     }
     /* ---------- botón “Día del Niño” ---------- */
-    const verDiaNinoBtn = document.createElement("button");
-    verDiaNinoBtn.id = "ver-dia-nino";
-    verDiaNinoBtn.textContent = "🎁 Día del Niño";
+    const verDiaNinoBtn = document.getElementById("ver-dia-nino");
     verDiaNinoBtn.addEventListener("click", () => {
       history.pushState({}, "", "?dianino=1");
       mostrarDiaDelNino();
@@ -683,7 +676,6 @@ Promise.all([
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
     });
-    document.querySelector("#menu").insertBefore(verDiaNinoBtn, document.querySelector(".borde-extra"));
 
     function mostrarDiaDelNino() {
       contenedor.innerHTML = "<h2>🎁 Día del Niño</h2>";
