@@ -61,7 +61,7 @@ Promise.all([
     /* ---------- helper para capitalizar ---------- */
     function capitalizarTitulo(str) {
       const minusculas = ["y", "a", "o", "de", "para", "en", "con"];
-      const mayusculas = ["hdmi", "vga", "rca", "gb", "rgb", "led", "otg", "ps2", "pc", "sata", "sd", "usb"];
+      const mayusculas = ["hdmi", "vga", "rca", "gb", "rgb", "led", "otg", "ps2", "pc", "sata", "sd", "usb", "ok"];
 
       return str
         .toLowerCase()
