@@ -35,7 +35,7 @@ Promise.all([
       },
       "@celsop": {},
       "@repuesto": {},
-      "@kioscogriselda": {
+      "@kioscogri": {
         excluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY",
           "CELULAR Y COMPUTACION > BATERIAS", "CELULAR Y COMPUTACION > REPUESTOS CEL"]
       },
