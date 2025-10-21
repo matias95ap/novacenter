@@ -1818,17 +1818,71 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "BATERIAKD40",
-        "DETALLE": "BATERIA MOTO G8 PLUS KD40",
+        "CODIGO": "BATMOTHE50",
+        "DETALLE": "BATERIA MOTO HE50 E5 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "IMPORTCELL",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "6625.0",
+            "COSTO": "5200.0",
+            "VENTA": "24000.0",
+            "LISTA2": "5200.0",
+            "LISTA3": "5200.0",
+            "MAYOR": "15000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTHG40",
+        "DETALLE": "BATERIA MOTO HG40 G5 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "4800.0",
+            "VENTA": "24000.0",
+            "LISTA2": "4800.0",
+            "LISTA3": "4800.0",
+            "MAYOR": "15000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTJE30",
+        "DETALLE": "BATERIA MOTO JE30 E5 PLAY",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "7700.0",
             "VENTA": "28000.0",
-            "LISTA2": "6625.0",
-            "LISTA3": "6625.0",
-            "MAYOR": "12000.0"
+            "LISTA2": "7700.0",
+            "LISTA3": "7700.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTJG30",
+        "DETALLE": "BATERIA MOTO JG30 G7",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "5300.0",
+            "VENTA": "24000.0",
+            "LISTA2": "5300.0",
+            "LISTA3": "5300.0",
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1844,12 +1898,12 @@
         "P": {
             "COSTO": "7500.0",
             "VENTA": "28000.0",
-            "LISTA2": "24000.0",
-            "LISTA3": "14000.0",
+            "LISTA2": "7500.0",
+            "LISTA3": "7500.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1872,6 +1926,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "BATERIAKD40",
+        "DETALLE": "BATERIA MOTO KD40 G8 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "6625.0",
+            "VENTA": "28000.0",
+            "LISTA2": "6625.0",
+            "LISTA3": "6625.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BATMOTKG40",
         "DETALLE": "BATERIA MOTO KG40 G8/G8 PLAY/ONE MACRO/E7",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
@@ -1880,9 +1952,63 @@
         "P": {
             "COSTO": "7037.5",
             "VENTA": "28000.0",
-            "LISTA2": "24000.0",
-            "LISTA3": "14000.0",
+            "LISTA2": "7037.5",
+            "LISTA3": "7037.5",
             "MAYOR": "14000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTKR40",
+        "DETALLE": "BATERIA MOTO KR40 ONE VISION/ ONE ACTION",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "6600.0",
+            "VENTA": "28000.0",
+            "LISTA2": "6600.0",
+            "LISTA3": "6600.0",
+            "MAYOR": "15000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTKS40",
+        "DETALLE": "BATERIA MOTO KS40 E6S/ E6I",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "8100.0",
+            "VENTA": "28000.0",
+            "LISTA2": "8100.0",
+            "LISTA3": "8100.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTNH40",
+        "DETALLE": "BATERIA MOTO NH40 E22",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "7700.0",
+            "VENTA": "28000.0",
+            "LISTA2": "7700.0",
+            "LISTA3": "7700.0",
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -3325,7 +3451,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "42",
+        "STOCK": "41",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8581,7 +8707,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9792,6 +9918,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6975340320320",
+        "DETALLE": "PEGAMENTO B7000 TRANSPARENTE",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "2430.0",
+            "VENTA": "8000.0",
+            "LISTA2": "2430.0",
+            "LISTA3": "2430.0",
+            "MAYOR": "2430.0"
+        },
+        "IVA": "21",
+        "STOCK": "9",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "PELOTA",
         "DETALLE": "PELOTA N5",
         "FAMILIA": "JUEGOS Y JUGUETES",
@@ -10620,6 +10764,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAE6PLUS",
+        "DETALLE": "PLACA DE CARGA MOTO E6 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "18000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAE6I",
         "DETALLE": "PLACA DE CARGA MOTO E6I / E6S",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -10687,7 +10849,25 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG10",
+        "DETALLE": "PLACA DE CARGA MOTO G10",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2500.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2500.0",
+            "LISTA3": "2500.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10728,6 +10908,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAG200",
+        "DETALLE": "PLACA DE CARGA MOTO G200",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "3800.0",
+            "VENTA": "22000.0",
+            "LISTA2": "3800.0",
+            "LISTA3": "3800.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG22",
+        "DETALLE": "PLACA DE CARGA MOTO G22",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAG23",
         "DETALLE": "PLACA DE CARGA MOTO G23",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -10742,6 +10958,42 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG30",
+        "DETALLE": "PLACA DE CARGA MOTO G30",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG32",
+        "DETALLE": "PLACA DE CARGA MOTO G32",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2300.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2300.0",
+            "LISTA3": "2300.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10800,6 +11052,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAONEHY",
+        "DETALLE": "PLACA DE CARGA MOTO ONE HYPER",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "3000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "3000.0",
+            "LISTA3": "3000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAONEV",
         "DETALLE": "PLACA DE CARGA MOTO ONE VISION",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -10836,6 +11106,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAA02",
+        "DETALLE": "PLACA DE CARGA SAMS A02",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA02S",
+        "DETALLE": "PLACA DE CARGA SAMS A02S",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAA03",
         "DETALLE": "PLACA DE CARGA SAMS A03 A035F",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -10850,6 +11156,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA03C",
+        "DETALLE": "PLACA DE CARGA SAMS A03 CORE",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10872,20 +11196,74 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAA04",
+        "DETALLE": "PLACA DE CARGA SAMS A04",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAA04E",
         "DETALLE": "PLACA DE CARGA SAMS A04E",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "1700.0",
+            "COSTO": "1900.0",
             "VENTA": "22000.0",
-            "LISTA2": "1700.0",
-            "LISTA3": "1700.0",
+            "LISTA2": "1900.0",
+            "LISTA3": "1900.0",
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA04S",
+        "DETALLE": "PLACA DE CARGA SAMS A04S",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2000.0",
+            "LISTA3": "2000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA05",
+        "DETALLE": "PLACA DE CARGA SAMS A05",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10975,7 +11353,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10994,6 +11372,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA16",
+        "DETALLE": "PLACA DE CARGA SAMS A16 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "3200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "3200.0",
+            "LISTA3": "3200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11138,6 +11534,42 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGARED10C",
+        "DETALLE": "PLACA DE CARGA XIAOMI REDMI 10C",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "XIAOMI",
+        "P": {
+            "COSTO": "2500.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2500.0",
+            "LISTA3": "2500.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAREDA3",
+        "DETALLE": "PLACA DE CARGA XIAOMI REDMI A3",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "XIAOMI",
+        "P": {
+            "COSTO": "2200.0",
+            "VENTA": "22000.0",
+            "LISTA2": "2200.0",
+            "LISTA3": "2200.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13081,7 +13513,7 @@
             "MAYOR": "4.8"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
