@@ -348,11 +348,11 @@
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "23700.0",
+            "COSTO": "20600.0",
             "VENTA": "50000.0",
-            "LISTA2": "23700.0",
-            "LISTA3": "23700.0",
-            "MAYOR": "23700.0"
+            "LISTA2": "20600.0",
+            "LISTA3": "20600.0",
+            "MAYOR": "20600.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -463,7 +463,7 @@
             "MAYOR": "6649.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -551,6 +551,24 @@
             "LISTA2": "13800.0",
             "LISTA3": "13800.0",
             "MAYOR": "13800.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6932448008000",
+        "DETALLE": "AURICULAR BT ACSON AC800",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
+        "MARCA": "ACSON",
+        "P": {
+            "COSTO": "11400.0",
+            "VENTA": "32000.0",
+            "LISTA2": "11400.0",
+            "LISTA3": "11400.0",
+            "MAYOR": "11400.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -679,7 +697,7 @@
             "MAYOR": "3849.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -751,7 +769,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -859,7 +877,7 @@
             "MAYOR": "3861.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -895,7 +913,7 @@
             "MAYOR": "5733.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1561,7 +1579,7 @@
             "MAYOR": "1055.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1670,6 +1688,24 @@
         },
         "IVA": "21",
         "STOCK": "18",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BALZCOMERCIAL",
+        "DETALLE": "BALANZA COMERCIAL DIGITAL 200G A 40K",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > BALANZAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "34920.0",
+            "VENTA": "65000.0",
+            "LISTA2": "34920.0",
+            "LISTA3": "34920.0",
+            "MAYOR": "34920.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1789,7 +1825,7 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "6625.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "6625.0",
             "LISTA3": "6625.0",
             "MAYOR": "12000.0"
@@ -1807,10 +1843,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "7500.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "24000.0",
             "LISTA3": "14000.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1843,7 +1879,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "7037.5",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "24000.0",
             "LISTA3": "14000.0",
             "MAYOR": "14000.0"
@@ -1861,10 +1897,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "7995.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "7995.0",
             "LISTA3": "7995.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1903,7 +1939,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1915,10 +1951,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "8118.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "8118.0",
             "LISTA3": "8118.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1933,10 +1969,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "6449.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "6449.0",
             "LISTA3": "6449.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -1951,10 +1987,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "7192.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "7192.0",
             "LISTA3": "7192.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -1969,10 +2005,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "7096.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "7096.0",
             "LISTA3": "7096.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -2004,14 +2040,14 @@
         "PROVEEDOR": "EVOPHONE",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "7183.0",
-            "VENTA": "24000.0",
-            "LISTA2": "7183.0",
-            "LISTA3": "7183.0",
+            "COSTO": "8550.0",
+            "VENTA": "28000.0",
+            "LISTA2": "8550.0",
+            "LISTA3": "8550.0",
             "MAYOR": "15000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2023,10 +2059,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "7196.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "7196.0",
             "LISTA3": "7196.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -2077,10 +2113,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "1193.0",
-            "VENTA": "24000.0",
+            "VENTA": "28000.0",
             "LISTA2": "1193.0",
             "LISTA3": "1193.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -2268,6 +2304,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6963490162594",
+        "DETALLE": "BUCLERA PLANCHITA RIZADOR 3 EN 1",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "SERS",
+        "P": {
+            "COSTO": "7990.0",
+            "VENTA": "20000.0",
+            "LISTA2": "7990.0",
+            "LISTA3": "7990.0",
+            "MAYOR": "7990.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "5684562548047",
         "DETALLE": "CABINA DE UÑAS SUN 108W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
@@ -2299,7 +2353,7 @@
             "MAYOR": "8200.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2569,7 +2623,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "23",
+        "STOCK": "22",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2587,7 +2641,7 @@
             "MAYOR": "2500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2623,7 +2677,7 @@
             "MAYOR": "1700.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2677,7 +2731,7 @@
             "MAYOR": "487.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2983,7 +3037,7 @@
             "MAYOR": "300.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3002,6 +3056,24 @@
         },
         "IVA": "21",
         "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7502236154678",
+        "DETALLE": "CABLE USB DEKKIN V8 ",
+        "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
+        "PROVEEDOR": "DEKKIN",
+        "MARCA": "DEKKIN",
+        "P": {
+            "COSTO": "500.0",
+            "VENTA": "2500.0",
+            "LISTA2": "500.0",
+            "LISTA3": "500.0",
+            "MAYOR": "500.0"
+        },
+        "IVA": "21",
+        "STOCK": "50",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3091,7 +3163,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3163,7 +3235,7 @@
             "MAYOR": "1800.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3253,7 +3325,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "69",
+        "STOCK": "42",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3325,7 +3397,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3361,7 +3433,7 @@
             "MAYOR": "1400.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3685,7 +3757,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3721,7 +3793,7 @@
             "MAYOR": "3220.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3757,7 +3829,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3811,7 +3883,7 @@
             "MAYOR": "4210.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "1",
         "STOCK IDEAL": "5"
     },
@@ -3829,7 +3901,7 @@
             "MAYOR": "3511.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3865,7 +3937,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3883,7 +3955,7 @@
             "MAYOR": "5000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3902,6 +3974,60 @@
         },
         "IVA": "21",
         "STOCK": "10",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798432810627",
+        "DETALLE": "CARGADOR CABEZAL NOVERA BLANCO 30W ",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA ",
+        "P": {
+            "COSTO": "6500.0",
+            "VENTA": "20000.0",
+            "LISTA2": "6500.0",
+            "LISTA3": "6500.0",
+            "MAYOR": "6500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798432810634",
+        "DETALLE": "CARGADOR CABEZAL NOVERA NEGRO 30W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA",
+        "P": {
+            "COSTO": "6500.0",
+            "VENTA": "20000.0",
+            "LISTA2": "6500.0",
+            "LISTA3": "6500.0",
+            "MAYOR": "6500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798432810658",
+        "DETALLE": "CARGADOR CABEZAL NOVERA TIPO C 20W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA",
+        "P": {
+            "COSTO": "5000.0",
+            "VENTA": "15000.0",
+            "LISTA2": "5000.0",
+            "LISTA3": "5000.0",
+            "MAYOR": "5000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3938,6 +4064,24 @@
         },
         "IVA": "21",
         "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGPILA",
+        "DETALLE": "CARGADOR DE PILA RECARGABLE",
+        "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "1000.0",
+            "VENTA": "5000.0",
+            "LISTA2": "1000.0",
+            "LISTA3": "1000.0",
+            "MAYOR": "1000.0"
+        },
+        "IVA": "21",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4081,7 +4225,97 @@
             "MAYOR": "3618.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798368428965",
+        "DETALLE": "CARGADOR NOVERA USB TIPO BLANCO 20W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA",
+        "P": {
+            "COSTO": "10200.0",
+            "VENTA": "24000.0",
+            "LISTA2": "10200.0",
+            "LISTA3": "10200.0",
+            "MAYOR": "10200.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798368428767",
+        "DETALLE": "CARGADOR NOVERA USB TIPO C BLANCO 12W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA",
+        "P": {
+            "COSTO": "5200.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5200.0",
+            "LISTA3": "5200.0",
+            "MAYOR": "5200.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798368427838",
+        "DETALLE": "CARGADOR NOVERA USB TIPO C NEGRO 12W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA",
+        "P": {
+            "COSTO": "5200.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5200.0",
+            "LISTA3": "5200.0",
+            "MAYOR": "5200.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798368427852",
+        "DETALLE": "CARGADOR NOVERA USB TIPO C NEGRO 20W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA ",
+        "P": {
+            "COSTO": "10200.0",
+            "VENTA": "24000.0",
+            "LISTA2": "10200.0",
+            "LISTA3": "10200.0",
+            "MAYOR": "10200.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798368429177",
+        "DETALLE": "CARGADOR PARA AUTO NOVERA USB TIPOC 20W",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
+        "PROVEEDOR": "NOVERA",
+        "MARCA": "NOVERA ",
+        "P": {
+            "COSTO": "4700.0",
+            "VENTA": "10000.0",
+            "LISTA2": "4700.0",
+            "LISTA3": "4700.0",
+            "MAYOR": "4700.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4104,20 +4338,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "7796350507902",
-        "DETALLE": "CARGADOR PORTATIL POWER BANK 10K MAH",
+        "CODIGO": "6918882660028",
+        "DETALLE": "CARGADOR PORTATIL POWER BANK 20 MAH",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES PORTATIL",
-        "PROVEEDOR": "TECNODEMODA",
+        "PROVEEDOR": "MAYORISTA OMEGA",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8000.0",
-            "VENTA": "18900.0",
-            "LISTA2": "8000.0",
-            "LISTA3": "8000.0",
-            "MAYOR": "8000.0"
+            "COSTO": "8500.0",
+            "VENTA": "20000.0",
+            "LISTA2": "8500.0",
+            "LISTA3": "8500.0",
+            "MAYOR": "8500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4153,7 +4387,7 @@
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4279,7 +4513,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4608,6 +4842,24 @@
         "STOCK IDEAL": "30"
     },
     {
+        "CODIGO": "7799135019003",
+        "DETALLE": "CONSOLA GAME STICK + CONVERTIDOR SMART TV",
+        "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "50779.0",
+            "VENTA": "120000.0",
+            "LISTA2": "50779.0",
+            "LISTA3": "50779.0",
+            "MAYOR": "50779.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MULTICONSOLA2",
         "DETALLE": "CONSOLA GAME STICK 4K +20 MIL JUEGOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
@@ -4632,14 +4884,14 @@
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
         "P": {
-            "COSTO": "29500.0",
-            "VENTA": "89999.0",
-            "LISTA2": "75000.0",
-            "LISTA3": "29500.0",
-            "MAYOR": "29500.0"
+            "COSTO": "34920.0",
+            "VENTA": "90000.0",
+            "LISTA2": "68000.0",
+            "LISTA3": "34920.0",
+            "MAYOR": "34920.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -4765,7 +5017,7 @@
             "MAYOR": "2262.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4927,7 +5179,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4969,19 +5221,19 @@
     },
     {
         "CODIGO": "ILCAR3248",
-        "DETALLE": "Cartel LED \"KIOSCO\"",
+        "DETALLE": "Cartel LED KIOSCO",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "PROVEEDOR",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8750.0",
-            "VENTA": "18000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
+            "COSTO": "11600.0",
+            "VENTA": "20000.0",
+            "LISTA2": "11600.0",
+            "LISTA3": "11600.0",
+            "MAYOR": "11600.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5359,7 +5611,7 @@
             "MAYOR": "1500.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5647,7 +5899,7 @@
             "MAYOR": "20670.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5773,7 +6025,7 @@
             "MAYOR": "31000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5796,6 +6048,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6954751457658",
+        "DETALLE": "LICUADORA PORTATIL",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "8500.0",
+            "VENTA": "18000.0",
+            "LISTA2": "8500.0",
+            "LISTA3": "8500.0",
+            "MAYOR": "8500.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "7798766432656",
         "DETALLE": "LICUADORA PROFILE PR 400",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
@@ -5809,7 +6079,7 @@
             "MAYOR": "29300.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5828,6 +6098,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "LIMPIBROCHA",
+        "DETALLE": "LIMPIADOR DE BROCHAS DE MAQUILLAJE",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4900.0",
+            "VENTA": "15000.0",
+            "LISTA2": "4900.0",
+            "LISTA3": "4900.0",
+            "MAYOR": "4900.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5899,7 +6187,7 @@
             "MAYOR": "2300.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5979,17 +6267,17 @@
         "CODIGO": "6942687635905",
         "DETALLE": "LUZ DE EMERGENCIA 60 LED",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "EL CRIOLLO",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10500.0",
+            "COSTO": "8700.0",
             "VENTA": "18900.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
+            "LISTA2": "8700.0",
+            "LISTA3": "8700.0",
+            "MAYOR": "8700.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6043,7 +6331,7 @@
             "MAYOR": "41500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6061,7 +6349,7 @@
             "MAYOR": "33500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6385,7 +6673,7 @@
             "MAYOR": "2494.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6403,7 +6691,7 @@
             "MAYOR": "7669.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -6583,7 +6871,7 @@
             "MAYOR": "6498.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -6617,6 +6905,24 @@
             "LISTA2": "600.0",
             "LISTA3": "600.0",
             "MAYOR": "600.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135011397",
+        "DETALLE": "MIXER AITECH LICUADORA DE MANO",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "16957.0",
+            "VENTA": "40000.0",
+            "LISTA2": "16957.0",
+            "LISTA3": "16957.0",
+            "MAYOR": "16957.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -6691,7 +6997,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6727,7 +7033,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6750,6 +7056,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMOTE15",
+        "DETALLE": "MOD MOTO E15/ G05/ D15/ G15",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "WORLD CELL",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "17000.0",
+            "VENTA": "52000.0",
+            "LISTA2": "17000.0",
+            "LISTA3": "17000.0",
+            "MAYOR": "28000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTE20",
         "DETALLE": "MOD MOTO E20",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -6763,7 +7087,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6799,7 +7123,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6846,14 +7170,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "11051.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11051.0",
-            "LISTA3": "20000.0",
+            "COSTO": "12000.0",
+            "VENTA": "38000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "21717.6",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6889,7 +7213,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6961,7 +7285,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6997,7 +7321,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7033,7 +7357,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7069,7 +7393,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7105,7 +7429,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7116,10 +7440,10 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "9648.0",
+            "COSTO": "11500.0",
             "VENTA": "35000.0",
-            "LISTA2": "9648.0",
-            "LISTA3": "18241.5",
+            "LISTA2": "11500.0",
+            "LISTA3": "21743.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
@@ -7141,7 +7465,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7177,7 +7501,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7188,14 +7512,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "14457.0",
-            "VENTA": "45000.0",
-            "LISTA2": "14457.0",
-            "LISTA3": "25000.0",
-            "MAYOR": "25000.0"
+            "COSTO": "13500.0",
+            "VENTA": "42000.0",
+            "LISTA2": "13500.0",
+            "LISTA3": "23345.5",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7231,7 +7555,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7242,14 +7566,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "16750.0",
+            "COSTO": "15500.0",
             "VENTA": "45000.0",
-            "LISTA2": "16750.0",
-            "LISTA3": "28000.0",
+            "LISTA2": "15500.0",
+            "LISTA3": "15500.0",
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7447,7 +7771,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7638,14 +7962,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9594.0",
+            "COSTO": "10200.0",
             "VENTA": "35000.0",
-            "LISTA2": "9594.0",
-            "LISTA3": "20000.0",
+            "LISTA2": "10200.0",
+            "LISTA3": "21262.9",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7681,7 +8005,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7710,14 +8034,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "8844.0",
+            "COSTO": "10000.0",
             "VENTA": "35000.0",
-            "LISTA2": "8844.0",
-            "LISTA3": "8844.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "10000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "15",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7753,7 +8077,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7782,14 +8106,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "8085.0",
+            "COSTO": "11000.0",
             "VENTA": "35000.0",
-            "LISTA2": "8085.0",
-            "LISTA3": "8085.0",
+            "LISTA2": "11000.0",
+            "LISTA3": "11000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7800,14 +8124,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13780.0",
-            "VENTA": "42000.0",
-            "LISTA2": "13780.0",
-            "LISTA3": "25000.0",
+            "COSTO": "14500.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14500.0",
+            "LISTA3": "26305.9",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7854,14 +8178,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11000.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11000.0",
-            "LISTA3": "19713.1",
-            "MAYOR": "20000.0"
+            "COSTO": "12500.0",
+            "VENTA": "40000.0",
+            "LISTA2": "12500.0",
+            "LISTA3": "22401.2",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7872,11 +8196,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "14740.0",
-            "VENTA": "45000.0",
-            "LISTA2": "14740.0",
-            "LISTA3": "14740.0",
-            "MAYOR": "25000.0"
+            "COSTO": "15510.0",
+            "VENTA": "47350.5",
+            "LISTA2": "15510.0",
+            "LISTA3": "15510.0",
+            "MAYOR": "26500.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -7897,7 +8221,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7944,14 +8268,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8844.0",
+            "COSTO": "10600.0",
             "VENTA": "35000.0",
-            "LISTA2": "8844.0",
-            "LISTA3": "18055.9",
+            "LISTA2": "10600.0",
+            "LISTA3": "21641.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7987,7 +8311,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8052,14 +8376,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11880.0",
-            "VENTA": "36000.0",
-            "LISTA2": "11880.0",
-            "LISTA3": "20330.2",
-            "MAYOR": "20000.0"
+            "COSTO": "13543.2",
+            "VENTA": "41040.0",
+            "LISTA2": "13543.2",
+            "LISTA3": "23176.43",
+            "MAYOR": "22800.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8106,14 +8430,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "12985.0",
-            "VENTA": "40000.0",
-            "LISTA2": "12985.0",
-            "LISTA3": "22738.0",
-            "MAYOR": "23000.0"
+            "COSTO": "14000.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14000.0",
+            "LISTA3": "14000.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8132,6 +8456,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA15O",
+        "DETALLE": "MOD SAMS A15 OLED C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "51200.0",
+            "VENTA": "135000.0",
+            "LISTA2": "51200.0",
+            "LISTA3": "51200.0",
+            "MAYOR": "78000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8230,16 +8572,16 @@
         "DETALLE": "MOD SAMS A21S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "9620.0",
+            "COSTO": "11000.0",
             "VENTA": "35000.0",
-            "LISTA2": "9620.0",
-            "LISTA3": "9620.0",
+            "LISTA2": "11000.0",
+            "LISTA3": "11000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8311,7 +8653,7 @@
             "MAYOR": "46000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8362,6 +8704,24 @@
             "VENTA": "35000.0",
             "LISTA2": "4900.0",
             "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMJ320",
+        "DETALLE": "MOD SAMS J320 INCELL",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "WORLD CELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "5040.0",
+            "VENTA": "35000.0",
+            "LISTA2": "5040.0",
+            "LISTA3": "5040.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
@@ -8424,6 +8784,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODSAMJ500",
+        "DETALLE": "MOD SAMS J500 INCELL BLANCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "WORLD CELL",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "5040.0",
+            "VENTA": "35000.0",
+            "LISTA2": "5040.0",
+            "LISTA3": "5040.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODSAMJ6",
         "DETALLE": "MOD SAMS J6 INCELL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -8448,14 +8826,14 @@
         "PROVEEDOR": "SILEO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "6000.0",
+            "COSTO": "15000.0",
             "VENTA": "35000.0",
-            "LISTA2": "6000.0",
-            "LISTA3": "6000.0",
-            "MAYOR": "20000.0"
+            "LISTA2": "15000.0",
+            "LISTA3": "15000.0",
+            "MAYOR": "22500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8491,7 +8869,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8574,11 +8952,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "12150.0",
-            "VENTA": "42000.0",
-            "LISTA2": "12150.0",
-            "LISTA3": "12150.0",
-            "MAYOR": "23000.0"
+            "COSTO": "16000.0",
+            "VENTA": "50000.0",
+            "LISTA2": "16000.0",
+            "LISTA3": "16000.0",
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8592,14 +8970,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "12250.0",
-            "VENTA": "45000.0",
-            "LISTA2": "12250.0",
-            "LISTA3": "12250.0",
-            "MAYOR": "23000.0"
+            "COSTO": "17500.0",
+            "VENTA": "54000.0",
+            "LISTA2": "17500.0",
+            "LISTA3": "17500.0",
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8707,7 +9085,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8743,7 +9121,7 @@
             "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8820,6 +9198,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "77991350098372",
+        "DETALLE": "MOUSE AITECH INALAMBRICO BLANCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "2109.0",
+            "VENTA": "8000.0",
+            "LISTA2": "2109.0",
+            "LISTA3": "2109.0",
+            "MAYOR": "2109.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135009837",
+        "DETALLE": "MOUSE AITECH INALAMBRICO ROJO",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "2109.0",
+            "VENTA": "6000.0",
+            "LISTA2": "2109.0",
+            "LISTA3": "2109.0",
+            "MAYOR": "2109.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "723540566057",
         "DETALLE": "MOUSE INALAMBRICO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
@@ -8851,7 +9265,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -8869,9 +9283,27 @@
             "MAYOR": "4070.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "nan",
+        "DETALLE": "NIVELADOR LASER",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "7500.0",
+            "VENTA": "15000.0",
+            "LISTA2": "7500.0",
+            "LISTA3": "7500.0",
+            "MAYOR": "7500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "OLLAELECT",
@@ -9013,7 +9445,7 @@
             "MAYOR": "6355.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9175,7 +9607,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9247,7 +9679,7 @@
             "MAYOR": "3864.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9697,7 +10129,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "104",
+        "STOCK": "96",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9859,7 +10291,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "16",
+        "STOCK": "15",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9877,7 +10309,7 @@
             "MAYOR": "136.4"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10243,7 +10675,7 @@
     },
     {
         "CODIGO": "CARGAE7POW",
-        "DETALLE": "PLACA DE CARGA MOTO E7 POWER",
+        "DETALLE": "PLACA DE CARGA MOTO E7 POWER / E7I POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "MOTOROLA",
@@ -10471,7 +10903,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10764,24 +11196,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "WTEQ42577",
-        "DETALLE": "PLANCHITA DE PELO",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "5800.0",
-            "VENTA": "12000.0",
-            "LISTA2": "5800.0",
-            "LISTA3": "5800.0",
-            "MAYOR": "5800.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "1134338992788",
         "DETALLE": "PLANCHITA DE PELO 250ºC NANO TITANIUM",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
@@ -10818,20 +11232,38 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "PLANCHAHYT",
-        "DETALLE": "PLANCHITA DE PELO HYTOSHY BRONCE",
+        "CODIGO": "6963490162624",
+        "DETALLE": "PLANCHITA DE PELO SERS 45W 4 REGULACIONES",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "MAYORISTA OMEGA",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8229.0",
-            "VENTA": "20000.0",
-            "LISTA2": "8229.0",
-            "LISTA3": "8229.0",
-            "MAYOR": "8229.0"
+            "COSTO": "10500.0",
+            "VENTA": "25000.0",
+            "LISTA2": "10500.0",
+            "LISTA3": "10500.0",
+            "MAYOR": "10500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "6963490162655",
+        "DETALLE": "PLANCHITA DE PELO SERS CHICA",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "5500.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5500.0",
+            "LISTA3": "5500.0",
+            "MAYOR": "5500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11047,7 +11479,7 @@
             "MAYOR": "15.0"
         },
         "IVA": "21",
-        "STOCK": "200",
+        "STOCK": "100",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11286,6 +11718,24 @@
         "STOCK IDEAL": "30"
     },
     {
+        "CODIGO": "7895168020167",
+        "DETALLE": "RELOJ SMARTWATCH COMUN",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4900.0",
+            "VENTA": "10000.0",
+            "LISTA2": "4900.0",
+            "LISTA3": "4900.0",
+            "MAYOR": "4900.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "RELOJSMART",
         "DETALLE": "RELOJ SMARTWATCH ULTRA 9 BIG C/7 MALLA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
@@ -11328,14 +11778,14 @@
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9500.0",
-            "VENTA": "23500.0",
-            "LISTA2": "9500.0",
-            "LISTA3": "9500.0",
-            "MAYOR": "9500.0"
+            "COSTO": "7500.0",
+            "VENTA": "18000.0",
+            "LISTA2": "7500.0",
+            "LISTA3": "7500.0",
+            "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11346,11 +11796,11 @@
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "nan",
         "P": {
-            "COSTO": "6000.0",
-            "VENTA": "15000.0",
-            "LISTA2": "6000.0",
-            "LISTA3": "6000.0",
-            "MAYOR": "6000.0"
+            "COSTO": "5000.0",
+            "VENTA": "12500.0",
+            "LISTA2": "5000.0",
+            "LISTA3": "5000.0",
+            "MAYOR": "5000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -11425,7 +11875,7 @@
             "MAYOR": "1389.4"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11479,7 +11929,7 @@
             "MAYOR": "34734.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11520,6 +11970,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6958210712401",
+        "DETALLE": "SECADOR PELO AITECH",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "10800.0",
+            "VENTA": "26000.0",
+            "LISTA2": "10800.0",
+            "LISTA3": "10800.0",
+            "MAYOR": "10800.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "6963490162686",
         "DETALLE": "SECADOR PELO CHICO SEIS 800W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
@@ -11552,24 +12020,6 @@
         },
         "IVA": "21",
         "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6958210712401",
-        "DETALLE": "SECADOR PELO PROFILE 1800W",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "TRES CUARENTA Y OCHO",
-        "MARCA": "PROFILE",
-        "P": {
-            "COSTO": "10800.0",
-            "VENTA": "26000.0",
-            "LISTA2": "10800.0",
-            "LISTA3": "10800.0",
-            "MAYOR": "10800.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11623,7 +12073,7 @@
             "MAYOR": "7718.7"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11677,7 +12127,7 @@
             "MAYOR": "26300.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11965,7 +12415,7 @@
             "MAYOR": "3628.5"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11994,14 +12444,14 @@
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8500.0",
-            "VENTA": "16900.0",
-            "LISTA2": "8500.0",
-            "LISTA3": "8500.0",
-            "MAYOR": "8500.0"
+            "COSTO": "9900.0",
+            "VENTA": "20000.0",
+            "LISTA2": "9900.0",
+            "LISTA3": "9900.0",
+            "MAYOR": "9900.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12145,7 +12595,7 @@
             "MAYOR": "6519.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12163,7 +12613,7 @@
             "MAYOR": "4012.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12325,7 +12775,7 @@
             "MAYOR": "3750.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12361,7 +12811,7 @@
             "MAYOR": "16700.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12577,7 +13027,7 @@
             "MAYOR": "628.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12595,7 +13045,7 @@
             "MAYOR": "4800.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12667,7 +13117,7 @@
             "MAYOR": "2352.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12715,7 +13165,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "3724.0",
-            "VENTA": "7000.0",
+            "VENTA": "6000.0",
             "LISTA2": "3724.0",
             "LISTA3": "3724.0",
             "MAYOR": "3724.0"
@@ -12733,7 +13183,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "5454.0",
-            "VENTA": "9000.0",
+            "VENTA": "8500.0",
             "LISTA2": "5454.0",
             "LISTA3": "5454.0",
             "MAYOR": "5454.0"
@@ -12811,7 +13261,7 @@
             "MAYOR": "14171.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12847,7 +13297,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "551",
+        "STOCK": "548",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12891,7 +13341,7 @@
         "CODIGO": "WAFLERA",
         "DETALLE": "WAFLERA",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "PROVEEDOR",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
             "COSTO": "17200.0",
@@ -12925,7 +13375,7 @@
     },
     {
         "CODIGO": "ZAPATILLA1",
-        "DETALLE": "ZAPATILLA ALARGUE 5 TOMAS 1.5 MTS",
+        "DETALLE": "ZAPATILLA ALARGUE 4 TOMAS 1.5 MTS",
         "FAMILIA": "CABLES Y ADAPTADORES",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
@@ -12937,13 +13387,31 @@
             "MAYOR": "3613.6"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "ZAPA3MTS",
+        "DETALLE": "ZAPATILLA ALARGUE 4 TOMAS 3 MTS",
+        "FAMILIA": "CABLES Y ADAPTADORES",
+        "PROVEEDOR": "MAYORISTA OMEGA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4000.0",
+            "VENTA": "10000.0",
+            "LISTA2": "4000.0",
+            "LISTA3": "4000.0",
+            "MAYOR": "4000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "ZAPAT5MTS",
-        "DETALLE": "ZAPATILLA ALARGUE 5 TOMAS 5MTS",
+        "DETALLE": "ZAPATILLA ALARGUE 4 TOMAS 5MTS",
         "FAMILIA": "CABLES Y ADAPTADORES",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "VR PLAST",
@@ -12955,7 +13423,7 @@
             "MAYOR": "4588.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
