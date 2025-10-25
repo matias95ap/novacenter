@@ -78,14 +78,32 @@
         "PROVEEDOR": "E-MAX",
         "MARCA": "nan",
         "P": {
-            "COSTO": "1100.0",
-            "VENTA": "4000.0",
-            "LISTA2": "1100.0",
-            "LISTA3": "1100.0",
-            "MAYOR": "1100.0"
+            "COSTO": "1843.0",
+            "VENTA": "6500.0",
+            "LISTA2": "1843.0",
+            "LISTA3": "1843.0",
+            "MAYOR": "1843.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "13",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "ENCHUFEADAP",
+        "DETALLE": "ADAPTADOR ENCHUFE COMUN",
+        "FAMILIA": "CABLES Y ADAPTADORES",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "297.0",
+            "VENTA": "1200.0",
+            "LISTA2": "297.0",
+            "LISTA3": "297.0",
+            "MAYOR": "297.0"
+        },
+        "IVA": "21",
+        "STOCK": "99",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -97,13 +115,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "377.0",
-            "VENTA": "1500.0",
+            "VENTA": "1800.0",
             "LISTA2": "377.0",
             "LISTA3": "377.0",
             "MAYOR": "377.0"
         },
         "IVA": "21",
-        "STOCK": "12",
+        "STOCK": "35",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -193,7 +211,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -378,20 +396,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "8699258564291",
+        "CODIGO": "7799135012332",
         "DETALLE": "ANTENA USB WIFI",
         "FAMILIA": "CABLES Y ADAPTADORES",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "3933.12",
+            "COSTO": "3687.0",
             "VENTA": "8000.0",
-            "LISTA2": "3933.1",
-            "LISTA3": "3933.1",
-            "MAYOR": "3933.1"
+            "LISTA2": "3687.0",
+            "LISTA3": "3687.0",
+            "MAYOR": "3687.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -435,17 +453,17 @@
         "CODIGO": "7912103301416",
         "DETALLE": "ARO LED 26 CM RGB",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "TECNO IMPORTACION",
+        "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8998.83",
+            "COSTO": "7500.0",
             "VENTA": "18000.0",
-            "LISTA2": "8998.8",
-            "LISTA3": "8998.8",
-            "MAYOR": "8998.8"
+            "LISTA2": "7500.0",
+            "LISTA3": "7500.0",
+            "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -868,16 +886,16 @@
         "DETALLE": "AURICULAR BT NEWEST M10",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
-            "COSTO": "3861.0",
-            "VENTA": "15000.0",
-            "LISTA2": "12000.0",
-            "LISTA3": "3861.0",
-            "MAYOR": "3861.0"
+            "COSTO": "4636.0",
+            "VENTA": "12000.0",
+            "LISTA2": "4636.0",
+            "LISTA3": "4636.0",
+            "MAYOR": "4636.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "18",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -3330,6 +3348,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6933138610930",
+        "DETALLE": "CABLE USB LDNIO CARGA RAPIDA 65W TIPO C",
+        "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "LDNIO",
+        "P": {
+            "COSTO": "2950.0",
+            "VENTA": "9000.0",
+            "LISTA2": "2950.0",
+            "LISTA3": "2950.0",
+            "MAYOR": "2950.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "7796350507810",
         "DETALLE": "CABLE USB LEGATUS TIPO C RC 5008",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
@@ -3750,14 +3786,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "AITECH",
         "P": {
-            "COSTO": "2964.0",
-            "VENTA": "10000.0",
-            "LISTA2": "2964.0",
-            "LISTA3": "2964.0",
-            "MAYOR": "2964.0"
+            "COSTO": "3540.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3540.0",
+            "LISTA3": "3540.0",
+            "MAYOR": "3540.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -3768,14 +3804,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "AITECH",
         "P": {
-            "COSTO": "2223.0",
-            "VENTA": "9500.0",
-            "LISTA2": "2223.0",
-            "LISTA3": "2223.0",
-            "MAYOR": "2223.0"
+            "COSTO": "2876.0",
+            "VENTA": "12000.0",
+            "LISTA2": "2876.0",
+            "LISTA3": "2876.0",
+            "MAYOR": "2876.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -4074,14 +4110,14 @@
         "PROVEEDOR": "E-MAX",
         "MARCA": "LDNIO",
         "P": {
-            "COSTO": "3180.0",
+            "COSTO": "2982.0",
             "VENTA": "12000.0",
-            "LISTA2": "3180.0",
-            "LISTA3": "3180.0",
-            "MAYOR": "5000.0"
+            "LISTA2": "2982.0",
+            "LISTA3": "2982.0",
+            "MAYOR": "4688.6"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4423,7 +4459,7 @@
             "MAYOR": "10200.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5959,19 +5995,19 @@
     },
     {
         "CODIGO": "7790839961483",
-        "DETALLE": "HUB TIPO C 4 PUERTOS ",
+        "DETALLE": "HUB TIPO C 4 PUERTOS",
         "FAMILIA": "CABLES Y ADAPTADORES",
         "PROVEEDOR": "E-MAX",
         "MARCA": "nan",
         "P": {
             "COSTO": "2300.0",
-            "VENTA": "4600.0",
+            "VENTA": "6500.0",
             "LISTA2": "2300.0",
             "LISTA3": "2300.0",
             "MAYOR": "2300.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6248,7 +6284,7 @@
     {
         "CODIGO": "6956365778198",
         "DETALLE": "LINTERNA LED EMERGENCIA SOLAR",
-        "FAMILIA": "ILUMINACIÓN",
+        "FAMILIA": "ILUMINACIÓN > LINTERNAS",
         "PROVEEDOR": "nan",
         "MARCA": "nan",
         "P": {
@@ -6284,7 +6320,7 @@
     {
         "CODIGO": "7882375154327",
         "DETALLE": "LINTERNA MINERA HIGH POWER",
-        "FAMILIA": "ILUMINACIÓN",
+        "FAMILIA": "ILUMINACIÓN > LINTERNAS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
@@ -6296,6 +6332,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "EC100457",
+        "DETALLE": "LINTERNA MINERA MINI CON PILAS ",
+        "FAMILIA": "ILUMINACIÓN > LINTERNAS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "885.0",
+            "VENTA": "4500.0",
+            "LISTA2": "885.0",
+            "LISTA3": "885.0",
+            "MAYOR": "885.0"
+        },
+        "IVA": "21",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7555,7 +7609,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7681,7 +7735,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8239,7 +8293,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8473,7 +8527,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8995,7 +9049,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9391,7 +9445,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -9612,6 +9666,24 @@
         "STOCK IDEAL": "30"
     },
     {
+        "CODIGO": "7799135016361",
+        "DETALLE": "PALO SELFIE AITECH R1 BT TRIPODE 1.7 MTS",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "5792.0",
+            "VENTA": "22000.0",
+            "LISTA2": "5792.0",
+            "LISTA3": "5792.0",
+            "MAYOR": "5792.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "PALOSELFIE",
         "DETALLE": "PALO SELFIE CON BOTON",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
@@ -9619,28 +9691,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "1600.0",
-            "VENTA": "4000.0",
+            "VENTA": "6500.0",
             "LISTA2": "1600.0",
             "LISTA3": "1600.0",
             "MAYOR": "1600.0"
-        },
-        "IVA": "21",
-        "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "731299174218",
-        "DETALLE": "PARLANTE 6.5 PULGADAS COLGANTE",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "SPEAKER",
-        "P": {
-            "COSTO": "12037.0",
-            "VENTA": "32000.0",
-            "LISTA2": "12037.0",
-            "LISTA3": "12700.0",
-            "MAYOR": "12037.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -9648,38 +9702,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "PARLANTE01",
-        "DETALLE": "PARLANTE BT 1333 6.5 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "TRES CUARENTA Y OCHO",
+        "CODIGO": "7799135016392",
+        "DETALLE": "PALO SELFIE R16D CON MANGO DE AGARRE Y LUCES",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
+        "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "20000.0",
-            "VENTA": "38000.0",
-            "LISTA2": "20000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "13216.0",
+            "VENTA": "35000.0",
+            "LISTA2": "13216.0",
+            "LISTA3": "13216.0",
+            "MAYOR": "13216.0"
         },
         "IVA": "21",
-        "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PARLANTE06",
-        "DETALLE": "PARLANTE BT 3 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "GREATNICE",
-        "P": {
-            "COSTO": "3924.0",
-            "VENTA": "10000.0",
-            "LISTA2": "3924.0",
-            "LISTA3": "3924.0",
-            "MAYOR": "3924.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9702,6 +9738,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "5115164112157",
+        "DETALLE": "PARLANTE BT 3 PULGADAS CON LINTERNA",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4300.0",
+            "VENTA": "12000.0",
+            "LISTA2": "4300.0",
+            "LISTA3": "4300.0",
+            "MAYOR": "4300.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE03",
+        "DETALLE": "PARLANTE BT 3 PULGADAS MINI COLORES",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "MINI",
+        "P": {
+            "COSTO": "3864.0",
+            "VENTA": "12000.0",
+            "LISTA2": "3864.0",
+            "LISTA3": "3864.0",
+            "MAYOR": "3864.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "729208241403",
         "DETALLE": "PARLANTE BT 4 PULGADAS",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
@@ -9720,116 +9792,8 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "PARLANTE04",
-        "DETALLE": "PARLANTE BT 669B 3X2 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "9000.0",
-            "VENTA": "16000.0",
-            "LISTA2": "9000.0",
-            "LISTA3": "9000.0",
-            "MAYOR": "9000.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PARL8PULG",
-        "DETALLE": "PARLANTE BT 8 PULGADAS AITECH",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "AITECH",
-        "P": {
-            "COSTO": "27136.0",
-            "VENTA": "48000.0",
-            "LISTA2": "48000.0",
-            "LISTA3": "48000.0",
-            "MAYOR": "27136.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PARLANTE05",
-        "DETALLE": "PARLANTE BT BS176 3 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "4900.0",
-            "VENTA": "11000.0",
-            "LISTA2": "4900.0",
-            "LISTA3": "4900.0",
-            "MAYOR": "4900.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "5115164112157",
-        "DETALLE": "PARLANTE BT LINTERNA 3 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "4300.0",
-            "VENTA": "12000.0",
-            "LISTA2": "4300.0",
-            "LISTA3": "4300.0",
-            "MAYOR": "4300.0"
-        },
-        "IVA": "21",
-        "STOCK": "2",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PARLANTE03",
-        "DETALLE": "PARLANTE BT MINI COLORES",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "MINI",
-        "P": {
-            "COSTO": "3864.0",
-            "VENTA": "12000.0",
-            "LISTA2": "3864.0",
-            "LISTA3": "3864.0",
-            "MAYOR": "3864.0"
-        },
-        "IVA": "21",
-        "STOCK": "2",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "PARLANTE02",
-        "DETALLE": "PARLANTE BT MS 2635 3 PULGADAS",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "8500.0",
-            "VENTA": "19000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "731299174584",
-        "DETALLE": "PARLANTE BT SUONO 4 PULGADAS",
+        "DETALLE": "PARLANTE BT 4 PULGADAS  SUONO",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "SUONO",
@@ -9846,20 +9810,110 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "LM882",
-        "DETALLE": "PARLANTE JBL LM 882",
+        "CODIGO": "PARLANTE01",
+        "DETALLE": "PARLANTE BT 6.5 PULGADAS 1333",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CRIOLLO",
+        "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "13727.02",
-            "VENTA": "24700.0",
-            "LISTA2": "13727.0",
-            "LISTA3": "13727.0",
-            "MAYOR": "13727.0"
+            "COSTO": "20000.0",
+            "VENTA": "38000.0",
+            "LISTA2": "20000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "731299174218",
+        "DETALLE": "PARLANTE BT 6.5 PULGADAS COLGANTE",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "SPEAKER",
+        "P": {
+            "COSTO": "12037.0",
+            "VENTA": "32000.0",
+            "LISTA2": "12037.0",
+            "LISTA3": "12700.0",
+            "MAYOR": "12037.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARL8PULG",
+        "DETALLE": "PARLANTE BT 8 PULGADAS AITECH AMBER",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "26730.0",
+            "VENTA": "46000.0",
+            "LISTA2": "26730.0",
+            "LISTA3": "26730.0",
+            "MAYOR": "26730.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE04",
+        "DETALLE": "PARLANTE BT 8 PULGADAS AITECH OBSIDIAN",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "26730.0",
+            "VENTA": "49000.0",
+            "LISTA2": "26730.0",
+            "LISTA3": "26730.0",
+            "MAYOR": "26730.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE05",
+        "DETALLE": "PARLANTE BT 8 PULGADAS AITECH ONIX",
+        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "26730.0",
+            "VENTA": "52000.0",
+            "LISTA2": "26730.0",
+            "LISTA3": "26730.0",
+            "MAYOR": "26730.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE06",
+        "DETALLE": "PARLANTE BT 8 PULGADAS KTS 1562",
+        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
+        "PROVEEDOR": "IMPORTCELL",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "31500.0",
+            "VENTA": "58000.0",
+            "LISTA2": "31500.0",
+            "LISTA3": "31500.0",
+            "MAYOR": "31500.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9878,24 +9932,6 @@
         },
         "IVA": "21",
         "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "731299175055",
-        "DETALLE": "PARLANTE PORTATIL SUONO",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "SUONO",
-        "P": {
-            "COSTO": "4341.52",
-            "VENTA": "10000.0",
-            "LISTA2": "4341.5",
-            "LISTA3": "4341.5",
-            "MAYOR": "4341.5"
-        },
-        "IVA": "21",
-        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9996,14 +10032,14 @@
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "KINGSTON",
         "P": {
-            "COSTO": "6000.0",
-            "VENTA": "15000.0",
-            "LISTA2": "6000.0",
-            "LISTA3": "6000.0",
-            "MAYOR": "6000.0"
+            "COSTO": "6932.0",
+            "VENTA": "17000.0",
+            "LISTA2": "6932.0",
+            "LISTA3": "6932.0",
+            "MAYOR": "6932.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12253,7 +12289,7 @@
             "MAYOR": "9508.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12559,7 +12595,7 @@
             "MAYOR": "26300.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13050,6 +13086,24 @@
         "STOCK IDEAL": "30"
     },
     {
+        "CODIGO": "PRESIONDIG",
+        "DETALLE": "TENSIOMETRO DIGITAL MEDIDOR DE PRESION",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > SALUD",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "11138.0",
+            "VENTA": "32000.0",
+            "LISTA2": "11138.0",
+            "LISTA3": "11138.0",
+            "MAYOR": "11138.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "TERMOMETRO",
         "DETALLE": "TERMOMETRO DIGITAL",
         "FAMILIA": "LIBRERÍA Y VARIOS",
@@ -13477,7 +13531,7 @@
             "MAYOR": "4800.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13550,6 +13604,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135013018",
+        "DETALLE": "TV STICK  AITECH CONVERTIDOR A SMART TV",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "29820.0",
+            "VENTA": "60000.0",
+            "LISTA2": "29820.0",
+            "LISTA3": "29820.0",
+            "MAYOR": "29820.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13693,7 +13765,7 @@
             "MAYOR": "14171.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
