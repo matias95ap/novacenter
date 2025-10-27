@@ -349,7 +349,7 @@
         "MARCA": "ORYX",
         "P": {
             "COSTO": "10000.0",
-            "VENTA": "22000.0",
+            "VENTA": "24000.0",
             "LISTA2": "10000.0",
             "LISTA3": "10000.0",
             "MAYOR": "10000.0"
@@ -367,7 +367,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "20600.0",
-            "VENTA": "50000.0",
+            "VENTA": "42000.0",
             "LISTA2": "20600.0",
             "LISTA3": "20600.0",
             "MAYOR": "20600.0"
@@ -1249,7 +1249,7 @@
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5799.0",
-            "VENTA": "25000.0",
+            "VENTA": "32000.0",
             "LISTA2": "5799.0",
             "LISTA3": "5799.0",
             "MAYOR": "5799.0"
@@ -3487,7 +3487,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "41",
+        "STOCK": "40",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3559,7 +3559,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "21",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3955,7 +3955,7 @@
             "MAYOR": "3220.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5005,7 +5005,7 @@
     },
     {
         "CODIGO": "7799135019003",
-        "DETALLE": "CONSOLA GAME STICK + CONVERTIDOR SMART TV",
+        "DETALLE": "CONSOLA GAME STICK + SMART TV MAGIS TV",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
@@ -5087,6 +5087,24 @@
             "LISTA2": "2112.0",
             "LISTA3": "2112.0",
             "MAYOR": "2112.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CONTROLSMART",
+        "DETALLE": "CONTROL REMOTO SMART TV BOX ",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "2500.0",
+            "VENTA": "6000.0",
+            "LISTA2": "2500.0",
+            "LISTA3": "2500.0",
+            "MAYOR": "2500.0"
         },
         "IVA": "21",
         "STOCK": "4",
@@ -5179,7 +5197,25 @@
             "MAYOR": "2262.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "RCADIGITAL",
+        "DETALLE": "CONVERSOR AUDIO DIGITAL A RCA",
+        "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "5160.0",
+            "VENTA": "12000.0",
+            "LISTA2": "5160.0",
+            "LISTA3": "5160.0",
+            "MAYOR": "5160.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6379,13 +6415,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "2516.0",
-            "VENTA": "6000.0",
+            "VENTA": "6900.0",
             "LISTA2": "2516.0",
             "LISTA3": "2516.0",
             "MAYOR": "2516.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6860,7 +6896,7 @@
     {
         "CODIGO": "MICROCORB",
         "DETALLE": "MICROFONO CORBATERO K9",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
+        "FAMILIA": "ACCESORIOS PARA CELULAR",
         "PROVEEDOR": "E-MAX",
         "MARCA": "nan",
         "P": {
@@ -6874,6 +6910,24 @@
         "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "MICROBT",
+        "DETALLE": "MICROFONO INALAMBRICO",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "12865.0",
+            "VENTA": "26000.0",
+            "LISTA2": "12865.0",
+            "LISTA3": "12865.0",
+            "MAYOR": "12865.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "1234567890128",
@@ -7036,6 +7090,24 @@
         "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "MINITECLA",
+        "DETALLE": "MINI TECLADO MOUSE M9",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "7281.0",
+            "VENTA": "20000.0",
+            "LISTA2": "7281.0",
+            "LISTA3": "7281.0",
+            "MAYOR": "7281.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "AIKB020599R",
@@ -7231,7 +7303,7 @@
             "MAYOR": "29000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9468,7 +9540,25 @@
         "STOCK IDEAL": "30"
     },
     {
-        "CODIGO": "nan",
+        "CODIGO": "NEBULIZADOR",
+        "DETALLE": "NEBULIZADOR PORTATIL A USB O PILAS",
+        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > SALUD",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "13000.0",
+            "VENTA": "26000.0",
+            "LISTA2": "13000.0",
+            "LISTA3": "13000.0",
+            "MAYOR": "13000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "NIVELADOR",
         "DETALLE": "NIVELADOR LASER",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
         "PROVEEDOR": "MAYORISTA OMEGA",
@@ -9619,15 +9709,15 @@
         "MARCA": "SONY",
         "P": {
             "COSTO": "6355.0",
-            "VENTA": "18000.0",
-            "LISTA2": "14000.0",
+            "VENTA": "15000.0",
+            "LISTA2": "6355.0",
             "LISTA3": "6355.0",
             "MAYOR": "6355.0"
         },
         "IVA": "21",
         "STOCK": "3",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "711719990048",
@@ -9703,10 +9793,10 @@
     },
     {
         "CODIGO": "7799135016392",
-        "DETALLE": "PALO SELFIE R16D CON MANGO DE AGARRE Y LUCES",
+        "DETALLE": "PALO SELFIE TRIPODE 1.7 MTS CON MANGO DE AGARRE Y LUCES",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
             "COSTO": "13216.0",
             "VENTA": "35000.0",
@@ -9752,6 +9842,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE07",
+        "DETALLE": "PARLANTE BT 3 PULGADAS GTS 1468",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "5600.0",
+            "VENTA": "14000.0",
+            "LISTA2": "5600.0",
+            "LISTA3": "5600.0",
+            "MAYOR": "5600.0"
+        },
+        "IVA": "21",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9841,7 +9949,7 @@
             "MAYOR": "12037.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9884,7 +9992,7 @@
     {
         "CODIGO": "PARLANTE05",
         "DETALLE": "PARLANTE BT 8 PULGADAS AITECH ONIX",
-        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "EL CELU",
         "MARCA": "AITECH",
         "P": {
@@ -9902,7 +10010,7 @@
     {
         "CODIGO": "PARLANTE06",
         "DETALLE": "PARLANTE BT 8 PULGADAS KTS 1562",
-        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "nan",
         "P": {
@@ -11898,24 +12006,6 @@
         "STOCK IDEAL": "30"
     },
     {
-        "CODIGO": "POPSOCKET",
-        "DETALLE": "POPSOCKET CELULAR DISEÑOS",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "900.0",
-            "VENTA": "2600.0",
-            "LISTA2": "900.0",
-            "LISTA3": "900.0",
-            "MAYOR": "900.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "PORTALAMPA",
         "DETALLE": "PORTALAMPARA ADAPTADOR",
         "FAMILIA": "ILUMINACIÓN",
@@ -11952,38 +12042,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "RADIORELOJ",
-        "DETALLE": "RADIO 3 BANDA RELOJ",
-        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "14549.0",
-            "VENTA": "38000.0",
-            "LISTA2": "14549.0",
-            "LISTA3": "14549.0",
-            "MAYOR": "14549.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "RADIO3BAND",
-        "DETALLE": "RADIO 3 BANDAS BT S/RELOJ",
+        "DETALLE": "RADIO AM/FM/SW CON BLUETOOTH Y RECARGABLE LECTOR DE TARJETA Y PENDRIVE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
+        "MARCA": "NUEVO",
         "P": {
-            "COSTO": "13500.0",
+            "COSTO": "13000.0",
             "VENTA": "36000.0",
-            "LISTA2": "13500.0",
-            "LISTA3": "13500.0",
-            "MAYOR": "13500.0"
+            "LISTA2": "13000.0",
+            "LISTA3": "13000.0",
+            "MAYOR": "13000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12330,14 +12402,32 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "RIÑONERA",
+        "DETALLE": "RIÑONERA DEPORTIVA CHICA",
+        "FAMILIA": "ACCESORIOS PARA CELULAR",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "1585.0",
+            "VENTA": "6000.0",
+            "LISTA2": "1585.0",
+            "LISTA3": "1585.0",
+            "MAYOR": "1585.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "RIÑONERADP",
-        "DETALLE": "RIÑONERA DEPORTIVA CON CINTURON",
+        "DETALLE": "RIÑONERA DEPORTIVA PARA CELULAR",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1389.4",
-            "VENTA": "6500.0",
+            "VENTA": "7500.0",
             "LISTA2": "1389.4",
             "LISTA3": "1389.4",
             "MAYOR": "1389.4"
@@ -12531,7 +12621,7 @@
         "CODIGO": "763571815083",
         "DETALLE": "SET DESTORNILLADOR 115 EN 1",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "EL CRIOLLO",
+        "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
             "COSTO": "7718.75",
@@ -12541,7 +12631,7 @@
             "MAYOR": "7718.7"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12552,14 +12642,14 @@
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "1911.0",
-            "VENTA": "7999.0",
-            "LISTA2": "1911.0",
-            "LISTA3": "1911.0",
-            "MAYOR": "1911.0"
+            "COSTO": "2328.0",
+            "VENTA": "9000.0",
+            "LISTA2": "2328.0",
+            "LISTA3": "2328.0",
+            "MAYOR": "2328.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12583,13 +12673,13 @@
     },
     {
         "CODIGO": "5901234123457",
-        "DETALLE": "SMART BOX MAGIS TV",
+        "DETALLE": "SMART TV BOX AITECH CON MAGIS TV",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
             "COSTO": "26300.0",
-            "VENTA": "46000.0",
+            "VENTA": "52000.0",
             "LISTA2": "26300.0",
             "LISTA3": "26300.0",
             "MAYOR": "26300.0"
@@ -12600,20 +12690,38 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6918688168186",
-        "DETALLE": "SOPORTE ANILLO CORREA CELULAR",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "nan",
+        "CODIGO": "723540564831",
+        "DETALLE": "SMART TV BOX CON MAGIS TV 4K ",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NOVACENTER",
         "P": {
-            "COSTO": "600.0",
-            "VENTA": "1800.0",
-            "LISTA2": "600.0",
-            "LISTA3": "600.0",
-            "MAYOR": "600.0"
+            "COSTO": "21500.0",
+            "VENTA": "45000.0",
+            "LISTA2": "21500.0",
+            "LISTA3": "21500.0",
+            "MAYOR": "21500.0"
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135013018",
+        "DETALLE": "SMART TV STICK AITECH CON MAGIS TV 4K",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "29820.0",
+            "VENTA": "60000.0",
+            "LISTA2": "29820.0",
+            "LISTA3": "29820.0",
+            "MAYOR": "29820.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12661,7 +12769,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
-            "VENTA": "1600.0",
+            "VENTA": "2500.0",
             "LISTA2": "500.0",
             "LISTA3": "500.0",
             "MAYOR": "500.0"
@@ -12692,7 +12800,7 @@
     {
         "CODIGO": "SOPORTECOMUN",
         "DETALLE": "SOPORTE CELULAR RETROVISOR COMUN",
-        "FAMILIA": "ACCESORIOS PARA CELULAR",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
@@ -12715,7 +12823,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "600.0",
-            "VENTA": "1800.0",
+            "VENTA": "2500.0",
             "LISTA2": "600.0",
             "LISTA3": "600.0",
             "MAYOR": "600.0"
@@ -12733,49 +12841,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
-            "VENTA": "1400.0",
+            "VENTA": "2000.0",
             "LISTA2": "500.0",
             "LISTA3": "500.0",
             "MAYOR": "500.0"
         },
         "IVA": "21",
         "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "SOPORTECE1",
-        "DETALLE": "SOPORTE CUELLO CELULAR",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "1500.0",
-            "VENTA": "3000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "2",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "7790839910788",
-        "DETALLE": "SOPORTE DE CELULAR PARA MESA",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "E-MAX",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "500.0",
-            "VENTA": "1400.0",
-            "LISTA2": "500.0",
-            "LISTA3": "500.0",
-            "MAYOR": "500.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12816,6 +12888,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "SOPORTMAG",
+        "DETALLE": "SOPORTE MAGNETICO PARA CELULARES",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "3900.0",
+            "VENTA": "9000.0",
+            "LISTA2": "3900.0",
+            "LISTA3": "3900.0",
+            "MAYOR": "3900.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MANITO",
         "DETALLE": "SOPORTE MANITO PARA CELULAR",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
@@ -12823,7 +12913,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
-            "VENTA": "1500.0",
+            "VENTA": "2500.0",
             "LISTA2": "0.0",
             "LISTA3": "0.0",
             "MAYOR": "0.0"
@@ -12883,7 +12973,7 @@
             "MAYOR": "3628.5"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12920,24 +13010,6 @@
         },
         "IVA": "21",
         "STOCK": "4",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "701575361564",
-        "DETALLE": "SOPORTE UNIVERSAL CELULAR",
-        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "2037.0",
-            "VENTA": "4200.0",
-            "LISTA2": "2037.0",
-            "LISTA3": "2037.0",
-            "MAYOR": "2037.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13027,7 +13099,7 @@
             "MAYOR": "2200.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -13249,7 +13321,7 @@
     },
     {
         "CODIGO": "7795234526572",
-        "DETALLE": "TIRA LED 5 MTS 3528",
+        "DETALLE": "TIRA LED 5 MTS 2835",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
@@ -13261,9 +13333,9 @@
             "MAYOR": "3750.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "4",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "LED5050",
@@ -13279,27 +13351,27 @@
             "MAYOR": "6288.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "NEON5050",
         "DETALLE": "TIRA NEON 5050 RGB",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "TECNO IMPORTACION",
+        "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "16700.0",
-            "VENTA": "32000.0",
-            "LISTA2": "28000.0",
-            "LISTA3": "16700.0",
-            "MAYOR": "16700.0"
+            "COSTO": "8528.0",
+            "VENTA": "26000.0",
+            "LISTA2": "8528.0",
+            "LISTA3": "8528.0",
+            "MAYOR": "8528.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "TORNOELECT",
@@ -13446,24 +13518,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "7798347810224",
-        "DETALLE": "TRANSMISOR RECEPTOR BLUETOOTH",
-        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
-        "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "NICTOM",
-        "P": {
-            "COSTO": "3260.0",
-            "VENTA": "9000.0",
-            "LISTA2": "3260.0",
-            "LISTA3": "3260.0",
-            "MAYOR": "3260.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "7798347810569",
         "DETALLE": "TRANSMISOR RECEPTOR BLUETOOTH",
         "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
@@ -13475,6 +13529,24 @@
             "LISTA2": "3261.0",
             "LISTA3": "3261.0",
             "MAYOR": "3261.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7798347810224",
+        "DETALLE": "TRANSMISOR RECEPTOR BLUETOOTH",
+        "FAMILIA": "PARLANTES > PARLANTES Y STEREOS PARA AUTOS",
+        "PROVEEDOR": "EL CRIOLLO",
+        "MARCA": "NICTOM",
+        "P": {
+            "COSTO": "3260.0",
+            "VENTA": "9000.0",
+            "LISTA2": "3260.0",
+            "LISTA3": "3260.0",
+            "MAYOR": "3260.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -13549,7 +13621,7 @@
             "MAYOR": "608.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13572,6 +13644,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "TRIPODEPRO",
+        "DETALLE": "TRIPODE METAL PARA CELULAR O CAMARA",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "4700.0",
+            "VENTA": "14000.0",
+            "LISTA2": "4700.0",
+            "LISTA3": "4700.0",
+            "MAYOR": "4700.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "YT228",
         "DETALLE": "TRIPODE PARA CELU/CAMARA",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
@@ -13585,7 +13675,7 @@
             "MAYOR": "773.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13604,24 +13694,6 @@
         },
         "IVA": "21",
         "STOCK": "2",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "7799135013018",
-        "DETALLE": "TV STICK  AITECH CONVERTIDOR A SMART TV",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "AITECH",
-        "P": {
-            "COSTO": "29820.0",
-            "VENTA": "60000.0",
-            "LISTA2": "29820.0",
-            "LISTA3": "29820.0",
-            "MAYOR": "29820.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13748,6 +13820,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "723540563780",
+        "DETALLE": "VELADOR DE ESCRITORIO ARTICULADO CON LUPA",
+        "FAMILIA": "ILUMINACIÓN",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "18400.0",
+            "VENTA": "45000.0",
+            "LISTA2": "18400.0",
+            "LISTA3": "18400.0",
+            "MAYOR": "18400.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
