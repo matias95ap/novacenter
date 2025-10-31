@@ -589,7 +589,7 @@
             "MAYOR": "11400.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2029,7 +2029,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4243,7 +4243,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4315,7 +4315,7 @@
             "MAYOR": "8500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7009,7 +7009,7 @@
         "MARCA": "LG",
         "P": {
             "COSTO": "3132.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "3132.0",
             "LISTA3": "3132.0",
             "MAYOR": "20000.0"
@@ -7063,7 +7063,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "9300.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "9300.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -7081,7 +7081,7 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "10560.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10560.0",
             "LISTA3": "18189.6",
             "MAYOR": "20000.0"
@@ -7135,7 +7135,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "12136.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "12136.0",
             "LISTA3": "12136.0",
             "MAYOR": "20000.0"
@@ -7153,7 +7153,7 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14457.0",
-            "VENTA": "42000.0",
+            "VENTA": "48000.0",
             "LISTA2": "14457.0",
             "LISTA3": "25000.0",
             "MAYOR": "25000.0"
@@ -7171,7 +7171,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "10920.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10920.0",
             "LISTA3": "10920.0",
             "MAYOR": "20000.0"
@@ -7333,7 +7333,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "11160.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "11160.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -7369,7 +7369,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "11780.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "11780.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -7441,13 +7441,13 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "10296.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10296.0",
             "LISTA3": "10296.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7483,7 +7483,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8653,7 +8653,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12937,7 +12937,7 @@
             "MAYOR": "6519.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -13285,7 +13285,7 @@
     },
     {
         "CODIGO": "FUENTETVBOX",
-        "DETALLE": "TRANSFORMADOR TV BOX 5V 2A",
+        "DETALLE": "TRANSFORMADOR SMART TV BOX 5V 2A",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
@@ -13297,7 +13297,7 @@
             "MAYOR": "2417.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
