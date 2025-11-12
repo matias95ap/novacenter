@@ -715,7 +715,7 @@
             "MAYOR": "3849.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -895,7 +895,7 @@
             "MAYOR": "4636.0"
         },
         "IVA": "21",
-        "STOCK": "18",
+        "STOCK": "17",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1273,7 +1273,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "33",
+        "STOCK": "32",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -2389,7 +2389,7 @@
             "MAYOR": "14000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "40",
+        "STOCK": "37",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3433,7 +3433,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "21",
+        "STOCK": "18",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3973,7 +3973,7 @@
             "MAYOR": "4688.6"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5125,7 +5125,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6709,7 +6709,7 @@
             "MAYOR": "7669.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -7080,14 +7080,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "10560.0",
+            "COSTO": "12000.0",
             "VENTA": "40000.0",
-            "LISTA2": "10560.0",
-            "LISTA3": "18189.6",
+            "LISTA2": "12000.0",
+            "LISTA3": "20670.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7113,17 +7113,17 @@
         "CODIGO": "MODMOTE15",
         "DETALLE": "MOD MOTO E15/ G05/ D15/ G15",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "WORLD CELL",
+        "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "17000.0",
-            "VENTA": "52000.0",
-            "LISTA2": "17000.0",
-            "LISTA3": "17000.0",
-            "MAYOR": "28000.0"
+            "COSTO": "18400.0",
+            "VENTA": "58000.0",
+            "LISTA2": "18400.0",
+            "LISTA3": "18400.0",
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7196,6 +7196,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG22",
+        "DETALLE": "MOD MOTO E32/G22/E32S/E22S",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "12800.0",
+            "VENTA": "45000.0",
+            "LISTA2": "12800.0",
+            "LISTA3": "12800.0",
+            "MAYOR": "22000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7332,14 +7350,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11160.0",
+            "COSTO": "11900.0",
             "VENTA": "40000.0",
-            "LISTA2": "11160.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "LISTA2": "11900.0",
+            "LISTA3": "21326.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7368,14 +7386,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11780.0",
-            "VENTA": "40000.0",
-            "LISTA2": "11780.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12200.0",
+            "VENTA": "45000.0",
+            "LISTA2": "12200.0",
+            "LISTA3": "20713.2",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7405,10 +7423,10 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "13420.0",
-            "VENTA": "42000.0",
+            "VENTA": "52000.0",
             "LISTA2": "13420.0",
             "LISTA3": "25000.0",
-            "MAYOR": "24000.0"
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
         "STOCK": "0",
@@ -7423,10 +7441,10 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13420.0",
-            "VENTA": "42000.0",
+            "VENTA": "52000.0",
             "LISTA2": "13420.0",
             "LISTA3": "25000.0",
-            "MAYOR": "24000.0"
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -7440,14 +7458,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "10296.0",
-            "VENTA": "40000.0",
-            "LISTA2": "10296.0",
-            "LISTA3": "10296.0",
-            "MAYOR": "20000.0"
+            "COSTO": "11800.0",
+            "VENTA": "42000.0",
+            "LISTA2": "11800.0",
+            "LISTA3": "11800.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7474,34 +7492,16 @@
         "DETALLE": "MOD MOTO G04/E14/G24/G24 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "SILEO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "13000.0",
-            "VENTA": "40000.0",
-            "LISTA2": "13000.0",
-            "LISTA3": "24367.2",
-            "MAYOR": "24000.0"
-        },
-        "IVA": "21",
-        "STOCK": "0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "MODMOTG20",
-        "DETALLE": "MOD MOTO G10/G20/G30",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "11500.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11500.0",
-            "LISTA3": "21743.0",
-            "MAYOR": "20000.0"
+            "COSTO": "14000.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14000.0",
+            "LISTA3": "26241.6",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7520,6 +7520,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG20",
+        "DETALLE": "MOD MOTO G10/G20/G30/G10 POWER",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "12200.0",
+            "VENTA": "42000.0",
+            "LISTA2": "12200.0",
+            "LISTA3": "23066.5",
+            "MAYOR": "21000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7596,24 +7614,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "MODMOTG22",
-        "DETALLE": "MOD MOTO G22/E32/E32S",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "MOTOROLA",
-        "P": {
-            "COSTO": "9555.0",
-            "VENTA": "35000.0",
-            "LISTA2": "9555.0",
-            "LISTA3": "9555.0",
-            "MAYOR": "20000.0"
-        },
-        "IVA": "21",
-        "STOCK": "1",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "MODMOTG32",
         "DETALLE": "MOD MOTO G32/G73",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7654,16 +7654,16 @@
         "DETALLE": "MOD MOTO G51 /G60 /G60S /G40 FUSION",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "13464.0",
-            "VENTA": "42000.0",
-            "LISTA2": "13464.0",
-            "LISTA3": "13464.0",
-            "MAYOR": "23000.0"
+            "COSTO": "17500.0",
+            "VENTA": "58000.0",
+            "LISTA2": "17500.0",
+            "LISTA3": "17500.0",
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7872,14 +7872,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "12648.0",
-            "VENTA": "36000.0",
-            "LISTA2": "12648.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "COSTO": "14650.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14650.0",
+            "LISTA3": "25482.2",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8185,7 +8185,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8323,7 +8323,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "10600.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10600.0",
             "LISTA3": "21641.0",
             "MAYOR": "20000.0"
@@ -8392,16 +8392,16 @@
         "DETALLE": "MOD SAMS A11",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "10578.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10578.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8628,14 +8628,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11000.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11000.0",
-            "LISTA3": "11000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12000.0",
+            "VENTA": "40000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8680,16 +8680,16 @@
         "DETALLE": "MOD SAMS A22 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13054.0",
-            "VENTA": "38000.0",
-            "LISTA2": "13054.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "22000.0"
+            "COSTO": "12000.0",
+            "VENTA": "42000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "22062.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8700,14 +8700,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "30012.0",
-            "VENTA": "78000.0",
-            "LISTA2": "30012.0",
-            "LISTA3": "30012.0",
-            "MAYOR": "46000.0"
+            "COSTO": "35375.0",
+            "VENTA": "92000.0",
+            "LISTA2": "35375.0",
+            "LISTA3": "35375.0",
+            "MAYOR": "54000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8718,11 +8718,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "34450.0",
-            "VENTA": "90000.0",
-            "LISTA2": "34450.0",
-            "LISTA3": "34450.0",
-            "MAYOR": "52000.0"
+            "COSTO": "41753.0",
+            "VENTA": "112000.0",
+            "LISTA2": "41753.0",
+            "LISTA3": "41753.0",
+            "MAYOR": "62500.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8934,14 +8934,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "11850.0",
-            "VENTA": "35000.0",
-            "LISTA2": "11850.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "14350.0",
+            "VENTA": "50000.0",
+            "LISTA2": "14350.0",
+            "LISTA3": "24219.9",
+            "MAYOR": "24500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8970,11 +8970,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "13200.0",
-            "VENTA": "42000.0",
-            "LISTA2": "13200.0",
-            "LISTA3": "23258.4",
-            "MAYOR": "23000.0"
+            "COSTO": "16000.0",
+            "VENTA": "50000.0",
+            "LISTA2": "16000.0",
+            "LISTA3": "16000.0",
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -9006,14 +9006,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "16000.0",
-            "VENTA": "50000.0",
-            "LISTA2": "16000.0",
-            "LISTA3": "16000.0",
-            "MAYOR": "28000.0"
+            "COSTO": "16215.0",
+            "VENTA": "55000.0",
+            "LISTA2": "16215.0",
+            "LISTA3": "16215.0",
+            "MAYOR": "27500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9132,14 +9132,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "12194.0",
-            "VENTA": "38000.0",
-            "LISTA2": "12194.0",
-            "LISTA3": "12194.0",
-            "MAYOR": "21000.0"
+            "COSTO": "12900.0",
+            "VENTA": "45000.0",
+            "LISTA2": "12900.0",
+            "LISTA3": "12900.0",
+            "MAYOR": "22500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9150,11 +9150,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12500.0",
-            "VENTA": "36500.0",
-            "LISTA2": "12500.0",
-            "LISTA3": "12500.0",
-            "MAYOR": "21500.0"
+            "COSTO": "16000.0",
+            "VENTA": "48000.0",
+            "LISTA2": "16000.0",
+            "LISTA3": "16000.0",
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
         "STOCK": "4",
@@ -9163,16 +9163,16 @@
     },
     {
         "CODIGO": "MODREDM13C",
-        "DETALLE": "MOD XIAOMI REDMI 13C ",
+        "DETALLE": "MOD XIAOMI REDMI 13C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "12588.0",
-            "VENTA": "40000.0",
-            "LISTA2": "12588.0",
-            "LISTA3": "12588.0",
-            "MAYOR": "21500.0"
+            "COSTO": "14500.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14500.0",
+            "LISTA3": "14500.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -9186,11 +9186,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "14575.0",
-            "VENTA": "45000.0",
-            "LISTA2": "14575.0",
-            "LISTA3": "14575.0",
-            "MAYOR": "25000.0"
+            "COSTO": "16900.0",
+            "VENTA": "54000.0",
+            "LISTA2": "16900.0",
+            "LISTA3": "16900.0",
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -9265,7 +9265,7 @@
             "MAYOR": "2109.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10219,7 +10219,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "96",
+        "STOCK": "94",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11533,7 +11533,7 @@
             "MAYOR": "1372.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11749,7 +11749,7 @@
             "MAYOR": "2907.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12073,7 +12073,7 @@
             "MAYOR": "4900.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
