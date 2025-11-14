@@ -1921,7 +1921,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2029,7 +2029,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2167,13 +2167,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4530.0",
-            "VENTA": "15000.0",
+            "VENTA": "18000.0",
             "LISTA2": "4530.0",
             "LISTA3": "4530.0",
-            "MAYOR": "8000.0"
+            "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2245,7 +2245,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2767,7 +2767,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "22",
+        "STOCK": "21",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "37",
+        "STOCK": "36",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4243,7 +4243,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8095,7 +8095,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8167,7 +8167,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8185,7 +8185,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8599,7 +8599,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9661,7 +9661,7 @@
             "MAYOR": "5600.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10723,7 +10723,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
