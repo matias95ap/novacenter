@@ -103,7 +103,7 @@
             "MAYOR": "297.0"
         },
         "IVA": "21",
-        "STOCK": "99",
+        "STOCK": "98",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -121,7 +121,7 @@
             "MAYOR": "377.0"
         },
         "IVA": "21",
-        "STOCK": "35",
+        "STOCK": "34",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -366,14 +366,14 @@
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "20600.0",
-            "VENTA": "42000.0",
-            "LISTA2": "20600.0",
-            "LISTA3": "20600.0",
-            "MAYOR": "20600.0"
+            "COSTO": "23000.0",
+            "VENTA": "46000.0",
+            "LISTA2": "23000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -706,7 +706,7 @@
         "DETALLE": "AURICULAR BT E6S PRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "3849.0",
             "VENTA": "12000.0",
@@ -715,9 +715,9 @@
             "MAYOR": "3849.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "763571865415",
@@ -823,7 +823,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -859,27 +859,27 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
     {
         "CODIGO": "723540564541",
-        "DETALLE": "AURICULAR BT JK 607 ",
+        "DETALLE": "AURICULAR BT JK 607",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
-            "COSTO": "5545.0",
+            "COSTO": "6000.0",
             "VENTA": "25000.0",
-            "LISTA2": "5545.0",
-            "LISTA3": "5545.0",
-            "MAYOR": "5545.0"
+            "LISTA2": "6000.0",
+            "LISTA3": "6000.0",
+            "MAYOR": "6000.0"
         },
         "IVA": "21",
         "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "EC100222",
@@ -895,7 +895,7 @@
             "MAYOR": "4636.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "16",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -985,7 +985,7 @@
             "MAYOR": "3505.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1021,7 +1021,7 @@
             "MAYOR": "3505.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1590,14 +1590,14 @@
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "1055.0",
+            "COSTO": "1240.0",
             "VENTA": "4500.0",
-            "LISTA2": "1055.0",
-            "LISTA3": "1055.0",
-            "MAYOR": "1055.0"
+            "LISTA2": "1240.0",
+            "LISTA3": "1240.0",
+            "MAYOR": "1240.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1705,7 +1705,7 @@
             "MAYOR": "4000.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "16",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1741,7 +1741,7 @@
             "MAYOR": "4000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1921,7 +1921,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2083,7 +2083,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2238,14 +2238,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "4420.0",
+            "COSTO": "6000.0",
             "VENTA": "15000.0",
-            "LISTA2": "4420.0",
-            "LISTA3": "4420.0",
-            "MAYOR": "8000.0"
+            "LISTA2": "6000.0",
+            "LISTA3": "6000.0",
+            "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2893,7 +2893,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2929,7 +2929,7 @@
             "MAYOR": "2029.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3127,7 +3127,7 @@
             "MAYOR": "3000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3163,7 +3163,7 @@
             "MAYOR": "950.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3181,7 +3181,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "50",
+        "STOCK": "49",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "36",
+        "STOCK": "31",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3415,7 +3415,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3433,7 +3433,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "16",
+        "STOCK": "15",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3613,7 +3613,7 @@
             "MAYOR": "21184.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -3685,9 +3685,9 @@
             "MAYOR": "2876.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "CANDCHICO",
@@ -3775,7 +3775,7 @@
             "MAYOR": "1270.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3793,7 +3793,25 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "9",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7799135009905",
+        "DETALLE": "CARGADOR AITECH USB TIPO C ",
+        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "AITECH",
+        "P": {
+            "COSTO": "1365.0",
+            "VENTA": "4500.0",
+            "LISTA2": "1365.0",
+            "LISTA3": "1365.0",
+            "MAYOR": "1365.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3973,7 +3991,7 @@
             "MAYOR": "4688.6"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4027,7 +4045,7 @@
             "MAYOR": "6500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4063,7 +4081,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4081,7 +4099,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4243,7 +4261,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4549,7 +4567,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4568,6 +4586,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7171210037278",
+        "DETALLE": "CARRY DISK PARA MEMORIA SSD HDD EXTERNA",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "5100.0",
+            "VENTA": "18000.0",
+            "LISTA2": "5100.0",
+            "LISTA3": "5100.0",
+            "MAYOR": "5100.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4640,6 +4676,42 @@
         },
         "IVA": "21",
         "STOCK": "7",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "SAMSUNG",
+        "DETALLE": "CELULAR SAMSUNG A06 GRIS",
+        "FAMILIA": "nan",
+        "PROVEEDOR": "nan",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "20000.0",
+            "VENTA": "20000.0",
+            "LISTA2": "20000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "-2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "8806095755458",
+        "DETALLE": "CELULAR SAMSUNG GALAXY A06 GRIS",
+        "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
+        "PROVEEDOR": "nan",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "20000.0",
+            "VENTA": "20000.0",
+            "LISTA2": "20000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "-1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4855,7 +4927,7 @@
             "MAYOR": "34920.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -4986,6 +5058,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135015302",
+        "DETALLE": "CONTROL REMOTO UNIVERSAL PARA TV BGH",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "BGH",
+        "P": {
+            "COSTO": "2700.0",
+            "VENTA": "9000.0",
+            "LISTA2": "2700.0",
+            "LISTA3": "2700.0",
+            "MAYOR": "2700.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "723540563940",
         "DETALLE": "CONTROL REMOTO UNIVERSAL RM0145",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
@@ -5089,7 +5179,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5161,7 +5251,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5233,7 +5323,7 @@
             "MAYOR": "11600.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5845,7 +5935,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "16",
+        "STOCK": "15",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6086,7 +6176,7 @@
     {
         "CODIGO": "LECTORSD",
         "DETALLE": "LECTOR SD UNIVERSAL USB",
-        "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
+        "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
         "PROVEEDOR": "E-MAX",
         "MARCA": "nan",
         "P": {
@@ -6259,7 +6349,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6619,7 +6709,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6680,7 +6770,7 @@
     {
         "CODIGO": "740617264128",
         "DETALLE": "MICRO SD 128 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "nan",
         "P": {
@@ -6698,7 +6788,7 @@
     {
         "CODIGO": "MICRO16",
         "DETALLE": "MICRO SD 16 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -6709,14 +6799,14 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "740617298857",
         "DETALLE": "MICRO SD 32 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -6734,7 +6824,7 @@
     {
         "CODIGO": "740617298697",
         "DETALLE": "MICRO SD 64 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -6745,14 +6835,14 @@
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7406170128149",
         "DETALLE": "MICRO SD 8 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "KINGSTON",
         "P": {
@@ -6763,7 +6853,7 @@
             "MAYOR": "3400.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6871,7 +6961,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6925,7 +7015,7 @@
             "MAYOR": "10007.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -7000,6 +7090,24 @@
         "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "PARLANTE10",
+        "DETALLE": "MINI PARLANTE BT",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "3678.0",
+            "VENTA": "8000.0",
+            "LISTA2": "3678.0",
+            "LISTA3": "3678.0",
+            "MAYOR": "3678.0"
+        },
+        "IVA": "21",
+        "STOCK": "10",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MINITECLA",
@@ -7092,6 +7200,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "PARLANTE11",
+        "DETALLE": "MOCHILA CON PARLANTE",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "19000.0",
+            "VENTA": "38000.0",
+            "LISTA2": "19000.0",
+            "LISTA3": "19000.0",
+            "MAYOR": "19000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODALC1VP",
         "DETALLE": "MOD ALCATEL 1V PLUS 5007/TCL L7/L9S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7146,20 +7272,38 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODLGK41S",
+        "DETALLE": "MOD LG K41S",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "LG",
+        "P": {
+            "COSTO": "17250.0",
+            "VENTA": "58000.0",
+            "LISTA2": "17250.0",
+            "LISTA3": "17250.0",
+            "MAYOR": "27600.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODLGK42",
         "DETALLE": "MOD LG K42/K52/K52S/K62/K62 PLUS /K420/K520/LMK520",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "LG",
         "P": {
-            "COSTO": "14094.0",
-            "VENTA": "45000.0",
-            "LISTA2": "14094.0",
-            "LISTA3": "14094.0",
-            "MAYOR": "25000.0"
+            "COSTO": "15750.0",
+            "VENTA": "56000.0",
+            "LISTA2": "15750.0",
+            "LISTA3": "15750.0",
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7188,14 +7332,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12000.0",
-            "VENTA": "40000.0",
-            "LISTA2": "12000.0",
-            "LISTA3": "20670.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12300.0",
+            "VENTA": "42000.0",
+            "LISTA2": "12300.0",
+            "LISTA3": "21186.7",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7231,7 +7375,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7246,7 +7390,7 @@
             "VENTA": "40000.0",
             "LISTA2": "12136.0",
             "LISTA3": "12136.0",
-            "MAYOR": "20000.0"
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
         "STOCK": "4",
@@ -7267,7 +7411,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7278,14 +7422,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10920.0",
+            "COSTO": "11126.0",
             "VENTA": "40000.0",
-            "LISTA2": "10920.0",
-            "LISTA3": "10920.0",
+            "LISTA2": "11126.0",
+            "LISTA3": "11126.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7321,7 +7465,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7501,7 +7645,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7512,11 +7656,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "14720.0",
-            "VENTA": "38000.0",
-            "LISTA2": "14720.0",
-            "LISTA3": "14720.0",
-            "MAYOR": "26000.0"
+            "COSTO": "13800.0",
+            "VENTA": "45000.0",
+            "LISTA2": "13800.0",
+            "LISTA3": "13800.0",
+            "MAYOR": "23500.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -7530,14 +7674,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "13420.0",
-            "VENTA": "52000.0",
-            "LISTA2": "13420.0",
-            "LISTA3": "25000.0",
-            "MAYOR": "26000.0"
+            "COSTO": "15750.0",
+            "VENTA": "58000.0",
+            "LISTA2": "15750.0",
+            "LISTA3": "29340.7",
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7609,7 +7753,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7638,14 +7782,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12200.0",
-            "VENTA": "42000.0",
-            "LISTA2": "12200.0",
-            "LISTA3": "23066.5",
-            "MAYOR": "21000.0"
+            "COSTO": "12750.0",
+            "VENTA": "45000.0",
+            "LISTA2": "12750.0",
+            "LISTA3": "24106.4",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7681,7 +7825,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7699,7 +7843,25 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG15",
+        "DETALLE": "MOD MOTO G15",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "15300.0",
+            "VENTA": "54000.0",
+            "LISTA2": "15300.0",
+            "LISTA3": "15300.0",
+            "MAYOR": "26500.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7711,10 +7873,28 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "6500.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "6500.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG22CM",
+        "DETALLE": "MOD MOTO G22 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "17250.0",
+            "VENTA": "60000.0",
+            "LISTA2": "17250.0",
+            "LISTA3": "17250.0",
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -7733,6 +7913,24 @@
             "LISTA2": "15500.0",
             "LISTA3": "15500.0",
             "MAYOR": "26000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG35",
+        "DETALLE": "MOD MOTO G35",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "16800.0",
+            "VENTA": "58000.0",
+            "LISTA2": "16800.0",
+            "LISTA3": "16800.0",
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -7776,6 +7974,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMOTG52",
+        "DETALLE": "MOD MOTO G52/G72/G82/EDGE 30",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "56250.0",
+            "VENTA": "140000.0",
+            "LISTA2": "56250.0",
+            "LISTA3": "56250.0",
+            "MAYOR": "85000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTG5S",
         "DETALLE": "MOD MOTO G5S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7783,7 +7999,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "5952.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "5952.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -7855,7 +8071,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "10939.0",
-            "VENTA": "35000.0",
+            "VENTA": "45000.0",
             "LISTA2": "10939.0",
             "LISTA3": "10939.0",
             "MAYOR": "20000.0"
@@ -7873,7 +8089,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "11381.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "11381.0",
             "LISTA3": "11381.0",
             "MAYOR": "20000.0"
@@ -7898,6 +8114,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG75",
+        "DETALLE": "MOD MOTO G75 5G XT2437",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "19500.0",
+            "VENTA": "68000.0",
+            "LISTA2": "19500.0",
+            "LISTA3": "19500.0",
+            "MAYOR": "32000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7944,14 +8178,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "10732.0",
-            "VENTA": "35000.0",
-            "LISTA2": "10732.0",
-            "LISTA3": "18605.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12700.0",
+            "VENTA": "45000.0",
+            "LISTA2": "12700.0",
+            "LISTA3": "22016.7",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8125,7 +8359,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "10200.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "10200.0",
             "LISTA3": "21262.9",
             "MAYOR": "20000.0"
@@ -8142,14 +8376,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9796.0",
-            "VENTA": "35000.0",
-            "LISTA2": "9796.0",
-            "LISTA3": "20000.0",
+            "COSTO": "11243.0",
+            "VENTA": "40000.0",
+            "LISTA2": "11243.0",
+            "LISTA3": "22953.7",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8167,7 +8401,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8203,7 +8437,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8232,14 +8466,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "7920.0",
-            "VENTA": "35000.0",
-            "LISTA2": "7920.0",
-            "LISTA3": "7920.0",
+            "COSTO": "11250.0",
+            "VENTA": "40000.0",
+            "LISTA2": "11250.0",
+            "LISTA3": "11250.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8275,7 +8509,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8383,7 +8617,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8539,13 +8773,13 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "13543.2",
-            "VENTA": "41040.0",
+            "VENTA": "48000.0",
             "LISTA2": "13543.2",
-            "LISTA3": "23176.43",
-            "MAYOR": "22800.0"
+            "LISTA3": "13543.2",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8707,7 +8941,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8743,7 +8977,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8802,6 +9036,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODSAMA30",
+        "DETALLE": "MOD SAMS A30/ A50/ A50S OLED C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "35400.0",
+            "VENTA": "92000.0",
+            "LISTA2": "35400.0",
+            "LISTA3": "35400.0",
+            "MAYOR": "54000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODSAMA31",
         "DETALLE": "MOD SAMS A31 OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -8826,11 +9078,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "41753.0",
-            "VENTA": "112000.0",
-            "LISTA2": "41753.0",
-            "LISTA3": "41753.0",
-            "MAYOR": "62500.0"
+            "COSTO": "44250.0",
+            "VENTA": "95000.0",
+            "LISTA2": "44250.0",
+            "LISTA3": "44250.0",
+            "MAYOR": "66375.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8971,7 +9223,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "12300.0",
-            "VENTA": "38000.0",
+            "VENTA": "42000.0",
             "LISTA2": "12300.0",
             "LISTA3": "22000.0",
             "MAYOR": "21000.0"
@@ -9049,7 +9301,7 @@
             "MAYOR": "24500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9085,7 +9337,7 @@
             "MAYOR": "27000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9121,7 +9373,7 @@
             "MAYOR": "27500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9157,7 +9409,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9205,13 +9457,13 @@
         "MARCA": "TECNO SPARK",
         "P": {
             "COSTO": "15505.0",
-            "VENTA": "50000.0",
+            "VENTA": "55000.0",
             "LISTA2": "15505.0",
             "LISTA3": "15505.0",
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9301,7 +9553,7 @@
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9348,14 +9600,14 @@
         "PROVEEDOR": "LEX MAYORISTA",
         "MARCA": "ZTE",
         "P": {
-            "COSTO": "16000.0",
-            "VENTA": "55000.0",
-            "LISTA2": "16000.0",
-            "LISTA3": "16000.0",
-            "MAYOR": "27500.0"
+            "COSTO": "18000.0",
+            "VENTA": "58000.0",
+            "LISTA2": "18000.0",
+            "LISTA3": "18000.0",
+            "MAYOR": "28800.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9373,7 +9625,7 @@
             "MAYOR": "28900.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9427,7 +9679,7 @@
             "MAYOR": "2109.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9559,21 +9811,21 @@
     },
     {
         "CODIGO": "JUPAL1005",
-        "DETALLE": "PALANCA JOYSTICK BT SUONO",
+        "DETALLE": "PALANCA JOYSTICK BT",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
         "PROVEEDOR": "PROVEEDOR",
         "MARCA": "SUONO",
         "P": {
-            "COSTO": "11500.0",
-            "VENTA": "24000.0",
-            "LISTA2": "11500.0",
-            "LISTA3": "11500.0",
-            "MAYOR": "11500.0"
+            "COSTO": "12000.0",
+            "VENTA": "25000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "JUPAL8072",
@@ -9756,6 +10008,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "PARLANTE08",
+        "DETALLE": "PARLANTE BT 12 PULGADAS AITECH EMERALD",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "60000.0",
+            "VENTA": "120000.0",
+            "LISTA2": "60000.0",
+            "LISTA3": "60000.0",
+            "MAYOR": "60000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "7799135000346",
         "DETALLE": "PARLANTE BT 3 PULGADAS AITECH",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
@@ -9823,7 +10093,7 @@
             "MAYOR": "3864.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9841,7 +10111,7 @@
             "MAYOR": "6500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9859,7 +10129,7 @@
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9895,7 +10165,7 @@
             "MAYOR": "12037.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9949,6 +10219,24 @@
             "MAYOR": "26730.0"
         },
         "IVA": "21",
+        "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "PARLANTE09",
+        "DETALLE": "PARLANTE BT 8 PULGADAS COLGANTE",
+        "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "22200.0",
+            "VENTA": "58000.0",
+            "LISTA2": "22200.0",
+            "LISTA3": "22200.0",
+            "MAYOR": "22200.0"
+        },
+        "IVA": "21",
         "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
@@ -9967,7 +10255,7 @@
             "MAYOR": "31500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10021,7 +10309,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10064,7 +10352,7 @@
     {
         "CODIGO": "740617309928",
         "DETALLE": "PENDRIVE 128 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -10082,7 +10370,7 @@
     {
         "CODIGO": "740617300161",
         "DETALLE": "PENDRIVE 16 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -10100,7 +10388,7 @@
     {
         "CODIGO": "619659069193",
         "DETALLE": "PENDRIVE 32 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "TRES CUARENTA Y OCHO",
         "MARCA": "KINGSTON",
         "P": {
@@ -10118,7 +10406,7 @@
     {
         "CODIGO": "740617309645",
         "DETALLE": "PENDRIVE 64 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -10136,7 +10424,7 @@
     {
         "CODIGO": "740617300086",
         "DETALLE": "PENDRIVE 8 GB",
-        "FAMILIA": "CABLES Y ADAPTADORES > ALMACENAMIENTO",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "E-MAX",
         "MARCA": "KINGSTON",
         "P": {
@@ -10345,7 +10633,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "146",
+        "STOCK": "140",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10543,7 +10831,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11317,7 +11605,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11426,6 +11714,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA134G",
+        "DETALLE": "PLACA DE CARGA SAMS A13 4G",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "nan",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "3000.0",
+            "VENTA": "22000.0",
+            "LISTA2": "3000.0",
+            "LISTA3": "3000.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11683,19 +11989,19 @@
     },
     {
         "CODIGO": "723540565531",
-        "DETALLE": "PLACA SONIDO EXTERNO USB",
+        "DETALLE": "PLACA DE SONIDO EXTERNO USB",
         "FAMILIA": "CABLES Y ADAPTADORES",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "1372.0",
-            "VENTA": "4000.0",
-            "LISTA2": "1372.0",
-            "LISTA3": "1372.0",
-            "MAYOR": "1372.0"
+            "COSTO": "650.0",
+            "VENTA": "5000.0",
+            "LISTA2": "650.0",
+            "LISTA3": "650.0",
+            "MAYOR": "650.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12091,7 +12397,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12354,14 +12660,14 @@
         "PROVEEDOR": "EL CRIOLLO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9508.0",
-            "VENTA": "24600.0",
-            "LISTA2": "9508.0",
-            "LISTA3": "11222.0",
-            "MAYOR": "9508.0"
+            "COSTO": "8500.0",
+            "VENTA": "24000.0",
+            "LISTA2": "8500.0",
+            "LISTA3": "8500.0",
+            "MAYOR": "8500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12379,7 +12685,7 @@
             "MAYOR": "700.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12624,14 +12930,14 @@
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "7718.75",
-            "VENTA": "17999.0",
-            "LISTA2": "7718.7",
-            "LISTA3": "7718.7",
-            "MAYOR": "7718.7"
+            "COSTO": "7800.0",
+            "VENTA": "18000.0",
+            "LISTA2": "7800.0",
+            "LISTA3": "7800.0",
+            "MAYOR": "7800.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12955,7 +13261,7 @@
             "MAYOR": "2900.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13014,27 +13320,9 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "6974202725549",
-        "DETALLE": "SSD DISCO SOLIDO 120 GB HIKSEMI",
-        "FAMILIA": "CELULAR Y COMPUTACION",
-        "PROVEEDOR": "INSUMOS ACUARIO",
-        "MARCA": "HIKSEMI",
-        "P": {
-            "COSTO": "15043.0",
-            "VENTA": "27000.0",
-            "LISTA2": "15043.0",
-            "LISTA3": "15043.0",
-            "MAYOR": "15043.0"
-        },
-        "IVA": "21",
-        "STOCK": "2",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "843367116218",
         "DETALLE": "SSD DISCO SOLIDO 120 GB LEXAR",
-        "FAMILIA": "CELULAR Y COMPUTACION",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
         "PROVEEDOR": "INSUMOS ACUARIO",
         "MARCA": "LEXAR",
         "P": {
@@ -13046,6 +13334,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "7448070134219",
+        "DETALLE": "SSD DISCO SOLIDO 120 GB MACROVIP",
+        "FAMILIA": "CELULAR Y COMPUTACION > ALMACENAMIENTO",
+        "PROVEEDOR": "INSUMOS ACUARIO",
+        "MARCA": "MACROVIP",
+        "P": {
+            "COSTO": "17600.0",
+            "VENTA": "32000.0",
+            "LISTA2": "17600.0",
+            "LISTA3": "17600.0",
+            "MAYOR": "17600.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13063,7 +13369,7 @@
             "MAYOR": "900.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13117,7 +13423,7 @@
             "MAYOR": "2200.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -13353,23 +13659,23 @@
         "IVA": "21",
         "STOCK": "2",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7795234526572",
         "DETALLE": "TIRA LED 5 MTS 2835",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
-            "COSTO": "3750.0",
-            "VENTA": "10000.0",
-            "LISTA2": "3750.0",
-            "LISTA3": "3750.0",
-            "MAYOR": "3750.0"
+            "COSTO": "4900.0",
+            "VENTA": "12000.0",
+            "LISTA2": "4900.0",
+            "LISTA3": "4900.0",
+            "MAYOR": "4900.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13380,14 +13686,14 @@
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "6288.0",
-            "VENTA": "16000.0",
-            "LISTA2": "6288.0",
-            "LISTA3": "6288.0",
-            "MAYOR": "6288.0"
+            "COSTO": "7000.0",
+            "VENTA": "18000.0",
+            "LISTA2": "7000.0",
+            "LISTA3": "7000.0",
+            "MAYOR": "7000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13405,7 +13711,7 @@
             "MAYOR": "8528.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13441,7 +13747,7 @@
             "MAYOR": "6815.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13639,7 +13945,7 @@
             "MAYOR": "4800.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13765,7 +14071,7 @@
             "MAYOR": "3724.0"
         },
         "IVA": "21",
-        "STOCK": "22",
+        "STOCK": "21",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13878,6 +14184,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7769528971157",
+        "DETALLE": "VELADOR DE ESCRITORIO PARA LAMPARA",
+        "FAMILIA": "ILUMINACIÓN",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "12730.0",
+            "VENTA": "28000.0",
+            "LISTA2": "12730.0",
+            "LISTA3": "12730.0",
+            "MAYOR": "12730.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "VELADORDIS",
         "DETALLE": "VERLADOR RECARGABLE NIÑOS",
         "FAMILIA": "ILUMINACIÓN",
@@ -13981,7 +14305,7 @@
             "MAYOR": "2170.5"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13999,7 +14323,7 @@
             "MAYOR": "3613.6"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14035,7 +14359,7 @@
             "MAYOR": "4588.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
