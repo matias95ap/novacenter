@@ -2767,7 +2767,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "20",
+        "STOCK": "19",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7465,7 +7465,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8269,13 +8269,13 @@
         "MARCA": "NOKIA",
         "P": {
             "COSTO": "15916.0",
-            "VENTA": "50000.0",
+            "VENTA": "55000.0",
             "LISTA2": "15916.0",
             "LISTA3": "15916.0",
-            "MAYOR": "30000.0"
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8437,7 +8437,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8509,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8701,7 +8701,7 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "8892.0",
-            "VENTA": "35000.0",
+            "VENTA": "40000.0",
             "LISTA2": "8892.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
@@ -8772,11 +8772,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13543.2",
+            "COSTO": "14500.0",
             "VENTA": "48000.0",
-            "LISTA2": "13543.2",
-            "LISTA3": "13543.2",
-            "MAYOR": "23000.0"
+            "LISTA2": "14500.0",
+            "LISTA3": "14500.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -8862,11 +8862,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "51200.0",
+            "COSTO": "55080.0",
             "VENTA": "135000.0",
-            "LISTA2": "51200.0",
-            "LISTA3": "51200.0",
-            "MAYOR": "78000.0"
+            "LISTA2": "55080.0",
+            "LISTA3": "55080.0",
+            "MAYOR": "82620.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8977,7 +8977,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9042,11 +9042,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "35400.0",
+            "COSTO": "38250.0",
             "VENTA": "92000.0",
-            "LISTA2": "35400.0",
-            "LISTA3": "35400.0",
-            "MAYOR": "54000.0"
+            "LISTA2": "38250.0",
+            "LISTA3": "38250.0",
+            "MAYOR": "57375.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -9060,11 +9060,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "35375.0",
+            "COSTO": "38250.0",
             "VENTA": "92000.0",
-            "LISTA2": "35375.0",
-            "LISTA3": "35375.0",
-            "MAYOR": "54000.0"
+            "LISTA2": "38250.0",
+            "LISTA3": "38250.0",
+            "MAYOR": "57375.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -9078,11 +9078,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "44250.0",
+            "COSTO": "45135.0",
             "VENTA": "95000.0",
-            "LISTA2": "44250.0",
-            "LISTA3": "44250.0",
-            "MAYOR": "66375.0"
+            "LISTA2": "45135.0",
+            "LISTA3": "45135.0",
+            "MAYOR": "67800.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -9468,20 +9468,56 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODTSPOP7",
+        "DETALLE": "MOD TECNO SPARK POP 7 / INFINIX HOT 10I",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "ELECTRO CELULAR",
+        "MARCA": "TECNO SPARK",
+        "P": {
+            "COSTO": "20170.0",
+            "VENTA": "65000.0",
+            "LISTA2": "20170.0",
+            "LISTA3": "20170.0",
+            "MAYOR": "20170.0"
+        },
+        "IVA": "21",
+        "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREDNT11",
         "DETALLE": "MOD XIAOMI NOTE 11 4G/NOTE 11S /NOTE 12S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "37100.0",
-            "VENTA": "95000.0",
-            "LISTA2": "37100.0",
-            "LISTA3": "37100.0",
-            "MAYOR": "56000.0"
+            "COSTO": "42420.0",
+            "VENTA": "105000.0",
+            "LISTA2": "42420.0",
+            "LISTA3": "42420.0",
+            "MAYOR": "63630.0"
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODREDNT7",
+        "DETALLE": "MOD XIAOMI NOTE 7/7 PRO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "LEX MAYORISTA",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "24000.0",
+            "VENTA": "65000.0",
+            "LISTA2": "24000.0",
+            "LISTA3": "24000.0",
+            "MAYOR": "35000.0"
+        },
+        "IVA": "21",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9528,14 +9564,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "14500.0",
+            "COSTO": "16000.0",
             "VENTA": "48000.0",
-            "LISTA2": "14500.0",
-            "LISTA3": "14500.0",
+            "LISTA2": "16000.0",
+            "LISTA3": "16000.0",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9571,7 +9607,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9589,7 +9625,7 @@
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9625,7 +9661,7 @@
             "MAYOR": "28900.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9913,7 +9949,7 @@
             "MAYOR": "6355.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12150,6 +12186,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "6972910590206",
+        "DETALLE": "POINT SMART MERCADOPAGO",
+        "FAMILIA": "LIBRERÍA Y VARIOS",
+        "PROVEEDOR": "nan",
+        "MARCA": "MERCADOPAGO",
+        "P": {
+            "COSTO": "8000.0",
+            "VENTA": "45000.0",
+            "LISTA2": "35000.0",
+            "LISTA3": "8000.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "EC100210",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ASTRONAUTA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
@@ -12577,7 +12631,7 @@
             "MAYOR": "4900.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14233,7 +14287,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "548",
+        "STOCK": "547",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
