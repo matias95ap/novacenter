@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "31",
+        "STOCK": "30",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4171,7 +4171,7 @@
             "MAYOR": "2500.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "1",
         "STOCK IDEAL": "4"
     },
@@ -4682,18 +4682,18 @@
     {
         "CODIGO": "SAMSUNG",
         "DETALLE": "CELULAR SAMSUNG A06 GRIS",
-        "FAMILIA": "nan",
-        "PROVEEDOR": "nan",
+        "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
+        "PROVEEDOR": "DEKKIN",
         "MARCA": "nan",
         "P": {
-            "COSTO": "20000.0",
-            "VENTA": "20000.0",
-            "LISTA2": "20000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "280000.0",
+            "VENTA": "280000.0",
+            "LISTA2": "280000.0",
+            "LISTA3": "280000.0",
+            "MAYOR": "280000.0"
         },
         "IVA": "21",
-        "STOCK": "-2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10129,7 +10129,7 @@
             "MAYOR": "3864.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12598,6 +12598,24 @@
         "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "7798397481009",
+        "DETALLE": "RELOJ SMARTWACH DEKKIN TRENDY",
+        "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
+        "PROVEEDOR": "DEKKIN",
+        "MARCA": "DEKKIN",
+        "P": {
+            "COSTO": "10000.0",
+            "VENTA": "45000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "10000.0",
+            "MAYOR": "10000.0"
+        },
+        "IVA": "21",
+        "STOCK": "34",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7799135011861",
