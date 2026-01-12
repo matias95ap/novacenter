@@ -787,7 +787,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -814,7 +814,7 @@
         "DETALLE": "AURICULAR BT I12 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "3299.0",
             "VENTA": "12000.0",
@@ -823,9 +823,9 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "AURI12ROSA",
@@ -859,7 +859,7 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1080,8 +1080,8 @@
         "STOCK IDEAL": "30"
     },
     {
-        "CODIGO": "723540563919",
-        "DETALLE": "AURICULAR BT TIME JS 52",
+        "CODIGO": "723540563643",
+        "DETALLE": "AURICULAR BT TIME JS 370",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "TIME",
@@ -1093,13 +1093,13 @@
             "MAYOR": "5910.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "723540563643",
-        "DETALLE": "AURICULAR BT TIME | CONSULTAR COLORES DISPONIBLES",
+        "CODIGO": "723540563919",
+        "DETALLE": "AURICULAR BT TIME ROSA",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "TIME",
@@ -1111,9 +1111,9 @@
             "MAYOR": "6915.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "9678142435861",
@@ -1273,9 +1273,9 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "32",
+        "STOCK": "15",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "701575363032",
@@ -3811,7 +3811,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4693,7 +4693,7 @@
             "MAYOR": "280000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "-1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5022,6 +5022,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135015302",
+        "DETALLE": "CONTROL REMOTO UNIVERSAL BGH/ NOBLEX/ SANYO/ JVC/ HISENSE/ PHILCO",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "BGH",
+        "P": {
+            "COSTO": "2700.0",
+            "VENTA": "9000.0",
+            "LISTA2": "2700.0",
+            "LISTA3": "2700.0",
+            "MAYOR": "2700.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CONTROL1",
         "DETALLE": "CONTROL REMOTO UNIVERSAL F 2100",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
@@ -5036,24 +5054,6 @@
         },
         "IVA": "21",
         "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "7799135015302",
-        "DETALLE": "CONTROL REMOTO UNIVERSAL NOBLEX/SANYO/JVC/HISENSE/PHILCO",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "BGH",
-        "P": {
-            "COSTO": "2700.0",
-            "VENTA": "9000.0",
-            "LISTA2": "2700.0",
-            "LISTA3": "2700.0",
-            "MAYOR": "2700.0"
-        },
-        "IVA": "21",
-        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5346,20 +5346,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "2112345678917",
+        "CODIGO": "7799135022997",
         "DETALLE": "DEPILADOR DE CEJAS",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "MAYORISTA OMEGA",
+        "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
             "COSTO": "4500.0",
-            "VENTA": "9600.0",
+            "VENTA": "10000.0",
             "LISTA2": "4500.0",
             "LISTA3": "4500.0",
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6691,7 +6691,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6853,7 +6853,7 @@
             "MAYOR": "3400.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7105,7 +7105,7 @@
             "MAYOR": "3678.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7411,7 +7411,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7746,14 +7746,14 @@
         "PROVEEDOR": "SILEO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "14000.0",
-            "VENTA": "48000.0",
-            "LISTA2": "14000.0",
-            "LISTA3": "26241.6",
-            "MAYOR": "25000.0"
+            "COSTO": "15300.0",
+            "VENTA": "50000.0",
+            "LISTA2": "15300.0",
+            "LISTA3": "28678.3",
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7831,19 +7831,19 @@
     },
     {
         "CODIGO": "MODMOTG14",
-        "DETALLE": "MOD MOTO G14/G54 5G",
+        "DETALLE": "MOD MOTO G14/G54 5G/G55/G64",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "13500.0",
-            "VENTA": "42000.0",
-            "LISTA2": "13500.0",
-            "LISTA3": "23345.5",
-            "MAYOR": "24000.0"
+            "COSTO": "16000.0",
+            "VENTA": "55000.0",
+            "LISTA2": "16000.0",
+            "LISTA3": "16000.0",
+            "MAYOR": "27200.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7957,7 +7957,7 @@
     },
     {
         "CODIGO": "MODMOTG51",
-        "DETALLE": "MOD MOTO G51 /G60 /G60S /G40 FUSION",
+        "DETALLE": "MOD MOTO G51 /G60 /G60S /G40 /G40 FUSION",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
@@ -8473,7 +8473,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8509,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8608,16 +8608,16 @@
         "DETALLE": "MOD SAMS A05",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13030.0",
+            "COSTO": "12400.0",
             "VENTA": "45000.0",
-            "LISTA2": "13030.0",
-            "LISTA3": "23117.8",
-            "MAYOR": "23000.0"
+            "LISTA2": "12400.0",
+            "LISTA3": "12400.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8934,14 +8934,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11600.0",
-            "VENTA": "40000.0",
-            "LISTA2": "11600.0",
-            "LISTA3": "20230.4",
-            "MAYOR": "20000.0"
+            "COSTO": "12400.0",
+            "VENTA": "42000.0",
+            "LISTA2": "12400.0",
+            "LISTA3": "21625.6",
+            "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9047,6 +9047,24 @@
             "LISTA2": "38250.0",
             "LISTA3": "38250.0",
             "MAYOR": "57375.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA30S",
+        "DETALLE": "MOD SAMS A30S C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "39600.0",
+            "VENTA": "96000.0",
+            "LISTA2": "39600.0",
+            "LISTA3": "39600.0",
+            "MAYOR": "59400.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -9175,7 +9193,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9330,14 +9348,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "16000.0",
-            "VENTA": "50000.0",
-            "LISTA2": "16000.0",
-            "LISTA3": "16000.0",
-            "MAYOR": "27000.0"
+            "COSTO": "13600.0",
+            "VENTA": "48000.0",
+            "LISTA2": "13600.0",
+            "LISTA3": "13600.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9391,7 +9409,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9589,7 +9607,7 @@
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10705,7 +10723,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "94",
+        "STOCK": "90",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12199,7 +12217,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12361,7 +12379,7 @@
             "MAYOR": "15.0"
         },
         "IVA": "21",
-        "STOCK": "100",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13207,7 +13225,7 @@
             "MAYOR": "600.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13513,7 +13531,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "-2",
+        "STOCK": "-3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13783,7 +13801,7 @@
             "MAYOR": "8528.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13891,7 +13909,7 @@
             "MAYOR": "2417.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14305,7 +14323,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "547",
+        "STOCK": "546",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
