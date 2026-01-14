@@ -452,7 +452,7 @@ Promise.all([
         if (p["STOCK IDEAL"] === "30") {
           insigniaArriba = `
       <div class="insignias-arriba">
-        <div class="insignia-texto especial">🎁 Día del Niño</div>
+        <div class="insignia-texto especial">🎁 Novedades</div>
       </div>`;
         }
 
@@ -679,7 +679,7 @@ Promise.all([
     });
 
     function mostrarDiaDelNino() {
-      contenedor.innerHTML = "<h2>🎁 Día del Niño</h2>";
+      contenedor.innerHTML = "<h2>🎁 Novedades para Regalar</h2>";
       const productosDiaNino = data.filter(p =>
         p["STOCK IDEAL"] === "30" && parseInt(p.STOCK) > 0
       );
