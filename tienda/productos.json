@@ -1093,7 +1093,7 @@
             "MAYOR": "5910.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2785,7 +2785,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3942,24 +3942,6 @@
         "STOCK IDEAL": "5"
     },
     {
-        "CODIGO": "8804240055835",
-        "DETALLE": "CARGADOR ALO TURBO 18W V8",
-        "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "XIENAN",
-        "MARCA": "ALO",
-        "P": {
-            "COSTO": "4210.0",
-            "VENTA": "10500.0",
-            "LISTA2": "4210.0",
-            "LISTA3": "4210.0",
-            "MAYOR": "4210.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "1",
-        "STOCK IDEAL": "5"
-    },
-    {
         "CODIGO": "7799135012110",
         "DETALLE": "CARGADOR CABEZAL AITECH 45W CARGA RAPIDA",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
@@ -4698,24 +4680,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "SAMSUNG",
-        "DETALLE": "CELULAR SAMSUNG A06 GRIS",
-        "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
-        "PROVEEDOR": "DEKKIN",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "6451.6",
-            "VENTA": "20000.0",
-            "LISTA2": "6451.6",
-            "LISTA3": "6451.6",
-            "MAYOR": "6451.6"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "8806095755458",
         "DETALLE": "CELULAR SAMSUNG GALAXY A06 GRIS",
         "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
@@ -4729,7 +4693,7 @@
             "MAYOR": "6451.6"
         },
         "IVA": "21",
-        "STOCK": "-12.298999786377",
+        "STOCK": "-21.3490009307861",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5269,7 +5233,7 @@
             "MAYOR": "5200.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5306,6 +5270,24 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CUOTA",
+        "DETALLE": "CUOTA",
+        "FAMILIA": "CELULAR Y COMPUTACION > CELULARES",
+        "PROVEEDOR": "DEKKIN",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "3225.8",
+            "VENTA": "10000.0",
+            "LISTA2": "3225.8",
+            "LISTA3": "3225.8",
+            "MAYOR": "3225.8"
+        },
+        "IVA": "21",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7465,7 +7447,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7861,7 +7843,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8221,7 +8203,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8383,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8491,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8527,7 +8509,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8545,7 +8527,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8661,17 +8643,17 @@
         "CODIGO": "MODSAMA06",
         "DETALLE": "MOD SAMS A06",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "SILEO",
-        "MARCA": "nan",
+        "PROVEEDOR": "LEX MAYORISTA",
+        "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "14483.0",
-            "VENTA": "42000.0",
-            "LISTA2": "14483.0",
-            "LISTA3": "26000.0",
-            "MAYOR": "24000.0"
+            "COSTO": "14800.0",
+            "VENTA": "50000.0",
+            "LISTA2": "14800.0",
+            "LISTA3": "26569.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8683,10 +8665,10 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "16965.0",
-            "VENTA": "52000.0",
+            "VENTA": "65000.0",
             "LISTA2": "16965.0",
             "LISTA3": "16965.0",
-            "MAYOR": "29000.0"
+            "MAYOR": "32000.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
@@ -8779,7 +8761,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8877,17 +8859,17 @@
         "CODIGO": "MODSAMA15I",
         "DETALLE": "MOD SAMS A15 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "NUEVAS ONDAS2",
+        "PROVEEDOR": "LEX MAYORISTA",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "24314.0",
-            "VENTA": "75000.0",
-            "LISTA2": "24314.0",
-            "LISTA3": "42000.0",
-            "MAYOR": "38000.0"
+            "COSTO": "19860.0",
+            "VENTA": "68000.0",
+            "LISTA2": "19860.0",
+            "LISTA3": "34306.2",
+            "MAYOR": "32000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8906,6 +8888,24 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA16IN",
+        "DETALLE": "MOD SAMS A16 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "LEX MAYORISTA",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "21600.0",
+            "VENTA": "75000.0",
+            "LISTA2": "21600.0",
+            "LISTA3": "21600.0",
+            "MAYOR": "35000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9013,7 +9013,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9024,14 +9024,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12350.0",
-            "VENTA": "42000.0",
-            "LISTA2": "12350.0",
-            "LISTA3": "12350.0",
-            "MAYOR": "24000.0"
+            "COSTO": "13700.0",
+            "VENTA": "46000.0",
+            "LISTA2": "13700.0",
+            "LISTA3": "13700.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9104,6 +9104,24 @@
         },
         "IVA": "21",
         "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA31IN",
+        "DETALLE": "MOD SAMS A31 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "LEX MAYORISTA",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "19400.0",
+            "VENTA": "65000.0",
+            "LISTA2": "19400.0",
+            "LISTA3": "19400.0",
+            "MAYOR": "32000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9438,14 +9456,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "17500.0",
-            "VENTA": "54000.0",
-            "LISTA2": "17500.0",
-            "LISTA3": "17500.0",
-            "MAYOR": "30000.0"
+            "COSTO": "16500.0",
+            "VENTA": "58000.0",
+            "LISTA2": "16500.0",
+            "LISTA3": "16500.0",
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9631,19 +9649,19 @@
     },
     {
         "CODIGO": "MODREDM14C",
-        "DETALLE": "MOD XIAOMI REDMI 14C",
+        "DETALLE": "MOD XIAOMI REDMI 14C/ POCO C75",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "16900.0",
-            "VENTA": "54000.0",
-            "LISTA2": "16900.0",
-            "LISTA3": "16900.0",
-            "MAYOR": "28000.0"
+            "COSTO": "14600.0",
+            "VENTA": "50000.0",
+            "LISTA2": "14600.0",
+            "LISTA3": "14600.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9672,14 +9690,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "17000.0",
-            "VENTA": "58000.0",
-            "LISTA2": "17000.0",
-            "LISTA3": "17000.0",
-            "MAYOR": "28000.0"
+            "COSTO": "19300.0",
+            "VENTA": "65000.0",
+            "LISTA2": "19300.0",
+            "LISTA3": "19300.0",
+            "MAYOR": "30880.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10921,7 +10939,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "13.0",
+        "STOCK": "12.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13560,14 +13578,14 @@
         "PROVEEDOR": "nan",
         "MARCA": "REPARACION",
         "P": {
-            "COSTO": "0.0",
-            "VENTA": "20000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
+            "COSTO": "1000.0",
+            "VENTA": "10000.0",
+            "LISTA2": "1000.0",
+            "LISTA3": "1000.0",
+            "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "-3.0",
+        "STOCK": "-5.99900007247925",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14359,7 +14377,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "546.0",
+        "STOCK": "545.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
