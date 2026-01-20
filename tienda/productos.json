@@ -2785,7 +2785,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "18.0",
+        "STOCK": "17.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3397,7 +3397,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "30.0",
+        "STOCK": "28.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3991,7 +3991,7 @@
             "MAYOR": "4688.6"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5287,7 +5287,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "-2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7591,7 +7591,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7807,7 +7807,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8290,7 +8290,7 @@
             "VENTA": "55000.0",
             "LISTA2": "15916.0",
             "LISTA3": "15916.0",
-            "MAYOR": "28000.0"
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
@@ -8383,7 +8383,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8473,7 +8473,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8509,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8527,7 +8527,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8635,7 +8635,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8851,7 +8851,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9115,7 +9115,7 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "19400.0",
-            "VENTA": "65000.0",
+            "VENTA": "60000.0",
             "LISTA2": "19400.0",
             "LISTA3": "19400.0",
             "MAYOR": "32000.0"
@@ -9133,7 +9133,7 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "38250.0",
-            "VENTA": "92000.0",
+            "VENTA": "98000.0",
             "LISTA2": "38250.0",
             "LISTA3": "38250.0",
             "MAYOR": "57375.0"
@@ -9157,7 +9157,7 @@
             "MAYOR": "67800.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9805,13 +9805,13 @@
             "MAYOR": "3299.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
     {
-        "CODIGO": "5433456789017",
-        "DETALLE": "MOUSE LED CON CABLE MS116",
+        "CODIGO": "7799135009868",
+        "DETALLE": "MOUSE LED CON CABLE AITECH AI022",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
@@ -10183,7 +10183,7 @@
             "MAYOR": "5600.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10525,7 +10525,7 @@
             "MAYOR": "8245.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10777,7 +10777,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "90.0",
+        "STOCK": "88.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11605,7 +11605,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12949,7 +12949,7 @@
         "MARCA": "DALING",
         "P": {
             "COSTO": "7712.0",
-            "VENTA": "24000.0",
+            "VENTA": "26000.0",
             "LISTA2": "7712.0",
             "LISTA3": "7712.0",
             "MAYOR": "7712.0"
@@ -12991,7 +12991,7 @@
             "MAYOR": "10800.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13045,7 +13045,7 @@
             "MAYOR": "7100.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14377,7 +14377,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "545.0",
+        "STOCK": "544.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
