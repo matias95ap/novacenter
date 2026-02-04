@@ -1273,7 +1273,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "12.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3433,7 +3433,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5161,7 +5161,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "-6.09999990463257",
+        "STOCK": "-8.10000038146973",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8329,7 +8329,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8401,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8509,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8826,11 +8826,11 @@
         "PROVEEDOR": "NUEVAS ONDAS2",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "24314.0",
-            "VENTA": "75000.0",
-            "LISTA2": "24314.0",
-            "LISTA3": "40000.0",
-            "MAYOR": "40000.0"
+            "COSTO": "35000.0",
+            "VENTA": "78000.0",
+            "LISTA2": "35000.0",
+            "LISTA3": "57578.5",
+            "MAYOR": "52500.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
