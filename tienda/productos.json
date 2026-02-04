@@ -602,7 +602,7 @@
         "P": {
             "COSTO": "4135.0",
             "VENTA": "12000.0",
-            "LISTA2": "4135.0",
+            "LISTA2": "10000.0",
             "LISTA3": "4135.0",
             "MAYOR": "4135.0"
         },
@@ -656,7 +656,7 @@
         "P": {
             "COSTO": "4135.0",
             "VENTA": "12000.0",
-            "LISTA2": "4135.0",
+            "LISTA2": "10000.0",
             "LISTA3": "4135.0",
             "MAYOR": "4135.0"
         },
@@ -2125,7 +2125,7 @@
     },
     {
         "CODIGO": "BATSAMA31",
-        "DETALLE": "BATERIA SAMS A22/ A31/ A32",
+        "DETALLE": "BATERIA SAMS A22/ A31/ A32/ A42/ A72",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
@@ -2623,7 +2623,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3433,7 +3433,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8965,7 +8965,7 @@
     },
     {
         "CODIGO": "MODSAMA30S",
-        "DETALLE": "MOD SAMS A30S C.MARCO",
+        "DETALLE": "MOD SAMS A30S OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
