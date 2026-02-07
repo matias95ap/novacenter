@@ -103,7 +103,7 @@
             "MAYOR": "297.0"
         },
         "IVA": "21",
-        "STOCK": "98.0",
+        "STOCK": "97.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -576,6 +576,42 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135013650",
+        "DETALLE": "AURICULAR BT AITECH A3 BLANCO",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "4135.0",
+            "VENTA": "12000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "4135.0",
+            "MAYOR": "4135.0"
+        },
+        "IVA": "21",
+        "STOCK": "49.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
+        "CODIGO": "7799135013667",
+        "DETALLE": "AURICULAR BT AITECH A3 NEGRO",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "NUEVO",
+        "P": {
+            "COSTO": "4135.0",
+            "VENTA": "12000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "4135.0",
+            "MAYOR": "4135.0"
+        },
+        "IVA": "21",
+        "STOCK": "48.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "30"
+    },
+    {
         "CODIGO": "7799135011458",
         "DETALLE": "AURICULAR BT AITECH AIR 18",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
@@ -590,24 +626,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
-    },
-    {
-        "CODIGO": "7799135013650",
-        "DETALLE": "AURICULAR BT AITECH BLANCO",
-        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
-        "P": {
-            "COSTO": "4135.0",
-            "VENTA": "12000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "4135.0",
-            "MAYOR": "4135.0"
-        },
-        "IVA": "21",
-        "STOCK": "50.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -644,24 +662,6 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
-    },
-    {
-        "CODIGO": "7799135013667",
-        "DETALLE": "AURICULAR BT AITECH NEGRO",
-        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
-        "P": {
-            "COSTO": "4135.0",
-            "VENTA": "12000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "4135.0",
-            "MAYOR": "4135.0"
-        },
-        "IVA": "21",
-        "STOCK": "49.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -763,8 +763,8 @@
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "10090.0",
-            "VENTA": "45000.0",
-            "LISTA2": "10090.0",
+            "VENTA": "68000.0",
+            "LISTA2": "45000.0",
             "LISTA3": "10090.0",
             "MAYOR": "10090.0"
         },
@@ -787,7 +787,7 @@
             "MAYOR": "5090.0"
         },
         "IVA": "21",
-        "STOCK": "50.0",
+        "STOCK": "49.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1057,7 +1057,7 @@
             "MAYOR": "3505.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2227,7 +2227,7 @@
             "MAYOR": "15000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2245,7 +2245,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2731,7 +2731,7 @@
             "MAYOR": "2500.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3307,7 +3307,7 @@
             "MAYOR": "2950.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "18.0",
+        "STOCK": "17.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3901,7 +3901,7 @@
             "MAYOR": "5418.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4387,7 +4387,7 @@
             "MAYOR": "1952.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7213,7 +7213,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7267,7 +7267,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7339,7 +7339,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8329,7 +8329,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8833,7 +8833,7 @@
             "MAYOR": "52500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9931,7 +9931,7 @@
             "MAYOR": "6355.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11677,7 +11677,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12721,7 +12721,7 @@
             "MAYOR": "8500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13495,7 +13495,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "-0.5",
+        "STOCK": "-2.5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14287,7 +14287,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "537.0",
+        "STOCK": "536.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
