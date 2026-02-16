@@ -979,13 +979,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4636.0",
-            "VENTA": "12000.0",
+            "VENTA": "15000.0",
             "LISTA2": "4636.0",
             "LISTA3": "4636.0",
             "MAYOR": "4636.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -2803,7 +2803,7 @@
             "MAYOR": "1600.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3847,7 +3847,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "18",
+        "STOCK": "17",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7735,7 +7735,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9751,7 +9751,7 @@
             "MAYOR": "1271.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -13423,7 +13423,7 @@
             "MAYOR": "17600.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
