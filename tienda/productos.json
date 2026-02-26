@@ -589,7 +589,7 @@
             "MAYOR": "4135.0"
         },
         "IVA": "21",
-        "STOCK": "22",
+        "STOCK": "20",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -607,7 +607,7 @@
             "MAYOR": "4135.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -733,7 +733,7 @@
             "MAYOR": "12600.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -985,7 +985,7 @@
             "MAYOR": "4636.0"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "12",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1273,7 +1273,7 @@
             "MAYOR": "1300.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1507,7 +1507,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1837,7 +1837,7 @@
     },
     {
         "CODIGO": "BATMOTHE50",
-        "DETALLE": "BATERIA MOTO HE50 E5 PLUS",
+        "DETALLE": "BATERIA MOTO HE50 E5 PLUS/ E4 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "MOTOROLA",
@@ -2155,7 +2155,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2245,7 +2245,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2839,7 +2839,7 @@
             "MAYOR": "1334.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3199,7 +3199,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "537",
+        "STOCK": "535",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3379,7 +3379,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3775,7 +3775,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "21",
+        "STOCK": "19",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3847,7 +3847,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "16",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3883,7 +3883,7 @@
             "MAYOR": "4500.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3901,7 +3901,7 @@
             "MAYOR": "4688.6"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3919,7 +3919,7 @@
             "MAYOR": "5418.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4135,7 +4135,7 @@
             "MAYOR": "6923.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4657,7 +4657,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4693,7 +4693,7 @@
             "MAYOR": "1215.2"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4891,7 +4891,7 @@
             "MAYOR": "2464.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5179,7 +5179,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "-4",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5467,7 +5467,7 @@
             "MAYOR": "4999.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5593,7 +5593,7 @@
             "MAYOR": "6000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5755,7 +5755,7 @@
             "MAYOR": "1250.0"
         },
         "IVA": "21",
-        "STOCK": "157",
+        "STOCK": "155",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5899,7 +5899,7 @@
             "MAYOR": "1381.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6313,7 +6313,7 @@
             "MAYOR": "2516.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7260,14 +7260,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "18400.0",
-            "VENTA": "58000.0",
-            "LISTA2": "18400.0",
-            "LISTA3": "18400.0",
-            "MAYOR": "30000.0"
+            "COSTO": "14272.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14272.0",
+            "LISTA3": "14272.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7275,17 +7275,17 @@
         "CODIGO": "MODMOTE20",
         "DETALLE": "MOD MOTO E20",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "TODOCELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12136.0",
-            "VENTA": "40000.0",
-            "LISTA2": "12136.0",
-            "LISTA3": "12136.0",
-            "MAYOR": "21000.0"
+            "COSTO": "13871.0",
+            "VENTA": "45000.0",
+            "LISTA2": "13871.0",
+            "LISTA3": "13871.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7321,7 +7321,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7357,7 +7357,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7393,7 +7393,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7501,7 +7501,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7620,14 +7620,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12200.0",
-            "VENTA": "42000.0",
-            "LISTA2": "12200.0",
-            "LISTA3": "12200.0",
-            "MAYOR": "21000.0"
+            "COSTO": "11672.0",
+            "VENTA": "40000.0",
+            "LISTA2": "11672.0",
+            "LISTA3": "11672.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "12",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7663,7 +7663,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7699,7 +7699,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7879,7 +7879,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7987,7 +7987,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8121,17 +8121,17 @@
         "CODIGO": "MODMOTG8LT",
         "DETALLE": "MOD MOTO G8 POWER LITE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "TODOCELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "14650.0",
-            "VENTA": "48000.0",
-            "LISTA2": "14650.0",
-            "LISTA3": "25482.2",
-            "MAYOR": "25000.0"
+            "COSTO": "12453.0",
+            "VENTA": "40802.3",
+            "LISTA2": "12453.0",
+            "LISTA3": "21660.7",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8340,14 +8340,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "10000.0",
+            "COSTO": "12334.0",
             "VENTA": "40000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "10000.0",
+            "LISTA2": "12334.0",
+            "LISTA3": "12334.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "12",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8383,7 +8383,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8412,14 +8412,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "10800.0",
+            "COSTO": "12552.5",
             "VENTA": "40000.0",
-            "LISTA2": "10800.0",
-            "LISTA3": "10800.0",
+            "LISTA2": "12552.5",
+            "LISTA3": "12552.5",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8473,13 +8473,13 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MOSAM04S",
-        "DETALLE": "MOD SAMS A04S /A13",
+        "DETALLE": "MOD SAMS A04S /A13 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
@@ -8517,17 +8517,17 @@
         "CODIGO": "MODSAMA05",
         "DETALLE": "MOD SAMS A05",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "TODOCELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "12400.0",
-            "VENTA": "45000.0",
-            "LISTA2": "12400.0",
-            "LISTA3": "12400.0",
+            "COSTO": "13382.0",
+            "VENTA": "48563.3",
+            "LISTA2": "13382.0",
+            "LISTA3": "13382.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8617,7 +8617,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8679,7 +8679,7 @@
         "CODIGO": "MODSAMA13",
         "DETALLE": "MOD SAMS A13/A23/4G/5G/A236U-B/M336B/A135/M23/F23",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "13400.0",
@@ -8689,7 +8689,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8758,7 +8758,7 @@
             "VENTA": "68000.0",
             "LISTA2": "19860.0",
             "LISTA3": "34306.2",
-            "MAYOR": "32000.0"
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -8780,6 +8780,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA16ISM",
+        "DETALLE": "MOD SAMS A16 INCELL",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "17941.0",
+            "VENTA": "55000.0",
+            "LISTA2": "17941.0",
+            "LISTA3": "17941.0",
+            "MAYOR": "28000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8830,7 +8848,7 @@
             "VENTA": "48000.0",
             "LISTA2": "16642.0",
             "LISTA3": "30000.0",
-            "MAYOR": "28000.0"
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
         "STOCK": "1",
@@ -8869,7 +8887,7 @@
             "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8898,14 +8916,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "12000.0",
+            "COSTO": "13278.0",
             "VENTA": "40000.0",
-            "LISTA2": "12000.0",
-            "LISTA3": "12000.0",
-            "MAYOR": "21000.0"
+            "LISTA2": "13278.0",
+            "LISTA3": "13278.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8920,7 +8938,7 @@
             "VENTA": "46000.0",
             "LISTA2": "13700.0",
             "LISTA3": "13700.0",
-            "MAYOR": "23500.0"
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -8959,7 +8977,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9013,7 +9031,7 @@
             "MAYOR": "32000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9036,6 +9054,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODSAMA32ISM",
+        "DETALLE": "MOD SAMS A32 INCELL S.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "18845.0",
+            "VENTA": "50000.0",
+            "LISTA2": "18845.0",
+            "LISTA3": "18845.0",
+            "MAYOR": "28000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODSAMA32",
         "DETALLE": "MOD SAMS A32 OLED 4G C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -9049,7 +9085,43 @@
             "MAYOR": "66750.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA51IN",
+        "DETALLE": "MOD SAMS A51 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "22046.0",
+            "VENTA": "65000.0",
+            "LISTA2": "22046.0",
+            "LISTA3": "22046.0",
+            "MAYOR": "33000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA52IN",
+        "DETALLE": "MOD SAMS A52 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "26825.0",
+            "VENTA": "75000.0",
+            "LISTA2": "26825.0",
+            "LISTA3": "26825.0",
+            "MAYOR": "40000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9247,7 +9319,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9265,7 +9337,7 @@
             "MAYOR": "24500.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9417,17 +9489,17 @@
         "CODIGO": "MODTS20C",
         "DETALLE": "MOD TECNO SPARK 20/20C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "ELECTRO CELULAR",
+        "PROVEEDOR": "TODOCELU",
         "MARCA": "TECNO SPARK",
         "P": {
-            "COSTO": "15505.0",
-            "VENTA": "55000.0",
-            "LISTA2": "15505.0",
-            "LISTA3": "15505.0",
-            "MAYOR": "28000.0"
+            "COSTO": "14433.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14433.0",
+            "LISTA3": "14433.0",
+            "MAYOR": "24500.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9517,7 +9589,7 @@
             "MAYOR": "27000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9553,7 +9625,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9615,17 +9687,17 @@
         "CODIGO": "MODZTEA35",
         "DETALLE": "MOD ZTE BLADE A35/A55",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "LEX MAYORISTA",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "ZTE",
         "P": {
-            "COSTO": "17000.0",
-            "VENTA": "58000.0",
-            "LISTA2": "17000.0",
-            "LISTA3": "17000.0",
-            "MAYOR": "28900.0"
+            "COSTO": "16362.0",
+            "VENTA": "50000.0",
+            "LISTA2": "16362.0",
+            "LISTA3": "16362.0",
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10345,7 +10417,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10363,7 +10435,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10435,7 +10507,7 @@
             "MAYOR": "6932.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10705,7 +10777,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "80",
+        "STOCK": "78",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10759,7 +10831,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "24",
+        "STOCK": "21",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11641,7 +11713,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11803,7 +11875,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11947,7 +12019,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12127,7 +12199,7 @@
             "MAYOR": "10500.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12289,7 +12361,7 @@
             "MAYOR": "1900.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -12505,7 +12577,7 @@
             "MAYOR": "1213.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12559,7 +12631,7 @@
             "MAYOR": "1971.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12613,7 +12685,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "30",
+        "STOCK": "29",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12919,7 +12991,7 @@
             "MAYOR": "11287.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -14143,7 +14215,7 @@
             "MAYOR": "3724.0"
         },
         "IVA": "21",
-        "STOCK": "19",
+        "STOCK": "18",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14305,7 +14377,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "532",
+        "STOCK": "517",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
