@@ -1836,6 +1836,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "BATMOTGK40",
+        "DETALLE": "BATERIA MOTO GK40 G4 PLAY",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "2900.0",
+            "VENTA": "25000.0",
+            "LISTA2": "2900.0",
+            "LISTA3": "2900.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BATMOTHE50",
         "DETALLE": "BATERIA MOTO HE50 E5 PLUS/ E4 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
@@ -1846,6 +1864,24 @@
             "VENTA": "24000.0",
             "LISTA2": "5200.0",
             "LISTA3": "5200.0",
+            "MAYOR": "15000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTHG30",
+        "DETALLE": "BATERIA MOTO HG30 G5S/ G5S PLUS/ G6",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "6061.0",
+            "VENTA": "28000.0",
+            "LISTA2": "6061.0",
+            "LISTA3": "6061.0",
             "MAYOR": "15000.0"
         },
         "IVA": "21",
@@ -1914,14 +1950,14 @@
         "PROVEEDOR": "EVOPHONE",
         "MARCA": "nan",
         "P": {
-            "COSTO": "7500.0",
-            "VENTA": "28000.0",
-            "LISTA2": "7500.0",
-            "LISTA3": "7500.0",
+            "COSTO": "9454.0",
+            "VENTA": "30000.0",
+            "LISTA2": "9454.0",
+            "LISTA3": "9454.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2016,20 +2052,38 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "BATMOTNH40",
-        "DETALLE": "BATERIA MOTO NH40 E22",
+        "CODIGO": "BATMOTKZ50",
+        "DETALLE": "BATERIA MOTO KZ50 G8 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "IMPORTCELL",
+        "PROVEEDOR": "EVOPHONE",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "7700.0",
-            "VENTA": "28000.0",
-            "LISTA2": "7700.0",
-            "LISTA3": "7700.0",
+            "COSTO": "6815.0",
+            "VENTA": "30000.0",
+            "LISTA2": "6815.0",
+            "LISTA3": "6815.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTNH40",
+        "DETALLE": "BATERIA MOTO NH40 E22",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "7817.0",
+            "VENTA": "28000.0",
+            "LISTA2": "7817.0",
+            "LISTA3": "7817.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2048,6 +2102,42 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTNT40",
+        "DETALLE": "BATERIA MOTO NT40 E20",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "8874.0",
+            "VENTA": "28000.0",
+            "LISTA2": "8874.0",
+            "LISTA3": "8874.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATMOTQF50",
+        "DETALLE": "BATERIA MOTO QF50 G24/G34/G04/G04S/E14",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "9454.0",
+            "VENTA": "30000.0",
+            "LISTA2": "9454.0",
+            "LISTA3": "9454.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2142,20 +2232,74 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "BATSAMA135G",
+        "DETALLE": "BATERIA SAMS BA136 A13 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "7511.0",
+            "VENTA": "30000.0",
+            "LISTA2": "7511.0",
+            "LISTA3": "7511.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATSAMA145G",
+        "DETALLE": "BATERIA SAMS BA146 A14 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "9135.0",
+            "VENTA": "30000.0",
+            "LISTA2": "9135.0",
+            "LISTA3": "9135.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BATSAMA21S",
         "DETALLE": "BATERIA SAMS BA217 A21S/A02/A04S/A12/A13 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
         "PROVEEDOR": "EVOPHONE",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "6449.0",
-            "VENTA": "28000.0",
-            "LISTA2": "6449.0",
-            "LISTA3": "6449.0",
+            "COSTO": "8482.0",
+            "VENTA": "30000.0",
+            "LISTA2": "8482.0",
+            "LISTA3": "8482.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATSAMA51",
+        "DETALLE": "BATERIA SAMS BA515 A51",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "9323.0",
+            "VENTA": "30000.0",
+            "LISTA2": "9323.0",
+            "LISTA3": "9323.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2210,6 +2354,24 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATSAMJ5PR",
+        "DETALLE": "BATERIA SAMS G570 J5 PRIME",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "4538.0",
+            "VENTA": "28000.0",
+            "LISTA2": "4538.0",
+            "LISTA3": "4538.0",
+            "MAYOR": "14000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2354,6 +2516,42 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATSAMA23",
+        "DETALLE": "BATERIA SAMS M526 A23/A73/M23/M33/M52/M53",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "7621.0",
+            "VENTA": "30000.0",
+            "LISTA2": "7621.0",
+            "LISTA3": "7621.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "BATSAMA03C",
+        "DETALLE": "BATERIA SAMS SLC50 A03 CORE",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "8135.0",
+            "VENTA": "30000.0",
+            "LISTA2": "8135.0",
+            "LISTA3": "8135.0",
+            "MAYOR": "18000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2767,7 +2965,7 @@
             "MAYOR": "1990.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6061,7 +6259,7 @@
             "MAYOR": "1250.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7681,7 +7879,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7764,11 +7962,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "16000.0",
-            "VENTA": "55000.0",
-            "LISTA2": "16000.0",
-            "LISTA3": "16000.0",
-            "MAYOR": "27200.0"
+            "COSTO": "12666.0",
+            "VENTA": "50000.0",
+            "LISTA2": "12666.0",
+            "LISTA3": "12666.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
         "STOCK": "9",
@@ -7951,7 +8149,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8707,7 +8905,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8767,7 +8965,7 @@
     },
     {
         "CODIGO": "MODSAMA15I",
-        "DETALLE": "MOD SAMS A15 INCELL C.MARCO",
+        "DETALLE": "MOD SAMS A15 INCELL S.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "LEX MAYORISTA",
         "MARCA": "SAMSUNG",
@@ -8776,7 +8974,7 @@
             "VENTA": "68000.0",
             "LISTA2": "19860.0",
             "LISTA3": "34306.2",
-            "MAYOR": "30000.0"
+            "MAYOR": "28000.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -9442,10 +9640,10 @@
             "VENTA": "58000.0",
             "LISTA2": "16500.0",
             "LISTA3": "16500.0",
-            "MAYOR": "28000.0"
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9643,7 +9841,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11214,6 +11412,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAE14",
+        "DETALLE": "PLACA DE CARGA MOTO E14",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "3610.5",
+            "VENTA": "25000.0",
+            "LISTA2": "3610.5",
+            "LISTA3": "3610.5",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAE20",
         "DETALLE": "PLACA DE CARGA MOTO E20",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -11310,14 +11526,14 @@
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "2200.0",
-            "VENTA": "18000.0",
-            "LISTA2": "2200.0",
-            "LISTA3": "2200.0",
-            "MAYOR": "8000.0"
+            "COSTO": "2900.0",
+            "VENTA": "24000.0",
+            "LISTA2": "2900.0",
+            "LISTA3": "2900.0",
+            "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11520,6 +11736,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAG31",
+        "DETALLE": "PLACA DE CARGA MOTO G31",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "3277.0",
+            "VENTA": "25000.0",
+            "LISTA2": "3277.0",
+            "LISTA3": "3277.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAG32",
         "DETALLE": "PLACA DE CARGA MOTO G32",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -11534,6 +11768,42 @@
         },
         "IVA": "21",
         "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG7PLA",
+        "DETALLE": "PLACA DE CARGA MOTO G7 PLAY",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "MOTOROLA",
+        "P": {
+            "COSTO": "3132.0",
+            "VENTA": "25000.0",
+            "LISTA2": "3132.0",
+            "LISTA3": "3132.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAG7POW",
+        "DETALLE": "PLACA DE CARGA MOTO G7 POWER",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4988.0",
+            "VENTA": "25000.0",
+            "LISTA2": "4988.0",
+            "LISTA3": "4988.0",
+            "MAYOR": "14000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11629,19 +11899,19 @@
     },
     {
         "CODIGO": "CARGAA01CR",
-        "DETALLE": "PLACA DE CARGA SAMS A01 CORE",
+        "DETALLE": "PLACA DE CARGA SAMS A01",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "2900.0",
-            "VENTA": "22000.0",
-            "LISTA2": "2900.0",
-            "LISTA3": "2900.0",
+            "COSTO": "2711.0",
+            "VENTA": "24000.0",
+            "LISTA2": "2711.0",
+            "LISTA3": "2711.0",
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11688,14 +11958,14 @@
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "1800.0",
-            "VENTA": "18000.0",
-            "LISTA2": "1800.0",
-            "LISTA3": "1800.0",
-            "MAYOR": "8000.0"
+            "COSTO": "2900.0",
+            "VENTA": "25000.0",
+            "LISTA2": "2900.0",
+            "LISTA3": "2900.0",
+            "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11739,17 +12009,17 @@
         "CODIGO": "CARGAA04",
         "DETALLE": "PLACA DE CARGA SAMS A04",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
-        "PROVEEDOR": "IMPORTCELL",
+        "PROVEEDOR": "EVOPHONE",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "2000.0",
-            "VENTA": "22000.0",
-            "LISTA2": "2000.0",
-            "LISTA3": "2000.0",
+            "COSTO": "2813.0",
+            "VENTA": "25000.0",
+            "LISTA2": "2813.0",
+            "LISTA3": "2813.0",
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11814,14 +12084,14 @@
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "1800.0",
-            "VENTA": "18000.0",
-            "LISTA2": "1800.0",
-            "LISTA3": "1800.0",
-            "MAYOR": "8000.0"
+            "COSTO": "2900.0",
+            "VENTA": "24000.0",
+            "LISTA2": "2900.0",
+            "LISTA3": "2900.0",
+            "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11875,7 +12145,7 @@
             "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12024,6 +12294,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAA23",
+        "DETALLE": "PLACA DE CARGA SAMS A23",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "7857.0",
+            "VENTA": "26000.0",
+            "LISTA2": "7857.0",
+            "LISTA3": "7857.0",
+            "MAYOR": "15000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAA244G",
         "DETALLE": "PLACA DE CARGA SAMS A24 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -12074,6 +12362,24 @@
         },
         "IVA": "21",
         "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAA31",
+        "DETALLE": "PLACA DE CARGA SAMS A31",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "EVOPHONE",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "3436.5",
+            "VENTA": "25000.0",
+            "LISTA2": "3436.5",
+            "LISTA3": "3436.5",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
