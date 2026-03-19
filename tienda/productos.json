@@ -607,7 +607,7 @@
             "MAYOR": "4135.0"
         },
         "IVA": "21",
-        "STOCK": "13.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -2353,7 +2353,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2587,7 +2587,7 @@
             "MAYOR": "20872.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2815,7 +2815,7 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
-            "VENTA": "2500.0",
+            "VENTA": "3500.0",
             "LISTA2": "500.0",
             "LISTA3": "500.0",
             "MAYOR": "500.0"
@@ -3577,7 +3577,7 @@
             "MAYOR": "1200.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3793,7 +3793,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3991,7 +3991,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "17.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4369,7 +4369,7 @@
             "MAYOR": "6923.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5413,7 +5413,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "-17.8999996185303",
+        "STOCK": "-8.60000038146973",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5485,7 +5485,7 @@
             "MAYOR": "2850.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5971,7 +5971,7 @@
             "MAYOR": "1250.0"
         },
         "IVA": "21",
-        "STOCK": "155.0",
+        "STOCK": "153.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7380,6 +7380,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODLGK40S",
+        "DETALLE": "MOD LG K40S",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "SVT",
+        "P": {
+            "COSTO": "13620.0",
+            "VENTA": "45000.0",
+            "LISTA2": "13620.0",
+            "LISTA3": "13620.0",
+            "MAYOR": "23000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODLGK41S",
         "DETALLE": "MOD LG K41S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -7483,7 +7501,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7492,16 +7510,16 @@
         "DETALLE": "MOD MOTO E20",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "TODOCELU",
-        "MARCA": "nan",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "13871.0",
-            "VENTA": "45000.0",
-            "LISTA2": "13871.0",
-            "LISTA3": "13871.0",
-            "MAYOR": "22000.0"
+            "COSTO": "12528.0",
+            "VENTA": "40000.0",
+            "LISTA2": "12528.0",
+            "LISTA3": "12528.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7528,16 +7546,16 @@
         "DETALLE": "MOD MOTO E22/E22I/E22S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "11400.0",
+            "COSTO": "11540.0",
             "VENTA": "40000.0",
-            "LISTA2": "11400.0",
-            "LISTA3": "11400.0",
+            "LISTA2": "11540.0",
+            "LISTA3": "11540.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7570,7 +7588,7 @@
             "VENTA": "45000.0",
             "LISTA2": "11982.0",
             "LISTA3": "11982.0",
-            "MAYOR": "20500.0"
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
         "STOCK": "4.0",
@@ -7585,13 +7603,13 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14740.0",
-            "VENTA": "45000.0",
+            "VENTA": "50000.0",
             "LISTA2": "14740.0",
             "LISTA3": "14740.0",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7843,7 +7861,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7872,14 +7890,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "14394.0",
-            "VENTA": "50000.0",
-            "LISTA2": "14394.0",
-            "LISTA3": "26980.1",
-            "MAYOR": "24000.0"
+            "COSTO": "14214.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14214.0",
+            "LISTA3": "26642.7",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "17.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7951,7 +7969,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7987,7 +8005,7 @@
             "MAYOR": "26500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8556,14 +8574,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "12334.0",
+            "COSTO": "11540.0",
             "VENTA": "40000.0",
-            "LISTA2": "12334.0",
-            "LISTA3": "12334.0",
-            "MAYOR": "20000.0"
+            "LISTA2": "11540.0",
+            "LISTA3": "11540.0",
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "23.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8635,7 +8653,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8743,7 +8761,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8779,7 +8797,25 @@
             "MAYOR": "32000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA07",
+        "DETALLE": "MOD SAMS A07",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "13180.0",
+            "VENTA": "48000.0",
+            "LISTA2": "13180.0",
+            "LISTA3": "13180.0",
+            "MAYOR": "23000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8797,7 +8833,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8893,19 +8929,19 @@
     },
     {
         "CODIGO": "MODSAMA13",
-        "DETALLE": "MOD SAMS A13/A23/4G/5G/A236U-B/M336B/A135/M23/F23",
+        "DETALLE": "MOD SAMS A13 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
-        "MARCA": "SAMSUNG",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "13400.0",
-            "VENTA": "48000.0",
-            "LISTA2": "13400.0",
-            "LISTA3": "13400.0",
-            "MAYOR": "24000.0"
+            "COSTO": "11130.0",
+            "VENTA": "45000.0",
+            "LISTA2": "11130.0",
+            "LISTA3": "11130.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8959,22 +8995,40 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MODSAMA15I",
-        "DETALLE": "MOD SAMS A15 INCELL S.MARCO",
+        "DETALLE": "MOD SAMS A15 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "LEX MAYORISTA",
-        "MARCA": "SAMSUNG",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "17400.0",
+            "VENTA": "65000.0",
+            "LISTA2": "17400.0",
+            "LISTA3": "30056.8",
+            "MAYOR": "29000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODA15INSM",
+        "DETALLE": "MOD SAMS A15 INCELL SIN MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
         "P": {
             "COSTO": "19860.0",
-            "VENTA": "68000.0",
+            "VENTA": "60000.0",
             "LISTA2": "19860.0",
-            "LISTA3": "34306.2",
-            "MAYOR": "28000.0"
+            "LISTA3": "19860.0",
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
@@ -8988,20 +9042,38 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "55080.0",
-            "VENTA": "135000.0",
-            "LISTA2": "55080.0",
-            "LISTA3": "55080.0",
-            "MAYOR": "82620.0"
+            "COSTO": "49300.0",
+            "VENTA": "125000.0",
+            "LISTA2": "49300.0",
+            "LISTA3": "49300.0",
+            "MAYOR": "64000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA16IN",
+        "DETALLE": "MOD SAMS A16 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "LEX MAYORISTA",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "18900.0",
+            "VENTA": "68000.0",
+            "LISTA2": "18900.0",
+            "LISTA3": "18900.0",
+            "MAYOR": "30000.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MODSAMA16ISM",
-        "DETALLE": "MOD SAMS A16 INCELL",
+        "DETALLE": "MOD SAMS A16 INCELL SIN MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "SAMSUNG",
@@ -9013,25 +9085,7 @@
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "MODSAMA16IN",
-        "DETALLE": "MOD SAMS A16 INCELL C.MARCO",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "LEX MAYORISTA",
-        "MARCA": "SAMSUNG",
-        "P": {
-            "COSTO": "21600.0",
-            "VENTA": "75000.0",
-            "LISTA2": "21600.0",
-            "LISTA3": "21600.0",
-            "MAYOR": "35000.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9057,17 +9111,17 @@
         "CODIGO": "MODSAMSA20I",
         "DETALLE": "MOD SAMS A20 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "NUEVAS ONDAS2",
-        "MARCA": "SAMSUNG",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "16642.0",
-            "VENTA": "48000.0",
-            "LISTA2": "16642.0",
-            "LISTA3": "30000.0",
-            "MAYOR": "26000.0"
+            "COSTO": "14060.0",
+            "VENTA": "45000.0",
+            "LISTA2": "14060.0",
+            "LISTA3": "25346.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9288,6 +9342,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODSAMA32IN",
+        "DETALLE": "MOD SAMS A32 INCELL C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "17574.0",
+            "VENTA": "60000.0",
+            "LISTA2": "17574.0",
+            "LISTA3": "17574.0",
+            "MAYOR": "30000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODSAMA32ISM",
         "DETALLE": "MOD SAMS A32 INCELL S.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -9298,7 +9370,7 @@
             "VENTA": "50000.0",
             "LISTA2": "18845.0",
             "LISTA3": "18845.0",
-            "MAYOR": "28000.0"
+            "MAYOR": "27000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
@@ -9661,7 +9733,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9690,14 +9762,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "16740.0",
+            "COSTO": "16000.0",
             "VENTA": "48000.0",
-            "LISTA2": "16740.0",
-            "LISTA3": "30000.0",
-            "MAYOR": "28000.0"
+            "LISTA2": "16000.0",
+            "LISTA3": "28673.6",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9734,6 +9806,24 @@
         },
         "IVA": "21",
         "STOCK": "8.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODTS30C",
+        "DETALLE": "MOD TECNO SPARK 30C/ POVA NEO 5G/ SMART 9/ 9 HD/ INFINIX HOT 50/ 50I/ 50G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "12740.0",
+            "VENTA": "48000.0",
+            "LISTA2": "12740.0",
+            "LISTA3": "12740.0",
+            "MAYOR": "22000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9903,17 +9993,17 @@
         "CODIGO": "MODREDMA3",
         "DETALLE": "MOD XIAOMI REDMI A3 /A3X /POCO C61",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "XIAOMI",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "19300.0",
-            "VENTA": "58000.0",
-            "LISTA2": "19300.0",
-            "LISTA3": "19300.0",
-            "MAYOR": "30880.0"
+            "COSTO": "14000.0",
+            "VENTA": "48000.0",
+            "LISTA2": "14000.0",
+            "LISTA3": "14000.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9986,6 +10076,24 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODZTEA75",
+        "DETALLE": "MOD ZTE BLADE A75/ NUBIA MUSIC/ FOCUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "16200.0",
+            "VENTA": "50000.0",
+            "LISTA2": "16200.0",
+            "LISTA3": "16200.0",
+            "MAYOR": "27000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12055,7 +12163,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13603,7 +13711,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13801,7 +13909,7 @@
             "MAYOR": "3628.5"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13963,7 +14071,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "-3.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14755,7 +14863,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "512.0",
+        "STOCK": "508.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
