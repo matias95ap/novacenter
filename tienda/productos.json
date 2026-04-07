@@ -103,7 +103,7 @@
             "MAYOR": "297.0"
         },
         "IVA": "21",
-        "STOCK": "97",
+        "STOCK": "96",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -265,7 +265,7 @@
             "MAYOR": "1700.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1093,7 +1093,7 @@
             "MAYOR": "3505.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1795,7 +1795,7 @@
             "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1957,7 +1957,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2386,7 +2386,7 @@
             "VENTA": "28000.0",
             "LISTA2": "8550.0",
             "LISTA3": "8550.0",
-            "MAYOR": "15000.0"
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
         "STOCK": "2",
@@ -2893,7 +2893,7 @@
             "MAYOR": "1230.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3451,7 +3451,7 @@
             "MAYOR": "2000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3991,7 +3991,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4063,7 +4063,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4135,7 +4135,7 @@
             "MAYOR": "5418.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4693,7 +4693,7 @@
             "MAYOR": "0.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5413,7 +5413,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "-10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5521,7 +5521,7 @@
             "MAYOR": "3000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5971,7 +5971,7 @@
             "MAYOR": "1250.0"
         },
         "IVA": "21",
-        "STOCK": "151",
+        "STOCK": "150",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7483,7 +7483,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7537,7 +7537,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7573,7 +7573,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7591,7 +7591,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7609,7 +7609,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7645,7 +7645,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7753,7 +7753,7 @@
             "MAYOR": "22400.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7825,7 +7825,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7879,7 +7879,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7915,7 +7915,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7926,14 +7926,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "13050.0",
-            "VENTA": "45000.0",
-            "LISTA2": "13050.0",
-            "LISTA3": "22567.4",
-            "MAYOR": "25000.0"
+            "COSTO": "14490.0",
+            "VENTA": "50000.0",
+            "LISTA2": "14490.0",
+            "LISTA3": "14490.0",
+            "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7944,14 +7944,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12750.0",
-            "VENTA": "45000.0",
-            "LISTA2": "12750.0",
-            "LISTA3": "24106.4",
-            "MAYOR": "22000.0"
+            "COSTO": "11710.0",
+            "VENTA": "40000.0",
+            "LISTA2": "11710.0",
+            "LISTA3": "11710.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7963,7 +7963,7 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "15860.0",
-            "VENTA": "48000.0",
+            "VENTA": "58000.0",
             "LISTA2": "15860.0",
             "LISTA3": "27000.0",
             "MAYOR": "27000.0"
@@ -7987,7 +7987,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8005,7 +8005,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8059,7 +8059,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8077,7 +8077,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8250,14 +8250,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11381.0",
-            "VENTA": "40000.0",
-            "LISTA2": "11381.0",
-            "LISTA3": "11381.0",
-            "MAYOR": "20000.0"
+            "COSTO": "13175.0",
+            "VENTA": "46304.9",
+            "LISTA2": "13175.0",
+            "LISTA3": "13175.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8545,7 +8545,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8563,7 +8563,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8581,7 +8581,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8617,7 +8617,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "19",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8653,7 +8653,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8689,7 +8689,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8761,7 +8761,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8797,7 +8797,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8815,7 +8815,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8862,14 +8862,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "8897.0",
+            "COSTO": "10000.0",
             "VENTA": "40000.0",
-            "LISTA2": "8897.0",
-            "LISTA3": "18164.1",
+            "LISTA2": "10000.0",
+            "LISTA3": "10000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8881,7 +8881,7 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "12408.0",
-            "VENTA": "42000.0",
+            "VENTA": "45000.0",
             "LISTA2": "12408.0",
             "LISTA3": "25129.9",
             "MAYOR": "24000.0"
@@ -8917,7 +8917,7 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "11374.0",
-            "VENTA": "42000.0",
+            "VENTA": "45000.0",
             "LISTA2": "11374.0",
             "LISTA3": "24000.0",
             "MAYOR": "24000.0"
@@ -8941,7 +8941,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8977,7 +8977,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9031,7 +9031,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9043,13 +9043,13 @@
         "MARCA": "CVT",
         "P": {
             "COSTO": "17400.0",
-            "VENTA": "65000.0",
+            "VENTA": "60000.0",
             "LISTA2": "17400.0",
             "LISTA3": "30056.8",
             "MAYOR": "29000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9061,7 +9061,7 @@
         "MARCA": "CVT",
         "P": {
             "COSTO": "19860.0",
-            "VENTA": "60000.0",
+            "VENTA": "50000.0",
             "LISTA2": "19860.0",
             "LISTA3": "19860.0",
             "MAYOR": "26000.0"
@@ -9229,7 +9229,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9283,7 +9283,7 @@
             "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9355,7 +9355,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9385,13 +9385,13 @@
         "MARCA": "CVT",
         "P": {
             "COSTO": "17574.0",
-            "VENTA": "60000.0",
+            "VENTA": "55000.0",
             "LISTA2": "17574.0",
             "LISTA3": "17574.0",
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9427,7 +9427,7 @@
             "MAYOR": "55000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9654,14 +9654,14 @@
         "PROVEEDOR": "NUEVAS ONDAS2",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8496.0",
+            "COSTO": "8183.0",
             "VENTA": "40000.0",
-            "LISTA2": "8496.0",
-            "LISTA3": "17221.4",
-            "MAYOR": "20000.0"
+            "LISTA2": "8183.0",
+            "LISTA3": "16586.9",
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9769,7 +9769,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9780,14 +9780,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "15700.0",
-            "VENTA": "52000.0",
-            "LISTA2": "15700.0",
-            "LISTA3": "28125.0",
-            "MAYOR": "28125.0"
+            "COSTO": "16500.0",
+            "VENTA": "55000.0",
+            "LISTA2": "16500.0",
+            "LISTA3": "29558.1",
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9805,7 +9805,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9877,7 +9877,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10003,7 +10003,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10021,7 +10021,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10849,7 +10849,7 @@
             "MAYOR": "233.0"
         },
         "IVA": "21",
-        "STOCK": "24",
+        "STOCK": "23",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10867,7 +10867,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10885,7 +10885,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11137,7 +11137,7 @@
             "MAYOR": "527.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11767,7 +11767,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11803,7 +11803,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13369,7 +13369,7 @@
             "MAYOR": "9493.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14899,7 +14899,7 @@
             "MAYOR": "12730.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15025,7 +15025,7 @@
             "MAYOR": "3613.6"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
