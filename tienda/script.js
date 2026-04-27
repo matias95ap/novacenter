@@ -78,9 +78,8 @@ Promise.all([
     /* ----función de liquidación----*/
     function esProductoLiquidacion(p) {
       const lista2 = parseFloat(p.P.LISTA2);
-      const costo = parseFloat(p.P.COSTO);
       const venta = parseFloat(p.P.VENTA);
-      return lista2 > costo && lista2 < venta;
+      return lista2 > venta;
     }
     /* ---------- ordenar productos por criterio ---------- */
     function ordenarProductos(lista, criterio) {
@@ -362,9 +361,9 @@ Promise.all([
 
       const precioVenta = parseFloat(producto.P.VENTA);
       const precioLista2 = parseFloat(producto.P.LISTA2);
-      const precioFinal = esLiquidacion ? precioLista2 : precioVenta;
+      const precioFinal = esLiquidacion ? precioVenta : precioVenta;
       const descuento = esLiquidacion
-        ? Math.round(((precioVenta - precioLista2) / precioVenta) * 100)
+        ? Math.round(((precioLista2 - precioVenta) / precioLista2) * 100)
         : 0;
 
       contenedor.innerHTML = "";
@@ -388,11 +387,11 @@ Promise.all([
       if (esLiquidacion) {
         precioHTML = `
           <span> Antes:</span>
-          <span class="precio"><s>$${precioVenta.toLocaleString("es-AR")}</s></span>
+          <span class="precio"><s>$${precioLista2.toLocaleString("es-AR")}</s></span>
         `;
         extraHTML = `
           <div class="liquidacion-precio-detalle">
-            <span class="precio-final">Ahora: $${precioFinal.toLocaleString("es-AR")}</span>
+            <span class="precio-final">Ahora: $${precioVenta.toLocaleString("es-AR")}</span>
             <span class="descuento">--->💸 ${descuento}% OFF</span>
           </div>
         `;
@@ -479,15 +478,15 @@ Promise.all([
 
       if (esLiquidacion && parseInt(p.STOCK) > 0) {
         const precioLista2 = parseFloat(p.P.LISTA2);
-        const descuento = Math.round(((precioVenta - precioLista2) / precioVenta) * 100);
+        const descuento = Math.round(((precioLista2 - precioVenta) / precioLista2) * 100);
 
         precioHTML = `
-          <span class="precio"><s>$${precioVenta.toLocaleString('es-AR')}</s></span>
+          <span class="precio"><s>$${precioLista2.toLocaleString('es-AR')}</s></span>
         `;
         extraHTML = `
           <div class="liquidacion-precio">
             <span class="descuento">💸 ${descuento}% OFF</span>
-            <span class="precio-final">$${precioLista2.toLocaleString('es-AR')}</span>
+            <span class="precio-final">$${precioVenta.toLocaleString('es-AR')}</span>
           </div>
         `;
       }
@@ -648,16 +647,9 @@ Promise.all([
 
     function mostrarLiquidacion() {
       contenedor.innerHTML = "<h2>💸 Liquidación</h2>";
-      const productosLiquidacion = data.filter(p => {
-        const precioLista3 = parseFloat(p.P.LISTA2);
-        const precioCosto = parseFloat(p.P.COSTO);
-        const precioVenta = parseFloat(p.P.VENTA);
-        return (
-          parseInt(p.STOCK) > 0 &&
-          precioLista3 > precioCosto &&
-          precioLista3 < precioVenta
-        );
-      });
+      const productosLiquidacion = data.filter(p =>
+        parseInt(p.STOCK) > 0 && esProductoLiquidacion(p)
+      );
       const productosParaMostrar = obtenerProductosFiltradosYOrdenados(productosLiquidacion);
       const grid = document.createElement("div");
       grid.className = "productos-grid";
