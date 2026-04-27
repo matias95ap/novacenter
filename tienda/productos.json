@@ -580,36 +580,36 @@
         "DETALLE": "AURICULAR BT AITECH A3 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "4135.0",
-            "VENTA": "12000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "7500.0",
+            "VENTA": "10000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
             "MAYOR": "4135.0"
         },
         "IVA": "21",
         "STOCK": "17.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7799135013667",
         "DETALLE": "AURICULAR BT AITECH A3 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "4135.0",
-            "VENTA": "12000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "7500.0",
+            "VENTA": "10000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
             "MAYOR": "4135.0"
         },
         "IVA": "21",
         "STOCK": "7.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7799135011458",
@@ -1123,15 +1123,15 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "9900.0",
-            "VENTA": "20000.0",
-            "LISTA2": "15000.0",
-            "LISTA3": "9900.0",
+            "VENTA": "15000.0",
+            "LISTA2": "20000.0",
+            "LISTA3": "20000.0",
             "MAYOR": "9900.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "EC100301N",
@@ -1447,15 +1447,15 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "4000.0",
-            "VENTA": "7500.0",
-            "LISTA2": "6000.0",
-            "LISTA3": "4000.0",
+            "VENTA": "6000.0",
+            "LISTA2": "9000.0",
+            "LISTA3": "9000.0",
             "MAYOR": "4000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "6958864541020",
@@ -2204,12 +2204,12 @@
         "P": {
             "COSTO": "8118.0",
             "VENTA": "28000.0",
-            "LISTA2": "8118.0",
-            "LISTA3": "8118.0",
+            "LISTA2": "28000.0",
+            "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2344,16 +2344,16 @@
         "DETALLE": "BATERIA SAMS G530/J2 CORE/J5/J3/J2 PRO",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "4530.0",
-            "VENTA": "18000.0",
-            "LISTA2": "4530.0",
-            "LISTA3": "4530.0",
+            "COSTO": "4900.0",
+            "VENTA": "19999.8",
+            "LISTA2": "20000.0",
+            "LISTA3": "10000.0",
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3991,7 +3991,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "12.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5011,9 +5011,9 @@
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "25615.0",
-            "VENTA": "75000.0",
-            "LISTA2": "58000.0",
-            "LISTA3": "25615.0",
+            "VENTA": "58000.0",
+            "LISTA2": "75000.0",
+            "LISTA3": "75000.0",
             "MAYOR": "25615.0"
         },
         "IVA": "21",
@@ -5047,15 +5047,15 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "19500.0",
-            "VENTA": "40000.0",
-            "LISTA2": "32000.0",
-            "LISTA3": "19500.0",
+            "VENTA": "32000.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "40000.0",
             "MAYOR": "19500.0"
         },
         "IVA": "21",
         "STOCK": "2.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "723540563933",
@@ -5346,20 +5346,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "1780998391708",
-        "DETALLE": "CORTA PELO VINTAGE T9",
+        "CODIGO": "723540564374",
+        "DETALLE": "CORTA PELO VINTAGE TIME",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "nan",
+        "PROVEEDOR": "IMPOTEKNO",
+        "MARCA": "NUEVO",
         "P": {
-            "COSTO": "5200.0",
-            "VENTA": "15000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "5200.0",
-            "MAYOR": "5200.0"
+            "COSTO": "3356.0",
+            "VENTA": "10000.0",
+            "LISTA2": "15000.0",
+            "LISTA3": "5800.0",
+            "MAYOR": "3356.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5479,13 +5479,13 @@
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "2850.0",
-            "VENTA": "10000.0",
-            "LISTA2": "6000.0",
-            "LISTA3": "2850.0",
+            "VENTA": "6000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "10000.0",
             "MAYOR": "2850.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5497,13 +5497,13 @@
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5380.0",
-            "VENTA": "18000.0",
-            "LISTA2": "15000.0",
-            "LISTA3": "5380.0",
+            "VENTA": "10000.0",
+            "LISTA2": "18000.0",
+            "LISTA3": "18000.0",
             "MAYOR": "5380.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5712,11 +5712,11 @@
         "PROVEEDOR": "TRESCUARENTAYOCHO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12500.0",
-            "VENTA": "38000.0",
-            "LISTA2": "22000.0",
-            "LISTA3": "12500.0",
-            "MAYOR": "12500.0"
+            "COSTO": "15000.0",
+            "VENTA": "25000.0",
+            "LISTA2": "38000.0",
+            "LISTA3": "38000.0",
+            "MAYOR": "15000.0"
         },
         "IVA": "21",
         "STOCK": "5.0",
@@ -6361,9 +6361,9 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "34600.0",
-            "VENTA": "75000.0",
-            "LISTA2": "60000.0",
-            "LISTA3": "34600.0",
+            "VENTA": "60000.0",
+            "LISTA2": "75000.0",
+            "LISTA3": "75000.0",
             "MAYOR": "34600.0"
         },
         "IVA": "21",
@@ -6667,9 +6667,9 @@
         "MARCA": "TIME",
         "P": {
             "COSTO": "33500.0",
-            "VENTA": "90000.0",
-            "LISTA2": "65000.0",
-            "LISTA3": "33500.0",
+            "VENTA": "65000.0",
+            "LISTA2": "90000.0",
+            "LISTA3": "90000.0",
             "MAYOR": "33500.0"
         },
         "IVA": "21",
@@ -7254,24 +7254,6 @@
         "STOCK IDEAL": "30"
     },
     {
-        "CODIGO": "153500620",
-        "DETALLE": "MINI VELADOR JIRAFA",
-        "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "EL CRIOLLO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "5878.0",
-            "VENTA": "12000.0",
-            "LISTA2": "8000.0",
-            "LISTA3": "5878.0",
-            "MAYOR": "5878.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
-    },
-    {
         "CODIGO": "MINIVENTI",
         "DETALLE": "MINI VENTILADOR FLEXIBLE ",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
@@ -7448,6 +7430,24 @@
         },
         "IVA": "21",
         "STOCK": "0.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODLGK50S",
+        "DETALLE": "MOD LG K50S X540",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "13000.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "23000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7768,7 +7768,7 @@
             "VENTA": "45000.0",
             "LISTA2": "13140.3",
             "LISTA3": "13140.3",
-            "MAYOR": "22400.0"
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
         "STOCK": "0.0",
@@ -7926,14 +7926,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "14214.0",
-            "VENTA": "48000.0",
-            "LISTA2": "14214.0",
-            "LISTA3": "26642.7",
+            "COSTO": "12750.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "21.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8096,6 +8096,24 @@
         },
         "IVA": "21",
         "STOCK": "0.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMOTG31IN",
+        "DETALLE": "MOD MOTO G31 INCELL C.MARCO",
+        "FAMILIA": "nan",
+        "PROVEEDOR": "nan",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "16000.0",
+            "VENTA": "55000.0",
+            "LISTA2": "55000.0",
+            "LISTA3": "28000.0",
+            "MAYOR": "28000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8419,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8419,7 +8437,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8599,7 +8617,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8610,14 +8628,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11243.0",
+            "COSTO": "11058.0",
             "VENTA": "40000.0",
-            "LISTA2": "11243.0",
-            "LISTA3": "22953.7",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8626,16 +8644,16 @@
         "DETALLE": "MOD SAMS A02/A12/A32 5G UNIVERSAL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "nan",
+        "MARCA": "CVT",
         "P": {
             "COSTO": "11550.0",
             "VENTA": "40000.0",
-            "LISTA2": "11550.0",
-            "LISTA3": "22000.4",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "12.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8698,16 +8716,16 @@
         "DETALLE": "MOD SAMS A03 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
-        "MARCA": "SAMSUNG",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "11900.0",
+            "COSTO": "11600.0",
             "VENTA": "40000.0",
-            "LISTA2": "11900.0",
-            "LISTA3": "11900.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8869,7 +8887,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9062,12 +9080,12 @@
         "P": {
             "COSTO": "11100.0",
             "VENTA": "45000.0",
-            "LISTA2": "11100.0",
-            "LISTA3": "11100.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9134,12 +9152,12 @@
         "P": {
             "COSTO": "17400.0",
             "VENTA": "60000.0",
-            "LISTA2": "17400.0",
-            "LISTA3": "30056.8",
+            "LISTA2": "60000.0",
+            "LISTA3": "30000.0",
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9332,12 +9350,12 @@
         "P": {
             "COSTO": "13278.0",
             "VENTA": "40000.0",
-            "LISTA2": "13278.0",
-            "LISTA3": "13278.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "22000.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9904,16 +9922,16 @@
         "DETALLE": "MOD TCL 20Y/20E ALCATEL 3H 6025/5H /1S 2021",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "EL CELU",
-        "MARCA": "TCL",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "14200.0",
+            "COSTO": "13800.0",
             "VENTA": "48000.0",
-            "LISTA2": "14200.0",
-            "LISTA3": "14200.0",
+            "LISTA2": "48000.0",
+            "LISTA3": "24000.0",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10192,16 +10210,16 @@
         "DETALLE": "MOD XIAOMI REDMI 14C/ POCO C75",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
-        "MARCA": "XIAOMI",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "13452.0",
-            "VENTA": "50000.0",
-            "LISTA2": "13452.0",
-            "LISTA3": "13452.0",
-            "MAYOR": "23000.0"
+            "COSTO": "12550.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10248,14 +10266,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "14000.0",
-            "VENTA": "48000.0",
-            "LISTA2": "14000.0",
-            "LISTA3": "14000.0",
-            "MAYOR": "24000.0"
+            "COSTO": "12276.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "21000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10615,7 +10633,7 @@
             "MAYOR": "6600.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -11776,18 +11794,18 @@
         "DETALLE": "PIZARRA MAGICA LCD 16 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "4863.0",
-            "VENTA": "15000.0",
-            "LISTA2": "10000.0",
-            "LISTA3": "4863.0",
+            "VENTA": "10000.0",
+            "LISTA2": "15000.0",
+            "LISTA3": "15000.0",
             "MAYOR": "4863.0"
         },
         "IVA": "21",
         "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "PIZARRA85",
@@ -11836,6 +11854,24 @@
             "VENTA": "25000.0",
             "LISTA2": "3610.5",
             "LISTA3": "3610.5",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "CARGAE15",
+        "DETALLE": "PLACA DE CARGA MOTO E15",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "3465.0",
+            "VENTA": "24000.0",
+            "LISTA2": "24000.0",
+            "LISTA3": "12000.0",
             "MAYOR": "12000.0"
         },
         "IVA": "21",
@@ -12606,14 +12642,14 @@
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "2200.0",
-            "VENTA": "22000.0",
-            "LISTA2": "2200.0",
-            "LISTA3": "2200.0",
-            "MAYOR": "10000.0"
+            "COSTO": "3728.0",
+            "VENTA": "24000.0",
+            "LISTA2": "24000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12834,6 +12870,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAA51",
+        "DETALLE": "PLACA DE CARGA SAMS A51",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "3271.0",
+            "VENTA": "24000.0",
+            "LISTA2": "24000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "12000.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGARED10C",
         "DETALLE": "PLACA DE CARGA XIAOMI REDMI 10C",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -13040,8 +13094,8 @@
         "P": {
             "COSTO": "8000.0",
             "VENTA": "45000.0",
-            "LISTA2": "35000.0",
-            "LISTA3": "8000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "45000.0",
             "MAYOR": "8000.0"
         },
         "IVA": "21",
@@ -13453,9 +13507,9 @@
         "MARCA": "DEKKIN",
         "P": {
             "COSTO": "10000.0",
-            "VENTA": "63999.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "10000.0",
+            "VENTA": "45000.0",
+            "LISTA2": "63999.0",
+            "LISTA3": "63999.0",
             "MAYOR": "10000.0"
         },
         "IVA": "21",
@@ -13504,18 +13558,18 @@
         "DETALLE": "RELOJ SMARTWATCH ULTRA 9 BIG C/7 MALLA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
         "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "NUEVO",
+        "MARCA": "nan",
         "P": {
             "COSTO": "9692.0",
-            "VENTA": "42000.0",
-            "LISTA2": "32000.0",
-            "LISTA3": "9692.0",
+            "VENTA": "32000.0",
+            "LISTA2": "42000.0",
+            "LISTA3": "42000.0",
             "MAYOR": "9692.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "7798347600771",
@@ -15019,9 +15073,9 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "3934.0",
-            "VENTA": "12000.0",
-            "LISTA2": "9000.0",
-            "LISTA3": "3934.0",
+            "VENTA": "10000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "12000.0",
             "MAYOR": "3934.0"
         },
         "IVA": "21",
