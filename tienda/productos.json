@@ -373,7 +373,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -757,8 +757,8 @@
     },
     {
         "CODIGO": "CONEJO",
-        "DETALLE": "AURICULAR BT CONEJO ",
-        "FAMILIA": "nan",
+        "DETALLE": "AURICULAR BT CONEJO",
+        "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
@@ -823,7 +823,7 @@
             "MAYOR": "5090.0"
         },
         "IVA": "21",
-        "STOCK": "48.0",
+        "STOCK": "47.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -1741,7 +1741,7 @@
             "MAYOR": "4000.0"
         },
         "IVA": "21",
-        "STOCK": "14.0",
+        "STOCK": "13.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1993,7 +1993,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2149,13 +2149,13 @@
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "8874.0",
-            "VENTA": "28000.0",
-            "LISTA2": "8874.0",
-            "LISTA3": "8874.0",
+            "VENTA": "30000.0",
+            "LISTA2": "30000.0",
+            "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2168,8 +2168,8 @@
         "P": {
             "COSTO": "9454.0",
             "VENTA": "30000.0",
-            "LISTA2": "9454.0",
-            "LISTA3": "9454.0",
+            "LISTA2": "30000.0",
+            "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
@@ -2437,9 +2437,9 @@
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "9360.0",
-            "VENTA": "28000.0",
-            "LISTA2": "9360.0",
-            "LISTA3": "9360.0",
+            "VENTA": "30000.0",
+            "LISTA2": "30000.0",
+            "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
@@ -2605,7 +2605,7 @@
             "MAYOR": "1389.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3613,7 +3613,7 @@
             "MAYOR": "689.0"
         },
         "IVA": "21",
-        "STOCK": "199.0",
+        "STOCK": "198.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3788,14 +3788,14 @@
         "P": {
             "COSTO": "2085.0",
             "VENTA": "7500.0",
-            "LISTA2": "2085.0",
-            "LISTA3": "2352.0",
+            "LISTA2": "7500.0",
+            "LISTA3": "7500.0",
             "MAYOR": "2085.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
-        "STOCK IDEAL": "30"
+        "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "CADBIMO",
@@ -3811,7 +3811,7 @@
             "MAYOR": "3034.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4099,7 +4099,7 @@
             "MAYOR": "1365.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4171,7 +4171,7 @@
             "MAYOR": "1929.0"
         },
         "IVA": "21",
-        "STOCK": "13.0",
+        "STOCK": "12.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4236,14 +4236,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "LDNIO",
         "P": {
-            "COSTO": "5418.0",
+            "COSTO": "5058.0",
             "VENTA": "18000.0",
-            "LISTA2": "5418.0",
-            "LISTA3": "5418.0",
-            "MAYOR": "5418.0"
+            "LISTA2": "26000.0",
+            "LISTA3": "9000.0",
+            "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "30.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4261,7 +4261,7 @@
             "MAYOR": "3751.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4339,9 +4339,9 @@
     },
     {
         "CODIGO": "723540566699",
-        "DETALLE": "CARGADOR DE NOTEBOOK C/FICHA LENOVO ",
-        "FAMILIA": "nan",
-        "PROVEEDOR": "nan",
+        "DETALLE": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
+        "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
+        "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
             "COSTO": "6885.0",
@@ -4621,7 +4621,7 @@
             "MAYOR": "4139.2"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4675,7 +4675,7 @@
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4747,7 +4747,7 @@
             "MAYOR": "2450.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4760,12 +4760,12 @@
         "P": {
             "COSTO": "1952.0",
             "VENTA": "8000.0",
-            "LISTA2": "1952.0",
-            "LISTA3": "1952.0",
-            "MAYOR": "1952.0"
+            "LISTA2": "8000.0",
+            "LISTA3": "8000.0",
+            "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4873,7 +4873,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5215,7 +5215,7 @@
             "MAYOR": "2500.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5269,7 +5269,7 @@
             "MAYOR": "2700.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5539,7 +5539,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "-2.0",
+        "STOCK": "-16.7000007629395",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5714,8 +5714,8 @@
         "P": {
             "COSTO": "1435.0",
             "VENTA": "6501.0",
-            "LISTA2": "1435.0",
-            "LISTA3": "1435.0",
+            "LISTA2": "6501.0",
+            "LISTA3": "6500.0",
             "MAYOR": "6500.0"
         },
         "IVA": "21",
@@ -5732,12 +5732,12 @@
         "P": {
             "COSTO": "2009.0",
             "VENTA": "7501.0",
-            "LISTA2": "2009.0",
-            "LISTA3": "2009.0",
+            "LISTA2": "7501.0",
+            "LISTA3": "7500.0",
             "MAYOR": "7500.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6097,7 +6097,7 @@
             "MAYOR": "4800.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6313,7 +6313,7 @@
             "MAYOR": "2300.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6427,7 +6427,7 @@
     },
     {
         "CODIGO": "nan",
-        "DETALLE": "LAMPARA LED RECARGABLE 52CM ",
+        "DETALLE": "LAMPARA LED RECARGABLE 52CM",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
@@ -6439,7 +6439,7 @@
             "MAYOR": "3169.0"
         },
         "IVA": "21",
-        "STOCK": "50.0",
+        "STOCK": "46.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7638,14 +7638,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "LG",
         "P": {
-            "COSTO": "13465.0",
+            "COSTO": "13411.0",
             "VENTA": "48000.0",
             "LISTA2": "48000.0",
             "LISTA3": "23000.0",
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7735,7 +7735,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7771,7 +7771,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "12.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7782,14 +7782,14 @@
         "PROVEEDOR": "TODOCELU",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12900.0",
+            "COSTO": "12295.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "LISTA3": "21000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7807,7 +7807,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7825,7 +7825,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7861,7 +7861,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "7.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7875,11 +7875,11 @@
             "COSTO": "14740.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
-            "LISTA3": "25000.0",
-            "MAYOR": "25000.0"
+            "LISTA3": "26000.0",
+            "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7890,14 +7890,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12150.0",
+            "COSTO": "12842.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "21000.0",
-            "MAYOR": "21000.0"
+            "LISTA3": "22000.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7926,14 +7926,14 @@
         "PROVEEDOR": "CELU REPUESTOS",
         "MARCA": "nan",
         "P": {
-            "COSTO": "14000.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "23000.0",
-            "MAYOR": "23000.0"
+            "COSTO": "10930.0",
+            "VENTA": "40000.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8034,14 +8034,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11012.0",
+            "COSTO": "9964.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8059,7 +8059,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8070,14 +8070,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "13345.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "23000.0",
-            "MAYOR": "23000.0"
+            "COSTO": "10700.0",
+            "VENTA": "40000.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8124,11 +8124,11 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12200.0",
-            "VENTA": "40000.0",
-            "LISTA2": "40000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12116.0",
+            "VENTA": "42000.0",
+            "LISTA2": "42000.0",
+            "LISTA3": "21000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
         "STOCK": "8.0",
@@ -8167,7 +8167,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "15.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8221,7 +8221,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8257,7 +8257,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8275,7 +8275,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8286,14 +8286,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "15300.0",
-            "VENTA": "54000.0",
-            "LISTA2": "54000.0",
-            "LISTA3": "26500.0",
-            "MAYOR": "26500.0"
+            "COSTO": "14480.0",
+            "VENTA": "50000.0",
+            "LISTA2": "50000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8344,7 +8344,7 @@
             "VENTA": "55000.0",
             "LISTA2": "55000.0",
             "LISTA3": "28000.0",
-            "MAYOR": "28000.0"
+            "MAYOR": "30000.0"
         },
         "IVA": "21",
         "STOCK": "3.0",
@@ -8383,7 +8383,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8538,14 +8538,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10939.0",
+            "COSTO": "11440.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8599,7 +8599,7 @@
             "MAYOR": "32000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8628,14 +8628,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "11160.0",
+            "COSTO": "10790.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8646,14 +8646,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "12682.0",
+            "COSTO": "12225.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "LISTA3": "21000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8682,14 +8682,14 @@
         "PROVEEDOR": "TODOCELU",
         "MARCA": "MOTO",
         "P": {
-            "COSTO": "12453.0",
+            "COSTO": "12489.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "21500.0",
-            "MAYOR": "21500.0"
+            "LISTA3": "22000.0",
+            "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8707,7 +8707,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8851,7 +8851,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8880,14 +8880,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11550.0",
+            "COSTO": "11460.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "12.0",
+        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8916,14 +8916,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11340.0",
+            "COSTO": "11265.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "31.0",
+        "STOCK": "39.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8952,14 +8952,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11600.0",
+            "COSTO": "11336.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9006,14 +9006,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12310.0",
+            "COSTO": "11679.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "22.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9067,7 +9067,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9085,7 +9085,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9121,7 +9121,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9150,14 +9150,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12700.0",
+            "COSTO": "12420.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9204,14 +9204,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "10000.0",
+            "COSTO": "9940.0",
             "VENTA": "40000.0",
-            "LISTA2": "40000.0",
+            "LISTA2": "39760.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9240,14 +9240,14 @@
         "PROVEEDOR": "NUEVAS ONDAS2",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "10074.0",
+            "COSTO": "10267.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9276,14 +9276,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "10578.0",
+            "COSTO": "12182.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "LISTA3": "21000.0",
+            "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9301,7 +9301,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9319,7 +9319,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9366,14 +9366,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12440.0",
+            "COSTO": "12624.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
+            "LISTA3": "2200.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9391,7 +9391,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9445,7 +9445,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9463,7 +9463,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9546,14 +9546,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10634.0",
-            "VENTA": "40000.0",
-            "LISTA2": "40000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "10266.0",
+            "VENTA": "38615.6",
+            "LISTA2": "38615.6",
+            "LISTA3": "19308.3",
+            "MAYOR": "19308.3"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9582,14 +9582,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "13278.0",
-            "VENTA": "40000.0",
-            "LISTA2": "40000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "COSTO": "13492.0",
+            "VENTA": "48000.0",
+            "LISTA2": "48000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9601,13 +9601,13 @@
         "MARCA": "nan",
         "P": {
             "COSTO": "13700.0",
-            "VENTA": "50000.0",
-            "LISTA2": "50000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24000.0"
+            "VENTA": "55000.0",
+            "LISTA2": "55000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9636,14 +9636,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12400.0",
+            "COSTO": "12428.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9715,7 +9715,7 @@
             "MAYOR": "31000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9769,7 +9769,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9805,7 +9805,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9859,7 +9859,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9949,7 +9949,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9960,14 +9960,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "nan",
         "P": {
-            "COSTO": "8466.0",
+            "COSTO": "8423.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "LISTA3": "18000.0",
+            "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "4.0",
+        "STOCK": "14.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10075,7 +10075,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "6.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10104,14 +10104,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "14508.0",
+            "COSTO": "15050.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
             "LISTA3": "25000.0",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10219,7 +10219,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10230,14 +10230,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "13961.4",
+            "COSTO": "13620.0",
             "VENTA": "48000.0",
             "LISTA2": "48000.0",
             "LISTA3": "24000.0",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10255,7 +10255,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10284,14 +10284,14 @@
         "PROVEEDOR": "TODOCELU",
         "MARCA": "TECNO SPARK",
         "P": {
-            "COSTO": "14362.0",
+            "COSTO": "13592.0",
             "VENTA": "48000.0",
             "LISTA2": "48000.0",
             "LISTA3": "24000.0",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10428,14 +10428,14 @@
         "PROVEEDOR": "EL CELU",
         "MARCA": "XIAOMI",
         "P": {
-            "COSTO": "16000.0",
-            "VENTA": "48000.0",
-            "LISTA2": "48000.0",
-            "LISTA3": "25000.0",
-            "MAYOR": "25000.0"
+            "COSTO": "13030.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10536,14 +10536,14 @@
         "PROVEEDOR": "TIENDA MOVIL ROSARIO",
         "MARCA": "ZTE",
         "P": {
-            "COSTO": "16362.0",
+            "COSTO": "16236.0",
             "VENTA": "50000.0",
-            "LISTA2": "50000.0",
+            "LISTA2": "49615.6",
             "LISTA3": "26000.0",
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "11.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10669,7 +10669,7 @@
             "MAYOR": "2835.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10705,7 +10705,7 @@
             "MAYOR": "4070.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "30"
     },
@@ -10975,7 +10975,7 @@
             "MAYOR": "13216.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11330,8 +11330,8 @@
         "P": {
             "COSTO": "4428.0",
             "VENTA": "9001.0",
-            "LISTA2": "4428.0",
-            "LISTA3": "4428.0",
+            "LISTA2": "9001.0",
+            "LISTA3": "9000.0",
             "MAYOR": "9000.0"
         },
         "IVA": "21",
@@ -11348,12 +11348,12 @@
         "P": {
             "COSTO": "2993.0",
             "VENTA": "8001.0",
-            "LISTA2": "2993.0",
-            "LISTA3": "2993.0",
+            "LISTA2": "8001.0",
+            "LISTA3": "8000.0",
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11695,7 +11695,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "76.0",
+        "STOCK": "74.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12105,7 +12105,7 @@
             "COSTO": "3610.5",
             "VENTA": "25000.0",
             "LISTA2": "25000.0",
-            "LISTA3": "120000.0",
+            "LISTA3": "12000.0",
             "MAYOR": "12000.0"
         },
         "IVA": "21",
@@ -13927,7 +13927,7 @@
             "MAYOR": "9493.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14071,7 +14071,7 @@
             "MAYOR": "7712.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14143,7 +14143,7 @@
             "MAYOR": "5586.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14275,7 +14275,7 @@
     },
     {
         "CODIGO": "723540564831",
-        "DETALLE": "SMART TV BOX CON MAGIS TV 4K ",
+        "DETALLE": "SMART TV BOX CON MAGIS TV 4K",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NOVACENTER",
@@ -14287,7 +14287,7 @@
             "MAYOR": "21500.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14534,12 +14534,12 @@
         "P": {
             "COSTO": "2129.0",
             "VENTA": "8000.0",
-            "LISTA2": "9059.5",
-            "LISTA3": "3600.0",
+            "LISTA2": "8000.0",
+            "LISTA3": "3800.0",
             "MAYOR": "2129.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14580,6 +14580,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "7799135022195",
+        "DETALLE": "SOPORTE TV FIJO 32 A 55 PULGADAS HASTA 30 KG",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
+        "PROVEEDOR": "EL CELU",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4917.5",
+            "VENTA": "15000.0",
+            "LISTA2": "20000.0",
+            "LISTA3": "8800.0",
+            "MAYOR": "4917.5"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "6974504501018",
         "DETALLE": "SOPORTE TV MOVIL 14 A 55 PULGADAS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
@@ -14599,15 +14617,15 @@
     },
     {
         "CODIGO": "SOPORTREFORZ",
-        "DETALLE": "SOPORTE TV REFORZADO MOVIL 32-65 PLG",
-        "FAMILIA": "nan",
+        "DETALLE": "SOPORTE TV MOVIL REFORZADO 32 A 65 PLG",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "nan",
         "P": {
             "COSTO": "7742.0",
-            "VENTA": "24000.0",
-            "LISTA2": "24000.0",
-            "LISTA3": "24000.0",
+            "VENTA": "26000.0",
+            "LISTA2": "26000.0",
+            "LISTA3": "14000.0",
             "MAYOR": "7742.0"
         },
         "IVA": "21",
@@ -14737,7 +14755,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "-2.20000004768372",
+        "STOCK": "-6.19999980926514",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15547,7 +15565,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "503.0",
+        "STOCK": "495.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
