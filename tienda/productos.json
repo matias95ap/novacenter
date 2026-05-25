@@ -2646,42 +2646,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "BATIROSA",
-        "DETALLE": "BATIDORA DE MANO SPRINT 400W",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "14000.0",
-            "VENTA": "28000.0",
-            "LISTA2": "14000.0",
-            "LISTA3": "14000.0",
-            "MAYOR": "14000.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "BATICHICA",
-        "DETALLE": "BATIDORA DE MANO SPRINT CHICA",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "10800.0",
-            "VENTA": "22000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "BOMBILLA2",
         "DETALLE": "BOMBILLA ALPACA",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > TODO PARA EL HOGAR",
@@ -4986,24 +4950,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "SEPSECAD",
-        "DETALLE": "CEPILLO SECADOR ORYX 3 EN 1",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "ORYX",
-        "P": {
-            "COSTO": "13034.0",
-            "VENTA": "32500.0",
-            "LISTA2": "13034.0",
-            "LISTA3": "13034.0",
-            "MAYOR": "13034.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "CHIPPERSON",
         "DETALLE": "CHIP PERSONAL",
         "FAMILIA": "CELULAR Y COMPUTACION",
@@ -5450,24 +5396,6 @@
         },
         "IVA": "21",
         "STOCK": "6.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "SPRINTCORT",
-        "DETALLE": "CORTA PELO SPRINT PROFECIONAL",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "MAYORISTA OMEGA",
-        "MARCA": "SPRINT",
-        "P": {
-            "COSTO": "9000.0",
-            "VENTA": "22800.0",
-            "LISTA2": "9000.0",
-            "LISTA3": "9000.0",
-            "MAYOR": "9000.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6732,24 +6660,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "HOKIT3035",
-        "DETALLE": "Kit Herramienta reparación Celulares",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "6500.0",
-            "VENTA": "12000.0",
-            "LISTA2": "6500.0",
-            "LISTA3": "6500.0",
-            "MAYOR": "6500.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "HOKIT1302",
         "DETALLE": "Kit de Fusibles Automotor",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
@@ -6894,7 +6804,7 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": " LICUADORA",
+        "CODIGO": "LICUADORA",
         "DETALLE": "LICUADORA CON MOLINILLO ORYX VIDRIO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
         "PROVEEDOR": "IMPOTEKNO",
@@ -7070,24 +6980,6 @@
         },
         "IVA": "21",
         "STOCK": "10.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "LINMINERA",
-        "DETALLE": "LINTERNA MINERA RECARGABLE",
-        "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "IMPOTEKNO",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "2300.0",
-            "VENTA": "8000.0",
-            "LISTA2": "2300.0",
-            "LISTA3": "2300.0",
-            "MAYOR": "2300.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13860,24 +13752,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "8430422206056",
-        "DETALLE": "PLANCHITA PELO MONALISA",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "MONALISA",
-        "P": {
-            "COSTO": "5950.0",
-            "VENTA": "10000.0",
-            "LISTA2": "5950.0",
-            "LISTA3": "5950.0",
-            "MAYOR": "5950.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "6972910590206",
         "DETALLE": "POINT SMART MERCADOPAGO",
         "FAMILIA": "LIBRERÍA Y VARIOS",
@@ -14681,24 +14555,6 @@
             "LISTA2": "10500.0",
             "LISTA3": "10500.0",
             "MAYOR": "10500.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "6958210701405",
-        "DETALLE": "SECADOR PROFILE  1400W",
-        "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "PROFILE",
-        "P": {
-            "COSTO": "7100.0",
-            "VENTA": "16000.0",
-            "LISTA2": "7100.0",
-            "LISTA3": "7100.0",
-            "MAYOR": "7100.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
