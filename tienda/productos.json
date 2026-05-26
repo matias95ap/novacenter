@@ -9211,7 +9211,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "18.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10129,7 +10129,7 @@
             "MAYOR": "55000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10471,7 +10471,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11173,7 +11173,7 @@
             "MAYOR": "33000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15192,6 +15192,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "HOTER8194",
+        "DETALLE": "TERMO CHIMARRITA",
+        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > TODO PARA EL HOGAR",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "7000.0",
+            "VENTA": "15000.0",
+            "LISTA2": "7000.0",
+            "LISTA3": "7000.0",
+            "MAYOR": "7000.0"
+        },
+        "IVA": "21",
+        "STOCK": "37.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "HOTER6908",
         "DETALLE": "TERMO DE ACERO INOXIDABLE 1.9 LTS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
@@ -15732,24 +15750,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "HOTER8194",
-        "DETALLE": "Termo Chimarrita",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > TODO PARA EL HOGAR",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "5200.0",
-            "VENTA": "7000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "38.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "HOTER9828",
         "DETALLE": "Termolar Bidon Termico 2Lts Magiclick",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > TODO PARA EL HOGAR",
@@ -15860,15 +15860,15 @@
     {
         "CODIGO": "723540563780",
         "DETALLE": "VELADOR DE ESCRITORIO ARTICULADO CON LUPA",
-        "FAMILIA": "ILUMINACIÓN",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
         "PROVEEDOR": "IMPOTEKNO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "18400.0",
             "VENTA": "45000.0",
-            "LISTA2": "18400.0",
-            "LISTA3": "18400.0",
-            "MAYOR": "18400.0"
+            "LISTA2": "45000.0",
+            "LISTA3": "42000.0",
+            "MAYOR": "42000.0"
         },
         "IVA": "21",
         "STOCK": "1.0",
