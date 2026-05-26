@@ -1993,7 +1993,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2389,7 +2389,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6678,7 +6678,7 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "nan",
+        "CODIGO": "LAMPARA52",
         "DETALLE": "LAMPARA LED RECARGABLE 52CM",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
@@ -6696,7 +6696,7 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "nan",
+        "CODIGO": "LAMPARA20",
         "DETALLE": "LAMPARA MINI 20 LED MAGNETICO RECARGABLE",
         "FAMILIA": "ILUMINACIÓN",
         "PROVEEDOR": "IMPOTEKNO",
@@ -9211,7 +9211,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "18.0",
+        "STOCK": "15.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10867,7 +10867,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
