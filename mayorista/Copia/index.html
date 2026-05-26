@@ -22,12 +22,31 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 16px;
+      gap: 18px;
       width: 300px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(240,180,41,0.25);
+      border-radius: 20px;
+      padding: 32px 24px;
     }
     #login-box img {
-      width: 200px;
-      margin-bottom: 10px;
+      width: 180px;
+      border-radius: 14px;
+      border: 2px solid rgba(240,180,41,0.35);
+      box-shadow: 0 0 24px rgba(240,180,41,0.15);
+    }
+    #login-titulo {
+      color: #f0b429;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin: -6px 0 0;
+    }
+    #login-divider {
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(to right, transparent, rgba(240,180,41,0.3), transparent);
     }
     #login-fila {
       display: flex;
@@ -36,29 +55,31 @@
     }
     #login-pass {
       flex: 1;
-      padding: 10px 14px;
-      border-radius: 8px;
-      border: 2px solid #444;
-      background: #2a2a2a;
+      padding: 11px 14px;
+      border-radius: 10px;
+      border: 1.5px solid #444;
+      background: #1a1a1a;
       color: white;
-      font-size: 16px;
+      font-size: 15px;
     }
     #login-pass:focus { border-color: #f0b429; outline: none; }
     #login-btn {
-      padding: 10px 18px;
+      padding: 11px 18px;
       background: #f0b429;
       color: #1a1a1a;
       border: none;
-      border-radius: 8px;
+      border-radius: 10px;
       font-weight: bold;
       font-size: 15px;
       cursor: pointer;
+      transition: background 0.2s;
     }
     #login-btn:hover { background: #d4991f; }
     #login-error {
       color: #ff6347;
-      font-size: 14px;
+      font-size: 13px;
       display: none;
+      text-align: center;
     }
   </style>
 </head>
@@ -67,7 +88,9 @@
   <!-- Login -->
   <div id="login-overlay">
     <div id="login-box">
-      <img src="../tienda/img/logo.webp" onerror="this.style.display='none'">
+      <img src="../../images/perfil.jpg" alt="NovaCenter">
+      <p id="login-titulo">Acceso Mayorista</p>
+      <div id="login-divider"></div>
       <div id="login-fila">
         <input type="password" id="login-pass" placeholder="Contraseña" />
         <button id="login-btn">Ingresar</button>
@@ -77,19 +100,24 @@
   </div>
 
   <script>
-    const CLAVE = "nova2025"; // cambia esta contraseña
+    const CLAVES = {
+      "nova2026":  "repuestos",   // solo modulos, baterias, repuestos, herramientas, placas
+      "kiosko26":  "kiosko",      // todo excepto repuestos de celular
+      "admin2026": "admin"        // todo completo
+    };
 
     function verificarLogin() {
-      if (sessionStorage.getItem("mayorista-auth") === "1") {
+      if (sessionStorage.getItem("mayorista-perfil")) {
         document.getElementById("login-overlay").classList.add("oculto");
       }
     }
 
     function intentarLogin() {
       const input = document.getElementById("login-pass");
-      if (input.value === CLAVE) {
-        sessionStorage.setItem("mayorista-auth", "1");
-        document.getElementById("login-overlay").classList.add("oculto");
+      const perfil = CLAVES[input.value.trim()];
+      if (perfil) {
+        sessionStorage.setItem("mayorista-perfil", perfil);
+        location.reload();
       } else {
         document.getElementById("login-error").style.display = "block";
         input.value = "";

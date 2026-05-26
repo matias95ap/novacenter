@@ -100,19 +100,24 @@
   </div>
 
   <script>
-    const CLAVE = "nova2026"; // cambia esta contraseña
+    const CLAVES = {
+      "nova2026":  "repuestos",   // solo modulos, baterias, repuestos, herramientas, placas
+      "kiosko26":  "mayor",      // todo excepto repuestos de celular
+      "admin2026": "admin"        // todo completo
+    };
 
     function verificarLogin() {
-      if (sessionStorage.getItem("mayorista-auth") === "1") {
+      if (sessionStorage.getItem("mayorista-perfil")) {
         document.getElementById("login-overlay").classList.add("oculto");
       }
     }
 
     function intentarLogin() {
       const input = document.getElementById("login-pass");
-      if (input.value === CLAVE) {
-        sessionStorage.setItem("mayorista-auth", "1");
-        document.getElementById("login-overlay").classList.add("oculto");
+      const perfil = CLAVES[input.value.trim()];
+      if (perfil) {
+        sessionStorage.setItem("mayorista-perfil", perfil);
+        location.reload();
       } else {
         document.getElementById("login-error").style.display = "block";
         input.value = "";
@@ -156,7 +161,7 @@
     <nav id="menu">
       <button id="ver-todos">🛒 Ver Todos</button>
       <div class="borde-extra"></div>
-      <p class="label-filtros">Filtros por cliente</p>
+      <p class="label-filtros">Categorias</p>
       <ul id="menu-filtros"></ul>
       <div class="borde-extra"></div>
       <ul id="menu-categorias"></ul>
@@ -165,6 +170,12 @@
 
   <main id="contenedor-productos"></main>
 
-  <script src="script.js"></script>
+  <!-- Módulos JS (orden importante) -->
+  <script src="js/config.js"></script>
+  <script src="js/filtros.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/sidebar.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>

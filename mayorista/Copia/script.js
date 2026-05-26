@@ -28,6 +28,17 @@ Promise.all([
     /* ---------- configuración mayorista ---------- */
 
     // Subcategorías excluidas del modo @mayorista general
+    /* ---------- perfil de acceso desde login ---------- */
+    const PERFIL = sessionStorage.getItem("mayorista-perfil") || "kiosko";
+
+    const SUBCATS_REPUESTOS = [
+      "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+      "CELULAR Y COMPUTACION > BATERIAS",
+      "CELULAR Y COMPUTACION > REPUESTOS CEL",
+      "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+      "CELULAR Y COMPUTACION > PLACA DE CARGA"
+    ];
+
     const subcategoriasExcluidasMayorista = [
       "CELULAR Y COMPUTACION > MODULOS DISPLAY",
       "CELULAR Y COMPUTACION > BATERIAS",
@@ -135,8 +146,12 @@ Promise.all([
         const pcosto = parseFloat(p.P.COSTO || 0);
         if (pmayor <= 0 || pmayor <= pcosto || pmayor >= plista2) return false;
 
-        // si es modo general (@mayorista), excluir subcats bloqueadas
-        if (!filtroActivoKey && subcategoriasExcluidasMayorista.includes(p.FAMILIA)) return false;
+        // filtro por perfil de login
+        if (!filtroActivoKey) {
+          if (PERFIL === "repuestos" && !SUBCATS_REPUESTOS.includes(p.FAMILIA)) return false;
+          if (PERFIL === "kiosko"    &&  SUBCATS_REPUESTOS.includes(p.FAMILIA)) return false;
+          // PERFIL === "admin" ve todo
+        }
 
         // filtros especiales
         if (subcategoriasIncluir && !subcategoriasIncluir.includes(p.FAMILIA)) return false;
