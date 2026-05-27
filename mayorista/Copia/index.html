@@ -102,7 +102,7 @@
   <script>
     const CLAVES = {
       "nova2026":  "repuestos",   // solo modulos, baterias, repuestos, herramientas, placas
-      "kiosko26":  "kiosko",      // todo excepto repuestos de celular
+      "kiosko26":  "mayor",      // todo excepto repuestos de celular
       "admin2026": "admin"        // todo completo
     };
 
@@ -161,7 +161,7 @@
     <nav id="menu">
       <button id="ver-todos">🛒 Ver Todos</button>
       <div class="borde-extra"></div>
-      <p class="label-filtros">Filtros por cliente</p>
+      <p class="label-filtros">Categorias</p>
       <ul id="menu-filtros"></ul>
       <div class="borde-extra"></div>
       <ul id="menu-categorias"></ul>
@@ -170,6 +170,12 @@
 
   <main id="contenedor-productos"></main>
 
-  <script src="script.js"></script>
+  <!-- Módulos JS (orden importante) -->
+  <script src="js/config.js"></script>
+  <script src="js/filtros.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/sidebar.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>

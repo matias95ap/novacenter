@@ -56,7 +56,7 @@ function aplicarFiltroMayorista(productosBase, busqueda = "") {
     // 2. Filtro por perfil de login (solo en modo Ver Todos / categoría)
     if (!filtroActivoKey) {
       if (PERFIL === "repuestos" && !SUBCATS_REPUESTOS.includes(p.FAMILIA)) return false;
-      if (PERFIL === "kiosko"    &&  SUBCATS_REPUESTOS.includes(p.FAMILIA)) return false;
+      if (PERFIL === "mayor"    &&  SUBCATS_REPUESTOS.includes(p.FAMILIA)) return false;
       // PERFIL === "admin" ve todo
     }
 
