@@ -1,43 +1,26 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q23BWRJHV"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', 'G-1Q23BWRJHV');
-    </script>
-    <!-- Meta Pixel Codigo -->
-    <script>
-      !function(f,b,e,v,n,t,s)
-      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-      n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src='https://connect.facebook.net/en_US/fbevents.js';
-      s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)}(window, document,'script');
-      fbq('init', '738732103707719'); 
-      fbq('track', 'PageView');
-    </script>
-    <noscript>
-      <img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=738732103707719&ev=PageView&noscript=1"/>
-    </noscript>
-    <!-- Fin Meta Pixel Codigo -->
   <meta charset="UTF-8">
-  <title>NovaCenter</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NovaCenter</title>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://connect.facebook.net">
+  <script src="/analytics.js" defer></script>
+  <meta property="og:title" content="NovaCenter - Tienda">
+  <meta property="og:description" content="Consultá precios y stock en nuestra tienda online">
+  <meta property="og:image" content="https://novacenter.ar/images/perfil.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://novacenter.ar/tienda/">
+  <meta property="og:type" content="website">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
   <div id="topbar-movil">
     <div class="topbar-izquierda">
-      <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>  
+      <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>
     </div>
     <h1><a href="/" style="text-decoration: none; color: inherit;">NovaCenter</a></h1>
     <button id="toggle-menu" class="menu-toggle"><i class="fas fa-bars"></i></button>
