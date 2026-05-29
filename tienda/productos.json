@@ -93,7 +93,7 @@
         "CODIGO": "ENCHUFEADAP",
         "DETALLE": "ADAPTADOR ENCHUFE COMUN",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "297.0",
@@ -111,7 +111,7 @@
         "CODIGO": "ADAPTINT",
         "DETALLE": "ADAPTADOR ENCHUFE INTERNACIONAL VIAJERO",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1810.0",
@@ -129,7 +129,7 @@
         "CODIGO": "ENCHUFEADA",
         "DETALLE": "ADAPTADOR ENCHUFE VIAJERO",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "377.0",
@@ -219,7 +219,7 @@
         "CODIGO": "7798145006614",
         "DETALLE": "ADAPTADOR OTG V8",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
@@ -255,7 +255,7 @@
         "CODIGO": "6983646411987",
         "DETALLE": "ADAPTADOR OTG V8 MICRO USB",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "294.0",
@@ -435,7 +435,7 @@
         "CODIGO": "7799135011014",
         "DETALLE": "ARO LED 26 CM BLACO CALIDO",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "5000.0",
@@ -453,7 +453,7 @@
         "CODIGO": "7912103301416",
         "DETALLE": "ARO LED 26 CM RGB",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "7500.0",
@@ -471,7 +471,7 @@
         "CODIGO": "ARO30",
         "DETALLE": "ARO LED 30CM FRIA CALIDA Y NEUTRA",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5596.0",
@@ -525,7 +525,7 @@
         "CODIGO": "714604243113",
         "DETALLE": "ARO LUZ CUADRADO PARA SELFIE",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "14402.0",
@@ -615,7 +615,7 @@
         "CODIGO": "7799135013650",
         "DETALLE": "AURICULAR BT AITECH A3 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4135.0",
@@ -633,7 +633,7 @@
         "CODIGO": "7799135013667",
         "DETALLE": "AURICULAR BT AITECH A3 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4135.0",
@@ -651,7 +651,7 @@
         "CODIGO": "7799135011458",
         "DETALLE": "AURICULAR BT AITECH AIR 18",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5850.0",
@@ -669,7 +669,7 @@
         "CODIGO": "7799135011908",
         "DETALLE": "AURICULAR BT AITECH BLANCO AIR 85",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5733.0",
@@ -687,7 +687,7 @@
         "CODIGO": "7799135011960",
         "DETALLE": "AURICULAR BT AITECH BLANCO AIR 99",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
@@ -705,7 +705,7 @@
         "CODIGO": "7799135011977",
         "DETALLE": "AURICULAR BT AITECH NEGRO AIR 99",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
@@ -723,7 +723,7 @@
         "CODIGO": "7799135011946",
         "DETALLE": "AURICULAR BT AITECH ROSA  AIR 99",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
@@ -741,7 +741,7 @@
         "CODIGO": "7799135011953",
         "DETALLE": "AURICULAR BT AITECH VERDE AIR 99",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5265.0",
@@ -759,7 +759,7 @@
         "CODIGO": "CONEJO",
         "DETALLE": "AURICULAR BT CONEJO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2853.0",
@@ -831,7 +831,7 @@
         "CODIGO": "BT1",
         "DETALLE": "AURICULAR BT DEPORTIVO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3000.0",
@@ -849,7 +849,7 @@
         "CODIGO": "723540564015",
         "DETALLE": "AURICULAR BT GATITO CAT EAR CHICO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4750.0",
@@ -867,7 +867,7 @@
         "CODIGO": "EC100145",
         "DETALLE": "AURICULAR BT GATITO CAT EAR GRANDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4437.0",
@@ -885,7 +885,7 @@
         "CODIGO": "AURI12BLAN",
         "DETALLE": "AURICULAR BT I12 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "I12",
         "P": {
             "COSTO": "3299.0",
@@ -903,7 +903,7 @@
         "CODIGO": "AURI12CELE",
         "DETALLE": "AURICULAR BT I12 CELESTE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "I12",
         "P": {
             "COSTO": "3169.0",
@@ -921,7 +921,7 @@
         "CODIGO": "AURI12NEGR",
         "DETALLE": "AURICULAR BT I12 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3169.0",
@@ -939,7 +939,7 @@
         "CODIGO": "AURI12ROSA",
         "DETALLE": "AURICULAR BT I12 ROSA",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "3169.0",
@@ -957,7 +957,7 @@
         "CODIGO": "AURI12VERD",
         "DETALLE": "AURICULAR BT I12 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "3299.0",
@@ -975,7 +975,7 @@
         "CODIGO": "723540564541",
         "DETALLE": "AURICULAR BT JK 607",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "6000.0",
@@ -993,7 +993,7 @@
         "CODIGO": "EC100222",
         "DETALLE": "AURICULAR BT NEWEST M10",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4636.0",
@@ -1011,7 +1011,7 @@
         "CODIGO": "NEWESTM20",
         "DETALLE": "AURICULAR BT NEWEST M20",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5323.0",
@@ -1029,7 +1029,7 @@
         "CODIGO": "EC100314",
         "DETALLE": "AURICULAR BT NEWEST M38",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NEWEST",
         "P": {
             "COSTO": "5733.0",
@@ -1047,7 +1047,7 @@
         "CODIGO": "EC100225",
         "DETALLE": "AURICULAR BT NEWEST M39",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NEWEST",
         "P": {
             "COSTO": "5733.0",
@@ -1065,7 +1065,7 @@
         "CODIGO": "P47AZUL",
         "DETALLE": "AURICULAR BT P47 AZUL",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "P47",
         "P": {
             "COSTO": "2897.0",
@@ -1083,7 +1083,7 @@
         "CODIGO": "P47BLANCO",
         "DETALLE": "AURICULAR BT P47 BLANCO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "P47",
         "P": {
             "COSTO": "2897.0",
@@ -1101,7 +1101,7 @@
         "CODIGO": "P47NEGRO",
         "DETALLE": "AURICULAR BT P47 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "P47",
         "P": {
             "COSTO": "2897.0",
@@ -1119,7 +1119,7 @@
         "CODIGO": "P47ROJO",
         "DETALLE": "AURICULAR BT P47 ROJO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "P47",
         "P": {
             "COSTO": "2897.0",
@@ -1155,7 +1155,7 @@
         "CODIGO": "EC100301N",
         "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 NEGRO",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AKZ",
         "P": {
             "COSTO": "11614.0",
@@ -1173,7 +1173,7 @@
         "CODIGO": "EC100301C",
         "DETALLE": "AURICULAR BT PARA NIÑOS AKZ53 VERDE",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AKZ",
         "P": {
             "COSTO": "11614.0",
@@ -1191,7 +1191,7 @@
         "CODIGO": "723540563643",
         "DETALLE": "AURICULAR BT TIME JS 370",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "5910.0",
@@ -1209,7 +1209,7 @@
         "CODIGO": "723540563919",
         "DETALLE": "AURICULAR BT TIME ROSA",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "6915.0",
@@ -1263,7 +1263,7 @@
         "CODIGO": "6926493450082",
         "DETALLE": "AURICULAR BT VINCHA COMUN ",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2897.0",
@@ -1281,7 +1281,7 @@
         "CODIGO": "WIREM41",
         "DETALLE": "AURICULAR BT WIRELESS M41",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5799.0",
@@ -1299,7 +1299,7 @@
         "CODIGO": "723540565319",
         "DETALLE": "AURICULAR DE CABLE TIME",
         "FAMILIA": "AURICULARES > AURICULARES PARA CELULARES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "711.0",
@@ -1317,7 +1317,7 @@
         "CODIGO": "701575363032",
         "DETALLE": "AURICULAR DEPORTIVO SUONO BT",
         "FAMILIA": "AURICULARES > AURICULARES INALÁMBRICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4500.0",
@@ -1659,7 +1659,7 @@
         "CODIGO": "AURIS8",
         "DETALLE": "AURICULAR SAMSUNG S8",
         "FAMILIA": "AURICULARES > AURICULARES PARA CELULARES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "758.0",
@@ -1713,7 +1713,7 @@
         "CODIGO": "723540566125",
         "DETALLE": "AURICULAR TIME AU 1238",
         "FAMILIA": "AURICULARES > AURICULARES PARA CELULARES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "950.0",
@@ -1749,7 +1749,7 @@
         "CODIGO": "BALZCOMERCIAL",
         "DETALLE": "BALANZA COMERCIAL DIGITAL 200G A 40K",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > BALANZAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "34920.0",
@@ -1767,7 +1767,7 @@
         "CODIGO": "6934570913597",
         "DETALLE": "BALANZA DIGITAL DE PRECISION",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > BALANZAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4000.0",
@@ -1857,7 +1857,7 @@
         "CODIGO": "BATMOTBT60",
         "DETALLE": "BATERIA MOTO BT60 V360",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "673.0",
@@ -2001,7 +2001,7 @@
         "CODIGO": "BATMOTG6PL",
         "DETALLE": "BATERIA MOTO JT40 G6 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "5600.0",
@@ -2019,7 +2019,7 @@
         "CODIGO": "BATERIAKD40",
         "DETALLE": "BATERIA MOTO KD40 G8 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "6625.0",
@@ -2181,7 +2181,7 @@
         "CODIGO": "BATNOKBL5J",
         "DETALLE": "BATERIA NOKIA BL 5J",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NOKIA",
         "P": {
             "COSTO": "805.0",
@@ -2199,7 +2199,7 @@
         "CODIGO": "BATNOKB15C",
         "DETALLE": "BATERIA NOKIA UNIVERSAL",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2099.0",
@@ -2217,7 +2217,7 @@
         "CODIGO": "BATSAMA01",
         "DETALLE": "BATERIA SAMS A01",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "9030.0",
@@ -2235,7 +2235,7 @@
         "CODIGO": "BATSAMA01C",
         "DETALLE": "BATERIA SAMS A01 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "8118.0",
@@ -2253,7 +2253,7 @@
         "CODIGO": "BATSAMA31",
         "DETALLE": "BATERIA SAMS A22/ A31/ A32/ A42/ A72",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "9030.0",
@@ -2379,7 +2379,7 @@
         "CODIGO": "BATSAMJ2",
         "DETALLE": "BATERIA SAMS G530/J2 CORE/J5/J3/J2 PRO",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "CVT",
         "P": {
             "COSTO": "4900.0",
@@ -2451,7 +2451,7 @@
         "CODIGO": "BATSAMJ1",
         "DETALLE": "BATERIA SAMS J1",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2762.0",
@@ -2469,7 +2469,7 @@
         "CODIGO": "BATSAMJ1AC",
         "DETALLE": "BATERIA SAMS J1 ACE J110",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "6000.0",
@@ -2487,7 +2487,7 @@
         "CODIGO": "BATSAMJ6J8",
         "DETALLE": "BATERIA SAMS J6/J8",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1193.0",
@@ -2505,7 +2505,7 @@
         "CODIGO": "BATSAMJ7",
         "DETALLE": "BATERIA SAMS J7 2015/J7 NEO/J4",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4735.5",
@@ -2523,7 +2523,7 @@
         "CODIGO": "BATSAMJ716",
         "DETALLE": "BATERIA SAMS J7 2016 J710",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "6765.0",
@@ -2541,7 +2541,7 @@
         "CODIGO": "BATSAMJ7P",
         "DETALLE": "BATERIA SAMS J7 PRIME/J4 PLUS/J6 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "5412.0",
@@ -2569,7 +2569,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2595,7 +2595,7 @@
         "CODIGO": "6955858510116",
         "DETALLE": "BATIDORA CAFE",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1389.0",
@@ -2703,7 +2703,7 @@
         "CODIGO": "5684562548047",
         "DETALLE": "CABINA DE UÑAS SUN 108W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "SUN",
         "P": {
             "COSTO": "18064.0",
@@ -2991,7 +2991,7 @@
         "CODIGO": "723540563698",
         "DETALLE": "CABLE IPHONE REFORZADO TIME",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "838.0",
@@ -3099,7 +3099,7 @@
         "CODIGO": "7798145006393",
         "DETALLE": "CABLE RCA AUXILIAR AUDIO",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "487.0",
@@ -3117,7 +3117,7 @@
         "CODIGO": "RCAVIDEO1",
         "DETALLE": "CABLE RCA COMUN",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "500.0",
@@ -3153,7 +3153,7 @@
         "CODIGO": "2024051112320",
         "DETALLE": "CABLE RED 15 MTS",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2029.0",
@@ -3207,7 +3207,7 @@
         "CODIGO": "RED5MTS",
         "DETALLE": "CABLE RED 5 MTS",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "784.0",
@@ -3477,7 +3477,7 @@
         "CODIGO": "190198496263",
         "DETALLE": "CABLE USB IPHONE",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "IPHONE",
         "P": {
             "COSTO": "1115.0",
@@ -3495,7 +3495,7 @@
         "CODIGO": "6933138610930",
         "DETALLE": "CABLE USB LDNIO CARGA RAPIDA 65W TIPO C",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "LDNIO",
         "P": {
             "COSTO": "2950.0",
@@ -3567,7 +3567,7 @@
         "CODIGO": "723540565371",
         "DETALLE": "CABLE USB TIPO C TIME",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "689.0",
@@ -3621,7 +3621,7 @@
         "CODIGO": "USBV8PS4",
         "DETALLE": "CABLE USB V8 PARA PS4 CON FILTRO",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "PS4",
         "P": {
             "COSTO": "817.0",
@@ -3639,7 +3639,7 @@
         "CODIGO": "723540563759",
         "DETALLE": "CABLE USB V8 TIME 3.1A",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "662.0",
@@ -3675,7 +3675,7 @@
         "CODIGO": "VGA15MTS",
         "DETALLE": "CABLE VGA 1.5 MTS",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1150.0",
@@ -3729,7 +3729,7 @@
         "CODIGO": "CADCODIGO",
         "DETALLE": "CADENA CON CODIGO BICI",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3079.0",
@@ -3747,7 +3747,7 @@
         "CODIGO": "CADNBICI",
         "DETALLE": "CADENA PARA BICI",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2085.0",
@@ -3765,7 +3765,7 @@
         "CODIGO": "CADBIMO",
         "DETALLE": "CADENA PARA MOTO/BICI CON CONDADO CHICO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3034.0",
@@ -3783,7 +3783,7 @@
         "CODIGO": "CADENAMOTO",
         "DETALLE": "CADENA REFORZADO MOTO/BICI GRNDE",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "7608.0",
@@ -3819,7 +3819,7 @@
         "CODIGO": "EC100533",
         "DETALLE": "CAJA ORGANIZADORA CELULARES BOX YAXUN ",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "YAXUN",
         "P": {
             "COSTO": "4305.0",
@@ -3837,7 +3837,7 @@
         "CODIGO": "6925625488832",
         "DETALLE": "CALCULADORA CIENTIFICA COLORES",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2300.0",
@@ -3891,7 +3891,7 @@
         "CODIGO": "CAMCELESTE",
         "DETALLE": "CAMARA CON IMPRESORA TERMICA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "21184.0",
@@ -3909,7 +3909,7 @@
         "CODIGO": "CAMROSA",
         "DETALLE": "CAMARA CON IMPRESORA TERMICA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "21184.0",
@@ -3927,7 +3927,7 @@
         "CODIGO": "723540563704",
         "DETALLE": "CAMARA DOMO VIGILANCIA 360",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "19446.0",
@@ -3945,7 +3945,7 @@
         "CODIGO": "723540563711",
         "DETALLE": "CAMARA INTERNA TIME 5 ANTENAS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "13565.0",
@@ -3963,7 +3963,7 @@
         "CODIGO": "7799135002883",
         "DETALLE": "CAMARA WEBCAM AITECH",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "3540.0",
@@ -3981,7 +3981,7 @@
         "CODIGO": "7799135002890",
         "DETALLE": "CAMARA WEBCAM AITECH CON SOPORTE",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "2876.0",
@@ -4017,7 +4017,7 @@
         "CODIGO": "CANDGRANDE",
         "DETALLE": "CANDADO GRANDE 50 MM DORADO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -4035,7 +4035,7 @@
         "CODIGO": "CANDADOU",
         "DETALLE": "CANDADO U PARA MOTO/BICI",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > SEGURIDAD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4528.0",
@@ -4053,7 +4053,7 @@
         "CODIGO": "7799135009905",
         "DETALLE": "CARGADOR AITECH USB TIPO C",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "1365.0",
@@ -4071,7 +4071,7 @@
         "CODIGO": "7799135009936",
         "DETALLE": "CARGADOR AITECH USB TIPO C 45W AUTO 12V",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "3307.5",
@@ -4089,7 +4089,7 @@
         "CODIGO": "7799135009950",
         "DETALLE": "CARGADOR AITECH USB TIPO C 5.8A AUTO 12V",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "2143.75",
@@ -4107,7 +4107,7 @@
         "CODIGO": "7799135000889",
         "DETALLE": "CARGADOR AITECH USB V8 20W AUTO 12V",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES AUTOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "2388.75",
@@ -4125,7 +4125,7 @@
         "CODIGO": "7799135009899",
         "DETALLE": "CARGADOR AITECH V8 BOLSITA",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "1291.5",
@@ -4143,7 +4143,7 @@
         "CODIGO": "7799135012110",
         "DETALLE": "CARGADOR CABEZAL AITECH 45W CARGA RAPIDA",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "3511.0",
@@ -4161,7 +4161,7 @@
         "CODIGO": "194252156926",
         "DETALLE": "CARGADOR CABEZAL IPHONE (ENCHUFE ARGENTINA)",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "IPHONE",
         "P": {
             "COSTO": "2173.0",
@@ -4197,7 +4197,7 @@
         "CODIGO": "7799135019942",
         "DETALLE": "CARGADOR CABEZAL LDNIO 20W",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "LDNIO",
         "P": {
             "COSTO": "5058.0",
@@ -4305,7 +4305,7 @@
         "CODIGO": "723540566699",
         "DETALLE": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "6885.0",
@@ -4341,7 +4341,7 @@
         "CODIGO": "7798137718823",
         "DETALLE": "CARGADOR DE PILA USB",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NOGA",
         "P": {
             "COSTO": "4018.0",
@@ -4413,7 +4413,7 @@
         "CODIGO": "7799135014480",
         "DETALLE": "CARGADOR INALÁMBRICO AITECH MAGSAFE 15W",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "3637.0",
@@ -4431,7 +4431,7 @@
         "CODIGO": "190198889966",
         "DETALLE": "CARGADOR IPHONE 25W CALIDAD ORIGINAL",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "IPHONE",
         "P": {
             "COSTO": "5248.75",
@@ -4449,7 +4449,7 @@
         "CODIGO": "7799135019959",
         "DETALLE": "CARGADOR LDNIO 20W CON CABLE TIPO C",
         "FAMILIA": "CARGADORES Y CABLES USB > CARGADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "LDNIO",
         "P": {
             "COSTO": "6923.0",
@@ -4683,7 +4683,7 @@
         "CODIGO": "CARGLED12V",
         "DETALLE": "CARGADOR TRANSFORMADOR 12V 1A",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1176.0",
@@ -4701,7 +4701,7 @@
         "CODIGO": "CARG12V2A",
         "DETALLE": "CARGADOR TRANSFORMADOR 12V 2A",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2450.0",
@@ -4719,7 +4719,7 @@
         "CODIGO": "EC9V15A",
         "DETALLE": "CARGADOR TRANSFORMADOR AITECH 9V 1.5A",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "1952.0",
@@ -4737,7 +4737,7 @@
         "CODIGO": "MY120W",
         "DETALLE": "CARGADOR TRANSFORMADOR NOTEBOOK",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "8000.0",
@@ -4755,7 +4755,7 @@
         "CODIGO": "414795120889",
         "DETALLE": "CARGADOR TRANSFORMADOR TW 003",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5500.0",
@@ -4809,7 +4809,7 @@
         "CODIGO": "7171210037278",
         "DETALLE": "CARRY DISK PARA MEMORIA SSD HDD EXTERNA",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5100.0",
@@ -4935,7 +4935,7 @@
         "CODIGO": "6997201732189",
         "DETALLE": "CEPILLO SECADOR 3 EN 1 HYTOSHY",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "HYTOSHY",
         "P": {
             "COSTO": "12740.0",
@@ -5007,7 +5007,7 @@
         "CODIGO": "CINTA75MTS",
         "DETALLE": "CINTA MTRICA 7.5 METROS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3136.0",
@@ -5025,7 +5025,7 @@
         "CODIGO": "6976028900629",
         "DETALLE": "CINTA TEFLON",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "815.0",
@@ -5061,7 +5061,7 @@
         "CODIGO": "7799135019003",
         "DETALLE": "CONSOLA GAME STICK + SMART TV MAGIS TV",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "50779.0",
@@ -5079,7 +5079,7 @@
         "CODIGO": "MULTICONSOLA2",
         "DETALLE": "CONSOLA GAME STICK 4K +20 MIL JUEGOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "25615.0",
@@ -5097,7 +5097,7 @@
         "CODIGO": "MULTICONSOLA",
         "DETALLE": "CONSOLA GAME STICK PRO 4K +20 MIL JUEGOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "34920.0",
@@ -5133,7 +5133,7 @@
         "CODIGO": "723540563933",
         "DETALLE": "CONTROL REMOTO SMART PARA SANSUNG",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2112.0",
@@ -5151,7 +5151,7 @@
         "CODIGO": "CONTROLSMART",
         "DETALLE": "CONTROL REMOTO SMART TV BOX ",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2500.0",
@@ -5187,7 +5187,7 @@
         "CODIGO": "6921338623003",
         "DETALLE": "CONTROL REMOTO UNIVERSAL AIRE ACONDICIONADO",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2464.0",
@@ -5205,7 +5205,7 @@
         "CODIGO": "7799135015302",
         "DETALLE": "CONTROL REMOTO UNIVERSAL BGH/ NOBLEX/ SANYO/ JVC/ HISENSE/ PHILCO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "BGH",
         "P": {
             "COSTO": "2700.0",
@@ -5223,7 +5223,7 @@
         "CODIGO": "7799135023345",
         "DETALLE": "CONTROL REMOTO UNIVERSAL BGH/ TELEFUNKEN/ KODAK/ TOP HOUSE/ HYUNDAI/ TCL/ DATSUN",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2565.0",
@@ -5295,7 +5295,7 @@
         "CODIGO": "RCADIGITAL",
         "DETALLE": "CONVERSOR AUDIO DIGITAL A RCA",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5160.0",
@@ -5349,7 +5349,7 @@
         "CODIGO": "6957952239153",
         "DETALLE": "CORTA PELO INALAMBRICO",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4500.0",
@@ -5421,7 +5421,7 @@
         "CODIGO": "723540564374",
         "DETALLE": "CORTA PELO VINTAGE TIME",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > MAQUINA CORTA CABELLO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "3356.0",
@@ -5457,7 +5457,7 @@
         "CODIGO": "CORTADORFV",
         "DETALLE": "CORTADOR DE FRUTAS Y VERD RECARGABLE",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5124.0",
@@ -5529,7 +5529,7 @@
         "CODIGO": "7799135022997",
         "DETALLE": "DEPILADOR DE CEJAS",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4500.0",
@@ -5565,7 +5565,7 @@
         "CODIGO": "6963325960128",
         "DETALLE": "DEPILADORA DE DAMA RECARGABLE",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5380.0",
@@ -5583,7 +5583,7 @@
         "CODIGO": "DISPENALCO",
         "DETALLE": "DISPENSADOR DE ALCOHOL ISOPROPILICO",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1500.0",
@@ -5655,7 +5655,7 @@
         "CODIGO": "EC01038",
         "DETALLE": "DOCK TEST MICRO USB V8",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -5673,7 +5673,7 @@
         "CODIGO": "EC100544",
         "DETALLE": "DOCK TEST TIPO C",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2009.0",
@@ -5727,7 +5727,7 @@
         "CODIGO": "ENCENDEDOR",
         "DETALLE": "ENCENDEDOR RECARGABLE CON LINTERNA LED",
         "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2780.0",
@@ -5763,7 +5763,7 @@
         "CODIGO": "723540564473",
         "DETALLE": "ESPEJO CON LUZ RECARGABLE",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "4075.0",
@@ -5781,7 +5781,7 @@
         "CODIGO": "ESTABILIZADOR",
         "DETALLE": "ESTABILIZADOR DE MANO PARA CAMARA C/LUZ Y MICROFONO",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "9873.0",
@@ -5835,7 +5835,7 @@
         "CODIGO": "SP7400810721000350",
         "DETALLE": "EXPRIMIDOR ELECTRICO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "12000.0",
@@ -5853,7 +5853,7 @@
         "CODIGO": "FLEXSAMJ71",
         "DETALLE": "FLEX HOME SAMSUNG J710 2016",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1736.0",
@@ -5871,7 +5871,7 @@
         "CODIGO": "FMSA10",
         "DETALLE": "FLEX MAIN SAMS A10",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "717.0",
@@ -5889,7 +5889,7 @@
         "CODIGO": "FMSA10S",
         "DETALLE": "FLEX MAIN SAMS A10S M16",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "760.0",
@@ -5907,7 +5907,7 @@
         "CODIGO": "FMSA20",
         "DETALLE": "FLEX MAIN SAMS A20",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1234.1",
@@ -5925,7 +5925,7 @@
         "CODIGO": "FMSA20SM14",
         "DETALLE": "FLEX MAIN SAMS A20S M14",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1535.0",
@@ -5943,7 +5943,7 @@
         "CODIGO": "FMSAMA21S",
         "DETALLE": "FLEX MAIN SAMS A21S A217",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2152.5",
@@ -5961,7 +5961,7 @@
         "CODIGO": "FMSA30",
         "DETALLE": "FLEX MAIN SAMS A30",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1535.45",
@@ -5979,7 +5979,7 @@
         "CODIGO": "FMSA30S",
         "DETALLE": "FLEX MAIN SAMS A30S",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1535.0",
@@ -5997,7 +5997,7 @@
         "CODIGO": "FLEXMSAMA31",
         "DETALLE": "FLEX MAIN SAMS A31",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "1610.0",
@@ -6015,7 +6015,7 @@
         "CODIGO": "FMSAMA32",
         "DETALLE": "FLEX MAIN SAMS A32",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2152.5",
@@ -6033,7 +6033,7 @@
         "CODIGO": "FMSA50",
         "DETALLE": "FLEX MAIN SAMS A50",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1535.45",
@@ -6051,7 +6051,7 @@
         "CODIGO": "FMSAMA52",
         "DETALLE": "FLEX MAIN SAMS A52",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2152.5",
@@ -6069,7 +6069,7 @@
         "CODIGO": "FPVMOTE22",
         "DETALLE": "FLEX POWER MOTO E22 XT2239",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -6087,7 +6087,7 @@
         "CODIGO": "FPMOTE32",
         "DETALLE": "FLEX POWER MOTO E32",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -6159,7 +6159,7 @@
         "CODIGO": "FPSAMA11",
         "DETALLE": "FLEX POWER SAMS A11",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2870.0",
@@ -6195,7 +6195,7 @@
         "CODIGO": "FPSAMA2030",
         "DETALLE": "FLEX POWER SAMS A20/ A30/ A30S/ A50/ A60/ A70",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2870.0",
@@ -6213,7 +6213,7 @@
         "CODIGO": "FPSAMA31",
         "DETALLE": "FLEX POWER SAMS A31",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1148.0",
@@ -6231,7 +6231,7 @@
         "CODIGO": "FPSAMA32",
         "DETALLE": "FLEX POWER SAMS A32 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -6249,7 +6249,7 @@
         "CODIGO": "FPSAMA52",
         "DETALLE": "FLEX POWER SAMS A52",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -6267,7 +6267,7 @@
         "CODIGO": "FMSA50S",
         "DETALLE": "FLEX PRINCIPAL SAM A50S",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1435.0",
@@ -6285,7 +6285,7 @@
         "CODIGO": "723540565548",
         "DETALLE": "FOCO GIRATORIO VELADOR",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1799.0",
@@ -6303,7 +6303,7 @@
         "CODIGO": "FOCOESPEJO",
         "DETALLE": "FOCO LED PARA ESPEJO",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5342.0",
@@ -6375,7 +6375,7 @@
         "CODIGO": "BRAZALETE",
         "DETALLE": "FUNDA BRAZALETE DEPORTIVA",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1500.0",
@@ -6393,7 +6393,7 @@
         "CODIGO": "2010133032012",
         "DETALLE": "FUNDA CELULAR BICICLETA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4800.0",
@@ -6411,7 +6411,7 @@
         "CODIGO": "EC02539",
         "DETALLE": "FUNDA EJECUTIVA TABLET 7\"",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "685.0",
@@ -6447,7 +6447,7 @@
         "CODIGO": "7799135003064",
         "DETALLE": "FUNDA SUMERGIBLE IMPERMEABLE",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "590.4",
@@ -6573,7 +6573,7 @@
         "CODIGO": "EC100389",
         "DETALLE": "HUB 4 PUERTOS USB",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "1381.0",
@@ -6627,7 +6627,7 @@
         "CODIGO": "INFLABICI",
         "DETALLE": "INFLADOR METALIZADO PARA BICI",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "2400.0",
@@ -6663,7 +6663,7 @@
         "CODIGO": "KITSMART",
         "DETALLE": "KIT AURICULAR Y RELOJ SMART C/MALLA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "13799.0",
@@ -6681,7 +6681,7 @@
         "CODIGO": "CONDENSER",
         "DETALLE": "KIT MICROFONO CONDESER PRO  STUDIO/STREAM/RADIO",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "20670.0",
@@ -6717,7 +6717,7 @@
         "CODIGO": "LAMPARA52",
         "DETALLE": "LAMPARA LED RECARGABLE 52CM",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3169.0",
@@ -6735,7 +6735,7 @@
         "CODIGO": "LAMPARA20",
         "DETALLE": "LAMPARA MINI 20 LED MAGNETICO RECARGABLE",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4030.0",
@@ -6789,7 +6789,7 @@
         "CODIGO": "LAPIZTESTER",
         "DETALLE": "LAPIZ TESTER C/LUZ",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2000.0",
@@ -6843,7 +6843,7 @@
         "CODIGO": "LICUADORA",
         "DETALLE": "LICUADORA CON MOLINILLO ORYX VIDRIO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "34329.0",
@@ -6933,7 +6933,7 @@
         "CODIGO": "7769528971393",
         "DETALLE": "LINTERNA GRANDE RECARGABLE",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "11917.0",
@@ -6987,7 +6987,7 @@
         "CODIGO": "7882375154327",
         "DETALLE": "LINTERNA MINERA HIGH POWER",
         "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2285.0",
@@ -7005,7 +7005,7 @@
         "CODIGO": "EC100457",
         "DETALLE": "LINTERNA MINERA MINI CON PILAS ",
         "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "885.0",
@@ -7023,7 +7023,7 @@
         "CODIGO": "6000051718910",
         "DETALLE": "LINTERNA MINI RECARGABLE CAMUFLADO 512",
         "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2516.0",
@@ -7041,7 +7041,7 @@
         "CODIGO": "6000051718936",
         "DETALLE": "LINTERNA MINI RECARGABLE LLAVERO",
         "FAMILIA": "ILUMINACIÓN > LINTERNAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1405.0",
@@ -7131,7 +7131,7 @@
         "CODIGO": "BICILED02",
         "DETALLE": "LUZ LED RECARGABLE BICICLETA",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1500.0",
@@ -7149,7 +7149,7 @@
         "CODIGO": "LUZESTETIC2",
         "DETALLE": "LUZ PARA ESTETICAS C/SOPORTE PARA CELU",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "41500.0",
@@ -7167,7 +7167,7 @@
         "CODIGO": "LUZESTETIC1",
         "DETALLE": "LUZ PARA ESTETICAS COMUN",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "33500.0",
@@ -7329,7 +7329,7 @@
         "CODIGO": "6973369821507",
         "DETALLE": "MAQUINA SECADORA DE BROCHAS MAQUILLAJE",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "14993.0",
@@ -7473,7 +7473,7 @@
         "CODIGO": "MICROFBLUE",
         "DETALLE": "MICROFONO BLUETOOTH",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4976.0",
@@ -7527,7 +7527,7 @@
         "CODIGO": "MICROBT",
         "DETALLE": "MICROFONO INALAMBRICO",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "12865.0",
@@ -7581,7 +7581,7 @@
         "CODIGO": "EC100308T",
         "DETALLE": "MINI CAMARA DIGITAL INFATIL",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "10146.0",
@@ -7599,7 +7599,7 @@
         "CODIGO": "CAM121007",
         "DETALLE": "MINI CAMARA INFATIL CON FUNDA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "CAM",
         "P": {
             "COSTO": "10007.0",
@@ -7617,7 +7617,7 @@
         "CODIGO": "CAM121006",
         "DETALLE": "MINI CAMARA INFATIL CON FUNDA ROSITA",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "CAM",
         "P": {
             "COSTO": "10007.0",
@@ -7653,7 +7653,7 @@
         "CODIGO": "MINIRETRO",
         "DETALLE": "MINI CONSOLA RETRO CON PALANCA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "10780.0",
@@ -7707,7 +7707,7 @@
         "CODIGO": "PARLANTE10",
         "DETALLE": "MINI PARLANTE BT",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3678.0",
@@ -7725,7 +7725,7 @@
         "CODIGO": "MINITECLA",
         "DETALLE": "MINI TECLADO MOUSE M9",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "7281.0",
@@ -7779,7 +7779,7 @@
         "CODIGO": "7799135011397",
         "DETALLE": "MIXER AITECH LICUADORA DE MANO",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "16957.0",
@@ -7797,7 +7797,7 @@
         "CODIGO": "PARLANTE11",
         "DETALLE": "MOCHILA CON PARLANTE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "19000.0",
@@ -7815,7 +7815,7 @@
         "CODIGO": "MODALC1VP",
         "DETALLE": "MOD ALCATEL 1V PLUS 5007/TCL L7/L9S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "ALCATEL",
         "P": {
             "COSTO": "16120.0",
@@ -7833,7 +7833,7 @@
         "CODIGO": "MODLGK10CM",
         "DETALLE": "MOD LG K10 K430AR V01/V02 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "LG",
         "P": {
             "COSTO": "3132.0",
@@ -7851,7 +7851,7 @@
         "CODIGO": "MODLGK20",
         "DETALLE": "MOD LG K20 2019",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "14100.0",
@@ -7866,20 +7866,20 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "MODLGK22CM",
-        "DETALLE": "MOD LG K22 C.MARCO",
+        "CODIGO": "MODLGK22",
+        "DETALLE": "MOD LG K22/ K22 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "LG",
         "P": {
-            "COSTO": "13702.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
+            "COSTO": "13824.0",
+            "VENTA": "48000.0",
+            "LISTA2": "48000.0",
             "LISTA3": "24000.0",
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7887,7 +7887,7 @@
         "CODIGO": "MODLGK40S",
         "DETALLE": "MOD LG K40S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SVT",
         "P": {
             "COSTO": "13620.0",
@@ -7905,7 +7905,7 @@
         "CODIGO": "MODLGK41S",
         "DETALLE": "MOD LG K41S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "LG",
         "P": {
             "COSTO": "13411.0",
@@ -7923,17 +7923,17 @@
         "CODIGO": "MODLGK42",
         "DETALLE": "MOD LG K42/K52/K52S/K62/K62 PLUS /K420/K520/LMK520",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "LG",
         "P": {
-            "COSTO": "15750.0",
-            "VENTA": "56000.0",
-            "LISTA2": "56000.0",
-            "LISTA3": "27000.0",
-            "MAYOR": "27000.0"
+            "COSTO": "12500.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
+            "MAYOR": "12500.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7941,7 +7941,7 @@
         "CODIGO": "MODLGK50",
         "DETALLE": "MOD LG K50/ Q60",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "14282.5",
@@ -7959,7 +7959,7 @@
         "CODIGO": "MODLGK50S",
         "DETALLE": "MOD LG K50S X540",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12948.0",
@@ -7977,7 +7977,7 @@
         "CODIGO": "MODLGK51S",
         "DETALLE": "MOD LG K51S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13650.0",
@@ -7995,7 +7995,7 @@
         "CODIGO": "MODMOTC",
         "DETALLE": "MOD MOTO C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "9300.0",
@@ -8013,17 +8013,17 @@
         "CODIGO": "MODMOTE13",
         "DETALLE": "MOD MOTO E13",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "12030.0",
-            "VENTA": "40000.0",
-            "LISTA2": "40000.0",
+            "COSTO": "12261.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
             "LISTA3": "21000.0",
-            "MAYOR": "21000.0"
+            "MAYOR": "12261.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8031,7 +8031,7 @@
         "CODIGO": "MODMOTE13CM",
         "DETALLE": "MOD MOTO E13 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "15785.0",
@@ -8046,10 +8046,28 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMOTG04CM",
+        "DETALLE": "MOD MOTO E14/ G04/ G04S C.MARCO SERVICE PACK CON COMPONENTES",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "19117.0",
+            "VENTA": "65000.0",
+            "LISTA2": "65000.0",
+            "LISTA3": "33000.0",
+            "MAYOR": "33000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODE15CM",
         "DETALLE": "MOD MOTO E15 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "16679.0",
@@ -8067,7 +8085,7 @@
         "CODIGO": "MODMOTE15",
         "DETALLE": "MOD MOTO E15/ G05/ D15/ G15",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13493.0",
@@ -8103,7 +8121,7 @@
         "CODIGO": "MODMOTE20M",
         "DETALLE": "MOD MOTO E20 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14457.0",
@@ -8118,10 +8136,28 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODME22CM",
+        "DETALLE": "MOD MOTO E22 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "14294.1",
+            "VENTA": "50000.0",
+            "LISTA2": "50000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "14294.1"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTE22",
         "DETALLE": "MOD MOTO E22/E22I/E22S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "CVT",
         "P": {
             "COSTO": "11500.0",
@@ -8131,7 +8167,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "12",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8139,7 +8175,7 @@
         "CODIGO": "MODMOTE32CM",
         "DETALLE": "MOD MOTO E32 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13400.0",
@@ -8157,7 +8193,7 @@
         "CODIGO": "MODMOTG22",
         "DETALLE": "MOD MOTO E32/G22/E32S/E22S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12429.0",
@@ -8175,7 +8211,7 @@
         "CODIGO": "MODMOTE40CM",
         "DETALLE": "MOD MOTO E40 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14740.0",
@@ -8193,7 +8229,7 @@
         "CODIGO": "MODE40E30",
         "DETALLE": "MOD MOTO E40/E30",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "12842.0",
@@ -8211,7 +8247,7 @@
         "CODIGO": "MODMOTE5PY",
         "DETALLE": "MOD MOTO E5 PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "9270.0",
@@ -8247,7 +8283,7 @@
         "CODIGO": "MODMOTE5PL",
         "DETALLE": "MOD MOTO E5 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13585.0",
@@ -8265,7 +8301,7 @@
         "CODIGO": "MODMOT5G6",
         "DETALLE": "MOD MOTO E5/G6PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "12276.0",
@@ -8283,7 +8319,7 @@
         "CODIGO": "MODMOTE6PY",
         "DETALLE": "MOD MOTO E6 PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "12240.0",
@@ -8301,7 +8337,7 @@
         "CODIGO": "MODMOTE6PL",
         "DETALLE": "MOD MOTO E6 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13140.3",
@@ -8337,7 +8373,7 @@
         "CODIGO": "MODMOTE6S",
         "DETALLE": "MOD MOTO E6S/E6I",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "9964.0",
@@ -8355,7 +8391,7 @@
         "CODIGO": "MODMOTE7PLUS",
         "DETALLE": "MOD MOTO E7 PLUS C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14297.0",
@@ -8373,7 +8409,7 @@
         "CODIGO": "MODG9PLAY",
         "DETALLE": "MOD MOTO E7 PLUS/G9 PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "10700.0",
@@ -8391,7 +8427,7 @@
         "CODIGO": "MODMOTE7CM",
         "DETALLE": "MOD MOTO E7 POWER/E7I/E7I POWER C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "15750.0",
@@ -8409,7 +8445,7 @@
         "CODIGO": "MODMOTE7CM2",
         "DETALLE": "MOD MOTO E7 XT2095 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13420.0",
@@ -8427,7 +8463,7 @@
         "CODIGO": "MODMOTE7P",
         "DETALLE": "MOD MOTO E7/E7 POWER/E7I/E7I POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "11641.0",
@@ -8437,7 +8473,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8445,7 +8481,7 @@
         "CODIGO": "MODMOTGPLAY",
         "DETALLE": "MOD MOTO G PLAY 2021/G9B",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "4740.0",
@@ -8463,7 +8499,7 @@
         "CODIGO": "MODMOTG04",
         "DETALLE": "MOD MOTO G04/G04S/E14/G24/G24 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13193.0",
@@ -8481,7 +8517,7 @@
         "CODIGO": "MODMOTG06",
         "DETALLE": "MOD MOTO G06/ G06 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "14800.0",
@@ -8499,7 +8535,7 @@
         "CODIGO": "MODMOTG30",
         "DETALLE": "MOD MOTO G10/G20/G30 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTO",
         "P": {
             "COSTO": "14490.0",
@@ -8509,7 +8545,7 @@
             "MAYOR": "24000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8517,7 +8553,7 @@
         "CODIGO": "MODMOTG20",
         "DETALLE": "MOD MOTO G10/G20/G30/G10 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "11710.0",
@@ -8535,7 +8571,7 @@
         "CODIGO": "MODMOTG13CM",
         "DETALLE": "MOD MOTO G13/G23 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "15860.0",
@@ -8553,7 +8589,7 @@
         "CODIGO": "MODMOTG13",
         "DETALLE": "MOD MOTO G13/G23/G34/G53/G45 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13450.0",
@@ -8571,7 +8607,7 @@
         "CODIGO": "MODMOTG14",
         "DETALLE": "MOD MOTO G14/G54 5G/G55/G64",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "12666.0",
@@ -8589,7 +8625,7 @@
         "CODIGO": "MODMOTG15",
         "DETALLE": "MOD MOTO G15",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "14480.0",
@@ -8625,7 +8661,7 @@
         "CODIGO": "MODMOTG22CM",
         "DETALLE": "MOD MOTO G22 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "17250.0",
@@ -8643,7 +8679,7 @@
         "CODIGO": "MODMOTG31IN",
         "DETALLE": "MOD MOTO G31 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "16000.0",
@@ -8661,7 +8697,7 @@
         "CODIGO": "MODMOTG31ISM",
         "DETALLE": "MOD MOTO G31/ G41/ G71 INCELL S.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13000.0",
@@ -8679,7 +8715,7 @@
         "CODIGO": "MODMOT3214",
         "DETALLE": "MOD MOTO G32/ G14/ G54/ G55/ G64/ G73 UNIVERSAL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "14342.0",
@@ -8697,7 +8733,7 @@
         "CODIGO": "MODMOTG32",
         "DETALLE": "MOD MOTO G32/G73",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "14800.0",
@@ -8715,7 +8751,7 @@
         "CODIGO": "MODMOTG35",
         "DETALLE": "MOD MOTO G35",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "16800.0",
@@ -8733,7 +8769,7 @@
         "CODIGO": "MODMOTG5PL",
         "DETALLE": "MOD MOTO G5 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "11656.0",
@@ -8751,7 +8787,7 @@
         "CODIGO": "MODMOTG51",
         "DETALLE": "MOD MOTO G51 /G60 /G60S /G40 /G40 FUSION",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13422.0",
@@ -8769,7 +8805,7 @@
         "CODIGO": "MODMOTG52",
         "DETALLE": "MOD MOTO G52/G72/G82/EDGE 30",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "56250.0",
@@ -8787,7 +8823,7 @@
         "CODIGO": "MODMOTG5S",
         "DETALLE": "MOD MOTO G5S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "5952.0",
@@ -8805,7 +8841,7 @@
         "CODIGO": "MODMOTG5SP",
         "DETALLE": "MOD MOTO G5S PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "11376.0",
@@ -8823,7 +8859,7 @@
         "CODIGO": "MODMOTG6",
         "DETALLE": "MOD MOTO G6",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "15872.0",
@@ -8841,7 +8877,7 @@
         "CODIGO": "MODMOTG6PL",
         "DETALLE": "MOD MOTO G6 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "14880.0",
@@ -8859,7 +8895,7 @@
         "CODIGO": "MODMOTG7PY",
         "DETALLE": "MOD MOTO G7 PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "11440.0",
@@ -8877,7 +8913,7 @@
         "CODIGO": "MODMOTG7PW",
         "DETALLE": "MOD MOTO G7 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13175.0",
@@ -8895,7 +8931,7 @@
         "CODIGO": "MODMOTG7PL",
         "DETALLE": "MOD MOTO G7/G7 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "14364.0",
@@ -8913,17 +8949,17 @@
         "CODIGO": "MODMOTG75",
         "DETALLE": "MOD MOTO G75 5G XT2437",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "19500.0",
-            "VENTA": "68000.0",
-            "LISTA2": "68000.0",
-            "LISTA3": "32000.0",
-            "MAYOR": "32000.0"
+            "COSTO": "14705.0",
+            "VENTA": "50000.0",
+            "LISTA2": "50000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "14705.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8931,7 +8967,7 @@
         "CODIGO": "MODMOTG8",
         "DETALLE": "MOD MOTO G8",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13640.0",
@@ -8949,7 +8985,7 @@
         "CODIGO": "MODMOTG8PL",
         "DETALLE": "MOD MOTO G8 PLAY/ONE MACRO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "10790.0",
@@ -8967,7 +9003,7 @@
         "CODIGO": "MODMOTG8PS",
         "DETALLE": "MOD MOTO G8 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTO",
         "P": {
             "COSTO": "12225.0",
@@ -8985,7 +9021,7 @@
         "CODIGO": "MODMOTG8P",
         "DETALLE": "MOD MOTO G8 POWER",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "15264.0",
@@ -9021,7 +9057,7 @@
         "CODIGO": "MODMOTONEF",
         "DETALLE": "MOD MOTO ONE FUSION",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "10184.0",
@@ -9039,7 +9075,7 @@
         "CODIGO": "MODMOTONEH",
         "DETALLE": "MOD MOTO ONE HYPER  (XT2027)",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
             "COSTO": "13132.0",
@@ -9075,7 +9111,7 @@
         "CODIGO": "MODNOK24",
         "DETALLE": "MOD NOKIA 2.4",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13780.0",
@@ -9093,7 +9129,7 @@
         "CODIGO": "MODNOK31",
         "DETALLE": "MOD NOKIA 3.1",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NOKIA",
         "P": {
             "COSTO": "2600.0",
@@ -9111,7 +9147,7 @@
         "CODIGO": "MODNOK32",
         "DETALLE": "MOD NOKIA 3.2",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NOKIA",
         "P": {
             "COSTO": "2600.0",
@@ -9129,7 +9165,7 @@
         "CODIGO": "MODNOK71",
         "DETALLE": "MOD NOKIA 7.1 PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NOKIA",
         "P": {
             "COSTO": "5200.0",
@@ -9147,7 +9183,7 @@
         "CODIGO": "MODNUBIAFM",
         "DETALLE": "MOD NUBIA FOCUS 2 5G/ MUSIC 2/ V70/ AXON A70",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13796.0",
@@ -9165,17 +9201,17 @@
         "CODIGO": "MODSAMA01",
         "DETALLE": "MOD SAMS A01",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "9902.0",
+            "COSTO": "10740.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "MAYOR": "10740.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9183,7 +9219,7 @@
         "CODIGO": "MODSAM1COR",
         "DETALLE": "MOD SAMS A01 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "11058.0",
@@ -9201,7 +9237,7 @@
         "CODIGO": "MODSAMA12",
         "DETALLE": "MOD SAMS A02/A12/A32 5G UNIVERSAL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "CVT",
         "P": {
             "COSTO": "11460.0",
@@ -9219,7 +9255,7 @@
         "CODIGO": "MODSAMA02",
         "DETALLE": "MOD SAMS A02/M12/A127F/A125",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "10500.0",
@@ -9237,17 +9273,17 @@
         "CODIGO": "MODSAMA03",
         "DETALLE": "MOD SAMS A02S/A03/A03S/A04E",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11265.0",
+            "COSTO": "11173.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "18000.0",
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "32",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9255,17 +9291,17 @@
         "CODIGO": "MODSAMA03M",
         "DETALLE": "MOD SAMS A03 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
-        "MARCA": "SAMSUNG",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
         "P": {
-            "COSTO": "11270.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24000.0"
+            "COSTO": "15103.0",
+            "VENTA": "52000.0",
+            "LISTA2": "52000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "15103.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9273,17 +9309,17 @@
         "CODIGO": "MODSAMA3CO",
         "DETALLE": "MOD SAMS A03 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11336.0",
+            "COSTO": "11276.0",
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "MAYOR": "11276.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9291,7 +9327,7 @@
         "CODIGO": "MODSAMA03CR",
         "DETALLE": "MOD SAMS A03 CORE C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "13700.0",
@@ -9309,7 +9345,7 @@
         "CODIGO": "MODSAMA03CM",
         "DETALLE": "MOD SAMS A03S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13530.0",
@@ -9327,7 +9363,7 @@
         "CODIGO": "MODSAMA04",
         "DETALLE": "MOD SAMS A04",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "11679.0",
@@ -9345,7 +9381,7 @@
         "CODIGO": "MODSAMA04CM",
         "DETALLE": "MOD SAMS A04 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "14500.0",
@@ -9363,7 +9399,7 @@
         "CODIGO": "MODSAMA04E",
         "DETALLE": "MOD SAMS A04E",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "14141.4",
@@ -9381,7 +9417,7 @@
         "CODIGO": "MODSAMA04ECM",
         "DETALLE": "MOD SAMS A04E C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "15920.0",
@@ -9399,7 +9435,7 @@
         "CODIGO": "MOSAM04S",
         "DETALLE": "MOD SAMS A04S /A13 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "12500.0",
@@ -9417,7 +9453,7 @@
         "CODIGO": "MODSAMA04SCM",
         "DETALLE": "MOD SAMS A04S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "15510.0",
@@ -9453,7 +9489,7 @@
         "CODIGO": "MODSAMA05CM",
         "DETALLE": "MOD SAMS A05 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "15100.0",
@@ -9463,7 +9499,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9471,7 +9507,7 @@
         "CODIGO": "MODSAMA06",
         "DETALLE": "MOD SAMS A06",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12420.0",
@@ -9489,7 +9525,7 @@
         "CODIGO": "MODSAMA06CM",
         "DETALLE": "MOD SAMS A06 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "15400.0",
@@ -9507,7 +9543,7 @@
         "CODIGO": "MODSAMA07",
         "DETALLE": "MOD SAMS A07",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13180.0",
@@ -9525,7 +9561,7 @@
         "CODIGO": "MODSAMA10",
         "DETALLE": "MOD SAMS A10",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "9940.0",
@@ -9543,7 +9579,7 @@
         "CODIGO": "MODSAMA10M",
         "DETALLE": "MOD SAMS A10 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "12408.0",
@@ -9579,7 +9615,7 @@
         "CODIGO": "MODSAMSA10SM",
         "DETALLE": "MOD SAMS A10S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "11374.0",
@@ -9597,7 +9633,7 @@
         "CODIGO": "MODSAMA11",
         "DETALLE": "MOD SAMS A11",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "12262.0",
@@ -9615,7 +9651,7 @@
         "CODIGO": "MODSAMA11M",
         "DETALLE": "MOD SAMS A11 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13038.0",
@@ -9630,20 +9666,38 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODSA12CM",
+        "DETALLE": "MOD SAMS A12 C.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "13485.0",
+            "VENTA": "50000.0",
+            "LISTA2": "50000.0",
+            "LISTA3": "24000.0",
+            "MAYOR": "13485.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODSAMA13",
         "DETALLE": "MOD SAMS A13 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11000.0",
+            "COSTO": "11333.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "MAYOR": "11333.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9651,7 +9705,7 @@
         "CODIGO": "MODSAMA14",
         "DETALLE": "MOD SAMS A14 4G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "15000.0",
@@ -9669,7 +9723,7 @@
         "CODIGO": "MODSMA145G",
         "DETALLE": "MOD SAMS A14 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "15000.0",
@@ -9687,7 +9741,7 @@
         "CODIGO": "MODSAMA14B",
         "DETALLE": "MOD SAMS A14 5G 146B",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12884.0",
@@ -9705,7 +9759,7 @@
         "CODIGO": "MODSAMA15I",
         "DETALLE": "MOD SAMS A15 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "17421.0",
@@ -9723,7 +9777,7 @@
         "CODIGO": "MODA15INSM",
         "DETALLE": "MOD SAMS A15 INCELL SIN MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "19860.0",
@@ -9741,7 +9795,7 @@
         "CODIGO": "MODSAMA15O",
         "DETALLE": "MOD SAMS A15 OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "49300.0",
@@ -9777,7 +9831,7 @@
         "CODIGO": "MODA165GIN",
         "DETALLE": "MOD SAMS A16 5G INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "18200.0",
@@ -9795,7 +9849,7 @@
         "CODIGO": "MODSAMA16ISM",
         "DETALLE": "MOD SAMS A16 INCELL SIN MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "17941.0",
@@ -9813,7 +9867,7 @@
         "CODIGO": "MODSAMA2CR",
         "DETALLE": "MOD SAMS A2 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "2460.0",
@@ -9831,7 +9885,7 @@
         "CODIGO": "MODSAMSA20I",
         "DETALLE": "MOD SAMS A20 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "14060.0",
@@ -9867,7 +9921,7 @@
         "CODIGO": "MODSAMA20S",
         "DETALLE": "MOD SAMS A20S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "10266.0",
@@ -9885,7 +9939,7 @@
         "CODIGO": "MODSAMA21",
         "DETALLE": "MOD SAMS A21",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "22140.0",
@@ -9903,7 +9957,7 @@
         "CODIGO": "MODSAMA21S",
         "DETALLE": "MOD SAMS A21S",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "13492.0",
@@ -9921,7 +9975,7 @@
         "CODIGO": "MODSAMA21SM",
         "DETALLE": "MOD SAMS A21S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13700.0",
@@ -9957,7 +10011,7 @@
         "CODIGO": "MODSAMA225",
         "DETALLE": "MOD SAMS A22 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12428.0",
@@ -9975,7 +10029,7 @@
         "CODIGO": "MODSAMA23",
         "DETALLE": "MOD SAMS A23 M33",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12470.0",
@@ -9993,7 +10047,7 @@
         "CODIGO": "MODSAMA24IN",
         "DETALLE": "MOD SAMS A24 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "17909.0",
@@ -10011,7 +10065,7 @@
         "CODIGO": "MODSAMA25IN",
         "DETALLE": "MOD SAMS A25 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "18370.0",
@@ -10029,7 +10083,7 @@
         "CODIGO": "MODSAMA30IN",
         "DETALLE": "MOD SAMS A30/ A50/ A50S INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "18092.0",
@@ -10047,7 +10101,7 @@
         "CODIGO": "MODSAMA30",
         "DETALLE": "MOD SAMS A30/ A50/ A50S OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "38250.0",
@@ -10065,7 +10119,7 @@
         "CODIGO": "MODSAMA30S",
         "DETALLE": "MOD SAMS A30S OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "39600.0",
@@ -10101,7 +10155,7 @@
         "CODIGO": "MODSAMA31",
         "DETALLE": "MOD SAMS A31 OLED C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "38250.0",
@@ -10119,7 +10173,7 @@
         "CODIGO": "MODSAMA32IN",
         "DETALLE": "MOD SAMS A32 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "17686.0",
@@ -10137,7 +10191,7 @@
         "CODIGO": "MODSAMA32ISM",
         "DETALLE": "MOD SAMS A32 INCELL SIN MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "18845.0",
@@ -10155,7 +10209,7 @@
         "CODIGO": "MODSAMA32",
         "DETALLE": "MOD SAMS A32 OLED 4G C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "44300.0",
@@ -10173,7 +10227,7 @@
         "CODIGO": "MODSAMA51IN",
         "DETALLE": "MOD SAMS A51 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "17500.0",
@@ -10191,7 +10245,7 @@
         "CODIGO": "MODSAMA52IN",
         "DETALLE": "MOD SAMS A52 INCELL C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "26825.0",
@@ -10209,7 +10263,7 @@
         "CODIGO": "MODSAMJ2CR",
         "DETALLE": "MOD SAMS J2 CORE J260",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "11000.0",
@@ -10227,7 +10281,7 @@
         "CODIGO": "MODSAMJ2",
         "DETALLE": "MOD SAMS J2 PRO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4900.0",
@@ -10281,7 +10335,7 @@
         "CODIGO": "MODJ46PLUS",
         "DETALLE": "MOD SAMS J4 PLUS J6 PLUS J4 CORE J6 CORE",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "8423.0",
@@ -10299,7 +10353,7 @@
         "CODIGO": "MODSAMJ5P",
         "DETALLE": "MOD SAMS J5 PRIME",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "8064.0",
@@ -10335,7 +10389,7 @@
         "CODIGO": "MODSAMJ6",
         "DETALLE": "MOD SAMS J6 INCELL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "12300.0",
@@ -10407,7 +10461,7 @@
         "CODIGO": "MODSAMJ8",
         "DETALLE": "MOD SAMS J8 INCELL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "SAMSUNG",
         "P": {
             "COSTO": "14350.0",
@@ -10425,7 +10479,7 @@
         "CODIGO": "MODTCL10SE",
         "DETALLE": "MOD TCL 10 SE T766/T9 5048A/ ALCATEL 3X 5048/5X 6041K",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "15050.0",
@@ -10443,7 +10497,7 @@
         "CODIGO": "MODTCL20SE",
         "DETALLE": "MOD TCL 20 SE 6156A",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "13600.0",
@@ -10461,7 +10515,7 @@
         "CODIGO": "MODTCL20B",
         "DETALLE": "MOD TCL 20B 6159",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "13050.0",
@@ -10479,7 +10533,7 @@
         "CODIGO": "MODTCL20Y",
         "DETALLE": "MOD TCL 20Y/20E ALCATEL 3H 6025/5H /1S 2021",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13800.0",
@@ -10497,7 +10551,7 @@
         "CODIGO": "MODTCL30E",
         "DETALLE": "MOD TCL 30SE/30E/305/305I/ALCATEL 3H PLUS/5H PLUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "13600.0",
@@ -10507,7 +10561,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10515,7 +10569,7 @@
         "CODIGO": "MODTCL40S",
         "DETALLE": "MOD TCL 40S/408/405/T507/T506",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "16500.0",
@@ -10533,7 +10587,7 @@
         "CODIGO": "MODTCL40SE",
         "DETALLE": "MOD TCL 40SE/40E",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "16000.0",
@@ -10548,10 +10602,28 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODTCL505G",
+        "DETALLE": "MOD TCL 50 5G/ 50 XE/ NXTPAPER",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "15588.0",
+            "VENTA": "55000.0",
+            "LISTA2": "55000.0",
+            "LISTA3": "26000.0",
+            "MAYOR": "15588.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODTCL501",
         "DETALLE": "MOD TCL 501",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "16416.0",
@@ -10569,7 +10641,7 @@
         "CODIGO": "MODTCL503",
         "DETALLE": "MOD TCL 503",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "13620.0",
@@ -10587,17 +10659,17 @@
         "CODIGO": "MODTCL505",
         "DETALLE": "MOD TCL 505/ 505s/ T509a 50",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "16162.0",
+            "COSTO": "15844.0",
             "VENTA": "55000.0",
             "LISTA2": "55000.0",
             "LISTA3": "26000.0",
-            "MAYOR": "26000.0"
+            "MAYOR": "15844.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10605,7 +10677,7 @@
         "CODIGO": "MODTCL50SE",
         "DETALLE": "MOD TCL 50SE/ NXTPAPER 40",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "21907.0",
@@ -10623,7 +10695,7 @@
         "CODIGO": "MODTCLL10",
         "DETALLE": "MOD TCL L10 LITE/L10 PLUS/T PRO/ALCATEL 1SE 2020/1L 4187",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
             "COSTO": "15300.0",
@@ -10641,7 +10713,7 @@
         "CODIGO": "MODTS10C",
         "DETALLE": "MOD TECNO SPARK 10/ 10C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "12852.0",
@@ -10659,7 +10731,7 @@
         "CODIGO": "MODTS20PRO",
         "DETALLE": "MOD TECNO SPARK 20 PRO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "14429.0",
@@ -10695,7 +10767,7 @@
         "CODIGO": "MODTS30C",
         "DETALLE": "MOD TECNO SPARK 30C/ POVA NEO 5G/ SMART 9/ 9 HD/ INFINIX HOT 50/ 50I/ 50G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12740.0",
@@ -10731,7 +10803,7 @@
         "CODIGO": "MODREDMA5",
         "DETALLE": "MOD XIAOMI A5/ C71",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12000.0",
@@ -10746,10 +10818,28 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODNOTE11",
+        "DETALLE": "MOD XIAOMI NOTE 11 4G/ 11S INCELL S.MARCO",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "15265.0",
+            "VENTA": "55000.0",
+            "LISTA2": "55000.0",
+            "LISTA3": "28000.0",
+            "MAYOR": "15265.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREDNT11",
         "DETALLE": "MOD XIAOMI NOTE 11 4G/NOTE 11S /NOTE 12S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "XIAOMI",
         "P": {
             "COSTO": "42420.0",
@@ -10782,10 +10872,28 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODRED10",
+        "DETALLE": "MOD XIAOMI REDMI 10/ 10 PRIME",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "12530.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
+            "MAYOR": "12530.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREDMA10",
         "DETALLE": "MOD XIAOMI REDMI 10C",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12200.0",
@@ -10803,7 +10911,7 @@
         "CODIGO": "MODREDM12C",
         "DETALLE": "MOD XIAOMI REDMI 12C /10C /POCO C40 /C55",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "13400.0",
@@ -10821,7 +10929,7 @@
         "CODIGO": "MODREDM13C",
         "DETALLE": "MOD XIAOMI REDMI 13C / POCO C65",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "XIAOMI",
         "P": {
             "COSTO": "13030.0",
@@ -10839,7 +10947,7 @@
         "CODIGO": "MODREDM14C",
         "DETALLE": "MOD XIAOMI REDMI 14C/ POCO C75",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12550.0",
@@ -10857,7 +10965,7 @@
         "CODIGO": "MODREM15C",
         "DETALLE": "MOD XIAOMI REDMI 15C/ POCO C85",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "XIAOMI",
         "P": {
             "COSTO": "15704.0",
@@ -10875,7 +10983,7 @@
         "CODIGO": "MODRED7",
         "DETALLE": "MOD XIAOMI REDMI 7",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "12677.0",
@@ -10883,6 +10991,24 @@
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
             "MAYOR": "22000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODRED8A",
+        "DETALLE": "MOD XIAOMI REDMI 8/ 8A",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "11221.0",
+            "VENTA": "40000.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "20000.0",
+            "MAYOR": "11221.0"
         },
         "IVA": "21",
         "STOCK": "3",
@@ -10911,7 +11037,7 @@
         "CODIGO": "MODRED9T",
         "DETALLE": "MOD XIAOMI REDMI 9T/ POCO M3/ NOTE 9",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "11750.0",
@@ -10929,7 +11055,7 @@
         "CODIGO": "MODREDMA3",
         "DETALLE": "MOD XIAOMI REDMI A3 /A3X /POCO C61",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "12276.0",
@@ -10947,7 +11073,7 @@
         "CODIGO": "MODREDN8",
         "DETALLE": "MOD XIAOMI REDMI NOTE 8",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
             "COSTO": "11640.0",
@@ -10983,7 +11109,7 @@
         "CODIGO": "MODZTEA35",
         "DETALLE": "MOD ZTE BLADE A35/A55",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "ZTE",
         "P": {
             "COSTO": "16236.0",
@@ -11001,7 +11127,7 @@
         "CODIGO": "MODZTEA36",
         "DETALLE": "MOD ZTE BLADE A36/ A56/ A76",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "16240.0",
@@ -11055,7 +11181,7 @@
         "CODIGO": "MODZTEA75",
         "DETALLE": "MOD ZTE BLADE A75/ NUBIA MUSIC/ FOCUS",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "16200.0",
@@ -11073,7 +11199,7 @@
         "CODIGO": "77991350098372",
         "DETALLE": "MOUSE AITECH INALAMBRICO BLANCO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "2109.0",
@@ -11091,7 +11217,7 @@
         "CODIGO": "7799135009837",
         "DETALLE": "MOUSE AITECH INALAMBRICO ROJO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "2109.0",
@@ -11109,7 +11235,7 @@
         "CODIGO": "723540565784",
         "DETALLE": "MOUSE INALAMBRICO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "2835.0",
@@ -11127,7 +11253,7 @@
         "CODIGO": "7799135009868",
         "DETALLE": "MOUSE LED CON CABLE AITECH AI022",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1271.0",
@@ -11163,7 +11289,7 @@
         "CODIGO": "NEBULIZADOR",
         "DETALLE": "NEBULIZADOR PORTATIL A USB O PILAS",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > SALUD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "13000.0",
@@ -11271,7 +11397,7 @@
         "CODIGO": "729208240086",
         "DETALLE": "PALANCA JOYSTICK GAMEPAD COOLER",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "SUONO",
         "P": {
             "COSTO": "2400.0",
@@ -11307,7 +11433,7 @@
         "CODIGO": "7798137713162",
         "DETALLE": "PALANCA JOYSTICK PARA PC NOGA",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NOGA",
         "P": {
             "COSTO": "5900.0",
@@ -11343,7 +11469,7 @@
         "CODIGO": "711719990048",
         "DETALLE": "PALANCA JOYSTICK PS3",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "8600.0",
@@ -11361,7 +11487,7 @@
         "CODIGO": "723540565814",
         "DETALLE": "PALANCA JOYSTICK PS4 CAMUFLADO",
         "FAMILIA": "JUEGOS Y JUGUETES > PALANCAS JOYSTICK",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "25500.0",
@@ -11379,7 +11505,7 @@
         "CODIGO": "7799135016361",
         "DETALLE": "PALO SELFIE AITECH R1 BT TRIPODE 1.7 MTS",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "5792.0",
@@ -11397,7 +11523,7 @@
         "CODIGO": "PALOSELFIE",
         "DETALLE": "PALO SELFIE CON BOTON",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1600.0",
@@ -11415,7 +11541,7 @@
         "CODIGO": "7799135016392",
         "DETALLE": "PALO SELFIE TRIPODE 1.7 MTS CON MANGO DE AGARRE Y LUCES",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "13216.0",
@@ -11433,7 +11559,7 @@
         "CODIGO": "PARLANTE08",
         "DETALLE": "PARLANTE BT 12 PULGADAS AITECH EMERALD",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "60000.0",
@@ -11443,7 +11569,7 @@
             "MAYOR": "60000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11451,7 +11577,7 @@
         "CODIGO": "7799135000346",
         "DETALLE": "PARLANTE BT 3 PULGADAS AITECH",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "4389.0",
@@ -11469,7 +11595,7 @@
         "CODIGO": "PARLANTE03",
         "DETALLE": "PARLANTE BT 3 PULGADAS COLORES",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "MINI",
         "P": {
             "COSTO": "3804.0",
@@ -11487,7 +11613,7 @@
         "CODIGO": "5115164112157",
         "DETALLE": "PARLANTE BT 3 PULGADAS CON LINTERNA",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4300.0",
@@ -11505,7 +11631,7 @@
         "CODIGO": "PARLANTE07",
         "DETALLE": "PARLANTE BT 3 PULGADAS GTS 1468",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "5600.0",
@@ -11523,7 +11649,7 @@
         "CODIGO": "729208241403",
         "DETALLE": "PARLANTE BT 4 PULGADAS",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "6500.0",
@@ -11541,7 +11667,7 @@
         "CODIGO": "731299174584",
         "DETALLE": "PARLANTE BT 4 PULGADAS  SUONO",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "SUONO",
         "P": {
             "COSTO": "7500.0",
@@ -11577,7 +11703,7 @@
         "CODIGO": "731299174218",
         "DETALLE": "PARLANTE BT 6.5 PULGADAS COLGANTE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "SPEAKER",
         "P": {
             "COSTO": "12037.0",
@@ -11595,7 +11721,7 @@
         "CODIGO": "PARL8PULG",
         "DETALLE": "PARLANTE BT 8 PULGADAS AITECH AMBER",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "26730.0",
@@ -11613,7 +11739,7 @@
         "CODIGO": "PARLANTE04",
         "DETALLE": "PARLANTE BT 8 PULGADAS AITECH OBSIDIAN",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "26730.0",
@@ -11631,7 +11757,7 @@
         "CODIGO": "PARLANTE09",
         "DETALLE": "PARLANTE BT 8 PULGADAS COLGANTE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "22200.0",
@@ -11667,7 +11793,7 @@
         "CODIGO": "PARLANTE08",
         "DETALLE": "PARLANTE BT 8 PULGADAS STARVISION",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "22191.0",
@@ -11685,7 +11811,7 @@
         "CODIGO": "PARLATMICROF",
         "DETALLE": "PARLANTE BT CON LUZ Y MICROFONO",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5826.0",
@@ -11703,7 +11829,7 @@
         "CODIGO": "PARLASTRO",
         "DETALLE": "PARLANTE BT MINI ASTRONAUTA",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3804.0",
@@ -11775,7 +11901,7 @@
         "CODIGO": "7799135017115",
         "DETALLE": "PEGAMENTO YAXUN Y3000 NEGRO 110ML",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "YAXUN",
         "P": {
             "COSTO": "3934.0",
@@ -11811,7 +11937,7 @@
         "CODIGO": "PELOTA",
         "DETALLE": "PELOTA N5",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "4500.0",
@@ -11919,7 +12045,7 @@
         "CODIGO": "PERRITO",
         "DETALLE": "PERRITO A PILA ",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2548.0",
@@ -11937,7 +12063,7 @@
         "CODIGO": "PIEDRADEP",
         "DETALLE": "PIEDRA DEPILADORA MAGICA",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1460.0",
@@ -12099,7 +12225,7 @@
         "CODIGO": "6972676900028",
         "DETALLE": "PILAS AA COMUN POR UNIDAD",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "112.0",
@@ -12315,7 +12441,7 @@
         "CODIGO": "PINHWP8",
         "DETALLE": "PIN CARGA HUAWEI P8/P8 LITE/G620S/Y550/P116",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "136.4",
@@ -12369,7 +12495,7 @@
         "CODIGO": "PINMOTOXPY",
         "DETALLE": "PIN CARGA MOTO X STYE/X PLAY",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "136.4",
@@ -12423,7 +12549,7 @@
         "CODIGO": "PINSAMJ7",
         "DETALLE": "PIN CARGA SAMS J7 2015/2016/NEO/J2 PRIME",
         "FAMILIA": "CELULAR Y COMPUTACION > REPUESTOS CEL",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "400.0",
@@ -12441,7 +12567,7 @@
         "CODIGO": "6978526354010",
         "DETALLE": "PINZA TESTER AMPEROMETRICA DIGITAL",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "7894.0",
@@ -12477,7 +12603,7 @@
         "CODIGO": "PIZARRA12",
         "DETALLE": "PIZARRA MAGICA LCD 12 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "2946.0",
@@ -12495,7 +12621,7 @@
         "CODIGO": "PIZARRA16",
         "DETALLE": "PIZARRA MAGICA LCD 16 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4863.0",
@@ -12513,7 +12639,7 @@
         "CODIGO": "PIZARRA85",
         "DETALLE": "PIZARRA MAGICA LCD 8.5 PLG",
         "FAMILIA": "JUEGOS Y JUGUETES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "1185.0",
@@ -12567,7 +12693,7 @@
         "CODIGO": "CARGAE15",
         "DETALLE": "PLACA DE CARGA MOTO E15",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "3465.0",
@@ -13377,7 +13503,7 @@
         "CODIGO": "CARGAA20",
         "DETALLE": "PLACA DE CARGA SAMS A20",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "3550.0",
@@ -13575,7 +13701,7 @@
         "CODIGO": "CARGAA51",
         "DETALLE": "PLACA DE CARGA SAMS A51",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
-        "PROVEEDOR": "TIENDA MOVIL ROSARIO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
             "COSTO": "3271.0",
@@ -13629,7 +13755,7 @@
         "CODIGO": "723540565531",
         "DETALLE": "PLACA DE SONIDO EXTERNO USB",
         "FAMILIA": "CABLES Y ADAPTADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "650.0",
@@ -13647,7 +13773,7 @@
         "CODIGO": "723540564848",
         "DETALLE": "PLANCHA DE PELO TIME C/TECNOLOGIA KERATINA Y ACEITE DE ARGAN",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "9057.0",
@@ -13701,7 +13827,7 @@
         "CODIGO": "1134338992788",
         "DETALLE": "PLANCHITA DE PELO 250ºC NANO TITANIUM",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "11407.0",
@@ -13719,7 +13845,7 @@
         "CODIGO": "DALINGPLAN",
         "DETALLE": "PLANCHITA DE PELO DALING 5241 220°C",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "18931.0",
@@ -13773,7 +13899,7 @@
         "CODIGO": "PLANCHITA",
         "DETALLE": "PLANCHITA FLEQUILLERA",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2100.0",
@@ -13809,7 +13935,7 @@
         "CODIGO": "EC100210",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ASTRONAUTA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
@@ -13827,7 +13953,7 @@
         "CODIGO": "FASTPUSH",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA LILA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
@@ -13845,7 +13971,7 @@
         "CODIGO": "SPMACHINE",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS CONEJITA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
@@ -13863,7 +13989,7 @@
         "CODIGO": "LONELYPET",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS GATITO CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "POP",
         "P": {
             "COSTO": "2907.0",
@@ -13881,7 +14007,7 @@
         "CODIGO": "POPIT",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS LLAVERO VARIOS",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "POP",
         "P": {
             "COSTO": "1900.0",
@@ -13899,7 +14025,7 @@
         "CODIGO": "EC100209",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS OSITO",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
@@ -13917,7 +14043,7 @@
         "CODIGO": "EC100212",
         "DETALLE": "POP IT CONSOLA DE JUEGOS ANTIESTRÉS ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "POP",
         "P": {
             "COSTO": "3900.0",
@@ -13971,7 +14097,7 @@
         "CODIGO": "7799135017122",
         "DETALLE": "PUNTA CURVA DE CAUTIN CERAMICA YAXUN",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "YAXUN",
         "P": {
             "COSTO": "2830.0",
@@ -13989,7 +14115,7 @@
         "CODIGO": "7799135016552",
         "DETALLE": "PUNTA RECTA DE CAUTIN",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "820.0",
@@ -14007,7 +14133,7 @@
         "CODIGO": "RADIO3BAND",
         "DETALLE": "RADIO AM/FM/SW CON BLUETOOTH Y RECARGABLE LECTOR DE TARJETA Y PENDRIVE",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "13000.0",
@@ -14061,7 +14187,7 @@
         "CODIGO": "7799061002889",
         "DETALLE": "RADIO PARLATE RECARGA SOLAR",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "INOVA",
         "P": {
             "COSTO": "6014.0",
@@ -14079,7 +14205,7 @@
         "CODIGO": "nan",
         "DETALLE": "RADIO VINTAGE MINI BT/FM/MP3 RECARGABLE ",
         "FAMILIA": "PARLANTES > PARLANTE RADIO MICROFONO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5725.0",
@@ -14115,7 +14241,7 @@
         "CODIGO": "7891122335568",
         "DETALLE": "RECEPTOR BLUETOOTH  AUXILIAR USB",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1213.0",
@@ -14205,7 +14331,7 @@
         "CODIGO": "7799135011984",
         "DETALLE": "RELOJ SMART WATCH AITECH SW2800",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "8058.0",
@@ -14241,7 +14367,7 @@
         "CODIGO": "7799135011861",
         "DETALLE": "RELOJ SMARTWATCH AITECH SW90",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "8176.0",
@@ -14277,7 +14403,7 @@
         "CODIGO": "RELOJSMART",
         "DETALLE": "RELOJ SMARTWATCH ULTRA 9 BIG C/7 MALLA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > RELOJES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "9692.0",
@@ -14349,7 +14475,7 @@
         "CODIGO": "691782520248X",
         "DETALLE": "REPETIDOR WIFI",
         "FAMILIA": "CELULAR Y COMPUTACION",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "9493.0",
@@ -14403,7 +14529,7 @@
         "CODIGO": "RIÑONERA",
         "DETALLE": "RIÑONERA DEPORTIVA CHICA",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1585.0",
@@ -14457,7 +14583,7 @@
         "CODIGO": "6904004020214",
         "DETALLE": "SANDWICHERA",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ELECTRODOMÉSTICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "16300.0",
@@ -14493,7 +14619,7 @@
         "CODIGO": "6972831212331",
         "DETALLE": "SECADOR DE PELO DALING 1400W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "DALING",
         "P": {
             "COSTO": "7712.0",
@@ -14511,7 +14637,7 @@
         "CODIGO": "ORYXSECADOR",
         "DETALLE": "SECADOR DE PELO ORYX",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "ORYX",
         "P": {
             "COSTO": "13568.0",
@@ -14529,7 +14655,7 @@
         "CODIGO": "723540564824",
         "DETALLE": "SECADOR DE PELO TIME",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > ESTETICA",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4528.0",
@@ -14547,7 +14673,7 @@
         "CODIGO": "6958210712401",
         "DETALLE": "SECADOR PELO AITECH",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "11287.0",
@@ -14565,7 +14691,7 @@
         "CODIGO": "6963490162686",
         "DETALLE": "SECADOR PELO CHICO SEIS 800W",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > PLANCHAS Y SECADORES",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5586.0",
@@ -14601,7 +14727,7 @@
         "CODIGO": "8201756735006",
         "DETALLE": "SET DE TECLADO Y MOUSE INALAMBRICO",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "10795.0",
@@ -14619,7 +14745,7 @@
         "CODIGO": "763571815083",
         "DETALLE": "SET DESTORNILLADOR 115 EN 1",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5344.0",
@@ -14637,7 +14763,7 @@
         "CODIGO": "8214729653849",
         "DETALLE": "SET DESTORNILLADORES 24 PCS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2328.0",
@@ -14691,7 +14817,7 @@
         "CODIGO": "723540564831",
         "DETALLE": "SMART TV BOX CON MAGIS TV 4K",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NOVACENTER",
         "P": {
             "COSTO": "21500.0",
@@ -14709,7 +14835,7 @@
         "CODIGO": "7799135013018",
         "DETALLE": "SMART TV STICK AITECH CON MAGIS TV 4K",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "29820.0",
@@ -14727,7 +14853,7 @@
         "CODIGO": "6988886869543",
         "DETALLE": "SOPORTE CELULAR ANIMALES PLEGABLES",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1450.0",
@@ -14781,7 +14907,7 @@
         "CODIGO": "EC100360",
         "DETALLE": "SOPORTE CELULAR RETROVISOR COLGANTE",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "2652.0",
@@ -14799,7 +14925,7 @@
         "CODIGO": "SOPORTECOMUN",
         "DETALLE": "SOPORTE CELULAR RETROVISOR COMUN",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1069.0",
@@ -14889,7 +15015,7 @@
         "CODIGO": "SOPORTMAG",
         "DETALLE": "SOPORTE MAGNETICO PARA CELULARES",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "3900.0",
@@ -14943,7 +15069,7 @@
         "CODIGO": "723540565012",
         "DETALLE": "SOPORTE TV FIJO 14 A 42 PULGADAS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2129.0",
@@ -14961,7 +15087,7 @@
         "CODIGO": "7799135001664",
         "DETALLE": "SOPORTE TV FIJO 26 A 55 PULGADAS",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "AITECH",
         "P": {
             "COSTO": "3628.5",
@@ -14997,7 +15123,7 @@
         "CODIGO": "7799135022195",
         "DETALLE": "SOPORTE TV FIJO 32 A 55 PULGADAS HASTA 30 KG",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4917.5",
@@ -15033,7 +15159,7 @@
         "CODIGO": "SOPORTREFORZ",
         "DETALLE": "SOPORTE TV MOVIL REFORZADO 32 A 65 PLG",
         "FAMILIA": "HOGAR - NEGOCIO - LOCAL > ACCESORIOS TELEVISOR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "7742.0",
@@ -15123,7 +15249,7 @@
         "CODIGO": "EC100534",
         "DETALLE": "SUJETA PLACA YAXUN",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "YAXUN",
         "P": {
             "COSTO": "2264.0",
@@ -15177,7 +15303,7 @@
         "CODIGO": "7799135009790",
         "DETALLE": "TECLADO + MOUSE USB AITECH",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "6519.0",
@@ -15195,7 +15321,7 @@
         "CODIGO": "700306601221",
         "DETALLE": "TECLADO NETMAK",
         "FAMILIA": "CELULAR Y COMPUTACION > PERIFERICOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4012.0",
@@ -15213,7 +15339,7 @@
         "CODIGO": "PRESIONDIG",
         "DETALLE": "TENSIOMETRO DIGITAL MEDIDOR DE PRESION",
         "FAMILIA": "CUIDADO Y BELLEZA PERSONAL > SALUD",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "11138.0",
@@ -15267,7 +15393,7 @@
         "CODIGO": "TERMOMETRO",
         "DETALLE": "TERMOMETRO DIGITAL",
         "FAMILIA": "LIBRERÍA Y VARIOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "1150.0",
@@ -15321,7 +15447,7 @@
         "CODIGO": "69855646885262",
         "DETALLE": "TETRI MINI CONSOLA ASTRONAUTA CELESTE",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TETRI",
         "P": {
             "COSTO": "2629.0",
@@ -15339,7 +15465,7 @@
         "CODIGO": "6985564688526",
         "DETALLE": "TETRI MINI CONSOLA CONEJITA ROSA",
         "FAMILIA": "JUEGOS Y JUGUETES > CONSOLAS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TETRI",
         "P": {
             "COSTO": "2629.0",
@@ -15393,7 +15519,7 @@
         "CODIGO": "3MTS5050",
         "DETALLE": "TIRA LED 3 MTS 5050 PARA TV",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3615.0",
@@ -15411,7 +15537,7 @@
         "CODIGO": "7795234526572",
         "DETALLE": "TIRA LED 5 MTS 2835",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4126.0",
@@ -15429,7 +15555,7 @@
         "CODIGO": "LED5050",
         "DETALLE": "TIRA LED 5 MTS 5050",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "6400.0",
@@ -15447,7 +15573,7 @@
         "CODIGO": "NEON5050",
         "DETALLE": "TIRA NEON 5050 RGB",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "7245.0",
@@ -15537,7 +15663,7 @@
         "CODIGO": "723540564022",
         "DETALLE": "TRANSFORMADOR 12V 3A TIME",
         "FAMILIA": "CARGADORES Y CABLES USB > UNIVERSAL",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TIME",
         "P": {
             "COSTO": "3175.0",
@@ -15681,7 +15807,7 @@
         "CODIGO": "TRIPODELED",
         "DETALLE": "TRIPODE 2.10 MTS",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "EL CELU",
+        "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
             "COSTO": "4800.0",
@@ -15717,7 +15843,7 @@
         "CODIGO": "TRIPODECEL",
         "DETALLE": "TRIPODE LUZ Y MICROFONO CELULAR",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "TRIPODE",
         "P": {
             "COSTO": "5887.0",
@@ -15735,7 +15861,7 @@
         "CODIGO": "TRIPODEPRO",
         "DETALLE": "TRIPODE METAL PARA CELULAR O CAMARA",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "4700.0",
@@ -15753,7 +15879,7 @@
         "CODIGO": "YT228",
         "DETALLE": "TRIPODE PARA CELU/CAMARA",
         "FAMILIA": "ACCESORIOS PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "773.0",
@@ -15771,7 +15897,7 @@
         "CODIGO": "6989526542239",
         "DETALLE": "TRIPODE PARA CELULAR CON FLASH",
         "FAMILIA": "ACCESORIOS PARA CELULAR > SOPORTES PARA CELULAR",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "2352.0",
@@ -15825,7 +15951,7 @@
         "CODIGO": "153500580",
         "DETALLE": "VELADOR ASTRONAUTA",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3934.0",
@@ -15843,7 +15969,7 @@
         "CODIGO": "VELADORASTRO",
         "DETALLE": "VELADOR ASTRONAUTA CELESTE + LUX DE NEON",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "4350.0",
@@ -15861,7 +15987,7 @@
         "CODIGO": "VELADASTRPLA",
         "DETALLE": "VELADOR ASTRONAUTA PLANETA",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "3622.0",
@@ -15879,7 +16005,7 @@
         "CODIGO": "VALADORCAPI",
         "DETALLE": "VELADOR CAPYBARA OVNI",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "2264.0",
@@ -15897,7 +16023,7 @@
         "CODIGO": "723540563780",
         "DETALLE": "VELADOR DE ESCRITORIO ARTICULADO CON LUPA",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "18400.0",
@@ -15933,7 +16059,7 @@
         "CODIGO": "7769528971157",
         "DETALLE": "VELADOR DE ESCRITORIO PARA LAMPARA",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "12730.0",
@@ -15951,7 +16077,7 @@
         "CODIGO": "VELADORDIS",
         "DETALLE": "VERLADOR RECARGABLE NAVE",
         "FAMILIA": "ILUMINACIÓN",
-        "PROVEEDOR": "IMPOTEKNO",
+        "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "NUEVO",
         "P": {
             "COSTO": "4523.0",
