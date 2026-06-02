@@ -1,18 +1,8 @@
 /* ====================================================
-   render.js — Renderizado de productos
+   render.js — Renderizado de productos (mayorista)
    Depende de: config.js, filtros.js
+   Usa: shared/capitalizar.js, shared/imagenes.js
    ==================================================== */
-
-/* ---------- helper: capitalizar título ---------- */
-function capitalizarTitulo(str) {
-  const minusculas = ["y", "a", "o", "de", "para", "en", "con"];
-  const mayusculas = ["hdmi", "vga", "rca", "gb", "rgb", "led", "otg", "ps2", "pc", "sata", "sd", "usb", "ok"];
-  return str.toLowerCase().split(" ").map(pal => {
-    if (mayusculas.includes(pal)) return pal.toUpperCase();
-    if (minusculas.includes(pal)) return pal;
-    return pal.charAt(0).toUpperCase() + pal.slice(1);
-  }).join(" ");
-}
 
 /* ---------- marcar botón activo en sidebar ---------- */
 function marcarFiltroActivo(clave) {
@@ -24,7 +14,7 @@ function marcarFiltroActivo(clave) {
 /* ---------- crear tarjeta de producto ---------- */
 function crearCard(p) {
   const card = document.createElement("div");
-  card.className = "producto";
+  card.className      = "producto";
   card.dataset.codigo = p.CODIGO;
   if (parseInt(p.STOCK) === 0) card.classList.add("sin-stock");
 
@@ -66,7 +56,7 @@ function mostrarProducto(codigo, categorias) {
     .find(p => p.CODIGO === codigo);
   if (!producto) return;
 
-  const contenedor     = document.getElementById("contenedor-productos");
+  const contenedor      = document.getElementById("contenedor-productos");
   const precioMayorista = parseFloat(producto.P.LISTA3 || 0);
   const mensaje2 = `Hola, quiero consultar por el producto: ${capitalizarTitulo(producto.DETALLE)}\n${TIENDA_BASE}?producto=${producto.CODIGO}`;
   const linkWp2  = `https://wa.me/${WP_NUMBER}?text=` + encodeURIComponent(mensaje2);
@@ -125,8 +115,8 @@ function renderizarTodos(categorias, busqueda = "") {
 
     for (const sub in categorias[cat]) {
       const familia = `${cat} > ${sub}`;
-      const productosOriginales = categorias[cat][sub].map(p => ({ ...p, FAMILIA: p.FAMILIA || familia }));
-      let lista = aplicarFiltroMayorista(productosOriginales, busqueda);
+      const prods = categorias[cat][sub].map(p => ({ ...p, FAMILIA: p.FAMILIA || familia }));
+      let lista = aplicarFiltroMayorista(prods, busqueda);
       lista = obtenerProductosFiltradosYOrdenados(lista);
       if (!lista.length) continue;
 
@@ -157,8 +147,8 @@ function renderizarFiltroEspecial(clave, categorias, busqueda = "") {
   marcarFiltroActivo(clave);
 
   const contenedor = document.getElementById("contenedor-productos");
-  const config = filtrosEspeciales[clave];
-  contenedor.innerHTML = `<h2>📲​ ${config.label}</h2>`;
+  const config     = filtrosEspeciales[clave];
+  contenedor.innerHTML = `<h2>📲 ${config.label}</h2>`;
 
   let hayAlgo = false;
   for (const cat in categorias) {
@@ -233,18 +223,3 @@ window.compartirProducto = function (detalle, codigo) {
       .catch(err => console.error("Error al copiar:", err));
   }
 };
-
-/* ---------- fallback de imágenes ---------- */
-function cargarImagenAlternativa(img) {
-  const cod = img.dataset.codigo;
-  let intento = parseInt(img.dataset.intento || "0");
-  const extensiones = ["webp", "jpg", "png", "placeholder.webp"];
-  intento++;
-  if (intento >= extensiones.length) return;
-  img.dataset.intento = intento;
-  img.onerror = () => cargarImagenAlternativa(img);
-  const ext = extensiones[intento];
-  img.src = ext === "placeholder.webp"
-    ? "../tienda/img/placeholder.webp"
-    : `../tienda/img/${cod}.${ext}`;
-}

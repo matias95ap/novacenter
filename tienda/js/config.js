@@ -1,15 +1,12 @@
 /* ====================================================
    config.js — Configuración general de la Tienda
-   Editá este archivo para cambiar:
-   - Número de WhatsApp
-   - URL base de la tienda
-   - Subcategorías excluidas temporalmente
    ==================================================== */
 
 const WP_NUMBER   = "5493772582822";
 const TIENDA_BASE = "https://novacenter.ar/tienda/";
+const IMG_BASE    = "img/";
 
-/* ---------- subcategorías excluidas de la tienda ----------
+/* ---------- subcategorías excluidas temporalmente ----------
    Para volver a mostrarlas, comentá o eliminá las líneas     */
 const SUBCATS_EXCLUIDAS = [
   "CELULAR Y COMPUTACION > REPUESTOS CEL",

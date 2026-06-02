@@ -1,6 +1,7 @@
 /* ====================================================
-   router.js — Navegación por URL y eventos
+   router.js — Navegación por URL y eventos (mayorista)
    Depende de: config.js, filtros.js, render.js
+   Usa: shared/busqueda.js
    ==================================================== */
 
 function iniciarRouter(categorias) {
@@ -13,17 +14,22 @@ function iniciarRouter(categorias) {
   /* ---------- leer URL y renderizar la vista correcta ---------- */
   function manejarNavegacionURL() {
     if (filtros) filtros.classList.remove("visible");
-    if (inputBuscar) inputBuscar.value = "";
 
     const params        = new URLSearchParams(location.search);
     const filtroParam   = params.get("filtro");
     const cat           = params.get("cat");
     const sub           = params.get("sub");
     const productoParam = params.get("producto");
+    const q             = params.get("buscar");
+
+    // Limpiar buscador salvo que la URL sea de búsqueda
+    if (!q && inputBuscar) inputBuscar.value = "";
 
     if (filtroParam && filtrosEspeciales[filtroParam]) {
       filtroActivoKey = filtroParam;
       renderizarFiltroEspecial(filtroParam, categorias);
+    } else if (q) {
+      buscarProductos(q, categorias, aplicarFiltroMayorista);
     } else if (productoParam) {
       mostrarProducto(productoParam, categorias);
     } else if (cat && sub && categorias[cat]?.[sub]) {
@@ -45,34 +51,28 @@ function iniciarRouter(categorias) {
     if (inputBuscar) inputBuscar.value = "";
     history.pushState({}, "", location.pathname);
     renderizarTodos(categorias);
-    if (window.innerWidth <= 600) document.getElementById("sidebar").classList.add("oculto");
+    cerrarSidebarMovil();
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
 
-  /* ---------- búsqueda en tiempo real ---------- */
-  inputBuscar?.addEventListener("input", e => {
-    const termino = e.target.value.trim();
-    if (termino.length === 1) return;
-    if (filtroActivoKey) {
-      renderizarFiltroEspecial(filtroActivoKey, categorias, termino);
-    } else {
-      renderizarTodos(categorias, termino);
-    }
-  });
+  /* ---------- búsqueda (delegada a shared/busqueda.js) ----------
+     Se pasa aplicarFiltroMayorista como filtro extra              */
+  iniciarBusqueda(categorias, aplicarFiltroMayorista);
 
-  /* ---------- cambios de stock y orden ---------- */
-  filtroStock?.addEventListener("change", manejarNavegacionURL);
+  /* ---------- filtro stock y orden ---------- */
+  filtroStock?.addEventListener("change",   manejarNavegacionURL);
   ordenarSelect?.addEventListener("change", manejarNavegacionURL);
 
   /* ---------- navegación a producto ---------- */
   window.navegarProducto = function (codigo) {
     if (filtros) filtros.classList.remove("visible");
+    if (inputBuscar) inputBuscar.value = "";
     sessionStorage.setItem("scrollPos", window.scrollY);
     history.pushState({ producto: codigo }, "", `?producto=${encodeURIComponent(codigo)}`);
     mostrarProducto(codigo, categorias);
   };
 
-  /* ---------- volver desde producto ---------- */
+  /* ---------- volver ---------- */
   window.volverProducto = function () {
     if (inputBuscar) inputBuscar.value = "";
     if (window.history.length > 1) {
@@ -91,7 +91,7 @@ function iniciarRouter(categorias) {
     sessionStorage.removeItem("scrollPos");
   }
 
-  /* ---------- popstate (botón atrás del navegador) ---------- */
+  /* ---------- popstate ---------- */
   window.addEventListener("popstate", manejarNavegacionURL);
 
   /* ---------- arrancar ---------- */

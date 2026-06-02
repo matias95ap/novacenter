@@ -1,25 +1,15 @@
 /* ====================================================
-   render.js — Renderizado de productos
+   render.js — Renderizado de productos (tienda)
    Depende de: config.js, filtros.js
+   Usa: shared/capitalizar.js, shared/imagenes.js
    ==================================================== */
-
-/* ---------- capitalizar título ---------- */
-function capitalizarTitulo(str) {
-  const minusculas = ["y", "a", "o", "de", "para", "en", "con"];
-  const mayusculas = ["hdmi", "vga", "rca", "gb", "rgb", "led", "otg", "ps2", "pc", "sata", "sd", "usb", "ok"];
-  return str.toLowerCase().split(" ").map(pal => {
-    if (mayusculas.includes(pal)) return pal.toUpperCase();
-    if (minusculas.includes(pal)) return pal;
-    return pal.charAt(0).toUpperCase() + pal.slice(1);
-  }).join(" ");
-}
 
 /* ---------- crear tarjeta de producto ---------- */
 function crearCard(p) {
-  const esNuevo      = p.MARCA === "NUEVO";
+  const esNuevo       = p.MARCA === "NUEVO";
   const esLiquidacion = esProductoLiquidacion(p);
   const card = document.createElement("div");
-  card.className    = "producto";
+  card.className      = "producto";
   card.dataset.codigo = p.CODIGO;
   if (parseInt(p.STOCK) === 0) card.classList.add("sin-stock");
 
@@ -33,16 +23,15 @@ function crearCard(p) {
     insigniaArriba = `<div class="insignias-arriba"><div class="insignia-texto especial">🎁 Novedades</div></div>`;
   }
 
-  // Insignias abajo
+  // Insignia abajo (Nuevo ingreso)
   let insigniaAbajo = "";
   if (parseInt(p.STOCK) > 0 && esNuevo) {
     insigniaAbajo = `<div class="insignias-abajo"><div class="insignia-texto nuevo">🆕 Nuevo</div></div>`;
   }
 
-  // Precio y liquidación
+  // Precio normal o liquidación
   let precioHTML = `<span class="precio">$${precioVenta.toLocaleString("es-AR")}</span>`;
   let extraHTML  = "";
-
   if (esLiquidacion && parseInt(p.STOCK) > 0) {
     const precioLista2 = parseFloat(p.P.LISTA2);
     const descuento    = Math.round(((precioLista2 - precioVenta) / precioLista2) * 100);
@@ -57,7 +46,7 @@ function crearCard(p) {
   card.innerHTML = `
     <a href="#" class="link-producto" onclick="event.preventDefault(); navegarProducto('${p.CODIGO}')">
       ${insigniaArriba}
-      <img src="img/${p.CODIGO}.webp"
+      <img src="${IMG_BASE}${p.CODIGO}.webp"
         alt="${capitalizarTitulo(p.DETALLE)}"
         data-codigo="${p.CODIGO}"
         data-intento="0"
@@ -100,7 +89,6 @@ function mostrarProducto(codigo, categorias) {
 
   let precioHTML = `<p class="precio">Precio: $${precioVenta.toLocaleString("es-AR")}</p>`;
   let extraHTML  = "";
-
   if (esLiquidacion) {
     precioHTML = `<span> Antes:</span><span class="precio"><s>$${precioLista2.toLocaleString("es-AR")}</s></span>`;
     extraHTML  = `
@@ -117,7 +105,7 @@ function mostrarProducto(codigo, categorias) {
 
   div.innerHTML = `
     <h2>${capitalizarTitulo(producto.DETALLE)}</h2>
-    <img src="img/${producto.CODIGO}.webp"
+    <img src="${IMG_BASE}${producto.CODIGO}.webp"
       alt="${capitalizarTitulo(producto.DETALLE)}"
       data-codigo="${producto.CODIGO}"
       data-intento="0"
@@ -154,22 +142,35 @@ function renderizarTodos(categorias) {
   contenedor.innerHTML = "";
 
   for (const cat in categorias) {
+    let hayProductosEnCat = false;
+    const fragmentoCat = document.createDocumentFragment();
+
     const h2 = document.createElement("h2");
     h2.textContent = capitalizarTitulo(cat);
-    contenedor.appendChild(h2);
+    fragmentoCat.appendChild(h2);
 
     for (const sub in categorias[cat]) {
-      let lista = obtenerProductosFiltradosYOrdenados(categorias[cat][sub]);
+      const lista = obtenerProductosFiltradosYOrdenados(categorias[cat][sub]);
+      if (!lista.length) continue;
 
+      hayProductosEnCat = true;
       const h3 = document.createElement("h3");
       h3.textContent = capitalizarTitulo(sub);
-      contenedor.appendChild(h3);
+      fragmentoCat.appendChild(h3);
 
       const grid = document.createElement("div");
       grid.className = "productos-grid";
       lista.forEach(p => grid.appendChild(crearCard(p)));
-      contenedor.appendChild(grid);
+      fragmentoCat.appendChild(grid);
     }
+
+    if (hayProductosEnCat) contenedor.appendChild(fragmentoCat);
+  }
+
+  if (!contenedor.children.length) {
+    const p = document.createElement("p");
+    p.textContent = "No se encontraron productos.";
+    contenedor.appendChild(p);
   }
 }
 
@@ -177,9 +178,9 @@ function renderizarTodos(categorias) {
 function mostrarCategoria(cat, categorias) {
   const contenedor = document.getElementById("contenedor-productos");
   contenedor.innerHTML = `<h2>${capitalizarTitulo(cat)}</h2>`;
-
   for (const sub in categorias[cat]) {
-    let lista = obtenerProductosFiltradosYOrdenados(categorias[cat][sub]);
+    const lista = obtenerProductosFiltradosYOrdenados(categorias[cat][sub]);
+    if (!lista.length) continue;
     const h3 = document.createElement("h3");
     h3.textContent = capitalizarTitulo(sub);
     contenedor.appendChild(h3);
@@ -240,49 +241,6 @@ function mostrarDiaDelNino(data) {
   contenedor.appendChild(grid);
 }
 
-/* ---------- buscar productos ---------- */
-function buscarProductos(termino, categorias) {
-  const t = termino.toLowerCase().trim();
-  const resultados = Object.values(categorias)
-    .flatMap(subs => Object.values(subs).flat())
-    .filter(p => p.DETALLE.toLowerCase().includes(t) || p.CODIGO.toLowerCase().includes(t));
-
-  const contenedor = document.getElementById("contenedor-productos");
-  contenedor.innerHTML = "";
-
-  if (!resultados.length) {
-    const p = document.createElement("p");
-    p.textContent = "No se encontraron resultados.";
-    contenedor.appendChild(p);
-    return;
-  }
-
-  // Agrupar resultados por cat > sub
-  const agrupados = {};
-  resultados.forEach(p => {
-    const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
-    if (!agrupados[cat]) agrupados[cat] = {};
-    if (!agrupados[cat][sub]) agrupados[cat][sub] = [];
-    agrupados[cat][sub].push(p);
-  });
-
-  for (const cat in agrupados) {
-    const h2 = document.createElement("h2");
-    h2.textContent = capitalizarTitulo(cat);
-    contenedor.appendChild(h2);
-    for (const sub in agrupados[cat]) {
-      const lista = obtenerProductosFiltradosYOrdenados(agrupados[cat][sub]);
-      const h3 = document.createElement("h3");
-      h3.textContent = capitalizarTitulo(sub);
-      contenedor.appendChild(h3);
-      const grid = document.createElement("div");
-      grid.className = "productos-grid";
-      lista.forEach(p => grid.appendChild(crearCard(p)));
-      contenedor.appendChild(grid);
-    }
-  }
-}
-
 /* ---------- compartir ---------- */
 window.compartirProducto = function (detalle, codigo) {
   const url    = `${TIENDA_BASE}?producto=${codigo}`;
@@ -296,16 +254,3 @@ window.compartirProducto = function (detalle, codigo) {
       .catch(err => console.error("Error al copiar:", err));
   }
 };
-
-/* ---------- fallback de imágenes ---------- */
-function cargarImagenAlternativa(img) {
-  const cod = img.dataset.codigo;
-  let intento = parseInt(img.dataset.intento || "0");
-  const extensiones = ["webp", "jpg", "png", "placeholder.webp"];
-  intento++;
-  if (intento >= extensiones.length) return;
-  img.dataset.intento = intento;
-  img.onerror = () => cargarImagenAlternativa(img);
-  const ext = extensiones[intento];
-  img.src = ext === "placeholder.webp" ? "img/placeholder.webp" : `img/${cod}.${ext}`;
-}
