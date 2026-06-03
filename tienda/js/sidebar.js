@@ -1,5 +1,5 @@
 /* ====================================================
-   sidebar.js — Construcción del menú lateral
+   sidebar.js — Construcción del menú lateral (tienda)
    Depende de: render.js
    ==================================================== */
 
@@ -17,9 +17,9 @@ function construirSidebar(categorias) {
     aCat.href        = "#";
     aCat.addEventListener("click", e => {
       e.preventDefault();
-      const filtros = document.getElementById("busqueda-filtros");
+      const filtros     = document.getElementById("busqueda-filtros");
       const inputBuscar = document.getElementById("input-buscar");
-      if (filtros) filtros.classList.remove("visible");
+      if (filtros)     filtros.classList.remove("visible");
       if (inputBuscar) inputBuscar.value = "";
       history.pushState({}, "", `?cat=${encodeURIComponent(cat)}`);
       mostrarCategoria(cat, categorias);
@@ -27,8 +27,8 @@ function construirSidebar(categorias) {
     });
 
     const toggle = document.createElement("button");
-    toggle.className   = "botonflecha";
-    toggle.textContent = "⬇️";
+    toggle.className     = "botonflecha";
+    toggle.textContent   = "⬇️";
     toggle.style.cssText = "background:none;border:none;color:white;cursor:pointer";
     toggle.addEventListener("click", e => {
       e.stopPropagation();
@@ -44,8 +44,7 @@ function construirSidebar(categorias) {
     subUl.className = "submenu";
 
     for (const sub in categorias[cat]) {
-      // Ocultar subcategorías excluidas en el sidebar
-      if (SUBCATS_EXCLUIDAS.includes(`${cat} > ${sub}`)) continue;
+      if (typeof SUBCATS_EXCLUIDAS !== "undefined" && SUBCATS_EXCLUIDAS.includes(`${cat} > ${sub}`)) continue;
 
       const subLi = document.createElement("li");
       const subA  = document.createElement("a");
@@ -54,9 +53,9 @@ function construirSidebar(categorias) {
       subA.href        = "#";
       subA.addEventListener("click", e => {
         e.preventDefault();
-        const filtros = document.getElementById("busqueda-filtros");
+        const filtros     = document.getElementById("busqueda-filtros");
         const inputBuscar = document.getElementById("input-buscar");
-        if (filtros) filtros.classList.remove("visible");
+        if (filtros)     filtros.classList.remove("visible");
         if (inputBuscar) inputBuscar.value = "";
         history.pushState({}, "", `?cat=${encodeURIComponent(cat)}&sub=${encodeURIComponent(sub)}`);
         mostrarSubcategoria(cat, sub, categorias);
@@ -82,26 +81,45 @@ function iniciarSidebarMovil() {
   const sidebar       = document.getElementById("sidebar");
   const filtros       = document.getElementById("busqueda-filtros");
   const toggleFiltros = document.getElementById("toggle-filtros");
+  const toggleMenu    = document.getElementById("toggle-menu");
 
-  if (window.innerWidth <= 600) sidebar.classList.add("oculto");
+  /* --- FIX animación al cargar ---
+     Desactivar transición, ocultar sin animación, reactivar después */
+  if (window.innerWidth <= 600) {
+    sidebar.style.transition = "none";
+    sidebar.classList.add("oculto");
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        sidebar.style.transition = "";
+      });
+    });
+  }
 
   function controlarSidebar() {
     const topbarMovil = document.getElementById("topbar-movil");
     if (window.getComputedStyle(topbarMovil).display === "none") {
+      sidebar.style.transition = "none";
       sidebar.classList.remove("oculto");
+      requestAnimationFrame(() => requestAnimationFrame(() => { sidebar.style.transition = ""; }));
     }
   }
   window.addEventListener("resize", controlarSidebar);
-  window.addEventListener("load", controlarSidebar);
 
-  document.getElementById("toggle-menu")
-    ?.addEventListener("click", () => sidebar.classList.toggle("oculto"));
-
-  toggleFiltros?.addEventListener("click", () => {
-    filtros.classList.toggle("visible");
-    filtros.classList.toggle("oculto");
+  /* --- Toggle menú hamburguesa --- */
+  toggleMenu?.addEventListener("click", () => {
+    sidebar.classList.toggle("oculto");
+    filtros.classList.remove("visible"); // cierra el buscador al abrir el menú
   });
 
+  /* --- FIX lupa: oculta sidebar y muestra buscador --- */
+  toggleFiltros?.addEventListener("click", () => {
+    if (window.innerWidth <= 600) {
+      sidebar.classList.add("oculto");        // cierra el menú si está abierto
+    }
+    filtros.classList.toggle("visible");
+  });
+
+  /* --- Swipe hacia abajo para mostrar buscador --- */
   let startY = null, dragging = false;
   document.addEventListener("touchstart", e => {
     if (window.scrollY === 0) { startY = e.touches[0].clientY; dragging = true; }
@@ -110,7 +128,6 @@ function iniciarSidebarMovil() {
     if (!dragging || startY === null) return;
     if (e.touches[0].clientY - startY > 60) {
       filtros.classList.add("visible");
-      filtros.classList.remove("oculto");
       dragging = false;
     }
   });

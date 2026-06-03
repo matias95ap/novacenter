@@ -26,7 +26,7 @@ function construirSidebarFiltros(categorias) {
     const btn = document.createElement("button");
     btn.className     = "btn-filtro-especial";
     btn.dataset.clave = clave;
-    btn.textContent   = `🔎​ ${config.label}`;
+    btn.textContent   = `👤 ${config.label}`;
 
     btn.addEventListener("click", () => {
       filtroActivoKey = clave;
@@ -146,24 +146,43 @@ function iniciarSidebarMovil() {
   const toggleFiltros = document.getElementById("toggle-filtros");
   const filtros       = document.getElementById("busqueda-filtros");
 
-  if (window.innerWidth <= 600) sidebar.classList.add("oculto");
+  /* --- FIX animación al cargar ---
+     Desactiva transición, oculta sin animación, reactiva después */
+  if (window.innerWidth <= 600) {
+    sidebar.style.transition = "none";
+    sidebar.classList.add("oculto");
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        sidebar.style.transition = "";
+      });
+    });
+  }
 
   function controlarSidebar() {
     const topbarMovil = document.getElementById("topbar-movil");
     if (window.getComputedStyle(topbarMovil).display === "none") {
+      sidebar.style.transition = "none";
       sidebar.classList.remove("oculto");
+      requestAnimationFrame(() => requestAnimationFrame(() => { sidebar.style.transition = ""; }));
     }
   }
   window.addEventListener("resize", controlarSidebar);
-  window.addEventListener("load", controlarSidebar);
 
-  toggleMenu?.addEventListener("click", () => sidebar.classList.toggle("oculto"));
-
-  toggleFiltros?.addEventListener("click", () => {
-    filtros.classList.toggle("visible");
-    filtros.classList.toggle("oculto");
+  /* --- Toggle menú hamburguesa --- */
+  toggleMenu?.addEventListener("click", () => {
+    sidebar.classList.toggle("oculto");
+    filtros.classList.remove("visible"); // cierra el buscador al abrir el menú
   });
 
+  /* --- FIX lupa: oculta sidebar y muestra buscador --- */
+  toggleFiltros?.addEventListener("click", () => {
+    if (window.innerWidth <= 600) {
+      sidebar.classList.add("oculto");
+    }
+    filtros.classList.toggle("visible");
+  });
+
+  /* --- Swipe hacia abajo para mostrar buscador --- */
   let startY = null, dragging = false;
   document.addEventListener("touchstart", e => {
     if (window.scrollY === 0) { startY = e.touches[0].clientY; dragging = true; }
@@ -172,7 +191,6 @@ function iniciarSidebarMovil() {
     if (!dragging || startY === null) return;
     if (e.touches[0].clientY - startY > 60) {
       filtros.classList.add("visible");
-      filtros.classList.remove("oculto");
       dragging = false;
     }
   });
