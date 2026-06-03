@@ -370,18 +370,16 @@ h3 {
   gap: 6px;
   margin: 8px 0;
 }
-/* Oculta el menú con una animación lateral */
-#sidebar.oculto {
-  transform: translateX(-100%);
-}
 
 @media (min-width: 601px) {
   #topbar-movil {
     display: none;
   }
-  
 }
 @media (max-width: 600px) {
+   #sidebar.oculto {
+    transform: translateX(-100%);
+  }
   #topbar-movil {
     position: fixed;
     top: 0;
@@ -506,9 +504,6 @@ h3 {
   }
 }
 @media (max-width: 395px) {
-  #sidebar.oculto {
-    transform: none;
-  }
   main {
     margin-right: 5px;
     margin-left: 5px;

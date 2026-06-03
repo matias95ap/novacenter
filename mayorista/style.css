@@ -330,18 +330,17 @@ h3 {
   margin: 8px 0;
 }
 
-#sidebar.oculto {
-  transform: translateX(-100%);
-}
-
 /* ---- Responsive ---- */
 @media (min-width: 601px) {
-  #sidebar.oculto {
-    transform: none;
+  #topbar-movil {
+    display: none;
   }
 }
 
 @media (max-width: 600px) {
+   #sidebar.oculto {
+    transform: translateX(-100%);
+  }
   #topbar-movil {
     position: fixed;
     top: 0;
