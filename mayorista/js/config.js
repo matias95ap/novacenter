@@ -9,7 +9,7 @@
 
 const IMG_BASE    = "../tienda/img/";
 const JSON_BASE   = "../tienda/";
-const WP_NUMBER   = "5493772582822";
+const WP_NUMBER   = "5493772404020";
 const TIENDA_BASE = "https://novacenter.ar/tienda/";
 
 /* ---------- perfil de acceso (viene del login) ----------
