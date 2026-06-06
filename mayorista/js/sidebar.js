@@ -135,7 +135,7 @@ function construirSidebarCategorias(categorias) {
 /* ---------- helpers móvil ---------- */
 function cerrarSidebarMovil() {
   if (window.innerWidth <= 600) {
-    document.getElementById("sidebar").classList.add("oculto");
+    sidebar.classList.remove("abierto");
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 }
@@ -170,15 +170,13 @@ function iniciarSidebarMovil() {
 
   /* --- Toggle menú hamburguesa --- */
   toggleMenu?.addEventListener("click", () => {
-    sidebar.classList.toggle("oculto");
+    sidebar.classList.toggle("abierto");
     filtros.classList.remove("visible"); // cierra el buscador al abrir el menú
   });
 
   /* --- FIX lupa: oculta sidebar y muestra buscador --- */
   toggleFiltros?.addEventListener("click", () => {
-    if (window.innerWidth <= 600) {
-      sidebar.classList.add("oculto");
-    }
+    sidebar.classList.remove("abierto");
     filtros.classList.toggle("visible");
   });
 

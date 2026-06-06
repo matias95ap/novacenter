@@ -338,8 +338,13 @@ h3 {
 }
 
 @media (max-width: 600px) {
-   #sidebar.oculto {
-    transform: translateX(-100%);
+  #sidebar {
+    transform: translateX(-100%); /* oculto por defecto en móvil */
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  #sidebar.abierto {
+    transform: translateX(0); /* visible cuando tiene clase abierto */
   }
   #topbar-movil {
     position: fixed;
