@@ -1,11 +1,12 @@
 /* ====================================================
-   sidebar.js — Construcción del menú lateral
-   Depende de: config.js, filtros.js, render.js
-
+   sidebar.js — Construcción del menú lateral (mayorista)
    Comportamiento por perfil:
    - "repuestos" y "admin" → botones de filtros especiales
    - "mayor"               → categorías y subcategorías
    ==================================================== */
+
+/* sidebar accesible globalmente para cerrarSidebarMovil */
+let _sidebar = null;
 
 function construirSidebar(categorias) {
   if (PERFIL === "mayor") {
@@ -48,7 +49,7 @@ function construirSidebarCategorias(categorias) {
   const inputBuscar = document.getElementById("input-buscar");
   const filtros     = document.getElementById("busqueda-filtros");
 
-  // Ocultar la sección de filtros especiales en el sidebar
+  // Ocultar sección de filtros especiales
   const labelFiltros = document.querySelector(".label-filtros");
   const menuFiltros  = document.getElementById("menu-filtros");
   const bordeExtra   = document.querySelector(".borde-extra");
@@ -57,7 +58,6 @@ function construirSidebarCategorias(categorias) {
   if (bordeExtra)   bordeExtra.style.display   = "none";
 
   for (const cat in categorias) {
-    // Verificar que la categoría tenga al menos un producto visible para este perfil
     const tieneProductos = Object.entries(categorias[cat]).some(([sub, prods]) => {
       return prods.some(p => {
         const pmayor  = parseFloat(p.P.LISTA3 || 0);
@@ -89,8 +89,8 @@ function construirSidebarCategorias(categorias) {
     });
 
     const toggle = document.createElement("button");
-    toggle.className   = "botonflecha";
-    toggle.textContent = "⬇️";
+    toggle.className     = "botonflecha";
+    toggle.textContent   = "⬇️";
     toggle.style.cssText = "background:none;border:none;color:white;cursor:pointer";
     toggle.addEventListener("click", e => {
       e.stopPropagation();
@@ -107,7 +107,7 @@ function construirSidebarCategorias(categorias) {
 
     for (const sub in categorias[cat]) {
       const familia = `${cat} > ${sub}`;
-      if (SUBCATS_REPUESTOS.includes(familia)) continue; // excluir repuestos
+      if (SUBCATS_REPUESTOS.includes(familia)) continue;
 
       const subLi = document.createElement("li");
       const subA  = document.createElement("a");
@@ -134,53 +134,39 @@ function construirSidebarCategorias(categorias) {
 
 /* ---------- helpers móvil ---------- */
 function cerrarSidebarMovil() {
-  if (window.innerWidth <= 600) {
-    sidebar.classList.remove("abierto");
+  if (window.innerWidth <= 600 && _sidebar) {
+    _sidebar.classList.remove("abierto");
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 }
 
 function iniciarSidebarMovil() {
-  const sidebar       = document.getElementById("sidebar");
+  _sidebar = document.getElementById("sidebar");
   const toggleMenu    = document.getElementById("toggle-menu");
   const toggleFiltros = document.getElementById("toggle-filtros");
   const filtros       = document.getElementById("busqueda-filtros");
 
-  /* --- FIX animación al cargar ---
-     Desactiva transición, oculta sin animación, reactiva después */
-  if (window.innerWidth <= 600) {
-    sidebar.style.transition = "none";
-    sidebar.classList.add("oculto");
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        sidebar.style.transition = "";
-      });
-    });
-  }
-
   function controlarSidebar() {
     const topbarMovil = document.getElementById("topbar-movil");
     if (window.getComputedStyle(topbarMovil).display === "none") {
-      sidebar.style.transition = "none";
-      sidebar.classList.remove("oculto");
-      requestAnimationFrame(() => requestAnimationFrame(() => { sidebar.style.transition = ""; }));
+      _sidebar.classList.remove("abierto");
     }
   }
   window.addEventListener("resize", controlarSidebar);
 
-  /* --- Toggle menú hamburguesa --- */
+  /* hamburguesa → abre/cierra sidebar, cierra buscador */
   toggleMenu?.addEventListener("click", () => {
-    sidebar.classList.toggle("abierto");
-    filtros.classList.remove("visible"); // cierra el buscador al abrir el menú
+    _sidebar.classList.toggle("abierto");
+    filtros.classList.remove("visible");
   });
 
-  /* --- FIX lupa: oculta sidebar y muestra buscador --- */
+  /* lupa → cierra sidebar, abre/cierra buscador */
   toggleFiltros?.addEventListener("click", () => {
-    sidebar.classList.remove("abierto");
+    _sidebar.classList.remove("abierto");
     filtros.classList.toggle("visible");
   });
 
-  /* --- Swipe hacia abajo para mostrar buscador --- */
+  /* swipe hacia abajo → muestra buscador */
   let startY = null, dragging = false;
   document.addEventListener("touchstart", e => {
     if (window.scrollY === 0) { startY = e.touches[0].clientY; dragging = true; }

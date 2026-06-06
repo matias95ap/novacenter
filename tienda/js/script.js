@@ -1,11 +1,10 @@
 /* ====================================================
    script.js — Punto de entrada de la tienda
-   Carga los datos y arranca los módulos en orden
    ==================================================== */
 
 Promise.all([
-  fetch("productos.json").then(res => res.json()),
-  fetch("excluidos.json").then(res => res.json())
+  fetch(JSON_BASE + "productos.json").then(res => res.json()),
+  fetch(JSON_BASE + "excluidos.json").then(res => res.json())
 ])
   .then(([data, codigosExcluidos]) => {
 

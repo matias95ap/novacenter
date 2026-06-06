@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import json
 
-# Trabajá desde el directorio del script
+# Trabajá desde el directorio del script (datos/)
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 archivo_excel = "productos.xlsx"
@@ -34,3 +34,5 @@ data = [fila_a_dict(row) for _, row in df.iterrows()]
 
 with open(archivo_salida, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
+
+print(f"✅ {len(data)} productos exportados a {archivo_salida}")

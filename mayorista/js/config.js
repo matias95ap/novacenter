@@ -1,15 +1,10 @@
 /* ====================================================
    config.js — Configuración general de Mayorista
-   Editá este archivo para cambiar:
-   - Número de WhatsApp
-   - Rutas de archivos
-   - Subcategorías de repuestos
-   - Filtros especiales por cliente y por perfil
    ==================================================== */
 
-const IMG_BASE    = "../tienda/img/";
-const JSON_BASE   = "../tienda/";
-const WP_NUMBER   = "5493772404020";
+const IMG_BASE    = "/datos/img/";
+const JSON_BASE   = "/datos/";
+const WP_NUMBER   = "5493772582822";
 const TIENDA_BASE = "https://novacenter.ar/tienda/";
 
 /* ---------- perfil de acceso (viene del login) ----------
@@ -27,47 +22,34 @@ const SUBCATS_REPUESTOS = [
   "CELULAR Y COMPUTACION > PLACA DE CARGA"
 ];
 
-/* ---------- filtros especiales por cliente ----------
-   Solo se muestran para los perfiles "repuestos" y "admin"
-   label     → nombre que aparece en el botón del sidebar
-   incluir   → solo muestra estas subcategorías (si se define)
-   excluir   → oculta estas subcategorías (si se define)      */
+/* ---------- filtros especiales por cliente ---------- */
 const filtrosEspeciales = {
+  "@Tecnico": {
+    label: "Reparacion",
+    perfiles: ["repuestos", "admin"],
+    incluir: [
+      "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+      "CELULAR Y COMPUTACION > BATERIAS",
+      "CELULAR Y COMPUTACION > REPUESTOS CEL",
+      "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+      "CELULAR Y COMPUTACION > PLACA DE CARGA"
+    ]
+  },
   "@modulos": {
     label: "Modulos",
     perfiles: ["repuestos", "admin"],
-    incluir: [
-      "CELULAR Y COMPUTACION > MODULOS DISPLAY"
-    ]
+    incluir: ["CELULAR Y COMPUTACION > MODULOS DISPLAY"]
   },
   "@baterias": {
     label: "Baterias",
     perfiles: ["repuestos", "admin"],
-    incluir: [
-      "CELULAR Y COMPUTACION > BATERIAS"
-    ]
-  },
-  "@Placas": {
-    label: "Placas de Carga",
-    perfiles: ["repuestos", "admin"],
-    incluir: [
-      "CELULAR Y COMPUTACION > PLACA DE CARGA"
-    ]
+    incluir: ["CELULAR Y COMPUTACION > BATERIAS"]
   },
   "@Repuestos": {
     label: "Repuestos Chicos",
     perfiles: ["repuestos", "admin"],
-    incluir: [
-      "CELULAR Y COMPUTACION > REPUESTOS CEL"
-    ]
-  },
-  "@Tecnico": {
-    label: "Herramientas Insumos",
-    perfiles: ["repuestos", "admin"],
-    incluir: [
-      "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
-    ]
-  },
+    incluir: ["CELULAR Y COMPUTACION > REPUESTOS CEL"]
+  }
 };
 
 /* ---------- filtros visibles según el perfil activo ---------- */
