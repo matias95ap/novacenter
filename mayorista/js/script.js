@@ -1,35 +1,18 @@
 /* ====================================================
-   script.js — Punto de entrada principal
-   Carga los datos y arranca los módulos en orden
+   script.js — Punto de entrada (mayorista)
+   Usa: shared/arrancar.js, shared/excluidos.js
    ==================================================== */
 
-Promise.all([
-  fetch(JSON_BASE + "productos.json").then(res => res.json()),
-  fetch(JSON_BASE + "excluidos.json").then(res => res.json())
-])
-  .then(([data, codigosExcluidos]) => {
+arrancar({
+  onListo: (categorias, data) => {
 
-    /* --- filtrar excluidos --- */
-    data = data.filter(p => !codigosExcluidos.includes(p.CODIGO));
-
-    /* --- agrupar por categoría > subcategoría --- */
-    const categorias = {};
-    data.forEach(p => {
-      const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
-      if (!categorias[cat])       categorias[cat]       = {};
-      if (!categorias[cat][sub])  categorias[cat][sub]  = [];
-      categorias[cat][sub].push(p);
-    });
-
-    /* --- construir sidebar --- */
+    /* --- construir sidebar según perfil --- */
     construirSidebar(categorias);
-    // construirSidebarCategorias(categorias); // descomentá para ver categorías en el menú
 
     /* --- iniciar sidebar móvil --- */
     iniciarSidebarMovil();
 
-    /* --- iniciar router (navegación + búsqueda + eventos) --- */
+    /* --- iniciar router --- */
     iniciarRouter(categorias);
-
-  })
-  .catch(err => console.error("Error cargando datos:", err));
+  }
+});

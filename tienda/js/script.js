@@ -1,24 +1,10 @@
 /* ====================================================
-   script.js — Punto de entrada de la tienda
+   script.js — Punto de entrada (tienda)
+   Usa: shared/arrancar.js, shared/excluidos.js
    ==================================================== */
 
-Promise.all([
-  fetch(JSON_BASE + "productos.json").then(res => res.json()),
-  fetch(JSON_BASE + "excluidos.json").then(res => res.json())
-])
-  .then(([data, codigosExcluidos]) => {
-
-    /* --- filtrar excluidos --- */
-    data = data.filter(p => !codigosExcluidos.includes(p.CODIGO));
-
-    /* --- agrupar por categoría > subcategoría --- */
-    const categorias = {};
-    data.forEach(p => {
-      const [cat, sub = "VARIOS"] = p.FAMILIA.split(" > ");
-      if (!categorias[cat])      categorias[cat]      = {};
-      if (!categorias[cat][sub]) categorias[cat][sub] = [];
-      categorias[cat][sub].push(p);
-    });
+arrancar({
+  onListo: (categorias, data) => {
 
     /* --- activar filtros por defecto --- */
     const filtroStockEl = document.getElementById("filtro-stock");
@@ -34,6 +20,5 @@ Promise.all([
 
     /* --- iniciar router --- */
     iniciarRouter(categorias, data);
-
-  })
-  .catch(err => console.error("Error cargando datos:", err));
+  }
+});
