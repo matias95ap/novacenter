@@ -1,0 +1,181 @@
+/* ====================================================
+   shared/css/base.css
+   Variables, reset, layout, cards, botones, precios
+   Compartido entre tienda, mayorista y admin
+   ==================================================== */
+
+/* ---------- Variables base ---------- */
+:root {
+  --celeste:   #00BFFF;
+  --azul:      #292b4a;
+  --rojo:      #FF6347;
+  --rojo2:     #8e201c;
+  --verde:     #25D366;
+  --fondomenu: #1a1a1a;
+  --sub:       #2a2a2a;
+  --menu:      #333;
+}
+
+/* ---------- Reset ---------- */
+*:focus { outline: none; }
+button, a, input, select { outline: none; }
+* { -webkit-tap-highlight-color: transparent; }
+
+body {
+  margin: 0;
+  display: flex;
+  font-family: "Segoe UI", sans-serif;
+  background: #f2f4f8;
+}
+
+/* ---------- Layout principal ---------- */
+main {
+  flex-grow: 1;
+  padding: 0px 12px 0px 10px;
+  margin-left: 280px;
+}
+h2 {
+  color: var(--celeste);
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+}
+h3 { margin-top: 8px; margin-bottom: 0px; color: #444; }
+
+/* ---------- Grid de productos ---------- */
+.productos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 15px;
+  margin-top: 15px;
+}
+
+/* ---------- Tarjeta de producto ---------- */
+.producto {
+  margin-bottom: auto;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+  position: relative;
+}
+.producto:hover { transform: scale(1.02); }
+.producto img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.producto p { color: white; margin: 2px 0; font-size: 14px; }
+.producto h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 1rem;
+  margin: 0;
+}
+.titulo-producto {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 4.8em;
+  line-height: 1.6em;
+}
+.link-producto { text-decoration: none; color: var(--fondomenu); }
+
+/* ---------- Insignias ---------- */
+.insignias-arriba {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: -1.2em 0em 0em;
+}
+.insignias-abajo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.2em;
+  margin: -1.5em 0 0.4em;
+}
+.insignia-texto {
+  background-color: gray;
+  padding: 0.2em 0.6em;
+  font-size: 0.75em;
+  border-radius: 0.5em;
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
+  text-align: center;
+}
+.insignia-texto.nuevo { background-color: var(--celeste); }
+
+/* ---------- Stock ---------- */
+.stock {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10%;
+  border: 2px solid var(--verde);
+  border-radius: 10px;
+  background-color: var(--menu);
+}
+.sin-stock { opacity: 0.3; }
+.sin-stock .precio { display: none; }
+.stock-left { color: var(--verde); font-weight: bolder; }
+.stock-e-insignias {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0;
+}
+
+/* ---------- Botones WhatsApp ---------- */
+.boton-comprar, .boton-comprar2 {
+  display: flex;
+  justify-content: center;
+  max-width: 500px;
+  margin-top: 4px;
+  padding: 3px;
+  background-color: var(--verde);
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  align-items: normal;
+}
+.boton-comprar i, .boton-comprar2 i { font-size: 1.5rem; padding-left: 10px; }
+
+/* ---------- Detalle de producto ---------- */
+.producto-detalle img {
+  max-width: 100%;
+  width: 500px;
+  height: auto;
+  margin-top: 20px;
+}
+.boton-accion {
+  display: flex;
+  justify-content: left;
+  gap: 8px;
+  flex-wrap: nowrap;
+  margin-top: 10px;
+}
+.boton-atras, .boton-compartir {
+  text-align: center;
+  font-size: 18px;
+  color: #ccc;
+  border: 2px solid var(--verde);
+  border-radius: 10px;
+  background-color: var(--menu);
+  padding: 3px;
+  width: 100%;
+  max-width: 250px;
+  cursor: pointer;
+}
+.boton-atras i  { display: inline; font-size: 1.2rem; padding-right: 10px; }
+.boton-compartir i { display: inline; font-size: 1.2rem; padding-left: 10px; }

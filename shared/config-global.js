@@ -4,7 +4,7 @@
    Editá solo este archivo para cambiar rutas o contacto
    ==================================================== */
 
-const WP_NUMBER   = "5493772582822";
+const WP_NUMBER   = "5493772404020";
 const TIENDA_BASE = "https://novacenter.ar/tienda/";
 const IMG_BASE    = "/datos/img/";
 const JSON_BASE   = "/datos/";

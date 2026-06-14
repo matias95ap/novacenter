@@ -1,0 +1,95 @@
+/* ====================================================
+   shared/css/sidebar.css
+   Sidebar, menú categorías, subcategorías, borde
+   Compartido entre tienda, mayorista y admin
+   ==================================================== */
+
+/* ---------- Sidebar base ---------- */
+#sidebar {
+  width: 280px;
+  min-width: 280px;
+  background-color: var(--fondomenu);
+  color: white;
+  height: 100vh;
+  padding: 10px;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+}
+#sidebar h1 {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-top: 0;
+  border-bottom: 1px solid #444;
+  padding-bottom: 12px;
+  margin-bottom: 10px;
+}
+#menu { display: flex; flex-direction: column; }
+
+.borde-extra { margin-top: 10px; height: 1px; background-color: #444; }
+
+/* ---------- Categorías ---------- */
+.menu-completo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #444;
+  width: 102%;
+  box-sizing: border-box;
+}
+.menu-categoria {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 10px;
+  display: block;
+  transition: background 0.2s ease;
+  width: 90%;
+}
+.menu-categoria:hover { background-color: var(--menu); border-radius: 4px; }
+
+.menu-subcategoria {
+  font-size: 14px;
+  color: #e0e0e0;
+  display: block;
+  transition: background 0.2s ease;
+}
+.menu-subcategoria:hover { background-color: var(--sub); border-radius: 4px; }
+
+#menu-categorias, #menu-filtros {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+#menu-categorias a { text-decoration: none; cursor: pointer; }
+
+.botonflecha { font-size: 18px; }
+.submenu { display: none; }
+.active .submenu { display: block; }
+
+/* ---------- Botones especiales del sidebar ---------- */
+.btn-sidebar {
+  margin: 0;
+  background-color: var(--menu);
+  color: var(--celeste);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border: 2px solid var(--celeste);
+  border-radius: 10px;
+  width: 100%;
+  text-align: left;
+}
+.btn-sidebar + .btn-sidebar { margin-top: 10px; }
+
+/* ---------- Label de sección ---------- */
+.label-filtros {
+  margin: 10px 0 4px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #888;
+}

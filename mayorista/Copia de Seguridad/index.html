@@ -16,7 +16,7 @@
   <!-- Login -->
   <div id="login-overlay">
     <div id="login-box">
-      <a href="/"><img src="../../images/perfil.jpg" alt="NovaCenter"></a>
+      <a href="/"><img src="/images/perfil.jpg" alt="NovaCenter"></a>
       <p id="login-titulo"><a href="/" style="text-decoration: none; color: inherit;">Acceso Mayorista</a></p>
       <div id="login-divider"></div>
       <div id="login-fila">
@@ -67,10 +67,13 @@
   <!-- Login (debe ir antes que los demás) -->
   <script src="js/login.js"></script>
 
-  <!-- Compartidos -->
+  <!-- Compartidos globales (primero siempre) -->
+  <script src="/shared/config-global.js"></script>
+  <script src="/shared/excluidos.js"></script>
   <script src="/shared/capitalizar.js"></script>
   <script src="/shared/imagenes.js"></script>
   <script src="/shared/busqueda.js"></script>
+  <script src="/shared/arrancar.js"></script>
   <!-- Módulos propios -->
   <script src="js/config.js"></script>
   <script src="js/filtros.js"></script>
