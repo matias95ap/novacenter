@@ -3,7 +3,7 @@ name: Convertir Excel a JSON
 on:
   push:
     paths:
-      - 'tienda/productos.xlsx'
+      - 'datos/productos.xlsx'
 
   schedule:
     - cron: '0 22 * * *'  # Todos los días a las 22:00 UTC
@@ -34,10 +34,10 @@ jobs:
         run: pip install pandas openpyxl
 
       - name: Ejecutar script de conversión
-        run: python tienda/convertir_xlsx_a_json.py
+        run: python datos/convertir_xlsx_a_json.py
 
       - name: Commitear y pushear si hubo cambios
         run: |
-          git add tienda/productos.json
+          git add datos/productos.json
           git diff --cached --quiet && echo "Sin cambios" || git commit -m "🔄 Actualizar productos.json desde productos.xlsx"
           git push origin HEAD:main
