@@ -1,0 +1,136 @@
+/* ====================================================
+   admin/css/admin.css — Estilos propios del panel admin
+   Los estilos compartidos (sidebar, cards, etc.) están
+   en shared/css/
+   ==================================================== */
+
+/* ---------- Selector de modo (4 botones) ---------- */
+#modo-selector {
+  position: fixed;
+  top: 0;
+  left: 280px;
+  right: 0;
+  z-index: 50;
+  display: flex;
+  gap: 0;
+  background: #1a1a1a;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  height: 50px;
+}
+.btn-modo {
+  flex: 1;
+  padding: 14px 8px;
+  text-align: center;
+  background: var(--menu);
+  color: #ccc;
+  border: none;
+  border-right: 1px solid #444;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+.btn-modo:last-child { border-right: none; }
+.btn-modo:hover { background: #444; color: white; }
+.btn-modo.activo {
+  background: var(--celeste);
+  color: #1a1a1a;
+}
+
+/* ---------- Espacio para el selector de modo ---------- */
+main { padding-top: 60px; }
+#busqueda-filtros { top: 50px; }
+
+/* ---------- Iframe de modos reutilizados ---------- */
+#iframe-modo {
+  display: none;
+  width: 100%;
+  height: 100vh;
+  border: none;
+  box-sizing: border-box;
+}
+
+/* ---------- Modo iframe (Técnicos / Distribuidor / Minorista) ----------
+   En estos modos ocultamos nuestro sidebar/main/topbar y mostramos
+   el iframe a pantalla completa, ya que la página cargada tiene
+   su propio sidebar y topbar.                                        */
+body.modo-iframe #sidebar,
+body.modo-iframe #busqueda-filtros,
+body.modo-iframe #contenedor-productos,
+body.modo-iframe #topbar-movil {
+  display: none !important;
+}
+body.modo-iframe #iframe-modo { display: block; }
+body.modo-iframe #modo-selector { left: 0; }
+body.modo-iframe main { padding-top: 50px; margin-left: 0; }
+
+/* ---------- Toggle ver costo ---------- */
+.toggle-costo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* ---------- Precios en tarjeta admin ---------- */
+.precios-admin {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 6px 0;
+}
+.precio-fila {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: white;
+  background: var(--menu);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+.precio-fila .label { color: #aaa; font-weight: bold; }
+.precio-fila.costo { display: none; }
+body.ver-costo .precio-fila.costo { display: flex; }
+
+.precio-fila.venta  .label { color: var(--celeste); }
+.precio-fila.mayor  .label { color: #f0b429; }
+.precio-fila.costo  .label { color: var(--rojo); }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+  #modo-selector {
+    left: 0;
+    top: 100px;       /* debajo del topbar móvil */
+    height: auto;
+    flex-wrap: wrap;
+  }
+  .btn-modo {
+    flex: 1 1 50%;
+    font-size: 12px;
+    padding: 10px 4px;
+    white-space: normal;
+  }
+  #iframe-modo { margin-left: 0; }
+  main { padding-top: 110px; }       /* topbar (60) + selector (~50) */
+  #busqueda-filtros { top: 40px; }
+}
+
+@media (max-width: 600px) {
+  body.modo-iframe main { padding-top: 110px; }
+  body.modo-iframe #iframe-modo { height: calc(100vh - 110px); }
+}
+
+/* ---------- Tag ADMIN (badge en título) ---------- */
+.tag-admin {
+  font-size: 0.55em;
+  background: var(--celeste);
+  color: #1a1a1a;
+  padding: 2px 7px;
+  border-radius: 6px;
+  font-weight: bold;
+  vertical-align: middle;
+  letter-spacing: 1px;
+}

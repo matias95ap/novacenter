@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NovaCenter - Admin</title>
+  <meta name="robots" content="noindex, nofollow">
+
+  <!-- CSS compartido -->
+  <link rel="stylesheet" href="/shared/css/base.css">
+  <link rel="stylesheet" href="/shared/css/sidebar.css">
+  <link rel="stylesheet" href="/shared/css/topbar.css">
+  <link rel="stylesheet" href="/shared/css/responsive.css">
+  <!-- CSS propio -->
+  <link rel="stylesheet" href="css/login.css">
+  <link rel="stylesheet" href="css/admin.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Login -->
+  <div id="login-overlay">
+    <div id="login-box">
+      <img src="/images/perfil.jpg" alt="NovaCenter">
+      <p id="login-titulo">Panel Admin</p>
+      <div id="login-divider"></div>
+      <div id="login-fila">
+        <input type="password" id="login-pass" placeholder="Contraseña" />
+        <button id="login-btn">Ingresar</button>
+      </div>
+      <span id="login-error">Contraseña incorrecta</span>
+    </div>
+  </div>
+
+  <!-- Topbar móvil -->
+  <div id="topbar-movil">
+    <div class="topbar-izquierda">
+      <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>
+    </div>
+    <h1>NovaCenter</h1>
+    <button id="toggle-menu" class="menu-toggle"><i class="fas fa-bars"></i></button>
+  </div>
+
+  <!-- Selector de modo (4 botones) -->
+  <div id="modo-selector">
+    <button class="btn-modo activo" data-modo="todos">📋 Ver Todos</button>
+    <button class="btn-modo" data-modo="tecnicos">🔧 Técnicos</button>
+    <button class="btn-modo" data-modo="distribuidor">📦 Distribuidor</button>
+    <button class="btn-modo" data-modo="minorista">🛒 Minorista</button>
+  </div>
+
+  <!-- Barra de búsqueda (solo modo Ver Todos) -->
+  <section id="busqueda-filtros">
+    <input type="text" id="input-buscar" placeholder="Buscar producto..." />
+    <label><input type="checkbox" id="filtro-stock"> Solo en stock</label>
+    <label class="toggle-costo"><input type="checkbox" id="toggle-costo"> Ver costo</label>
+    <select id="ordenar-select">
+      <option value="">Ordenar por Stock</option>
+      <option value="precio-asc">Precio: Menor a Mayor</option>
+      <option value="precio-desc">Precio: Mayor a Menor</option>
+      <option value="nombre-asc">Nombre: A-Z</option>
+      <option value="nombre-desc">Nombre: Z-A</option>
+    </select>
+  </section>
+
+  <!-- Sidebar (solo modo Ver Todos) -->
+  <aside id="sidebar">
+    <nav id="menu">
+      <button id="ver-todos" class="btn-sidebar">🛒 Ver Todos</button>
+      <div class="borde-extra"></div>
+      <ul id="menu-categorias"></ul>
+    </nav>
+  </aside>
+
+  <!-- Contenido modo Ver Todos -->
+  <main id="contenedor-productos"></main>
+
+  <!-- Iframe para Técnicos / Distribuidor / Minorista -->
+  <iframe id="iframe-modo" title="Vista reutilizada"></iframe>
+
+  <!-- Login -->
+  <script src="js/login.js"></script>
+
+  <!-- Compartidos globales -->
+  <script src="/shared/config-global.js"></script>
+  <script src="/shared/excluidos.js"></script>
+  <script src="/shared/capitalizar.js"></script>
+  <script src="/shared/imagenes.js"></script>
+  <script src="/shared/busqueda.js"></script>
+  <script src="/shared/arrancar.js"></script>
+
+  <!-- Sidebar reutilizado de tienda (sin exclusiones porque no se carga tienda/js/config.js) -->
+  <script src="/tienda/js/sidebar.js"></script>
+
+  <!-- Lógica propia -->
+  <script src="js/ver-todos.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+</html>
