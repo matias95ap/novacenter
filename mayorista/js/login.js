@@ -11,7 +11,7 @@
 
 const CLAVES = {
   "nova2026":  "repuestos",
-  "kiosko26":  "mayor",
+  "prod26":  "mayor",
   "admin2026": "admin"
 };
 

@@ -114,4 +114,5 @@ body.ver-costo .precio-fila.costo { display: flex; }
   }
   main { padding-top: 0; padding-bottom: 66px; }
   body.modo-iframe #iframe-modo { height: calc(100vh - 56px); }
+  #busqueda-filtros { top: 0px; }
 }
