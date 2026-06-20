@@ -1,0 +1,17 @@
+{
+  "name": "NovaCenter Tienda",
+  "short_name": "NC Tienda",
+  "description": "Catálogo completo de productos NovaCenter",
+  "start_url": "/tienda/",
+  "scope": "/tienda/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00BFFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
