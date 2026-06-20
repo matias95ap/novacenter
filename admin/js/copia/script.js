@@ -39,26 +39,5 @@ document.querySelectorAll(".btn-modo").forEach(btn => {
   btn.addEventListener("click", () => activarModo(btn.dataset.modo));
 });
 
-/* ---------- clave diaria del perfil "mayor" ---------- */
-const SEMILLA_SECRETA_ADMIN = "nc"; // ← debe coincidir con mayorista/js/login.js
-
-function generarClaveDiariaAdmin() {
-  const hoy    = new Date();
-  const fecha  = `${hoy.getFullYear()}${hoy.getMonth()}${hoy.getDate()}`;
-  const semilla = "nova" + fecha + SEMILLA_SECRETA_ADMIN;
-
-  let hash = 0;
-  for (let i = 0; i < semilla.length; i++) {
-    hash = ((hash << 5) - hash) + semilla.charCodeAt(i);
-    hash |= 0;
-  }
-  return "M" + Math.abs(hash).toString().slice(0, 5);
-}
-
-document.getElementById("btn-clave-diaria")?.addEventListener("click", () => {
-  const clave = generarClaveDiariaAdmin();
-  alert(`Clave diaria para Distribuidor (Mayor):\n\n${clave}\n\nVálida hasta medianoche.\nTambién sirve la clave fija habitual.`);
-});
-
 /* ---------- modo inicial ---------- */
 activarModo(sessionStorage.getItem("admin-modo") || "todos");

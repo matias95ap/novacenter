@@ -6,15 +6,6 @@
   <title>NovaCenter - Admin</title>
   <meta name="robots" content="noindex, nofollow">
 
-  <!-- PWA -->
-  <link rel="manifest" href="/admin/manifest.json">
-  <meta name="theme-color" content="#0a0f2e">
-  <link rel="icon" href="/admin/icons/icon-192.png">
-  <link rel="apple-touch-icon" href="/admin/icons/icon-180.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="NC Admin">
-
   <!-- CSS compartido -->
   <link rel="stylesheet" href="/shared/css/base.css">
   <link rel="stylesheet" href="/shared/css/sidebar.css">
@@ -46,7 +37,7 @@
     <div class="topbar-izquierda">
       <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>
     </div>
-    <h1>NovaCenter <span class="tag-admin">ADMIN</span></h1>
+    <h1><a href="/" style="text-decoration: none; color: inherit;">NovaCenter</a></h1>
     <button id="toggle-menu" class="menu-toggle"><i class="fas fa-bars"></i></button>
   </div>
 
@@ -77,7 +68,7 @@
 
   <!-- Sidebar (solo modo Ver Todos) -->
   <aside id="sidebar">
-    <h1>NovaCenter <span class="tag-admin">ADMIN</span></h1>
+    <h1><a href="/" style="text-decoration: none; color: inherit;">NovaCenter</a></h1>
     <nav id="menu">
       <button id="ver-todos" class="btn-sidebar">🛒 Ver Todos</button>
       <div class="borde-extra"></div>
@@ -108,16 +99,6 @@
   <!-- Lógica propia -->
   <script src="js/ver-todos.js"></script>
   <script src="js/script.js"></script>
-
-  <!-- Registro PWA -->
-  <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", () => {
-        navigator.serviceWorker.register("/admin/sw.js")
-          .catch(err => console.error("Error registrando Service Worker:", err));
-      });
-    }
-  </script>
 
 </body>
 </html>

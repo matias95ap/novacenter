@@ -4,6 +4,9 @@
      "repuestos" → técnicos (solo repuestos de celular)
      "mayor"     → revendedores (todo excepto repuestos)
      "admin"     → acceso completo
+
+   Si la URL tiene ?admin_perfil=X (usado por /admin/ vía iframe),
+   se omite el login completamente.
    ==================================================== */
 
 const CLAVES = {
@@ -13,6 +16,11 @@ const CLAVES = {
 };
 
 function verificarLogin() {
+  const params = new URLSearchParams(location.search);
+  if (params.get("admin_perfil")) {
+    document.getElementById("login-overlay").classList.add("oculto");
+    return;
+  }
   if (sessionStorage.getItem("mayorista-perfil")) {
     document.getElementById("login-overlay").classList.add("oculto");
   }
