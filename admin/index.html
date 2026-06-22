@@ -15,23 +15,6 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="NC Admin">
 
-  <!-- Anti-destello login: verificar sesión antes de pintar -->
-  <script>
-    try {
-      const raw = localStorage.getItem("admin-auth");
-      if (raw) {
-        const { ok, expira } = JSON.parse(raw);
-        if (ok && Date.now() < expira) {
-          document.documentElement.classList.add("sesion-activa");
-        }
-      }
-    } catch(e) {}
-  </script>
-  <style>
-    /* Ocultar overlay inmediatamente si la sesión es válida */
-    .sesion-activa #login-overlay { display: none !important; }
-  </style>
-
   <!-- CSS compartido -->
   <link rel="stylesheet" href="/shared/css/base.css">
   <link rel="stylesheet" href="/shared/css/sidebar.css">

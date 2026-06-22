@@ -7,27 +7,6 @@
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="preconnect" href="https://connect.facebook.net">
   <script src="/analytics.js" defer></script>
-  <!-- Anti-destello login: verificar sesión antes de pintar -->
-  <script>
-    try {
-      const params = new URLSearchParams(location.search);
-      if (params.get("admin_perfil")) {
-        document.documentElement.classList.add("sesion-activa");
-      } else {
-        const raw = localStorage.getItem("mayorista-auth");
-        if (raw) {
-          const { perfil, expira } = JSON.parse(raw);
-          if (perfil && Date.now() < expira) {
-            sessionStorage.setItem("mayorista-perfil", perfil);
-            document.documentElement.classList.add("sesion-activa");
-          }
-        }
-      }
-    } catch(e) {}
-  </script>
-  <style>
-    .sesion-activa #login-overlay { display: none !important; }
-  </style>
 
   <!-- CSS compartido -->
   <link rel="stylesheet" href="/shared/css/base.css">
