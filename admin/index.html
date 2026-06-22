@@ -4,9 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NovaCenter - Admin</title>
-  <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
-  <link rel="icon" type="image/png" sizes="512x512" href="/icons/icon-512.png">
-  <link rel="shortcut icon" href="/icons/icon-192.png">
   <meta name="robots" content="noindex, nofollow">
 
   <!-- PWA -->
@@ -17,6 +14,23 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="NC Admin">
+
+  <!-- Anti-destello login: verificar sesión antes de pintar -->
+  <script>
+    try {
+      const raw = localStorage.getItem("admin-auth");
+      if (raw) {
+        const { ok, expira } = JSON.parse(raw);
+        if (ok && Date.now() < expira) {
+          document.documentElement.classList.add("sesion-activa");
+        }
+      }
+    } catch(e) {}
+  </script>
+  <style>
+    /* Ocultar overlay inmediatamente si la sesión es válida */
+    .sesion-activa #login-overlay { display: none !important; }
+  </style>
 
   <!-- CSS compartido -->
   <link rel="stylesheet" href="/shared/css/base.css">
@@ -49,7 +63,7 @@
     <div class="topbar-izquierda">
       <button id="toggle-filtros" class="menu-toggle"><i class="fa-solid fa-magnifying-glass"></i></button>
     </div>
-    <h1>NovaCenter <span class="tag-admin">ADMIN</span></h1>
+    <h1><a href="/" style="text-decoration: none; color: inherit;">NovaCenter</a></h1>
     <button id="toggle-menu" class="menu-toggle"><i class="fas fa-bars"></i></button>
   </div>
 
@@ -80,7 +94,7 @@
 
   <!-- Sidebar (solo modo Ver Todos) -->
   <aside id="sidebar">
-    <h1>NovaCenter <span class="tag-admin">ADMIN</span></h1>
+    <h1><a href="/" style="text-decoration: none; color: inherit;">NovaCenter</a></h1>
     <nav id="menu">
       <button id="ver-todos" class="btn-sidebar">🛒 Ver Todos</button>
       <div class="borde-extra"></div>
