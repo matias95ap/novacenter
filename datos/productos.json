@@ -2898,6 +2898,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CACOFM",
+        "DETALLE": "CABLE COCODRILO PARA FUENTE MULTIMETRO",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "2100.0",
+            "VENTA": "8000.0",
+            "LISTA2": "8000.0",
+            "LISTA3": "6000.0",
+            "MAYOR": "2100.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "8669885013356",
         "DETALLE": "CABLE HDMI 1.5 MTS",
         "FAMILIA": "CABLES Y ADAPTADORES > CABLES DE AUDIO Y VIDEO",
@@ -3258,6 +3276,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CATEPUF",
+        "DETALLE": "CABLE TESTER PUNTA ULTRA FINA",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "3999.0",
+            "VENTA": "15000.0",
+            "LISTA2": "15000.0",
+            "LISTA3": "8000.0",
+            "MAYOR": "8000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "888462698429",
         "DETALLE": "CABLE TIPO C A TIPO C SAMSUNG",
         "FAMILIA": "CARGADORES Y CABLES USB > CABLES USB",
@@ -3415,7 +3451,7 @@
             "MAYOR": "92.0"
         },
         "IVA": "21",
-        "STOCK": "524.0",
+        "STOCK": "522.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -3595,7 +3631,7 @@
             "MAYOR": "689.0"
         },
         "IVA": "21",
-        "STOCK": "178.0",
+        "STOCK": "174.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -4243,7 +4279,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "19.0",
+        "STOCK": "16.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5503,7 +5539,7 @@
             "MAYOR": "3225.8"
         },
         "IVA": "21",
-        "STOCK": "-14.5",
+        "STOCK": "-1.63999998569489",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5594,6 +5630,42 @@
         },
         "IVA": "21",
         "STOCK": "2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "DEPHK12",
+        "DETALLE": "DESTORNILLADOR KAISI 1.2 PHILIPS",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "999.0",
+            "VENTA": "4000.0",
+            "LISTA2": "4000.0",
+            "LISTA3": "3000.0",
+            "MAYOR": "3000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "DEPHK20",
+        "DETALLE": "DESTORNILLADOR KAISI 2.0 PHILIPS",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "nan",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "999.0",
+            "VENTA": "4000.0",
+            "LISTA2": "4000.0",
+            "LISTA3": "3000.0",
+            "MAYOR": "3000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5791,7 +5863,61 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "-2.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "ESABKA",
+        "DETALLE": "ESPATULA DOBLE ABRIDORA KAISI",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "1300.0",
+            "VENTA": "4000.0",
+            "LISTA2": "4000.0",
+            "LISTA3": "3000.0",
+            "MAYOR": "1300.0"
+        },
+        "IVA": "21",
+        "STOCK": "10.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "ESDOKA",
+        "DETALLE": "ESPATULA DOBLE DORADA KAISI",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "3900.0",
+            "VENTA": "10000.0",
+            "LISTA2": "10000.0",
+            "LISTA3": "7500.0",
+            "MAYOR": "3900.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "ES6PKA",
+        "DETALLE": "ESPATULA ESTRELLA KAISI 6 PUNTAS",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "2300.0",
+            "VENTA": "5000.0",
+            "LISTA2": "5000.0",
+            "LISTA3": "4000.0",
+            "MAYOR": "2300.0"
+        },
+        "IVA": "21",
+        "STOCK": "3.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5845,7 +5971,7 @@
             "MAYOR": "13609.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7465,7 +7591,7 @@
             "MAYOR": "6350.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7537,7 +7663,7 @@
             "MAYOR": "3400.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8563,7 +8689,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8599,7 +8725,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1.0",
+        "STOCK": "0.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8689,7 +8815,7 @@
             "MAYOR": "13008.0"
         },
         "IVA": "21",
-        "STOCK": "13.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8779,7 +8905,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "6.0",
+        "STOCK": "5.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8815,7 +8941,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8923,7 +9049,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "0.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8941,7 +9067,7 @@
             "MAYOR": "24648.8"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8995,7 +9121,7 @@
             "MAYOR": "23181.6"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "2.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9481,7 +9607,7 @@
             "MAYOR": "11435.0"
         },
         "IVA": "21",
-        "STOCK": "11.0",
+        "STOCK": "10.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9553,7 +9679,7 @@
             "MAYOR": "11276.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9751,7 +9877,7 @@
             "MAYOR": "12330.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9841,7 +9967,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "10.0",
+        "STOCK": "9.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9931,7 +10057,7 @@
             "MAYOR": "11333.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10021,7 +10147,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10165,7 +10291,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "8.0",
+        "STOCK": "7.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10201,7 +10327,7 @@
             "MAYOR": "12995.0"
         },
         "IVA": "21",
-        "STOCK": "5.0",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10273,7 +10399,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "9.0",
+        "STOCK": "8.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10417,7 +10543,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10597,7 +10723,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "2.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12271,7 +12397,7 @@
             "MAYOR": "6932.0"
         },
         "IVA": "21",
-        "STOCK": "3.0",
+        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -14364,6 +14490,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "PULANT",
+        "DETALLE": "PULSERA ANTIESTATICA",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "2900.0",
+            "VENTA": "8000.0",
+            "LISTA2": "8000.0",
+            "LISTA3": "7500.0",
+            "MAYOR": "2900.0"
+        },
+        "IVA": "21",
+        "STOCK": "5.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "7799135017122",
         "DETALLE": "PUNTA CURVA DE CAUTIN CERAMICA YAXUN",
         "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
@@ -14996,54 +15140,18 @@
     {
         "CODIGO": "763571815083",
         "DETALLE": "SET DESTORNILLADOR 115 EN 1",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
         "PROVEEDOR": "LOS CHINOS LOCOS",
         "MARCA": "nan",
         "P": {
             "COSTO": "5344.0",
             "VENTA": "18000.0",
             "LISTA2": "18000.0",
-            "LISTA3": "9500.0",
+            "LISTA3": "12000.0",
             "MAYOR": "5344.0"
         },
         "IVA": "21",
         "STOCK": "5.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "8214729653849",
-        "DETALLE": "SET DESTORNILLADORES 24 PCS",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "LOS CHINOS LOCOS",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "2328.0",
-            "VENTA": "9000.0",
-            "LISTA2": "9000.0",
-            "LISTA3": "4000.0",
-            "MAYOR": "2328.0"
-        },
-        "IVA": "21",
-        "STOCK": "0.0",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "HOSET8436",
-        "DETALLE": "SET TUBO DESTORNILLADOR 41 PCS",
-        "FAMILIA": "HOGAR - NEGOCIO - LOCAL > HERRAMIENTAS",
-        "PROVEEDOR": "PROVEEDOR",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "4500.0",
-            "VENTA": "10000.0",
-            "LISTA2": "0.0",
-            "LISTA3": "0.0",
-            "MAYOR": "0.0"
-        },
-        "IVA": "21",
-        "STOCK": "1.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15098,6 +15206,24 @@
         },
         "IVA": "21",
         "STOCK": "0.0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "SOPLAKAI",
+        "DETALLE": "SOPLADOR DE AIRE KAISI",
+        "FAMILIA": "CELULAR Y COMPUTACION > HERRAMIENTAS E INSUMOS",
+        "PROVEEDOR": "PROVEEDOR",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "4399.0",
+            "VENTA": "12000.0",
+            "LISTA2": "12000.0",
+            "LISTA3": "8500.0",
+            "MAYOR": "4399.0"
+        },
+        "IVA": "21",
+        "STOCK": "4.0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
