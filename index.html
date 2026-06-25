@@ -21,10 +21,14 @@
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="preconnect" href="https://connect.facebook.net">
   <script src="/analytics.js" defer></script>
+  <link rel="stylesheet" href="/shared/css/splash.css">
   <link rel="stylesheet" href="style.css"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 </head>
 <body>
+  <div id="splash-screen">
+    <img src="/logo.png" alt="NovaCenter">
+  </div>
   <div class="container">
     <a href="/">
       <img src="images/perfil.jpg" alt="Logo NovaCenter" class="logo"/>
@@ -60,6 +64,7 @@
   </div>
 
   <!-- Registro PWA -->
+  <script src="/shared/splash.js"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () => {

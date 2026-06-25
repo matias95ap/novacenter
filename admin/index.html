@@ -16,6 +16,7 @@
   <meta name="apple-mobile-web-app-title" content="NC Admin">
 
   <!-- CSS compartido -->
+  <link rel="stylesheet" href="/shared/css/splash.css">
   <link rel="stylesheet" href="/shared/css/base.css">
   <link rel="stylesheet" href="/shared/css/sidebar.css">
   <link rel="stylesheet" href="/shared/css/topbar.css">
@@ -26,7 +27,9 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-
+  <div id="splash-screen">
+    <img src="/logo.png" alt="NovaCenter">
+  </div>
   <!-- Login -->
   <div id="login-overlay">
     <div id="login-box">
@@ -95,6 +98,7 @@
   <script src="js/login.js"></script>
 
   <!-- Compartidos globales -->
+  <script src="/shared/splash.js"></script>
   <script src="/shared/config-global.js"></script>
   <script src="/shared/excluidos.js"></script>
   <script src="/shared/capitalizar.js"></script>
