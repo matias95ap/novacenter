@@ -1,11 +1,4 @@
 #splash-screen {
-    position: fixed;
-    inset: 0;
-    background: radial-gradient(circle, #ffffff 40%, #29bbe4 90%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 999999;
     transition: opacity .6s ease, visibility .6s ease;
 }
 #splash-screen img {
