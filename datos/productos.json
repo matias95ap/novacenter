@@ -3631,7 +3631,7 @@
             "MAYOR": "689.0"
         },
         "IVA": "21",
-        "STOCK": "174",
+        "STOCK": "170",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5341,7 +5341,7 @@
             "MAYOR": "2359.0"
         },
         "IVA": "21",
-        "STOCK": "46",
+        "STOCK": "45",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5791,7 +5791,7 @@
             "MAYOR": "20777.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -5863,7 +5863,7 @@
             "MAYOR": "1000.0"
         },
         "IVA": "21",
-        "STOCK": "-2",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -7303,7 +7303,7 @@
             "MAYOR": "8700.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8401,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "15",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8419,7 +8419,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8473,7 +8473,7 @@
             "MAYOR": "20686.6"
         },
         "IVA": "21",
-        "STOCK": "12",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8545,7 +8545,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8653,7 +8653,7 @@
             "MAYOR": "23140.7"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8779,7 +8779,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8815,7 +8815,7 @@
             "MAYOR": "13008.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8905,7 +8905,7 @@
             "MAYOR": "23327.8"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9085,7 +9085,7 @@
             "MAYOR": "28000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9540,6 +9540,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODNUBNEO",
+        "DETALLE": "MOD NUBIA NEO 2 5G/ FOCUS PRO 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "18182.0",
+            "VENTA": "60000.0",
+            "LISTA2": "60000.0",
+            "LISTA3": "32000.0",
+            "MAYOR": "18182.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODREANT50",
         "DETALLE": "MOD REALME NOTE 50/ C51/ C53",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -9625,7 +9643,7 @@
             "MAYOR": "11173.0"
         },
         "IVA": "21",
-        "STOCK": "19",
+        "STOCK": "17",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9661,7 +9679,7 @@
             "MAYOR": "11091.0"
         },
         "IVA": "21",
-        "STOCK": "33",
+        "STOCK": "30",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9679,7 +9697,7 @@
             "MAYOR": "15103.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9751,7 +9769,7 @@
             "MAYOR": "19560.0"
         },
         "IVA": "21",
-        "STOCK": "18",
+        "STOCK": "17",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9823,7 +9841,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9859,7 +9877,7 @@
             "MAYOR": "20503.2"
         },
         "IVA": "21",
-        "STOCK": "12",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9895,7 +9913,7 @@
             "MAYOR": "12330.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10075,7 +10093,7 @@
             "MAYOR": "11787.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10129,7 +10147,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10219,7 +10237,7 @@
             "MAYOR": "30000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10345,7 +10363,7 @@
             "MAYOR": "12995.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10417,7 +10435,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10561,7 +10579,7 @@
             "MAYOR": "29763.3"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11047,7 +11065,7 @@
             "MAYOR": "15844.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11173,7 +11191,7 @@
             "MAYOR": "25000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11335,7 +11353,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11353,7 +11371,7 @@
             "MAYOR": "26000.0"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11570,6 +11588,24 @@
         },
         "IVA": "21",
         "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODNUBNEO3",
+        "DETALLE": "MOD ZTE NUBIA NEO 3 4G/ NEO 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "21488.0",
+            "VENTA": "70000.0",
+            "LISTA2": "70000.0",
+            "LISTA3": "37000.0",
+            "MAYOR": "21488.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12307,7 +12343,7 @@
             "MAYOR": "9000.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "16",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -12685,7 +12721,7 @@
             "MAYOR": "112.0"
         },
         "IVA": "21",
-        "STOCK": "70",
+        "STOCK": "68",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13189,7 +13225,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13657,7 +13693,7 @@
             "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13909,7 +13945,7 @@
             "MAYOR": "12000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -16501,7 +16537,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "482",
+        "STOCK": "480",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
