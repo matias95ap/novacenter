@@ -481,7 +481,7 @@
             "MAYOR": "5596.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -1309,7 +1309,7 @@
             "MAYOR": "711.0"
         },
         "IVA": "21",
-        "STOCK": "188",
+        "STOCK": "187",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2214,6 +2214,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "BATR13C",
+        "DETALLE": "BATERIA REDMI BN5Q 13C 4G/ 5G/ C65/ POCO M6 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "6906.0",
+            "VENTA": "30000.0",
+            "LISTA2": "30000.0",
+            "LISTA3": "18000.0",
+            "MAYOR": "6906.0"
+        },
+        "IVA": "21",
+        "STOCK": "10",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "BATSAMA01",
         "DETALLE": "BATERIA SAMS A01",
         "FAMILIA": "CELULAR Y COMPUTACION > BATERIAS",
@@ -2425,7 +2443,7 @@
             "MAYOR": "18000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -2924,8 +2942,8 @@
         "P": {
             "COSTO": "1230.0",
             "VENTA": "5000.0",
-            "LISTA2": "1230.0",
-            "LISTA3": "1230.0",
+            "LISTA2": "5000.0",
+            "LISTA3": "2500.0",
             "MAYOR": "1230.0"
         },
         "IVA": "21",
@@ -2960,8 +2978,8 @@
         "P": {
             "COSTO": "2500.0",
             "VENTA": "7000.0",
-            "LISTA2": "2500.0",
-            "LISTA3": "2500.0",
+            "LISTA2": "7000.0",
+            "LISTA3": "3500.0",
             "MAYOR": "2500.0"
         },
         "IVA": "21",
@@ -3631,7 +3649,7 @@
             "MAYOR": "689.0"
         },
         "IVA": "21",
-        "STOCK": "170",
+        "STOCK": "165",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6169,7 +6187,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6187,7 +6205,7 @@
             "MAYOR": "8000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -6907,7 +6925,7 @@
             "MAYOR": "3169.0"
         },
         "IVA": "21",
-        "STOCK": "30",
+        "STOCK": "29",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8280,20 +8298,38 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODLGK61P",
+        "DETALLE": "MOD LG K61 PREMIUM",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "14645.0",
+            "VENTA": "50000.0",
+            "LISTA2": "50000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "14645.0"
+        },
+        "IVA": "21",
+        "STOCK": "6",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOTG42IN",
         "DETALLE": "MOD MOT G42 C.MARCO INCELL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "17062.0",
+            "COSTO": "17443.0",
             "VENTA": "60000.0",
             "LISTA2": "60000.0",
             "LISTA3": "30000.0",
-            "MAYOR": "17062.0"
+            "MAYOR": "17443.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8401,7 +8437,7 @@
             "MAYOR": "23000.0"
         },
         "IVA": "21",
-        "STOCK": "14",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8409,17 +8445,17 @@
         "CODIGO": "MODMOTE20",
         "DETALLE": "MOD MOTO E20",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "TODOCELU",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12295.0",
+            "COSTO": "12300.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "21000.0",
-            "MAYOR": "21000.0"
+            "MAYOR": "21008.4"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "13",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8473,7 +8509,7 @@
             "MAYOR": "20686.6"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8509,7 +8545,7 @@
             "MAYOR": "22605.9"
         },
         "IVA": "21",
-        "STOCK": "10",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8545,7 +8581,7 @@
             "MAYOR": "22000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8725,7 +8761,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8776,10 +8812,28 @@
             "VENTA": "40000.0",
             "LISTA2": "40000.0",
             "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "MAYOR": "21043.4"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "2",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODME7IPR",
+        "DETALLE": "MOD MOTO E7/E7 POWER/E7I/E7I POWER PREMIUM",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "12949.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
+            "MAYOR": "12949.0"
+        },
+        "IVA": "21",
+        "STOCK": "12",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8808,14 +8862,32 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "13008.0",
+            "COSTO": "12800.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "23000.0",
-            "MAYOR": "13008.0"
+            "LISTA3": "22000.0",
+            "MAYOR": "12800.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "1",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODMG04PR",
+        "DETALLE": "MOD MOTO G04/G04S/E14/G24/G24 POWER PREMIUM",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "14676.0",
+            "VENTA": "50000.0",
+            "LISTA2": "14676.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "14676.0"
+        },
+        "IVA": "21",
+        "STOCK": "14",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -8905,25 +8977,25 @@
             "MAYOR": "23327.8"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MODMOTG14",
-        "DETALLE": "MOD MOTO G14/G54 5G/G55/G64",
+        "DETALLE": "MOD MOTO G14/G54 5G/G55/G64 PREMIUM",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "MOTOROLA",
         "P": {
-            "COSTO": "13904.0",
+            "COSTO": "14367.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24149.9"
+            "LISTA3": "25000.0",
+            "MAYOR": "24954.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9006,14 +9078,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
-            "COSTO": "15958.0",
-            "VENTA": "55000.0",
-            "LISTA2": "55000.0",
+            "COSTO": "16635.0",
+            "VENTA": "58000.0",
+            "LISTA2": "58000.0",
             "LISTA3": "30000.0",
-            "MAYOR": "15958.0"
+            "MAYOR": "16635.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9036,6 +9108,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODMG32CM",
+        "DETALLE": "MOD MOTO G32 C.MARCO PREMIUM CON COMPONENTES",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "20349.0",
+            "VENTA": "68000.0",
+            "LISTA2": "20349.0",
+            "LISTA3": "35000.0",
+            "MAYOR": "20349.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODMOT3214",
         "DETALLE": "MOD MOTO G32/ G14/ G54/ G55/ G64/ G73 UNIVERSAL",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -9045,7 +9135,7 @@
             "COSTO": "14342.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
-            "LISTA3": "25000.0",
+            "LISTA3": "26000.0",
             "MAYOR": "25000.0"
         },
         "IVA": "21",
@@ -9121,7 +9211,7 @@
             "MAYOR": "24379.4"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9330,14 +9420,14 @@
         "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "nan",
         "P": {
-            "COSTO": "10790.0",
-            "VENTA": "40000.0",
-            "LISTA2": "40000.0",
-            "LISTA3": "20000.0",
-            "MAYOR": "20000.0"
+            "COSTO": "12826.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "22000.0",
+            "MAYOR": "23774.3"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9522,42 +9612,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "MODNUBIAFM",
-        "DETALLE": "MOD NUBIA FOCUS 2 5G/ MUSIC 2/ V70/ AXON A70",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "MARTIN CVT",
-        "MARCA": "CVT",
-        "P": {
-            "COSTO": "13796.0",
-            "VENTA": "48000.0",
-            "LISTA2": "48000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24000.0"
-        },
-        "IVA": "21",
-        "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
-        "CODIGO": "MODNUBNEO",
-        "DETALLE": "MOD NUBIA NEO 2 5G/ FOCUS PRO 5G",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "MARTIN CVT",
-        "MARCA": "nan",
-        "P": {
-            "COSTO": "18182.0",
-            "VENTA": "60000.0",
-            "LISTA2": "60000.0",
-            "LISTA3": "32000.0",
-            "MAYOR": "18182.0"
-        },
-        "IVA": "21",
-        "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "MODREANT50",
         "DETALLE": "MOD REALME NOTE 50/ C51/ C53",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -9679,7 +9733,7 @@
             "MAYOR": "11091.0"
         },
         "IVA": "21",
-        "STOCK": "30",
+        "STOCK": "25",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9697,7 +9751,7 @@
             "MAYOR": "15103.0"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "2",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9715,7 +9769,7 @@
             "MAYOR": "11276.0"
         },
         "IVA": "21",
-        "STOCK": "9",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9726,14 +9780,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
-            "COSTO": "13700.0",
+            "COSTO": "13825.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24000.0"
+            "LISTA3": "25000.0",
+            "MAYOR": "24218.6"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9769,7 +9823,7 @@
             "MAYOR": "19560.0"
         },
         "IVA": "21",
-        "STOCK": "17",
+        "STOCK": "15",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9906,14 +9960,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12330.0",
+            "COSTO": "12594.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
-            "MAYOR": "12330.0"
+            "MAYOR": "12594.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9967,7 +10021,7 @@
             "MAYOR": "11016.0"
         },
         "IVA": "21",
-        "STOCK": "13",
+        "STOCK": "11",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -9975,17 +10029,17 @@
         "CODIGO": "MODSAMA10M",
         "DETALLE": "MOD SAMS A10 C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "RICARDO MECANICO",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "12408.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "24000.0"
+            "COSTO": "13694.0",
+            "VENTA": "48000.0",
+            "LISTA2": "48000.0",
+            "LISTA3": "25000.0",
+            "MAYOR": "26486.9"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10039,7 +10093,7 @@
             "MAYOR": "21000.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10068,14 +10122,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
-            "COSTO": "13485.0",
+            "COSTO": "14136.0",
             "VENTA": "50000.0",
             "LISTA2": "50000.0",
-            "LISTA3": "24000.0",
-            "MAYOR": "13485.0"
+            "LISTA3": "25000.0",
+            "MAYOR": "14136.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10086,14 +10140,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "11787.0",
+            "COSTO": "11998.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "21000.0",
-            "MAYOR": "11787.0"
+            "MAYOR": "11998.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10140,14 +10194,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12884.0",
+            "COSTO": "12683.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "MAYOR": "21656.2"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "8",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10165,7 +10219,7 @@
             "MAYOR": "31046.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10350,24 +10404,6 @@
         "STOCK IDEAL": "0"
     },
     {
-        "CODIGO": "MODSAMA21S",
-        "DETALLE": "MOD SAMS A21S",
-        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "RICARDO MECANICO",
-        "MARCA": "SAMSUNG",
-        "P": {
-            "COSTO": "12995.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "12995.0"
-        },
-        "IVA": "21",
-        "STOCK": "3",
-        "STOCK MIN": "0",
-        "STOCK IDEAL": "0"
-    },
-    {
         "CODIGO": "MODSAMA21SM",
         "DETALLE": "MOD SAMS A21S C.MARCO",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -10382,6 +10418,24 @@
         },
         "IVA": "21",
         "STOCK": "0",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODSAMA21S",
+        "DETALLE": "MOD SAMS A21S PREMIUM",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "RICARDO MECANICO",
+        "MARCA": "SAMSUNG",
+        "P": {
+            "COSTO": "13212.0",
+            "VENTA": "45000.0",
+            "LISTA2": "45000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "13212.0"
+        },
+        "IVA": "21",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10428,11 +10482,11 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12395.0",
+            "COSTO": "12600.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
             "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "MAYOR": "22363.7"
         },
         "IVA": "21",
         "STOCK": "7",
@@ -10543,7 +10597,7 @@
             "MAYOR": "29675.9"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10579,7 +10633,7 @@
             "MAYOR": "29763.3"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10759,7 +10813,7 @@
             "MAYOR": "20000.0"
         },
         "IVA": "21",
-        "STOCK": "1",
+        "STOCK": "0",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -10968,32 +11022,32 @@
         "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "15441.0",
+            "COSTO": "15399.0",
             "VENTA": "55000.0",
             "LISTA2": "55000.0",
             "LISTA3": "26000.0",
-            "MAYOR": "24331.9"
+            "MAYOR": "24265.7"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
     {
         "CODIGO": "MODTCL40SE",
-        "DETALLE": "MOD TCL 40SE/40E",
+        "DETALLE": "MOD TCL 40SE/40E PREMIUM",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "RICARDO MECANICO",
         "MARCA": "TCL",
         "P": {
-            "COSTO": "16090.0",
-            "VENTA": "48000.0",
-            "LISTA2": "48000.0",
-            "LISTA3": "26000.0",
-            "MAYOR": "26000.0"
+            "COSTO": "16735.0",
+            "VENTA": "58000.0",
+            "LISTA2": "58000.0",
+            "LISTA3": "28000.0",
+            "MAYOR": "27042.1"
         },
         "IVA": "21",
-        "STOCK": "3",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11107,19 +11161,19 @@
     },
     {
         "CODIGO": "MODTS10C",
-        "DETALLE": "MOD TECNO SPARK 10/ 10C",
+        "DETALLE": "MOD TECNO SPARK 10/ 10C GRADO B",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
-            "COSTO": "12852.0",
-            "VENTA": "45000.0",
-            "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "COSTO": "11686.0",
+            "VENTA": "40000.0",
+            "LISTA2": "40000.0",
+            "LISTA3": "21000.0",
+            "MAYOR": "20004.1"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11155,7 +11209,7 @@
             "MAYOR": "22675.1"
         },
         "IVA": "21",
-        "STOCK": "8",
+        "STOCK": "7",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11179,19 +11233,19 @@
     },
     {
         "CODIGO": "MODTSPOP7",
-        "DETALLE": "MOD TECNO SPARK GO 2023/ 10/ 10C/ POP 7/ SMART 7",
+        "DETALLE": "MOD TECNO SPARK GO 2023/ 10/ 10C/ POP 7/ SMART 7 GRADO A",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
-        "PROVEEDOR": "ELECTRO CELULAR",
+        "PROVEEDOR": "MARTIN CVT",
         "MARCA": "TECNO SPARK",
         "P": {
-            "COSTO": "14500.0",
-            "VENTA": "50000.0",
-            "LISTA2": "50000.0",
-            "LISTA3": "25000.0",
-            "MAYOR": "25000.0"
+            "COSTO": "12800.0",
+            "VENTA": "44138.2",
+            "LISTA2": "44138.2",
+            "LISTA3": "24000.0",
+            "MAYOR": "22068.5"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11209,7 +11263,7 @@
             "MAYOR": "21019.2"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11220,14 +11274,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "nan",
         "P": {
-            "COSTO": "15265.0",
+            "COSTO": "16002.0",
             "VENTA": "55000.0",
             "LISTA2": "55000.0",
             "LISTA3": "28000.0",
-            "MAYOR": "15265.0"
+            "MAYOR": "16002.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "10",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11346,14 +11400,14 @@
         "PROVEEDOR": "MARTIN CVT",
         "MARCA": "CVT",
         "P": {
-            "COSTO": "12550.0",
+            "COSTO": "11880.0",
             "VENTA": "45000.0",
             "LISTA2": "45000.0",
-            "LISTA3": "22000.0",
-            "MAYOR": "22000.0"
+            "LISTA3": "21000.0",
+            "MAYOR": "20825.6"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "9",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11425,7 +11479,7 @@
             "MAYOR": "20010.3"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -11556,8 +11610,26 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODZTEA53PL",
+        "DETALLE": "MOD ZTE BLADE A53/ A53 PLUS",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "13412.0",
+            "VENTA": "48000.0",
+            "LISTA2": "48000.0",
+            "LISTA3": "23000.0",
+            "MAYOR": "13412.0"
+        },
+        "IVA": "21",
+        "STOCK": "5",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODZTEA72S",
-        "DETALLE": "MOD ZTE BLADE A72S/ V40 SMART",
+        "DETALLE": "MOD ZTE BLADE A72 4G/ A72S/ V40 SMART/ V40 VITA/ V41 SMART",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
         "PROVEEDOR": "CELU REPUESTOS",
         "MARCA": "ZTE",
@@ -11565,7 +11637,7 @@
             "COSTO": "20600.0",
             "VENTA": "68000.0",
             "LISTA2": "68000.0",
-            "LISTA3": "32960.0",
+            "LISTA3": "33000.0",
             "MAYOR": "32960.0"
         },
         "IVA": "21",
@@ -11592,6 +11664,60 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "MODZTEV40",
+        "DETALLE": "MOD ZTE BLADE V40 DESING/ V50 DESING 5G/ AXON 40 LITE/ V41 LITE/ V41 VITA/ NUBIA NEO 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "16958.0",
+            "VENTA": "60000.0",
+            "LISTA2": "60000.0",
+            "LISTA3": "29000.0",
+            "MAYOR": "16958.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODNUBIAFM",
+        "DETALLE": "MOD ZTE NUBIA FOCUS 2 5G/ MUSIC 2/ V70/ AXON A70",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "13796.0",
+            "VENTA": "48000.0",
+            "LISTA2": "48000.0",
+            "LISTA3": "24000.0",
+            "MAYOR": "24000.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODNUBNEO",
+        "DETALLE": "MOD ZTE NUBIA NEO 2 5G/ FOCUS PRO 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "18182.0",
+            "VENTA": "60000.0",
+            "LISTA2": "60000.0",
+            "LISTA3": "32000.0",
+            "MAYOR": "18182.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "MODNUBNEO3",
         "DETALLE": "MOD ZTE NUBIA NEO 3 4G/ NEO 5G",
         "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
@@ -11606,6 +11732,24 @@
         },
         "IVA": "21",
         "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
+        "CODIGO": "MODNNEO5G",
+        "DETALLE": "MOD ZTE NUBIA NEO 5G",
+        "FAMILIA": "CELULAR Y COMPUTACION > MODULOS DISPLAY",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "nan",
+        "P": {
+            "COSTO": "20041.0",
+            "VENTA": "68000.0",
+            "LISTA2": "68000.0",
+            "LISTA3": "35000.0",
+            "MAYOR": "20041.0"
+        },
+        "IVA": "21",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13374,6 +13518,24 @@
         "STOCK IDEAL": "0"
     },
     {
+        "CODIGO": "CARGAG14",
+        "DETALLE": "PLACA DE CARGA MOTO G14",
+        "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
+        "PROVEEDOR": "MARTIN CVT",
+        "MARCA": "CVT",
+        "P": {
+            "COSTO": "2975.0",
+            "VENTA": "24000.0",
+            "LISTA2": "24000.0",
+            "LISTA3": "12000.0",
+            "MAYOR": "2975.0"
+        },
+        "IVA": "21",
+        "STOCK": "3",
+        "STOCK MIN": "0",
+        "STOCK IDEAL": "0"
+    },
+    {
         "CODIGO": "CARGAG20",
         "DETALLE": "PLACA DE CARGA MOTO G20",
         "FAMILIA": "CELULAR Y COMPUTACION > PLACA DE CARGA",
@@ -13711,7 +13873,7 @@
             "MAYOR": "10000.0"
         },
         "IVA": "21",
-        "STOCK": "2",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -13776,14 +13938,14 @@
         "PROVEEDOR": "IMPORTCELL",
         "MARCA": "SAMSUNG",
         "P": {
-            "COSTO": "2000.0",
+            "COSTO": "3931.0",
             "VENTA": "24000.0",
             "LISTA2": "24000.0",
-            "LISTA3": "10000.0",
-            "MAYOR": "10000.0"
+            "LISTA3": "13000.0",
+            "MAYOR": "19655.0"
         },
         "IVA": "21",
-        "STOCK": "0",
+        "STOCK": "3",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15205,7 +15367,7 @@
             "MAYOR": "5344.0"
         },
         "IVA": "21",
-        "STOCK": "5",
+        "STOCK": "4",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15511,7 +15673,7 @@
             "MAYOR": "2435.0"
         },
         "IVA": "21",
-        "STOCK": "11",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15547,7 +15709,7 @@
             "MAYOR": "3017.0"
         },
         "IVA": "21",
-        "STOCK": "4",
+        "STOCK": "1",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -15979,7 +16141,7 @@
             "MAYOR": "4126.0"
         },
         "IVA": "21",
-        "STOCK": "6",
+        "STOCK": "5",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -16249,7 +16411,7 @@
             "MAYOR": "4800.0"
         },
         "IVA": "21",
-        "STOCK": "7",
+        "STOCK": "6",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
@@ -16537,7 +16699,7 @@
             "MAYOR": "500.0"
         },
         "IVA": "21",
-        "STOCK": "480",
+        "STOCK": "476",
         "STOCK MIN": "0",
         "STOCK IDEAL": "0"
     },
